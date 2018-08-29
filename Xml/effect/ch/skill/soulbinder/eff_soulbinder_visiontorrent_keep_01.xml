@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <effect type="nif" filePath="" startDelay="0.0" loop="true" lodSkipLevel="0" duration="1.0" bipedLoop="true">
+    <attachInfo attachToNode="true" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 65.0, 50.0" rotation="0.0, 0.0, 0.0" scale="1.2" />
+    <update translate="true" rotation="false" scale="true" />
+    <lerp type="bird" Step="3.0" MaxLength="150" Velocity="350" />
+  </effect>
+
+</ms2>

@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <Bore_A id="0">
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.3333" />
+  </Bore_A>
+  <Damg_A>
+    <key text="emo_damg" time="0.0000" />
+  </Damg_A>
+  <Damg_B>
+    <key text="emo_damg" time="0.0000" />
+  </Damg_B>
+  <Dead_A id="2">
+    <key text="emo_dead" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="5.0000" />
+  </Dead_A>
+  <Dead_B id="27">
+    <key text="emo_deadB" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="7.0000" />
+  </Dead_B>
+  <Dead_Idle_A>
+    <key text="emo_dead" time="0.0000" />
+  </Dead_Idle_A>
+  <Regen_A id="7">
+    <key text="emo_regen" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.6667" />
+  </Regen_A>
+  <Idle_A id="1">
+    <key text="emo_idle" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.6667" />
+  </Idle_A>
+  <Walk_A id="10">
+    <key text="emo_walk" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.8667" />
+  </Walk_A>
+  <Run_A id="8">
+    <key text="emo_run" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.5333" />
+  </Run_A>
+  <Stun_A id="9">
+    <key text="emo_stun" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="9.4667" />
+  </Stun_A>
+  <Attack_Idle_A id="26">
+    <key text="emo_skill" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="3.3333" />
+  </Attack_Idle_A>
+  <Attack_01_A id="11">
+    <key text="p0" time="0.1667" />
+    <key text="p1" time="0.4334" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.0667" />
+  </Attack_01_A>
+  <Attack_01_B id="12">
+    <key text="p0" time="0.3000" />
+    <key text="p1" time="0.6500" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.0667" />
+  </Attack_01_B>
+  <Attack_01_C id="13">
+    <key text="p0" time="0.2790" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.3000" />
+  </Attack_01_C>
+  <Attack_01_D id="14">
+    <key text="p0" time="1.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.8333" />
+  </Attack_01_D>
+  <Attack_02_D id="21">
+    <key text="p0" time="0.1667" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.8333" />
+  </Attack_02_D>
+  <Attack_03_D id="24">
+    <key text="p0" time="0.1667" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.8333" />
+  </Attack_03_D>
+  <Attack_01_E id="15">
+    <key text="p0" time="1.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="3.6667" />
+  </Attack_01_E>
+  <Attack_01_F id="16">
+    <key text="p0" time="1.5000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.5000" />
+  </Attack_01_F>
+  <Attack_01_G id="17">
+    <key text="p0" time="0.2300" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.6000" />
+  </Attack_01_G>
+  <Attack_02_G id="22">
+    <key text="p0" time="0.2300" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.0667" />
+  </Attack_02_G>
+  <Attack_01_H id="18">
+    <key text="p0" time="2.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="3.6667" />
+  </Attack_01_H>
+  <Attack_01_I id="19">
+    <key text="p0" time="1.5000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="3.7333" />
+  </Attack_01_I>
+  <Attack_01_J id="20">
+    <key text="emo_skill" time="0.1000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.5000" />
+  </Attack_01_J>
+  <Attack_02_J id="23">
+    <key text="emo_skill" time="1.5000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.9333" />
+  </Attack_02_J>
+  <Attack_03_J id="25">
+    <key text="p0" time="1.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="3.4000" />
+  </Attack_03_J>
+  <Jump_Down_A id="3">
+    <key text="emo_skill" time="0.0000" />
+    <key text="p0" time="0.3130" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.1667" />
+  </Jump_Down_A>
+  <Jump_A>
+    <key text="emo_skill" time="0.0000" />
+    <key text="loopstart" time="0.0200" />
+    <key text="loopend" time="0.6470" />
+    <key text="p0" time="0.3000" />
+    <key text="p99" time="0.5000" />
+  </Jump_A>
+  <Jump_Land_A id="4">
+    <key text="emo_skill" time="0.0000" />
+    <key text="p0" time="0.4000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.3333" />
+  </Jump_Land_A>
+  <Jump_Ready_A id="5">
+    <key text="emo_skill" time="0.0000" />
+    <key text="p0" time="4.4000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.8000" />
+  </Jump_Ready_A>
+  <Jump_Up_A id="6">
+    <key text="emo_skill" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.4667" />
+  </Jump_Up_A>
+  <Jump_Up_DOWN_A>
+    <key text="emo_skill" time="0.0000" />
+  </Jump_Up_DOWN_A>
+</ms2>

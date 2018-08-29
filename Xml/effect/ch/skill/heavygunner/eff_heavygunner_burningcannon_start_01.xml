@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <effect type="chaoslight" layer="1" startDelay="0.0" duration="1.0">
+    <transition duration="0.1" fresnelBoost="7.50" fresnelExponent="10.0" dimmer="0.6" rgb="0.7, 0.7, 0.7" />
+    <transition duration="0.3" fresnelBoost="10.50" fresnelExponent="1.0" dimmer="0.1" rgb="0.8, 0.01, 0.01" />
+    <transition duration="0.5" fresnelBoost="10.50" fresnelExponent="3.0" dimmer="0.1" rgb="0.8, 0.01, 0.01" />
+    <transition duration="0.01" fresnelBoost="7.50" fresnelExponent="10.0" dimmer="0.6" rgb="0.7, 0.7, 0.7" />
+  </effect>
+  <effect type="nif" filePath="CH/Skill/HeavyGunner/Eff_HeavyGunner_BoobyTrap_Invoke_01_a.nif" startDelay="0.1" duration="1.5">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 50.0" rotation="0.0, 0.0, 0.0" scale="0.5" />
+  </effect>
+  <effect type="nif" filePath="CH/Skill/HeavyGunner/Eff_HeavyGunner_BurningCannon_Start_01_b.nif" startDelay="0.0" duration="1.5">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="0.6" />
+  </effect>
+</ms2>

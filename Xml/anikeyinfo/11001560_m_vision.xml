@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <Idle_A id="4">
+    <key text="emo_Idle" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.0000" />
+  </Idle_A>
+  <Run_A id="5">
+    <key text="emo_Run" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="0.7333" />
+  </Run_A>
+  <Talk_A id="6">
+    <key text="emo_Talk" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="4.6667" />
+  </Talk_A>
+  <Walk_A id="7">
+    <key text="emo_Walk" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.2000" />
+  </Walk_A>
+  <Bore_A id="2">
+    <key text="emo_Bore_A" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="8.0000" />
+  </Bore_A>
+  <Bore_B id="3">
+    <key text="emo_Bore_B" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.5333" />
+  </Bore_B>
+  <Attack_01_A id="0">
+    <key text="emo_Attack_01" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.2000" />
+  </Attack_01_A>
+  <Attack_Idle_A id="1">
+    <key text="emo_Attack_Idle" time="0.0000" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="1.0000" />
+  </Attack_Idle_A>
+  <Soulbinder_FlashStrike_B id="8">
+    <key text="e0" time="0.0100" />
+    <key text="e1" time="1.1100" />
+    <key text="loopstart" time="1.1100" />
+    <key text="loopend" time="1.6666" />
+    <key text="move0" time="1.1100" />
+    <key text="move1" time="1.6600" />
+    <key text="start" time="0.0000" />
+    <key text="end" time="2.3333" />
+  </Soulbinder_FlashStrike_B>
+</ms2>
