@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<v rewardID="1003" mesoTableID="2" mesoFactor="1" />
+	<v rewardID="1004" mesoTableID="3" mesoFactor="1" />
+	<v rewardID="1005" itemTableID="3" />
+	<v rewardID="1006" itemTableID="4" />
+	<v rewardID="1007" itemTableID="5" />
+	<v rewardID="1009" itemTableID="6" />
+	<v rewardID="1010" itemTableID="7" />
+	<v rewardID="1011" itemTableID="6" />
+	<v rewardID="1012" itemTableID="8" />
+	<v rewardID="1013" itemTableID="9" />
+	<v rewardID="1014" itemTableID="10" />
+	<v rewardID="1015" itemTableID="9" />
+	<v rewardID="1016" itemTableID="11" />
+	<v rewardID="1017" itemTableID="12" />
+	<v rewardID="1018" itemTableID="15" />
+	<v rewardID="1019" itemTableID="16" />
+	<v rewardID="1008" itemTableID="17" expTableID="1" expFactor="1.5" />
+	<v rewardID="1008" itemTableID="17" expTableID="3" expFactor="1.2" locale="NA" />
+	<v rewardID="10000001" mesoTableID="4" mesoFactor="49.275" itemTableID="20" expTableID="6" expFactor="32" locale="KR" />
+	<v rewardID="10000002" mesoTableID="4" mesoFactor="49.275" itemTableID="21" expTableID="6" expFactor="63" locale="KR" />
+	<v rewardID="10000003" mesoTableID="4" mesoFactor="49.275" itemTableID="22" expTableID="6" expFactor="63" locale="KR" />
+	<v rewardID="10000004" mesoTableID="4" mesoFactor="49.275" itemTableID="23" expTableID="6" expFactor="157" locale="KR" />
+	<v rewardID="10000005" mesoTableID="4" mesoFactor="65.7" itemTableID="24" expTableID="6" expFactor="157" locale="KR" />
+	<v rewardID="10000006" mesoTableID="4" mesoFactor="65.7" itemTableID="25" expTableID="6" expFactor="157" locale="KR" />
+	<v rewardID="10000007" mesoTableID="4" mesoFactor="98.55" itemTableID="26" expTableID="6" expFactor="157" locale="KR" />
+	<v rewardID="10000008" mesoTableID="4" mesoFactor="98.55" itemTableID="27" expTableID="6" expFactor="157" locale="KR" />
+	<v rewardID="10000001" mesoTableID="4" mesoFactor="31.875" itemTableID="20" expTableID="6" expFactor="32" locale="CN" />
+	<v rewardID="10000002" mesoTableID="4" mesoFactor="31.875" itemTableID="21" expTableID="6" expFactor="63" locale="CN" />
+	<v rewardID="10000003" mesoTableID="4" mesoFactor="31.875" itemTableID="22" expTableID="6" expFactor="63" locale="CN" />
+	<v rewardID="10000004" mesoTableID="4" mesoFactor="31.875" itemTableID="23" expTableID="6" expFactor="157" locale="CN" />
+	<v rewardID="10000005" mesoTableID="4" mesoFactor="42.5" itemTableID="24" expTableID="6" expFactor="157" locale="CN" />
+	<v rewardID="10000006" mesoTableID="4" mesoFactor="42.5" itemTableID="25" expTableID="6" expFactor="157" locale="CN" />
+	<v rewardID="10000007" mesoTableID="4" mesoFactor="63.75" itemTableID="26" expTableID="6" expFactor="157" locale="CN" />
+	<v rewardID="10000008" mesoTableID="4" mesoFactor="63.75" itemTableID="27" expTableID="6" expFactor="157" locale="CN" />
+	<v rewardID="10000001" mesoTableID="4" mesoFactor="31.875" itemTableID="20" expTableID="5" expFactor="1" locale="NA" />
+	<v rewardID="10000002" mesoTableID="4" mesoFactor="31.875" itemTableID="21" expTableID="5" expFactor="2" locale="NA" />
+	<v rewardID="10000003" mesoTableID="4" mesoFactor="31.875" itemTableID="22" expTableID="5" expFactor="2" locale="NA" />
+	<v rewardID="10000004" mesoTableID="4" mesoFactor="31.875" itemTableID="23" expTableID="5" expFactor="5" locale="NA" />
+	<v rewardID="10000005" mesoTableID="4" mesoFactor="42.5" itemTableID="24" expTableID="5" expFactor="5" locale="NA" />
+	<v rewardID="10000006" mesoTableID="4" mesoFactor="42.5" itemTableID="25" expTableID="5" expFactor="5" locale="NA" />
+	<v rewardID="10000007" mesoTableID="4" mesoFactor="63.75" itemTableID="26" expTableID="5" expFactor="5" locale="NA" />
+	<v rewardID="10000008" mesoTableID="4" mesoFactor="63.75" itemTableID="27" expTableID="5" expFactor="5" locale="NA" />
+	<v rewardID="20000001" itemTableID="28" locale="KR" />
+	<v rewardID="20000002" itemTableID="29" locale="KR" />
+	<v rewardID="20000003" itemTableID="30" locale="KR" />
+	<v rewardID="20000004" itemTableID="31" locale="KR" />
+	<v rewardID="20000005" itemTableID="32" locale="KR" />
+	<v rewardID="20000006" itemTableID="33" locale="KR" />
+	<v rewardID="20000007" itemTableID="34" locale="KR" />
+	<v rewardID="20000008" itemTableID="35" locale="KR" />
+	<v rewardID="20000009" itemTableID="36" locale="KR" />
+	<v rewardID="20000010" itemTableID="37" locale="KR" />
+	<v rewardID="20000011" itemTableID="38" locale="KR" />
+	<v rewardID="20000012" itemTableID="39" locale="KR" />
+	<v rewardID="20000013" itemTableID="40" locale="KR" />
+	<v rewardID="20000014" itemTableID="41" locale="KR" />
+	<v rewardID="20000015" itemTableID="42" locale="KR" />
+	<v rewardID="20000016" itemTableID="43" locale="KR" />
+	<v rewardID="20000017" itemTableID="44" locale="KR" />
+	<v rewardID="20000018" itemTableID="45" locale="KR" />
+	<v rewardID="20000019" itemTableID="46" locale="KR" />
+	<v rewardID="20000020" itemTableID="47" locale="KR" />
+	<v rewardID="20000021" itemTableID="48" locale="KR" />
+	<v rewardID="20000022" itemTableID="49" locale="KR" />
+	<v rewardID="20000023" itemTableID="50" locale="KR" />
+	<v rewardID="20000024" itemTableID="51" locale="KR" />
+	<v rewardID="20000025" itemTableID="52" locale="KR" />
+	<v rewardID="20000026" itemTableID="53" locale="KR" />
+	<v rewardID="20000027" itemTableID="54" locale="KR" />
+	<v rewardID="20000028" itemTableID="55" locale="KR" />
+	<v rewardID="20000029" itemTableID="56" locale="KR" />
+	<v rewardID="20000030" itemTableID="57" locale="KR" />
+	<v rewardID="21000001" itemTableID="58" locale="CN" />
+	<v rewardID="21000002" itemTableID="59" locale="CN" />
+	<v rewardID="21000003" itemTableID="60" locale="CN" />
+	<v rewardID="21000004" itemTableID="61" locale="CN" />
+	<v rewardID="21000005" itemTableID="62" locale="CN" />
+	<v rewardID="21000006" itemTableID="63" locale="CN" />
+	<v rewardID="21000007" itemTableID="64" locale="CN" />
+	<v rewardID="21000008" itemTableID="65" locale="CN" />
+	<v rewardID="21000009" itemTableID="66" locale="CN" />
+	<v rewardID="21000010" itemTableID="67" locale="CN" />
+	<v rewardID="21000011" itemTableID="68" locale="CN" />
+	<v rewardID="21000012" itemTableID="69" locale="CN" />
+	<v rewardID="21000013" itemTableID="70" locale="CN" />
+	<v rewardID="21000014" itemTableID="71" locale="CN" />
+	<v rewardID="21000015" itemTableID="72" locale="CN" />
+	<v rewardID="21000016" itemTableID="73" locale="CN" />
+	<v rewardID="21000017" itemTableID="74" locale="CN" />
+	<v rewardID="21000018" itemTableID="75" locale="CN" />
+	<v rewardID="21000019" itemTableID="76" locale="CN" />
+	<v rewardID="21000020" itemTableID="77" locale="CN" />
+	<v rewardID="21000021" itemTableID="78" locale="CN" />
+	<v rewardID="21000022" itemTableID="79" locale="CN" />
+	<v rewardID="21000023" itemTableID="80" locale="CN" />
+	<v rewardID="21000024" itemTableID="81" locale="CN" />
+	<v rewardID="21000025" itemTableID="82" locale="CN" />
+	<v rewardID="21000026" itemTableID="83" locale="CN" />
+	<v rewardID="21000027" itemTableID="84" locale="CN" />
+	<v rewardID="21000028" itemTableID="85" locale="CN" />
+	<v rewardID="21000029" itemTableID="86" locale="CN" />
+	<v rewardID="21000030" itemTableID="87" locale="CN" />
+</ms2>

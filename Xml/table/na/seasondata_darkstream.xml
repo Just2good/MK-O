@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<Season seasonID="1" seasonName="1시즌 1회차" eventStart="2018-07-18-00-00-00" eventEnd="2018-08-03-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="2" seasonName="1시즌 2회차" eventStart="2018-08-03-00-00-00" eventEnd="2018-08-17-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="3" seasonName="1시즌 3회차" eventStart="2018-08-17-00-00-00" eventEnd="2018-08-31-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="4" seasonName="1시즌 4회차" eventStart="2018-08-31-00-00-00" eventEnd="2018-09-14-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="5" seasonName="2시즌 1회차" eventStart="2018-09-14-00-00-00" eventEnd="2018-09-28-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="6" seasonName="2시즌 2회차" eventStart="2018-09-28-00-00-00" eventEnd="2018-10-12-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="7" seasonName="2시즌 3회차" eventStart="2018-10-12-00-00-00" eventEnd="2018-10-26-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="8" seasonName="2시즌 4회차" eventStart="2018-10-26-00-00-00" eventEnd="2018-11-09-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="9" seasonName="3시즌 1회차" eventStart="2018-11-09-00-00-00" eventEnd="2018-11-23-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="10" seasonName="3시즌 2회차" eventStart="2018-11-23-00-00-00" eventEnd="2018-12-07-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="11" seasonName="3시즌 3회차" eventStart="2018-12-07-00-00-00" eventEnd="2018-12-21-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="12" seasonName="3시즌 4회차" eventStart="2018-12-21-00-00-00" eventEnd="2019-01-04-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+	<Season seasonID="13" seasonName="4시즌 1회차" eventStart="2019-01-04-00-00-00" eventEnd="2019-01-25-00-00-00" grade1="" grade2="" grade3="" grade4="" grade5="" grade6="" grade7="" />
+</ms2>

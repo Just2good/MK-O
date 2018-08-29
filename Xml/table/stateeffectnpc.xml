@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<StateEffect stateType="gosIdle" effect="Item/Eff_Mantle_flowers.xml">
+		<Info npcID="11000001" emotionID="11000001" />
+	</StateEffect>
+	<StateEffect stateType="gosPcSkill" effect="CH/Skill/Berserker/Eff_Berserker_DarkWave_Cast_01.xml">
+		<Info npcID="29000269" skillID="40087001" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/Eff_Mantle_flowers.xml">
+		<Info npcID="29000269" emotionID="29000269" setID="16063001" />
+	</StateEffect>
+	<StateEffect stateType="gosPcSkill" effect="CH/Skill/Berserker/Eff_Berserker_DarkWave_Cast_01.xml">
+		<Info npcID="22091007" setID="16063001" skillID="50100372" />
+	</StateEffect>
+</ms2>

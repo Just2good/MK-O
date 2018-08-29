@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <quest questID="80020001" name="Eine schleimige Angelegenheit" desc="Ziehe einen niedlichen Regenbogenschleim groß und erhalte tolle Geschenke!" manual="Lerne, wie man einen Regenbogenschleim großzieht." complete="Gelernt, wie man einen Regenbogenschleim großzieht!" count="1" locale="" locking="0" />
+  <quest questID="80020002" name="Mein eigener Schleim" desc="Platziere ein $item:50400282$ in deinem Zuhause! Ein $item:50400282$ findest du, wenn du links im Menü „Einrichten“ auf das Register „Regenbogenschleim“ drückst." manual="Platziere ein $item:50400282$ in deinem Zuhause." complete="Ein $item:50400282$ in deinem Zuhause platziert!" count="1" locale="" locking="0" />
+  <quest questID="89040000" name="Erreiche Stufe&#160;10." desc="" manual="Erreiche Stufe&#160;10." complete="Erreiche Stufe&#160;10." count="1" locale="" locking="0" />
+  <quest questID="89040001" name="Besuche 10 Karten." desc="" manual="Besuche 10 Karten." complete="Besuche 10 Karten." count="1" locale="" locking="0" />
+  <quest questID="89040002" name="Platziere den Gegenstand $item:50400096$ in deinem Zuhause." desc="" manual="Platziere den Gegenstand $item:50400096$ in deinem Zuhause." complete="Platziere den Gegenstand $item:50400096$ in deinem Zuhause." count="1" locale="" locking="0" />
+  <quest questID="89040003" name="Versende eine Freundschaftsanfrage" desc="" manual="Versende eine Freundschaftsanfrage" complete="Versende eine Freundschaftsanfrage" count="1" locale="" locking="0" />
+  <quest questID="89040004" name="Besuche das Haus eines anderen Spielers." desc="" manual="Besuche das Haus eines anderen Spielers." complete="Besuche das Haus eines anderen Spielers." count="1" locale="" locking="0" />
+  <quest questID="89040005" name="Erreiche Stufe&#160;20." desc="" manual="Erreiche Stufe&#160;20." complete="Erreiche Stufe&#160;20." count="1" locale="" locking="0" />
+  <quest questID="89040006" name="Nimm 5 Mal an MC Kay-Spielen teil." desc="" manual="Nimm 5 Mal an MC Kay-Spielen teil." complete="Nimm 5 Mal an MC Kay-Spielen teil." count="1" locale="" locking="0" />
+  <quest questID="89040007" name="Kämpfe gegen Tiermonster." desc="" manual="Kämpfe gegen Tiermonster." complete="Kämpfe gegen Tiermonster." count="1" locale="" locking="0" />
+  <quest questID="89040008" name="Bezwinge 3&#160;Mal normale Abenteuerdungeonbosse." desc="" manual="Bezwinge 3&#160;Mal normale Abenteuerdungeonbosse." complete="Bezwinge 3&#160;Mal normale Abenteuerdungeonbosse." count="1" locale="" locking="0" />
+  <quest questID="89040009" name="Tritt einer Gilde bei." desc="" manual="Tritt einer Gilde bei." complete="Tritt einer Gilde bei." count="1" locale="" locking="0" />
+  <quest questID="89040010" name="Erreiche Stufe&#160;30." desc="" manual="Erreiche Stufe&#160;30." complete="Erreiche Stufe&#160;30." count="1" locale="" locking="0" />
+  <quest questID="89040011" name="Öffne 30 hölzerne Schatztruhen." desc="" manual="Öffne 30 hölzerne Schatztruhen." complete="Öffne 30 hölzerne Schatztruhen." count="1" locale="" locking="0" />
+  <quest questID="89040012" name="Bezwinge einen Weltboss." desc="" manual="Bezwinge einen Weltboss." complete="Bezwinge einen Weltboss." count="1" locale="" locking="0" />
+  <quest questID="89040013" name="Erstelle ein&#160;nutzergeneriertes Outfit!" desc="" manual="Erstelle ein&#160;nutzergeneriertes Outfit!" complete="Erstelle ein&#160;nutzergeneriertes Outfit!" count="1" locale="" locking="0" />
+  <quest questID="89040014" name="Führe 3 Lieder in Tria auf." desc="" manual="Führe 3 Lieder in Tria auf." complete="Führe 3 Lieder in Tria auf." count="1" locale="" locking="0" />
+  <quest questID="89040015" name="Erreiche Stufe&#160;35." desc="" manual="Erreiche Stufe&#160;35." complete="Erreiche Stufe&#160;35." count="1" locale="" locking="0" />
+  <quest questID="89040016" name="Zerlege 10&#160;Ausrüstungsgegenstände" desc="" manual="Zerlege 10&#160;Ausrüstungsgegenstände" complete="Zerlege 10&#160;Ausrüstungsgegenstände" count="1" locale="" locking="0" />
+  <quest questID="89040017" name="Erreiche Stufe&#160;3 in einer&#160;Alltagsfähigkeit." desc="" manual="Erreiche Stufe&#160;3 in einer&#160;Alltagsfähigkeit." complete="Erreiche Stufe&#160;3 in einer&#160;Alltagsfähigkeit." count="1" locale="" locking="0" />
+  <quest questID="89040018" name="Erhalte 50&#160;Trophäen." desc="" manual="Erhalte 50&#160;Trophäen." complete="Erhalte 50&#160;Trophäen." count="1" locale="" locking="0" />
+  <quest questID="89040019" name="Absolviere die Weltquest „$quest:20001640$“." desc="" manual="Absolviere die Weltquest „$quest:20001640$“." complete="Absolviere die Weltquest „$quest:20001640$“." count="1" locale="" locking="0" />
+  <quest questID="89040020" name="Erreiche Stufe&#160;40." desc="" manual="Erreiche Stufe&#160;40." complete="Erreiche Stufe&#160;40." count="1" locale="" locking="0" />
+  <quest questID="89040021" name="Absolviere eine Gildenquest." desc="" manual="Absolviere eine Gildenquest." complete="Absolviere eine Gildenquest." count="1" locale="" locking="0" />
+  <quest questID="89040022" name="Schwimme 50&#160;m in Gebiet der $map:02000377$." desc="" manual="Schwimme 50&#160;m in Gebiet der $map:02000377$." complete="Schwimme 50&#160;m in Gebiet der $map:02000377$." count="1" locale="" locking="0" />
+  <quest questID="89040023" name="Fange 300&#160;Fische." desc="" manual="Fange 300&#160;Fische." complete="Fange 300&#160;Fische." count="1" locale="" locking="0" />
+  <quest questID="89040024" name="Öffne zehn goldene Schatztruhen." desc="" manual="Öffne zehn goldene Schatztruhen." complete="Öffne zehn goldene Schatztruhen." count="1" locale="" locking="0" />
+  <quest questID="89040025" name="Erreiche Stufe&#160;45." desc="" manual="Erreiche Stufe&#160;45." complete="Erreiche Stufe&#160;45." count="1" locale="" locking="0" />
+  <quest questID="89040026" name="Schließe den Dungeon $dungeonTitle:29004001$ 1&#160;Mal ab." desc="" manual="Schließe 6 Schatzdungeons ab." complete="Schließe 6 Schatzdungeons ab." count="1" locale="" locking="0" />
+  <quest questID="89040027" name="Nimm 1&#160;Mal am Dungeon $map:02000387$ teil." desc="" manual="Nimm 1&#160;Mal am Dungeon $map:02000387$ teil." complete="Nimm 1&#160;Mal am Dungeon $map:02000387$ teil." count="1" locale="" locking="0" />
+  <quest questID="89040028" name="Sprich mit $npcName:11000254$ im Frisörsalon." desc="" manual="Sprich mit $npcName:11000254$ im Frisörsalon." complete="Sprich mit $npcName:11000254$ im Frisörsalon." count="1" locale="" locking="0" />
+  <quest questID="89040029" name="Erhalte eine $item:30000869$." desc="" manual="Erhalte eine $item:30000869$." complete="Erhalte eine $item:30000869$." count="1" locale="" locking="0" />
+  <quest questID="89040030" name="Erreiche Stufe&#160;50." desc="" manual="Erreiche Stufe&#160;50." complete="Erreiche Stufe&#160;50." count="1" locale="" locking="0" />
+  <quest questID="89040031" name="Fange einen Begleiter ein." desc="" manual="Fange einen Begleiter ein." complete="Fange einen Begleiter ein." count="1" locale="" locking="0" />
+  <quest questID="89040032" name="Schließe Stufe 5 von $map:02000350$ ab." desc="" manual="Schließe Stufe 5 von $map:02000350$ ab." complete="Schließe Stufe 5 von $map:02000350$ ab." count="1" locale="" locking="0" />
+  <quest questID="89040033" name="Bezwinge $npc:23000011$ im Dungeon $dungeonTitle:20014002$." desc="" manual="Bezwinge $npc:23000011$ im Dungeon $dungeonTitle:20014002$." complete="Bezwinge $npc:23000011$ im Dungeon $dungeonTitle:20014002$." count="1" locale="" locking="0" />
+  <quest questID="89040034" name="Nimm 1&#160;Mal am Dungeon $dungeonTitle:29005001$ teil." desc="" manual="Schließe den Dungeon $dungeonTitle:29005001$ 1&#160;Mal ab." complete="Schließe den Dungeon $dungeonTitle:29005001$ 1&#160;Mal ab." count="1" locale="" locking="0" />
+</ms2>

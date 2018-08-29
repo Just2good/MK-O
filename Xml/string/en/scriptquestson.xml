@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0831174201000001" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000001_NAME" />
+	<key id="0831174201000002" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000002_NAME" />
+	<key id="0831174201000003" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000003_NAME" />
+	<key id="0831174201000004" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000004_NAME" />
+	<key id="0831174201000005" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000005_NAME" />
+	<key id="0831174201000006" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000006_NAME" />
+	<key id="0831174201000007" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000007_NAME" />
+	<key id="0831174201000008" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000008_NAME" />
+	<key id="0831174201000009" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000009_NAME" />
+	<key id="0831174201000010" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000010_NAME" />
+	<key id="0831174201000011" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000011_NAME" />
+	<key id="0831174201000012" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000012_NAME" />
+	<key id="0831174201000013" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000013_NAME" />
+	<key id="0831174201000014" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000014_NAME" />
+	<key id="0831174201000015" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000015_NAME" />
+	<key id="0831174201000016" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000016_NAME" />
+	<key id="0831174201000017" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000017_NAME" />
+	<key id="0831174201000018" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000018_NAME" />
+	<key id="0831174201000019" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000019_NAME" />
+	<key id="0831174201000020" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000020_NAME" />
+	<key id="0831174201000021" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000021_NAME" />
+	<key id="0831174201000022" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000022_NAME" />
+	<key id="0831174201000023" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000023_NAME" />
+	<key id="0831174201000024" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000024_NAME" />
+	<key id="0831174201000025" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000025_NAME" />
+	<key id="0831174201000026" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000026_NAME" />
+	<key id="0831174201000027" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000027_NAME" />
+	<key id="0831174201000028" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000028_NAME" />
+	<key id="0831174201000029" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000029_NAME" />
+	<key id="0831174201000030" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000030_NAME" />
+	<key id="0831174201000031" feature="" npc="테리" name="SCRIPTQUESTSON_0831174201000031_NAME" />
+	<key id="0831174201000032" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000032_NAME" />
+	<key id="0831174201000033" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000033_NAME" />
+	<key id="0831174201000034" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000034_NAME" />
+	<key id="0831174201000035" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000035_NAME" />
+	<key id="0831174201000036" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000036_NAME" />
+	<key id="0831174201000037" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000037_NAME" />
+	<key id="0831174201000038" feature="" npc="콜롬부" name="SCRIPTQUESTSON_0831174201000038_NAME" />
+	<key id="0831174201000039" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000039_NAME" />
+	<key id="0831174201000040" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000040_NAME" />
+	<key id="0831174201000041" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000041_NAME" />
+	<key id="0831174201000042" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000042_NAME" />
+	<key id="0831174201000043" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000043_NAME" />
+	<key id="0831174201000044" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000044_NAME" />
+	<key id="0831174201000045" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000045_NAME" />
+	<key id="0831174201000046" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000046_NAME" />
+	<key id="0831174201000047" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000047_NAME" />
+	<key id="0831174201000048" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000048_NAME" />
+	<key id="0831174201000049" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000049_NAME" />
+	<key id="0831174201000050" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000050_NAME" />
+	<key id="0831174201000051" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000051_NAME" />
+	<key id="0831174201000052" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000052_NAME" />
+	<key id="0831174201000053" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000053_NAME" />
+	<key id="0831174201000054" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000054_NAME" />
+	<key id="0831174201000055" feature="" npc="팅" name="SCRIPTQUESTSON_0831174201000055_NAME" />
+	<key id="0831174201000056" feature="" npc="스콧" name="Wh-who is it? Who&apos;re you? " />
+	<key id="0831174201000057" feature="" npc="pc" name="I&apos;m a friend. Are you okay?" />
+	<key id="0831174201000058" feature="" npc="스콧" name="It&apos;s my glasses. I left them on my desk last night, but now they&apos;re gone!" />
+	<key id="0831174201000059" feature="" npc="스콧" name="They must have fallen, but I&apos;m not exactly a graceful guy. Can you help me look for them? I&apos;m worried I&apos;d step on them. " />
+	<key id="0831174201000060" feature="" npc="스콧" name="My glasses have to be around here somewhere... " />
+	<key id="0831174201000061" feature="" npc="이상한 메모" name="&lt;i&gt;Sha merby keenteroa! - Ruff&lt;/i&gt;" />
+	<key id="0831174201000062" feature="" npc="이상한 메모" name='&lt;font color=&quot;#909090&quot;&gt;(The note on the table is in a language you don&apos;t understand. It also has a picture of glasses on it. Tell $npcName:11000595[gender:0]$ what you found.)&lt;/font&gt;' />
+	<key id="0831174201000063" feature="" npc="스콧" name='That note... Was the word &quot;Ruff&quot; written on it?' />
+	<key id="0831174201000064" feature="" npc="pc" name="Yep!" />
+	<key id="0831174201000065" feature="" npc="스콧" name="Oh, I should&apos;ve known. That little scamp! Ruff should be in hibernation by now... " />
+	<key id="0831174201000066" feature="" npc="pc" name="Who&apos;s Ruff?" />
+	<key id="0831174201000067" feature="" npc="스콧" name="He&apos;s one of my fairfolk friends. Mischievous little critter. He just loves shiny things. This isn&apos;t the first time he&apos;s done this, either... " />
+	<key id="0831174201000068" feature="" npc="스콧" name="I&apos;m helpless without my glasses. I can&apos;t even make out your face when you&apos;re standing right in front of me. Will you help me?" />
+	<key id="0831174201000069" feature="" npc="pc" name="Just tell me what to do." />
+	<key id="0831174201000070" feature="" npc="스콧" name="Head to the top of the $map:02000103$ and find the $npcName:11000598$. The entrance to $map:02000320$ is behind it. I&apos;ve never been inside, myself, but Ruff should be there." />
+	<key id="0831174201000071" feature="" npc="스콧" name="Ruff told me that he has a special place where he keeps all of his treasures. I bet my glasses are in there, too." />
+	<key id="0831174201000072" feature="" npc="스콧" name="If he really is hibernating, like he said, then try to be quiet. He didn&apos;t mean any harm, and there&apos;s no need to disturb him. I&apos;ll give him a stern talking to about my glasses after he wakes up." />
+	<key id="0831174201000073" feature="" npc="스콧" name='According to my notes, &quot;Sha merby keenteroa&quot; roughly translates to &quot;Thanks!&quot; Ruff means well, even if he&apos;s left me in a tight spot here...' />
+	<key id="0831174201000074" feature="" npc="스콧" name="The entrance to $map:02000320$ should be behind the $npcName:11000598$ at the top of the $map:02000103$." />
+	<key id="0831174201000075" feature="" npc="스콧" name="Go to $map:02000320$ and find my glasses. Please!" />
+	<key id="0831174201000076" feature="" npc="스콧" name="If he really is hibernating, like he said, then try to be quiet. He didn&apos;t mean any harm, and there&apos;s no need to disturb him. I&apos;ll give him a stern talking to about my glasses after he wakes up." />
+	<key id="0831174201000077" feature="" npc="분홍색 잎이 달린 나무" name='&lt;font color=&quot;#909090&quot;&gt;(This must be the tree that $npcName:11000595[gender:0]$ mentioned.)&lt;/font&gt;' />
+	<key id="0831174201000078" feature="" npc="분홍색 잎이 달린 나무" name='&lt;font color=&quot;#909090&quot;&gt;(You see the entrance to $map:02000320$ behind the tree.)&lt;/font&gt;' />
+	<key id="0831174201000079" feature="" npc="분홍색 잎이 달린 나무" name='&lt;font color=&quot;#909090&quot;&gt;(The entrance to $map:02000320$ is just ahead. Look for $npcName:11000595[gender:0]$&apos;s glasses inside.)&lt;/font&gt;' />
+	<key id="0831174201000080" feature="" npc="스콧" name="I can see. I can see! You have my thanks." />
+	<key id="0831174201000081" feature="" npc="pc" name="By the way, there were a whole bunch of $npcPlural:11000677$ there." />
+	<key id="0831174201000082" feature="" npc="스콧" name="That can&apos;t be right. Ruff is a sprite with soft, white fur. You say there were more than one of him?" />
+	<key id="0831174201000083" feature="" npc="pc" name="They all looked like that." />
+	<key id="0831174201000084" feature="" npc="스콧" name="That can&apos;t be. Is the Ruff who comes by to play... actually a whole clan of fairfolk...?" />
+	<key id="0831174201000085" feature="" npc="티나" name="Just in time, $MyPCName$. I need your help!" />
+	<key id="0831174201000086" feature="" npc="pc" name="What&apos;s the matter?" />
+	<key id="0831174201000087" feature="" npc="티나" name="A few days ago, some of the others left for $map:02000169$. Sure, I was a tiny bit worried when I didn&apos;t hear back, but now that one of them has returned, I&apos;m &lt;i&gt;really&lt;/i&gt; worried. " />
+	<key id="0831174201000088" feature="" npc="티나" name="$npc:11000696$ is the one who made it back. She looked just awful! She said $npc:23000034$ captured the others, and she barely managed to escape with her life." />
+	<key id="0831174201000089" feature="" npc="티나" name="She was too exhausted to say more, but now that she&apos;s rested up, maybe you can go talk to her? She should be catching her breath in the middle of town. " />
+	<key id="0831174201000090" feature="" npc="티나" name="Ask her where the others are. If they&apos;re trapped or in trouble, we have to help them! " />
+	<key id="0831174201000091" feature="" npc="티나" name="Talk to $npc:11000696$ to find out where the others who left town with her are now. She said $npc:23000034$ captured them, but we need more details! She should be resting up at the center of town. " />
+	<key id="0831174201000092" feature="" npc="많은 발걸음" name="Who are you? What do you want!?" />
+	<key id="0831174201000093" feature="" npc="pc" name="Relax. I&apos;m just here to talk. $npcName:11000136[gender:1]$ sent me." />
+	<key id="0831174201000094" feature="" npc="많은 발걸음" name="Who? $npcName:11000136[gender:1]$?? Ahh, why is the world still spinning? " />
+	<key id="0831174201000095" feature="" npc="광산 소굴 입구" name="A key is required to enter the $map:02000230$. Find the $item:30000137$ on $npc:23000034$." />
+	<key id="0831174201000096" feature="" npc="광산 소굴 입구" name="A key is required to enter the $map:02000230$. Find the $item:30000137$ on $npc:23000034$." />
+	<key id="0831174201000097" feature="" npc="티나" name="You saved the others! I was worried at first when you didn&apos;t return with them, but I&apos;m so glad you&apos;re all right. Thank you for what you did. " />
+	<key id="0831174201000098" feature="" npc="티나" name="$MyPCName$, we are greatly indebted to you. I&apos;m going to tell my father what you did for us. " />
+	<key id="0831174201000099" feature="" npc="많은 발걸음" name="It&apos;s all coming back to me! The others... They&apos;re still trapped! Please, you have to save them! " />
+	<key id="0831174201000100" feature="" npc="pc" name="Calm down. Tell me exactly what happened." />
+	<key id="0831174201000101" feature="" npc="pc" name="Where are they now?!" />
+	<key id="0831174201000102" feature="" npc="많은 발걸음" name="A few days ago, a bunch of us left for $map:02000169$ to find $npc:23000034$. We wanted to save Googoo from being used by Toh. " />
+	<key id="0831174201000103" feature="" npc="많은 발걸음" name="Googoo is strong, but he was always on good terms with us, like a gentle giant. But one day, he started causing trouble... We think it&apos;s because of Toh&apos;s influence." />
+	<key id="0831174201000104" feature="" npc="많은 발걸음" name="After they became friends, Googoo stopped coming to visit us. Whenever we ran into him, he was mean! We almost gave up on him, but... " />
+	<key id="0831174201000105" feature="" npc="많은 발걸음" name="Someone overheard Toh whispering lies to Googoo, making him question his own self-worth. Googoo was good once! When I was repairing my house, he carried a bunch of heavy stuff for me. He even gave me a boost so I could hammer the roof! " />
+	<key id="0831174201000106" feature="" npc="많은 발걸음" name="When we heard that $npc:23000034$ were seen in $map:02000169$, those of us who remembered what Googoo used to be like decided to find him and free him from Toh. But before we could even find him... " />
+	<key id="0831174201000107" feature="" npc="많은 발걸음" name="We were ambushed! Before we knew it, we were surrounded by Toh&apos;s Mirror Images and locked up. Those guys were awful, pointing and laughing at me until my head hurt. " />
+	<key id="0831174201000108" feature="" npc="pc" name="Where is everyone now?" />
+	<key id="0831174201000109" feature="" npc="많은 발걸음" name="I snuck out when the Mirror Images were all taking a potty break together. I think the place they were keeping us was... the $map:02000230$? That must be Toh&apos;s base!  " />
+	<key id="0831174201000110" feature="" npc="많은 발걸음" name="Ugh, I can&apos;t believe this happened to us! " />
+	<key id="0831174201000111" feature="" npc="pc" name="Don&apos;t worry. I&apos;ll save the others." />
+	<key id="0831174201000112" feature="" npc="많은 발걸음" name="It won&apos;t be easy. I tried to get back in after I escaped, but the $npc:11000686$ was shut tight. The door must have locked automatically behind me. I&apos;ll bet that vile Toh carries the $item:30000137$ with him at all times!" />
+	<key id="0831174201000113" feature="" npc="많은 발걸음" name="$npc:23000034$ always stick together. To get the key from Toh, you&apos;ll have to separate them first. But be careful, Googoo isn&apos;t the same gentle giant he used to be. That scary mask... It&apos;s like he doesn&apos;t even remember me! " />
+	<key id="0831174201000114" feature="" npc="많은 발걸음" name="Head down $map:02000169$ to get to the $npc:11000686$. Then get the $item:30000137$ from Toh to get in. " />
+	<key id="0831174201000115" feature="" npc="많은 발걸음" name="A bunch of us ventured to $map:02000169$ to try to save Googoo before we were ambushed.  " />
+	<key id="0831174201000116" feature="" npc="많은 발걸음" name="I snuck out when the Mirror Images were all taking a potty break together. I think the place they were keeping us was... the $map:02000230$? That must be Toh&apos;s base! " />
+	<key id="0831174201000117" feature="" npc="광산 소굴 입구" name="You found the $npc:11000686$. It&apos;s locked, just like $npc:11000696$ said it would be." />
+	<key id="0831174201000118" feature="" npc="바제트" name="Just you wait, my little prince! It&apos;s almost done! " />
+	<key id="0831174201000119" feature="" npc="pc" name="I&apos;m flattered, but I&apos;m not a prince." />
+	<key id="0831174201000120" feature="" npc="바제트" name="Huh? Not you! I&apos;m making my newest concoction—I call it $npcName:11000695[gender:1]$&apos;s Trueform Tincture—to help my friend turn back into a prince." />
+	<key id="0831174201000121" feature="" npc="pc" name="Your friend? You mean the toad?" />
+	<key id="0831174201000122" feature="" npc="바제트" name="Of course I mean the toad! Listen, have you ever heard of a regular toad wearing a crown before? It&apos;s ridiculous! When I found this little guy down by the lake, I knew in an instant that he was a prince who&apos;d fallen under a terrible curse!" />
+	<key id="0831174201000123" feature="" npc="바제트" name="It took some doing, but I managed to get a recipe for a potion to cure him. It&apos;s taken my days just to mix the stuff... But it&apos;s almost complete! Almost..." />
+	<key id="0831174201000124" feature="" npc="pc" name="Something wrong?" />
+	<key id="0831174201000125" feature="" npc="바제트" name="It&apos;s... the $item:30000138$. I&apos;m out of $item:30000138$!" />
+	<key id="0831174201000126" feature="" npc="바제트" name="Please, you must help me. I can&apos;t take my eyes off my cauldron, or the potion will spoil! You need to get the $item:30000138$ for me!" />
+	<key id="0831174201000127" feature="" npc="바제트" name="There&apos;s no shortage of $npcPlural:21000038$ in the $map:02000090$. Hurry back with that $item:30000138$... unless you &lt;i&gt;want&lt;/i&gt; the prince to spend the rest of his days covered in warts!" />
+	<key id="0831174201000128" feature="" npc="바제트" name="If you don&apos;t hurry, the potion will boil over! Quickly, gather $item:30000138$ from the $npcPlural:21000038$ in the $map:02000090$!" />
+	<key id="0831174201000129" feature="" npc="바제트" name="You were cutting it a little close there! But I think if I sprinkle it in just now..." />
+	<key id="0831174201000130" feature="" npc="바제트" name="Let&apos;s hope this works! You know, if things work out between me and the prince here, I bet we could get you a little barony of your own as a thank-you gift... Heheh... " />
+	<key id="0831174201000131" feature="" npc="바제트" name="The potion is finally complete! But... it&apos;s a little... thick. " />
+	<key id="0831174201000132" feature="" npc="바제트" name="Let me check the recipe... Oh no! It&apos;s actually an ointment? Then I have to rub it into his skin, and... Oh my..." />
+	<key id="0831174201000133" feature="" npc="pc" name="Is that a problem?" />
+	<key id="0831174201000134" feature="" npc="바제트" name="I-is that a problem?! He isn&apos;t wearing anything but a crown. What do you think&apos;s going to happen when I r-r-rub the lotion into his skin?!" />
+	<key id="0831174201000135" feature="" npc="pc" name="He&apos;ll turn back into a prince, right?" />
+	<key id="0831174201000136" feature="" npc="바제트" name="Y-y-you really don&apos;t have a problem with any of this? Fine! You take the ointment, then. Apply it to the toad... I mean the p-p-prince, since you&apos;re so shameless!" />
+	<key id="0831174201000137" feature="" npc="바제트" name="I thought you were going to put the lotion on the prince! Or are you too embarrassed, after all?" />
+	<key id="0831174201000138" feature="" npc="pc" name="Tell me about this lotion again." />
+	<key id="0831174201000139" feature="" npc="pc" name="Where&apos;s the prince, exactly?" />
+	<key id="0831174201000140" feature="" npc="바제트" name="There! He&apos;s right there! The big toad wearing the crown. Don&apos;t tell me you&apos;re having second thoughts!" />
+	<key id="0831174201000141" feature="" npc="바제트" name="This stuff? I made it myself! You were there for that part, weren&apos;t you? Anyway, we&apos;re wasting time. The prince won&apos;t cure himself, after all." />
+	<key id="0831174201000142" feature="" npc="바제트" name="Your bag looks a little heavy. Clear it out and I&apos;ll give you another vial of my potion." />
+	<key id="0831174201000143" feature="" npc="바제트" name="Here, take it. Just rub it... rub it all over the toad. And be gentle, okay? We don&apos;t want to leave a bruise." />
+	<key id="0831174201000144" feature="" npc="바제트" name="Nothing happened? Oh no... Were we too late when we added the sap? " />
+	<key id="0831174201000145" feature="" npc="바제트" name="Don&apos;t worry, my prince! Just wait a little longer. I&apos;ll cure you!" />
+	<key id="0831174201000146" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000146_NAME" />
+	<key id="0831174201000147" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000147_NAME" />
+	<key id="0831174201000148" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000148_NAME" />
+	<key id="0831174201000149" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000149_NAME" />
+	<key id="0831174201000150" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000150_NAME" />
+	<key id="0831174201000151" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000151_NAME" />
+	<key id="0831174201000152" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000152_NAME" />
+	<key id="0831174201000153" feature="" npc="엄톨이" name="SCRIPTQUESTSON_0831174201000153_NAME" />
+	<key id="0831174201000154" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000154_NAME" />
+	<key id="0831174201000155" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000155_NAME" />
+	<key id="0831174201000156" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000156_NAME" />
+	<key id="0831174201000157" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000157_NAME" />
+	<key id="0831174201000158" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000158_NAME" />
+	<key id="0831174201000159" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000159_NAME" />
+	<key id="0831174201000160" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000160_NAME" />
+	<key id="0831174201000161" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000161_NAME" />
+	<key id="0831174201000162" feature="" npc="엄티" name="SCRIPTQUESTSON_0831174201000162_NAME" />
+	<key id="0916002301000347" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000347_NAME" />
+	<key id="0916002301000348" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000348_NAME" />
+	<key id="0916002301000349" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000349_NAME" />
+	<key id="0916002301000350" feature="" npc="pc" name="SCRIPTQUESTSON_0916002301000350_NAME" />
+	<key id="0916002301000351" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000351_NAME" />
+	<key id="0916002301000352" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000352_NAME" />
+	<key id="0916002301000353" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000353_NAME" />
+	<key id="0916002301000354" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000354_NAME" />
+	<key id="0916002301000355" feature="" npc="pc" name="SCRIPTQUESTSON_0916002301000355_NAME" />
+	<key id="0916002301000356" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000356_NAME" />
+	<key id="0916002301000357" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000357_NAME" />
+	<key id="0916002301000358" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000358_NAME" />
+	<key id="0916002301000359" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000359_NAME" />
+	<key id="0916002301000360" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000360_NAME" />
+	<key id="0916002301000361" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000361_NAME" />
+	<key id="0916002301000362" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000362_NAME" />
+	<key id="0916002301000363" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000363_NAME" />
+	<key id="0916002301000364" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000364_NAME" />
+	<key id="0916002301000365" feature="" npc="pc" name="SCRIPTQUESTSON_0916002301000365_NAME" />
+	<key id="0916002301000366" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000366_NAME" />
+	<key id="0916002301000367" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000367_NAME" />
+	<key id="0916002301000368" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000368_NAME" />
+	<key id="0916002301000369" feature="" npc="pc" name="SCRIPTQUESTSON_0916002301000369_NAME" />
+	<key id="0916002301000370" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000370_NAME" />
+	<key id="0916002301000371" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000371_NAME" />
+	<key id="0916002301000372" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000372_NAME" />
+	<key id="0916002301000373" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000373_NAME" />
+	<key id="0916002301000374" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000374_NAME" />
+	<key id="0916002301000375" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000375_NAME" />
+	<key id="0916002301000376" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000376_NAME" />
+	<key id="0916002301000377" feature="" npc="쥬코" name="SCRIPTQUESTSON_0916002301000377_NAME" />
+	<key id="0831174201000163" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000163_NAME" />
+	<key id="0831174201000164" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000164_NAME" />
+	<key id="0831174201000165" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000165_NAME" />
+	<key id="0831174201000166" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000166_NAME" />
+	<key id="0831174201000167" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000167_NAME" />
+	<key id="0831174201000168" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000168_NAME" />
+	<key id="0831174201000169" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000169_NAME" />
+	<key id="0831174201000170" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000170_NAME" />
+	<key id="0831174201000171" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000171_NAME" />
+	<key id="0831174201000172" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000172_NAME" />
+	<key id="0831174201000173" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000173_NAME" />
+	<key id="0831174201000174" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000174_NAME" />
+	<key id="0831174201000175" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000175_NAME" />
+	<key id="0831174201000176" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000176_NAME" />
+	<key id="0831174201000177" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000177_NAME" />
+	<key id="0831174201000178" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000178_NAME" />
+	<key id="0831174201000179" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000179_NAME" />
+	<key id="0831174201000180" feature="" npc="미하엘 박사" name="SCRIPTQUESTSON_0831174201000180_NAME" />
+	<key id="0831174201000181" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000181_NAME" />
+	<key id="0831174201000182" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000182_NAME" />
+	<key id="0831174201000183" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000183_NAME" />
+	<key id="0831174201000184" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000184_NAME" />
+	<key id="0831174201000185" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000185_NAME" />
+	<key id="0831174201000186" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000186_NAME" />
+	<key id="0831174201000187" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000187_NAME" />
+	<key id="0831174201000188" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000188_NAME" />
+	<key id="0831174201000189" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000189_NAME" />
+	<key id="0831174201000190" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000190_NAME" />
+	<key id="0831174201000191" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000191_NAME" />
+	<key id="0831174201000192" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000192_NAME" />
+	<key id="0831174201000193" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000193_NAME" />
+	<key id="0831174201000194" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000194_NAME" />
+	<key id="0831174201000195" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000195_NAME" />
+	<key id="0831174201000196" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000196_NAME" />
+	<key id="0831174201000197" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000197_NAME" />
+	<key id="0831174201000198" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000198_NAME" />
+	<key id="0831174201000199" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000199_NAME" />
+	<key id="0831174201000200" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000200_NAME" />
+	<key id="0831174201000201" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000201_NAME" />
+	<key id="0831174201000202" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000202_NAME" />
+	<key id="0831174201000203" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000203_NAME" />
+	<key id="0831174201000204" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000204_NAME" />
+	<key id="0831174201000205" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000205_NAME" />
+	<key id="0831174201000206" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000206_NAME" />
+	<key id="0831174201000207" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000207_NAME" />
+	<key id="0831174201000208" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000208_NAME" />
+	<key id="0831174201000209" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000209_NAME" />
+	<key id="0831174201000210" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000210_NAME" />
+	<key id="0831174201000211" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000211_NAME" />
+	<key id="0831174201000212" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000212_NAME" />
+	<key id="0831174201000213" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000213_NAME" />
+	<key id="0831174201000214" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000214_NAME" />
+	<key id="0831174201000215" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000215_NAME" />
+	<key id="0831174201000216" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000216_NAME" />
+	<key id="0831174201000217" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000217_NAME" />
+	<key id="0831174201000218" feature="" npc="헤르만" name="SCRIPTQUESTSON_0831174201000218_NAME" />
+	<key id="0831174201000219" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000219_NAME" />
+	<key id="0831174201000220" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000220_NAME" />
+	<key id="0831174201000221" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000221_NAME" />
+	<key id="0831174201000222" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000222_NAME" />
+	<key id="0831174201000223" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000223_NAME" />
+	<key id="0831174201000224" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000224_NAME" />
+	<key id="0831174201000225" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000225_NAME" />
+	<key id="0831174201000226" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000226_NAME" />
+	<key id="0831174201000227" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000227_NAME" />
+	<key id="0831174201000228" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000228_NAME" />
+	<key id="0831174201000229" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000229_NAME" />
+	<key id="0831174201000230" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000230_NAME" />
+	<key id="0831174201000231" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000231_NAME" />
+	<key id="0831174201000232" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000232_NAME" />
+	<key id="0831174201000233" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000233_NAME" />
+	<key id="0831174201000234" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000234_NAME" />
+	<key id="0831174201000235" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000235_NAME" />
+	<key id="0831174201000236" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000236_NAME" />
+	<key id="0831174201000237" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000237_NAME" />
+	<key id="0831174201000238" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000238_NAME" />
+	<key id="0831174201000239" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000239_NAME" />
+	<key id="0831174201000240" feature="" npc="웅크린 엉덩이" name="SCRIPTQUESTSON_0831174201000240_NAME" />
+	<key id="0831174201000241" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000241_NAME" />
+	<key id="0831174201000242" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000242_NAME" />
+	<key id="0831174201000243" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000243_NAME" />
+	<key id="0831174201000244" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000244_NAME" />
+	<key id="0831174201000245" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000245_NAME" />
+	<key id="0831174201000246" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000246_NAME" />
+	<key id="0831174201000247" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000247_NAME" />
+	<key id="0831174201000248" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000248_NAME" />
+	<key id="0831174201000249" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000249_NAME" />
+	<key id="0831174201000250" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000250_NAME" />
+	<key id="0831174201000251" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000251_NAME" />
+	<key id="0831174201000252" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000252_NAME" />
+	<key id="0831174201000253" feature="" npc="pc" name="SCRIPTQUESTSON_0831174201000253_NAME" />
+	<key id="0831174201000254" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000254_NAME" />
+	<key id="0831174201000255" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000255_NAME" />
+	<key id="0831174201000256" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000256_NAME" />
+	<key id="0831174201000257" feature="" npc="나메드" name="SCRIPTQUESTSON_0831174201000257_NAME" />
+	<key id="0831174201000258" feature="" npc="냉기 서린 바야르 돌조각" name="SCRIPTQUESTSON_0831174201000258_NAME" />
+	<key id="0831174201000259" feature="" npc="냉기 서린 바야르 돌조각" name="SCRIPTQUESTSON_0831174201000259_NAME" />
+	<key id="0831174201000260" feature="" npc="트리스탄" name="$MyPCName$... I don&apos;t know what brought you here, but do you think you could help me?" />
+	<key id="0831174201000261" feature="" npc="pc" name="What is it?" />
+	<key id="0831174201000262" feature="" npc="트리스탄" name="There is someone whom I owe my life. It was his final wish that I take care of his newborn son." />
+	<key id="0831174201000263" feature="" npc="트리스탄" name="From that day forward, I made it my life&apos;s mission to look after that boy. Wherever I might go, we were never apart. But one day, I received an ominous fortune from $npc:11001046[gender:0]$ of $map:02000268$." />
+	<key id="0831174201000264" feature="" npc="트리스탄" name="He said that the child would lose his life at the hands of the terrible $npc:23090005[gender:0]$... But the $npc:23090005[gender:0]$ is immortal. It can be defeated, but never destroyed." />
+	<key id="0831174201000265" feature="" npc="pc" name="So where do I come into this?" />
+	<key id="0831174201000266" feature="" npc="트리스탄" name="$npc:11001046[gender:0]$ told me how to seal the beast away for a time. First, he told me to obtain a $item:30000157$ in $map:02000268$. But... try as I might, I couldn&apos;t find it, despite coming all the way here." />
+	<key id="0831174201000267" feature="" npc="트리스탄" name="Please, will you help me by scouring $map:02000268$ for a $item:30000157$ while I search this place?" />
+	<key id="0831174201000268" feature="" npc="트리스탄" name="If you do find a $item:30000157$&lt;/font&gt;, bring it directly to $npc:11001046[gender:0]$!  He will surely know a way to defeat the $npc:23090005[gender:0]$!" />
+	<key id="0831174201000269" feature="" npc="트리스탄" name="$npc:11001046[gender:0]$ told me how to seal the beast away for a time. First, he told me to obtain a $item:30000157$ in $map:02000268$. Please, will you help me by scouring $map:02000268$ for a $item:30000157$" />
+	<key id="0831174201000270" feature="" npc="하타르" name="Hmm? What&apos;s that?&#x0A;A $item:30000157$?" />
+	<key id="0831174201000271" feature="" npc="하타르" name="Heh. He sure is a stubborn one. He should slow down a little. It&apos;s not like a dead man can collect on his debts. Trying to repay a life-debt at any cost... Ho-hum. " />
+	<key id="0831174201000272" feature="" npc="하타르" name="Long ago, a group of nameless swordsmen clothed adorned with simple bamboo hats sealed the $npc:23090005[gender:0]$ in the $map:02000037$. They managed to seal the temple entrance and put the $npc:23090005[gender:0]$ to sleep, but it cost them their souls." />
+	<key id="0831174201000273" feature="" npc="하타르" name="This $item:30000157$ was the blade wielded by one of those heroes, so many years ago. It is old and worn, yes, but it can be restored to its former glory by means of an ancient magic. One designed to undo the toll of time." />
+	<key id="0831174201000274" feature="" npc="하타르" name="I can restore the $item:13200028$ to its former power, so that you can it can be used to seal the $npc:23090005[gender:0]$ away once more. There may also be a way to prevent the $npc:23090005[gender:0]$ from ever awakening again. But first, give me some time to work on the blade..." />
+	<key id="0831174201000275" feature="" npc="하타르" name="Unbelievable!" />
+	<key id="0831174201000276" feature="" npc="pc" name="What&apos;s going on?" />
+	<key id="0831174201000277" feature="" npc="하타르" name="Wooo! One try! I managed to restore the $item:13200028$ in a single attempt! All of those years of Shaman training really paid off. TAKE THAT, DAD!" />
+	<key id="0831174201000278" feature="" npc="하타르" name="I&apos;ve placed the $item:13200028$ inside this $item:30000155$, please deliver it to $npc:11000144[gender:0]$. He will need it when he confronts the $npc:23090005[gender:0]$." />
+	<key id="0831174201000279" feature="" npc="하타르" name="There&apos;s one more thing! The $item:13200028$ alone will not be enough to defeat the $npc:23090005[gender:0]$... What we need is the power of the one who wielded it." />
+	<key id="0831174201000280" feature="" npc="하타르" name="The souls of the heroes rest within the grave markers in $map:02000200$. Find the $item:30000153$, and throw it into the $npcName:11000345$ which sits nearby! The heroes gave the last of their strength to ignite the $npcName:11000345$ before they fell. You can find it near the entrance of the $map:02000037$." />
+	<key id="0831174201000281" feature="" npc="하타르" name="From the flames, you will draw forth the $item:30000154$, which can be used to unleash the true power of the $item:13200028$. Bring it to $npcName:11000144$. Also... tell him I wish him luck." />
+	<key id="0831174201000282" feature="" npc="하타르" name="Did you forget something?" />
+	<key id="0831174201000283" feature="" npc="pc" name="I, uhh... misplaced the $item:30000155$." />
+	<key id="0831174201000284" feature="" npc="pc" name="Nope! I just got turned around." />
+	<key id="0831174201000285" feature="" npc="하타르" name="What are you thinking! This is it here. You should take better care of such things!" />
+	<key id="0831174201000286" feature="" npc="하타르" name="Didn&apos;t you put it in your bag? Maybe you should double-check." />
+	<key id="0831174201000287" feature="" npc="하타르" name="Your bag looks full. Maybe you should make some space." />
+	<key id="0831174201000288" feature="" npc="하타르" name="Oh... Okay then." />
+	<key id="0831174201000289" feature="" npc="트리스탄" name="You&apos;re back! Did you talk to $npc:11001046[gender:0]$? What happened? " />
+	<key id="0831174201000290" feature="" npc="pc" name="(Hand him the $item:30000155$, and tell him about the $item:30000154$.)" />
+	<key id="0831174201000291" feature="" npc="트리스탄" name="Could it be?! This is the $item:13200028$ used to seal away the $npc:23090005[gender:0]$ long ago... Using this, I&apos;ll be sure to win!" />
+	<key id="0831174201000292" feature="" npc="트리스탄" name="I&apos;m not sure how much good the $item:13200028$ is going to do me if I can&apos;t reach the $npc:23090005$ breaks free of the $map:02000037$... " />
+	<key id="0831174201000293" feature="" npc="pc" name="What do you mean?" />
+	<key id="0831174201000294" feature="" npc="트리스탄" name="While you were in $map:02000268$, I wandered deep inside the Ant Tunnel and found the door to the $map:02000037$. However... it was shut tight and could not be opened from the outside. " />
+	<key id="0831174201000295" feature="" npc="pc" name="Maybe you can open the door using the $item:30000154$?" />
+	<key id="0831174201000296" feature="" npc="트리스탄" name="Hmm... Perhaps. We still need to find the $item:30000153$ $npcName:11001046[gender:0]$ spoke of. The resting place of the nameless heroes... $MyPCName$, lets search the Ant Tunnel for the $item:30000153$ together. You start in the $map:02000200$ where the $map:02000037$ entrance is located." />
+	<key id="0831174201000297" feature="" npc="트리스탄" name="According to the prophecy, time is short. If you find the $item:30000153$, take it straight to the $npcName:11000345$ and place it inside. If all goes well, it should be transformed into the $item:30000154$." />
+	<key id="0831174201000298" feature="" npc="트리스탄" name="$npcName:11001046[gender:0]$ said the $npcName:11000345$ is found near the entrance to the $map:02000037$ in the $map:02000200$, right? Then there&apos;s no time to waste! Get going!" />
+	<key id="0831174201000299" feature="" npc="트리스탄" name="According to the prophecy, time is short. If you find the $item:30000153$, take it straight to the $npcName:11000345$ and place it inside. If all goes well, it should be transformed into the $item:30000154$." />
+	<key id="0831174201000300" feature="" npc="정화의 불꽃" name="You found the $npc:11000345$ burning amidst the boiling lava. " />
+	<key id="0831174201000301" feature="" npc="정화의 불꽃" name="Casting the $item:30000153$ into the $npc:11000345$ should awaken the power of the soul that sleeps within, transforming it into the $item:30000154$," />
+	<key id="0831174201000302" feature="" npc="정화의 불꽃" name="The $npc:11000345$ smolders." />
+	<key id="0831174201000303" feature="" npc="pc" name="(Approach the flames.)" />
+	<key id="0831174201000304" feature="" npc="정화의 불꽃" name="All that remains is to throw the $item:30000153$ into the flames." />
+	<key id="0831174201000305" feature="" npc="정화의 불꽃" name="(Throw the $item:30000153$ into the fire.)" />
+	<key id="0831174201000306" feature="" npc="트리스탄" name="Ah... That&apos;s the $item:30000154$! With the $item:13200028$ restored to its true power, I should be able to defeat the $npc:23090005[gender:0]$... Ugh... " />
+	<key id="0831174201000307" feature="" npc="pc" name="Are you okay?" />
+	<key id="0831174201000308" feature="" npc="트리스탄" name="It&apos;s no big deal... I was in a hurry, and I tripped and fell off a cliff.&#x0A;Agh... It&apos;s probably just a minor internal injury... " />
+	<key id="0831174201000309" feature="" npc="pc" name="Uhh... You should see a doctor." />
+	<key id="0831174201000310" feature="" npc="트리스탄" name="There&apos;s no time for that! If the $npc:23090005[gender:0]$ awakens, and I&apos;m not here to stop him...! " />
+	<key id="0831174201000311" feature="" npc="pc" name="I&apos;ll stop him." />
+	<key id="0831174201000312" feature="" npc="트리스탄" name="Ugh... It looks like I&apos;m in your debt yet again. I&apos;ll leave it to you, but don&apos;t try and face the $npc:23090005[gender:0]$ alone. " />
+	<key id="0831174201000313" feature="" npc="트리스탄" name="Here, take the $item:13200028$. Gather the strongest warriors you can find and travel to the $map:02000037$. Ugh... I&apos;ll follow you when I can. I need to look after my wound and check in on the boy. I have to set my affairs in order, in case... " />
+	<key id="0831174201000314" feature="" npc="트리스탄" name="Just beyond the Cleansing Flames in the deepest part of the $map:02000200$, you&apos;ll find the entrance to the $map:02000037$. " />
+	<key id="0831174201000315" feature="" npc="트리스탄" name="Take this. I have embedded the $item:30000154$ within the $item:13200028$. Gather the strongest allies you can find... Face the$npc:23090005[gender:0]$. I&apos;ll follow as soon as I can!" />
+	<key id="1016135801000488" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000620" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000621" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about mechanical monsters. I heard there are many mechanical monsters to be found near $map:2000270$... Do you think you could face them in combat and tell me what you learn?" />
+	<key id="1022185201000838" feature="" npc="알리야르" name="There are many kinds of mechanical monsters throughout this world. I want you to face various kinds in battle, and learn all you can about them." />
+	<key id="1016135801000489" feature="" npc="알리야르" name="Have you already faced off against those mechanical monsters? Tell, me! What sort of fascinating things did you learn about them? Do they have any special weaknesses?" />
+	<key id="1019210701000622" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000623" feature="" npc="알리야르" name="Oh! What fascinating details! I&apos;ll be sure to jot all of this down. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000490" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000625" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000626" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about insect monsters, despite their prevalence  I have heard there are many insect monsters to be found at $map:2000023$. Do you think you could face them in combat and tell me what you learn?" />
+	<key id="1022185201000839" feature="" npc="알리야르" name="Insect monsters can be found all over this wondrous world! Please face various insect monsters in combat and tell me what you learn about them." />
+	<key id="1016135801000491" feature="" npc="알리야르" name="Have you already squashed those insect monsters? What did you learn? Tell me everything!" />
+	<key id="1019210701000627" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000628" feature="" npc="알리야르" name="Oh! What useful new insights! This will be very helpful for my book. &#x0A;Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000492" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000630" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000631" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about inanimate monsters, despite their prevalence. I have heard you can find many inanimate monsters near terrain that has been transformed into Ludibrium blocks. Do you think you could face them in combat and tell me what you learn?" />
+	<key id="1022185201000840" feature="" npc="알리야르" name="You&apos;ll find all kinds of inanimate monsters as you travel the world. Please challenge them in battle, and tell me what you learn!" />
+	<key id="1016135801000493" feature="" npc="알리야르" name="Have you already crushed those inanimate monsters? What did they look like? What&apos;s the best way to defeat them?" />
+	<key id="1019210701000632" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000633" feature="" npc="알리야르" name="Oh! What exciting information! I can already tell this book will be a wonderful success! Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000494" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000635" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000636" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about plant monsters. You should have no trouble researching them, as they can be found everywhere. Do you think you could face them in combat and tell me what you learn?" />
+	<key id="1022185201000841" feature="" npc="알리야르" name="You can find plant monsters all over the place. Please defeat some, and let me know what you discover." />
+	<key id="1016135801000495" feature="" npc="알리야르" name="Have you already plucked those plant monsters? Was there anything you had to look out for? What did you learn?" />
+	<key id="1019210701000637" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000638" feature="" npc="알리야르" name="Thank you very much! Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000496" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000640" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000641" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about divine monsters. I have heard that divine monsters are especially rare. The best-known among them are likely $npc:23000019[gender:0]$ and $npc:23000020[gender:1]$, but I am certain you will encounter others." />
+	<key id="1019210701000642" feature="" npc="알리야르" name="Not long ago, I heard a story about a divine monster in the vicinity of $map:2000023$. Please defeat various types of divine monsters and tell me all you learn." />
+	<key id="1022185201000842" feature="" npc="알리야르" name="You will surely encounter divine monsters as you travel the world. Please face them in battle and learn all you can about them." />
+	<key id="1016135801000497" feature="" npc="알리야르" name="Have you already defeated those divine monsters? How did you do it? Any special tips?" />
+	<key id="1019210701000643" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000644" feature="" npc="알리야르" name="Oh! What curious opponents. I can tell this information will be very useful for other adventurers. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000498" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000646" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000647" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about demon monsters. I heard there are many demonic monsters in the Land of Darkness... There are also said to be some found here and there throughout Maple World. Do you think you could engage some in battle and tell me what you learn?" />
+	<key id="1022185201000843" feature="" npc="알리야르" name="As you travel the land, you may encounter demon monsters. Defeat them, and learn everything you can about them!" />
+	<key id="1016135801000499" feature="" npc="알리야르" name="Have you already thrashed those terrible demon monsters? Were you afraid? What have you learned?" />
+	<key id="1019210701000648" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000649" feature="" npc="알리야르" name="How fascinating! This book is coming together nicely. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000500" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000651" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000652" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about beast monsters. Since they can be found almost anywhere, they shouldn&apos;t be hard to study. Please go and fight some to learn more about them." />
+	<key id="1022185201000844" feature="" npc="알리야르" name="Throughout this world you will face many beast monsters as you travel the world. Defeat them, and learn whatever you can about them." />
+	<key id="1016135801000501" feature="" npc="알리야르" name="Have you already bashed those beast monsters? What kinds did you face? Was there any trick to defeating them?" />
+	<key id="1019210701000653" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000654" feature="" npc="알리야르" name="What a thrilling tale! Readers will love your valuable insights. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000502" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000656" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000657" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. Take those creepy undead monsters, for example. I have heard they can be found in secluded caves like the Ant Tunnel, or within the Land of Darkness... Would you be so kind as to do battle with some and document your findings?" />
+	<key id="1022185201000845" feature="" npc="알리야르" name="In your journeys you will surely encounter undead monsters. Defeat them and learn what you can!" />
+	<key id="1016135801000503" feature="" npc="알리야르" name="Have you already undone those undead monsters? That must have been a frightening experience. What did you learn about them?" />
+	<key id="1019210701000658" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000659" feature="" npc="알리야르" name="What chilling details! This information should be very useful for explorers of all types. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000504" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000661" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000662" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about fairy monsters. I heard fairy monsters are plentiful in the areas around $map:2000076$ and $map:2000023$... Do you think you could challenge some in combat and tell me what you learn?" />
+	<key id="1022185201000846" feature="" npc="알리야르" name="You will surely encounter fairy monsters as you travel the world. Please face them in battle and learn all you can about them." />
+	<key id="1016135801000505" feature="" npc="알리야르" name="Have you already flogged those fairy monsters? What did you think of them? Did you learn anything useful?" />
+	<key id="1019210701000663" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000664" feature="" npc="알리야르" name="What a fantastic tale! I know readers will be excited to learn more about these mysterious monsters. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000506" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000666" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000667" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about humanoid foes. I heard there are many humanoid foes in the areas surrounding $map:2000100$... Do you think you could face them in combat and tell me what you learn?" />
+	<key id="1022185201000847" feature="" npc="알리야르" name="There are many kinds of humanoid foes throughout this world. I want you to face them in battle, and learn all you can about them." />
+	<key id="1016135801000507" feature="" npc="알리야르" name="Have you already handed it to those humanoid foes? What sorts of things did you learn from fighting them?" />
+	<key id="1019210701000668" feature="" npc="pc" name="(Tell him everything you observed about your adversaries.)" />
+	<key id="1019210701000669" feature="" npc="알리야르" name="I see, I see! These facts will be very helpful for my book. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000508" feature="" npc="알리야르" name="Ah, $MyPCName$! Just the adventurer I was hoping to see. I have a new project that I&apos;d love your help with. I&apos;m making an illustrated guide to monsters all around the world! It will tell you what they look like, how to fight them, when to run away... all sorts of useful facts!" />
+	<key id="1019210701000671" feature="" npc="알리야르" name="My monster guide is going to sell like hotcakes when it&apos;s finished! I would be more than happy to credit you as a co-author if you help me with my research." />
+	<key id="1019210701000672" feature="" npc="알리야르" name="Of course, there&apos;s still a lot of data to gather. For instance, I know very little about spirit monsters. I heard there are many spirit monsters scattered throughout the world... Do you think you could face them in combat and tell me what you learn?" />
+	<key id="1022185201000848" feature="" npc="알리야르" name="Spirit monsters can be found all over this wondrous world! Face them in combat and tell me what you learn about them." />
+	<key id="1016135801000509" feature="" npc="알리야르" name="Have you already smashed those spirit monsters? They must have made spooky opponents. How did you manage to defeat them?" />
+	<key id="1019210701000673" feature="" npc="pc" name="(Tell him everything you observed about the monsters.)" />
+	<key id="1019210701000674" feature="" npc="알리야르" name="How interesting! I had no idea, I&apos;ll be sure to put that in my book. Thank you so very much for your help! Why don&apos;t you stop by tomorrow, and we can continue our research?" />
+	<key id="1016135801000510" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Flaming Barrels often found at construction sites can be thrown, to devastating effect. " />
+	<key id="1020213401000676" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000677" feature="" npc="알리야르" name="I have heard you can find unattended Flaming Barrels in the areas around $map:2000270$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000849" feature="" npc="알리야르" name="I have heard you can find unattended Flaming Barrels in the areas around $map:2000270$... Of course, they can be found other places as well." />
+	<key id="1016135801000511" feature="" npc="알리야르" name="Well, did you try using Flaming Barrels as a weapon? Was it very effective?" />
+	<key id="1020213401000678" feature="" npc="pc" name="It roasted them like marshmallows." />
+	<key id="1020213401000679" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Flaming Barrels..." />
+	<key id="1016135801000512" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Mine Carts found in secluded caves can be used to devastating effect. " />
+	<key id="1020213401000680" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000681" feature="" npc="알리야르" name="I&apos;ve heard Mine Carts can be found all over the areas near the Ant Tunnel, or inside of abandoned mines. Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000850" feature="" npc="알리야르" name="I&apos;ve heard Mine Carts can be found all over the areas near the Ant Tunnel, or inside of abandoned mines. Of  course, they can be found other places as well." />
+	<key id="1016135801000513" feature="" npc="알리야르" name="Well, did you try using Mine Carts as a weapon? Was it very effective?" />
+	<key id="1020213401000682" feature="" npc="pc" name="It mowed them down like a runaway train." />
+	<key id="1020213401000683" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Mine Carts..." />
+	<key id="1016135801000514" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Explosives Barrels commonly found throughout the world can be used to devastating effect. " />
+	<key id="1020213401000684" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000685" feature="" npc="알리야르" name="I heard there are many discarded Explosives Barrels in beaches where pirates appear or near Ant Tunnel... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000851" feature="" npc="알리야르" name="I heard there are many discarded Explosives Barrels in beaches where pirates appear or near Ant Tunnel... Of course, they can be found other places as well." />
+	<key id="1016135801000515" feature="" npc="알리야르" name="Well, did you try using Explosives Barrels as a weapon? Was it very effective?" />
+	<key id="1020213401000686" feature="" npc="pc" name="It made the monsters go boom." />
+	<key id="1020213401000687" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Explosives Barrels..." />
+	<key id="1016135801000516" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Tires commonly found throughout the world can be used to devastating effect. " />
+	<key id="1020213401000688" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000689" feature="" npc="알리야르" name="I heard there are many discarded Tires in the areas surrounding $map:02000100$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000852" feature="" npc="알리야르" name="I heard there are many discarded Tires in the areas surrounding $map:02000100$.... Of course, they can be found other places as well." />
+	<key id="1016135801000517" feature="" npc="알리야르" name="Well, did you try using Tires as a weapon? Was it very effective?" />
+	<key id="1020213401000690" feature="" npc="pc" name="It bowled my enemies over." />
+	<key id="1020213401000691" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Tires..." />
+	<key id="1016135801000518" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Trash Cans commonly found throughout the world can be used to devastating effect. " />
+	<key id="1020213401000692" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000693" feature="" npc="알리야르" name="I heard Trash Cans are commonly found in the areas surrounding $map:2000100$ and $map:2000270$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000853" feature="" npc="알리야르" name="I heard Trash Cans are commonly found in the areas surrounding $map:2000100$ and $map:2000270$... Of course, they can be found other places as well." />
+	<key id="1016135801000519" feature="" npc="알리야르" name="Well, did you try using Trash Cans as a weapon? Was it very effective?" />
+	<key id="1020213401000694" feature="" npc="pc" name="I used it to show the monsters where they belonged." />
+	<key id="1020213401000695" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Trash Cans..." />
+	<key id="1016135801000520" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Gas Tanks commonly found throughout the world can be used to devastating effect. " />
+	<key id="1020213401000696" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000697" feature="" npc="알리야르" name="I heard Gas Tanks are commonly found in research institutes in the areas surrounding $map:2000270$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000854" feature="" npc="알리야르" name="I heard Gas Tanks are commonly found in research institutes in the areas surrounding $map:2000270$... Of course, they can be found other places as well." />
+	<key id="1016135801000521" feature="" npc="알리야르" name="Well, did you try using Gas Tanks as a weapon? Was it very effective?" />
+	<key id="1020213401000698" feature="" npc="pc" name="Sure. It toasted &apos;em up real good." />
+	<key id="1020213401000699" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Gas Tanks..." />
+	<key id="1016135801000522" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, toxic waste storage drums can be used to devastating effect. " />
+	<key id="1020213401000700" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000701" feature="" npc="알리야르" name="I heard Toxic Waste Drums are commonly found in research institutes in the areas surrounding $map:2000270$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000855" feature="" npc="알리야르" name="I heard Toxic Waste Drums are commonly found in research institutes in the areas surrounding $map:2000270$... Of course, they can be found other places as well." />
+	<key id="1016135801000523" feature="" npc="알리야르" name="Well, did you try using Toxic Waste Drums as a weapon? Was it very effective?" />
+	<key id="1020213401000702" feature="" npc="pc" name="It made the monsters green and angry." />
+	<key id="1020213401000703" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Toxic Waste Drums..." />
+	<key id="1016135801000524" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, sacred Totems can be wielded to devastating effect. " />
+	<key id="1020213401000704" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000705" feature="" npc="알리야르" name="I heard Burning Totems are commonly found in the areas surrounding $map:2000051$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000856" feature="" npc="알리야르" name="I heard Burning Totems are commonly found in the areas surrounding $map:2000051$... Of course, they can be found other places as well." />
+	<key id="1016135801000525" feature="" npc="알리야르" name="Well, did you try using Totems as a weapon? Was it very effective?" />
+	<key id="1020213401000706" feature="" npc="pc" name="Well, the monsters didn&apos;t enjoy being on fire, at least." />
+	<key id="1020213401000707" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Totems..." />
+	<key id="1016135801000526" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, discarded poison bags can be used to devastating effect. " />
+	<key id="1020213401000708" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000709" feature="" npc="알리야르" name="I&apos;ve heard Poison Bags can be found in the areas surrounding $map:2000051$. Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000857" feature="" npc="알리야르" name="I&apos;ve heard Poisonous Bags can be found in the areas surrounding $map:2000051$. Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000527" feature="" npc="알리야르" name="Well, did you try using Poison Bags as a weapon? Was it very effective?" />
+	<key id="1020213401000710" feature="" npc="pc" name="It didn&apos;t make them feel any better, that&apos;s for suer." />
+	<key id="1020213401000711" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Poison Bags..." />
+	<key id="1016135801000528" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Dynamite Carts found near quarries can be used to devastating effect. " />
+	<key id="1020213401000712" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000713" feature="" npc="알리야르" name="I heard Dynamite Carts can be found throughout the quarry-like areas around $map:2000058$. Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000858" feature="" npc="알리야르" name="I heard Dynamite Carts can be found throughout the quarry-like areas around $map:2000058$. Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000529" feature="" npc="알리야르" name="Well, did you try using Dynamite Carts as a weapon? Was it very effective?" />
+	<key id="1020213401000714" feature="" npc="pc" name="Oh yeah. Big bada-boom." />
+	<key id="1020213401000715" feature="" npc="알리야르" name="I see! Maybe Dynamite Carts are too dangerous for me to responsibly sell..." />
+	<key id="1016135801000530" feature="" npc="알리야르" name="I&apos;m sure you have encountered all sorts of objects that can be used as weapons, but some are much more powerful than others. For example, the Bombs found in mines." />
+	<key id="1020213401000716" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000717" feature="" npc="알리야르" name="I&apos;ve heard Bombs are commonly found within mines... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000859" feature="" npc="알리야르" name="I&apos;ve heard Bombs are commonly found within mines... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000531" feature="" npc="알리야르" name="Well, did you try using Bombs as a weapon? Was it very effective?" />
+	<key id="1020213401000718" feature="" npc="pc" name="There were... monster-bits... everywhere..." />
+	<key id="1020213401000719" feature="" npc="알리야르" name="I see! Maybe Bombs are too dangerous for me to responsibly sell..." />
+	<key id="1016135801000532" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Chicken Coops commonly found near towns can be used to devastating effect. " />
+	<key id="1020213401000720" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000721" feature="" npc="알리야르" name="I&apos;ve heard there are many unattended Chicken Coops in the areas surrounding $map:2000076$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000860" feature="" npc="알리야르" name="I&apos;ve heard there are many unattended Chicken Coops in the areas surrounding $map:2000076$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000533" feature="" npc="알리야르" name="Well, did you try using Chicken Coops as a weapon? Was it very effective?" />
+	<key id="1020213401000722" feature="" npc="pc" name="It made for some very angry and pecky chickens." />
+	<key id="1020213401000723" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Chicken Coops..." />
+	<key id="1016135801000534" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Eggs commonly found throughout the world can be used to devastating effect. " />
+	<key id="1020213401000724" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000725" feature="" npc="알리야르" name="I&apos;ve heard there are many unattended Eggs in areas with avian monsters... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000861" feature="" npc="알리야르" name="I&apos;ve heard there are many unattended Eggs in areas with avian monsters... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000535" feature="" npc="알리야르" name="Well, did you try using Eggs as a weapon? Was it very effective?" />
+	<key id="1020213401000726" feature="" npc="pc" name="It left monsters very sticky." />
+	<key id="1020213401000727" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Eggs..." />
+	<key id="1016135801000536" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Bottle Crates commonly found throughout the world can be used to devastating effect. " />
+	<key id="1020213401000728" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000729" feature="" npc="알리야르" name="I&apos;ve heard you can find Bottle Crates in laboratories... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000862" feature="" npc="알리야르" name="I&apos;ve heard you can find Bottle Crates in laboratories... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000537" feature="" npc="알리야르" name="Well, did you try using Bottle Crates as a weapon? Was it very effective?" />
+	<key id="1020213401000730" feature="" npc="pc" name="I guess it surprised them a bit." />
+	<key id="1020213401000731" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Bottle Crates..." />
+	<key id="1016135801000538" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Torches used to light dark spaces can be wielded to devastating effect. " />
+	<key id="1020213401000732" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000733" feature="" npc="알리야르" name="I&apos;ve heard you can find Torches in dark caves and in the areas surrounding $map:2000051$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000863" feature="" npc="알리야르" name="I&apos;ve heard you can find Torches in dark caves and in the areas surrounding $map:2000051$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000539" feature="" npc="알리야르" name="Well, did you try using Torches as a weapon? Was it very effective?" />
+	<key id="1020213401000734" feature="" npc="pc" name="The monsters seemed a bit stunned." />
+	<key id="1020213401000735" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Torches..." />
+	<key id="1016135801000540" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the stinky Rainbow Poo tree can be used to devastating effect. " />
+	<key id="1020213401000736" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000737" feature="" npc="알리야르" name="I&apos;ve heard Rainbow Poo trees are commonly found in meadows with sunny weather... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000864" feature="" npc="알리야르" name="I&apos;ve heard Rainbow Poo trees are commonly found in meadows with sunny weather... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000541" feature="" npc="알리야르" name="Well, did you try using Rainbow Poop trees as a weapon? Was it very effective?" />
+	<key id="1020213401000738" feature="" npc="pc" name="It slowed the monsters down a bit." />
+	<key id="1020213401000739" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Rainbow Poop trees..." />
+	<key id="1016135801000542" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Rotten Rainbow Poo tree can be used to devastating effect. " />
+	<key id="1020213401000740" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000741" feature="" npc="알리야르" name="I&apos;ve heard Rotted Rainbow Poo trees are commonly found in meadows with sunny weather... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000865" feature="" npc="알리야르" name="I&apos;ve heard Rotten Rainbow Poo trees are commonly found in meadows with sunny weather... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000543" feature="" npc="알리야르" name="Well, did you try using Rotted Rainbow Poop trees as a weapon? Was it very effective?" />
+	<key id="1020213401000742" feature="" npc="pc" name="It slowed the monsters down a bit." />
+	<key id="1020213401000743" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Rotted Rainbow Poop trees..." />
+	<key id="1016135801000544" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, road signs found on the roadside can be used to devastating effect. " />
+	<key id="1020213401000744" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000745" feature="" npc="알리야르" name="I&apos;ve heard Road Signs can be found on the roadside in the areas surrounding $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000866" feature="" npc="알리야르" name="I&apos;ve heard Road Signs can be found on the roadside in the areas surrounding $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000545" feature="" npc="알리야르" name="Well, did you try using Road Signs as a weapon? Was it very effective?" />
+	<key id="1020213401000746" feature="" npc="pc" name="It seemed to stun the monsters a bit." />
+	<key id="1020213401000747" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Road Signs..." />
+	<key id="1016135801000546" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Stoplights found on the roadside can be used to devastating effect. " />
+	<key id="1020213401000748" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000749" feature="" npc="알리야르" name="I&apos;ve heard Stoplights can be found on the roadside in the areas surrounding $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000867" feature="" npc="알리야르" name="I&apos;ve heard Stoplights can be found on the roadside in the areas surrounding $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000547" feature="" npc="알리야르" name="Well, did you try using Stoplights as a weapon? Was it very effective?" />
+	<key id="1020213401000750" feature="" npc="pc" name="The monsters seemed a bit winded after I smacked them with it." />
+	<key id="1020213401000751" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Stoplights..." />
+	<key id="1016135801000548" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Telephone Poles found on the roadside can be used to devastating effect. " />
+	<key id="1020213401000752" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000753" feature="" npc="알리야르" name="I&apos;ve heard Telephone Poles can be found on the roadside in the areas surrounding $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000868" feature="" npc="알리야르" name="I&apos;ve heard Telephone Poles can be found on the roadside in the areas surrounding $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000549" feature="" npc="알리야르" name="Well, did you try using Telephone Poles as a weapon? Was it very effective?" />
+	<key id="1020213401000754" feature="" npc="pc" name="Oh yeah. It electrocuted the monsters." />
+	<key id="1020213401000755" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Telephone Poles..." />
+	<key id="1016135801000550" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, Tall Totem can be wielded to devastating effect. " />
+	<key id="1020213401000756" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000757" feature="" npc="알리야르" name="I heard Tall Totems are commonly found in the areas around the areas surrounding $map:2000051$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000869" feature="" npc="알리야르" name="I heard Tall Totems are commonly found in the areas around the areas surrounding $map:2000051$... Of course, they can be found other places as well." />
+	<key id="1016135801000551" feature="" npc="알리야르" name="Well, did you try using Totems as a weapon? Was it very effective?" />
+	<key id="1020213401000758" feature="" npc="pc" name="It seemed to stun the monsters a bit." />
+	<key id="1020213401000759" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Totems..." />
+	<key id="1016135801000552" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, disused Pipes found around cities can be used to devastating effect. " />
+	<key id="1020213401000760" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000761" feature="" npc="알리야르" name="I&apos;ve heard Pipes can be found in the areas surrounding $map:2000100$ and $map:02000270$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000870" feature="" npc="알리야르" name="I&apos;ve heard Pipes can be found in the areas surrounding $map:2000100$ and $map:02000270$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000553" feature="" npc="알리야르" name="Well, did you try using Pipes as a weapon? Was it very effective?" />
+	<key id="1020213401000762" feature="" npc="pc" name="Getting smacked by the Pipe rendered them all speechless." />
+	<key id="1020213401000763" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Pipes..." />
+	<key id="1016135801000554" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the Tents of Perion, can be wielded to devastating effect. " />
+	<key id="1020213401000764" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000765" feature="" npc="알리야르" name="I heard Perion Houses are commonly found in the areas surrounding $map:2000051$... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000871" feature="" npc="알리야르" name="I heard Perion Houses are commonly found in the areas surrounding $map:2000051$... Of course, they can be found other places as well." />
+	<key id="1016135801000555" feature="" npc="알리야르" name="Well, did you try using Perion Houses as a weapon? Was it very effective?" />
+	<key id="1020213401000766" feature="" npc="pc" name="Have you ever been hit with a house? They were stunned." />
+	<key id="1020213401000767" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Perion Houses..." />
+	<key id="1016135801000556" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, abandoned Kerning Buses found on the roadside can become a useful weapon. " />
+	<key id="1020213401000768" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000769" feature="" npc="알리야르" name="I heard abandoned Kerning Buses can be found on the roadside... Of course, they can be found other places as well. However, they may be difficult to locate. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000872" feature="" npc="알리야르" name="I heard abandoned Kerning Buses can be found on the roadside... Of course, they can be found other places as well. However, they may be difficult to locate." />
+	<key id="1016135801000557" feature="" npc="알리야르" name="Well, did you try using Kerning Buses as a weapon? Was it very effective?" />
+	<key id="1020213401000770" feature="" npc="pc" name="It exploded. Bus parts everywhere." />
+	<key id="1020213401000771" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Kerning Buses..." />
+	<key id="1016135801000558" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, Kerning Phone Booths can become useful weapon. " />
+	<key id="1020213401000772" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000773" feature="" npc="알리야르" name="I heard Kerning Phone Booths can be found in the areas around $map:2000270$ and in those to the north of $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000873" feature="" npc="알리야르" name="I heard Kerning Phone Booths can be found in the areas around $map:2000270$ or in those to the north of $map:2000100$... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000559" feature="" npc="알리야르" name="Well, did you try using Kerning Phone Booths as a weapon? Was it very effective?" />
+	<key id="1020213401000774" feature="" npc="pc" name="The monsters were a bit stunned." />
+	<key id="1020213401000775" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Kerning Phone Booths..." />
+	<key id="1016135801000560" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, the abandoned Kerning Trucks found on the roadside can become useful weapons. " />
+	<key id="1020213401000776" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000777" feature="" npc="알리야르" name="I heard abandoned Kerning Trucks can be found on the roadside... Of course, they can be found other places as well. However, they may be difficult to locate. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000874" feature="" npc="알리야르" name="I heard abandoned Kerning Trucks can be found on the roadside... Of course, they can be found other places as well. However, they may be difficult to locate." />
+	<key id="1016135801000561" feature="" npc="알리야르" name="Well, did you try using Kerning Trucks as a weapon? Was it very effective?" />
+	<key id="1020213401000778" feature="" npc="pc" name="I hit the monsters so hard the truck exploded." />
+	<key id="1020213401000779" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Kerning Trucks..." />
+	<key id="1016135801000562" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, ordinary Igloos can be wielded to devastating effect. " />
+	<key id="1020213401000780" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000781" feature="" npc="알리야르" name="I heard Igloos can be found in areas with frigid cold weather... Of course, they can be found other places as well. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000875" feature="" npc="알리야르" name="I heard Igloos can be found in areas with frigid cold weather... Of course, they can be found other places as well." />
+	<key id="1016135801000563" feature="" npc="알리야르" name="Well, did you try using Igloos as a weapon? Was it very effective?" />
+	<key id="1020213401000782" feature="" npc="pc" name="It froze the monsters solid!" />
+	<key id="1020213401000783" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Glacial Houses..." />
+	<key id="1016135801000564" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, unattended public Shower Stalls can be wielded to devastating effect. " />
+	<key id="1020213401000784" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000785" feature="" npc="알리야르" name="I have heard that Shower Stalls crop up in all sorts of unusual places, so they won&apos;t be easy to find. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000876" feature="" npc="알리야르" name="I have heard that Shower Stalls crop up in all sorts of unusual places, so they won&apos;t be easy to find. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1016135801000565" feature="" npc="알리야르" name="Well, did you try using public Shower Stalls as a weapon? Was it very effective?" />
+	<key id="1020213401000786" feature="" npc="pc" name="Getting smacked with a shower rendered them all speechless." />
+	<key id="1020213401000787" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Shower Rooms..." />
+	<key id="1016135801000566" feature="" npc="알리야르" name="A true warrior knows how to take advantage of their surroundings. Sometimes, an improvised weapon is the best one. For example, unattended Public Toilets can be wielded to devastating effect. " />
+	<key id="1020213401000788" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000789" feature="" npc="알리야르" name="I have heard that Portable Toilets crop up in all sorts of unusual places, so they won&apos;t be easy to find. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000877" feature="" npc="알리야르" name="I have heard that Portable Toilets crop up in all sorts of unusual places, so they won&apos;t be easy to find." />
+	<key id="1016135801000567" feature="" npc="알리야르" name="Well, did you try using Portable Toilets as a weapon? Was it very effective?" />
+	<key id="1020213401000790" feature="" npc="pc" name="I think the monsters were as disgusted as they were shocked." />
+	<key id="1020213401000791" feature="" npc="알리야르" name="I see! Now if I could only find a way to package and sell Restrooms..." />
+	<key id="1016135801000568" feature="" npc="알리야르" name="I&apos;m sure you have encountered all sorts of objects that can be used as weapons, but some are much more powerful than others. For example, the EMP Bomb." />
+	<key id="1020213401000792" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000793" feature="" npc="알리야르" name="I&apos;ve heard EMP Bombs can be found in laboratories or factories... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000878" feature="" npc="알리야르" name="I&apos;ve heard EMP Bombs can be found in laboratories or factories... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000569" feature="" npc="알리야르" name="Well, did you try using EMP Bombs as a weapon? Was it very effective?" />
+	<key id="1020213401000794" feature="" npc="pc" name="It exploded the monsters real good." />
+	<key id="1020213401000795" feature="" npc="알리야르" name="I see! Maybe EMP Bombs are too dangerous for me to responsibly sell..." />
+	<key id="1016135801000570" feature="" npc="알리야르" name="I&apos;m sure you have encountered all sorts of objects that can be used as weapons, but some are much more powerful than others. For example, the Wind-Up Bomb." />
+	<key id="1020213401000796" feature="" npc="알리야르" name="An object&apos;s use is determined by the people who use it. Finding new uses for things is one of the way we merchants turn a profit. Maybe you could help me test something out..." />
+	<key id="1020213401000797" feature="" npc="알리야르" name="I&apos;ve heard Wind-up Bombs can be found in the areas north of $map:2000100$ affected by the spread of Ludibrium energy... Of course, I&apos;m sure you can find them elsewhere too. Would you mind investigating whether they make an effective weapon?" />
+	<key id="1022211001000879" feature="" npc="알리야르" name="I&apos;ve heard Wind-up Bombs can be found in the areas north of $map:2000100$ affected by the spread of Ludibrium energy... Of course, I&apos;m sure you can find them elsewhere too." />
+	<key id="1016135801000571" feature="" npc="알리야르" name="Well, did you try using Wind-Up Bombs as a weapon? Was it very effective?" />
+	<key id="1020213401000798" feature="" npc="pc" name="The bombs definitely packed a punch." />
+	<key id="1020213401000799" feature="" npc="알리야르" name="I see! Maybe Wind-Up Bombs are too dangerous for me to responsibly sell..." />
+	<key id="1016135801000572" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000800" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:22000045$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000801" feature="" npc="알리야르" name="Rumor has it, $npc:22000045$ is a persona split from the psyche of a knight with a dissociative identity disorder... They are said to appear in $map:02000262$. Please analyze $npc:22000045$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000880" feature="" npc="알리야르" name="Rumor has it, $npc:22000045$ is a persona split from the psyche of a knight with a dissociative identity disorder... They are said to appear in $map:02000262$. Please analyze $npc:22000045$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000573" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:22000045$! What did you learn?" />
+	<key id="1016135801000574" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000802" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:22090123$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000803" feature="" npc="알리야르" name="The $npc:22090123$ may look like a hunk of scrap metal, but I&apos;ve heard it&apos;s very dangerous. It is said to appear in $map:02000275$. Please analyze $npc:22090123$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000881" feature="" npc="알리야르" name="The $npc:22090123$ may look like a hunk of scrap metal, but I&apos;ve heard it&apos;s very dangerous. It is said to appear in $map:02000275$. Please analyze $npc:22090123$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000575" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:22090123$! What did you learn?" />
+	<key id="1016135801000576" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000804" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:22000052$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000805" feature="" npc="알리야르" name="Rumor has it, $npc:22000052$ grew feral after experiencing a childhood trauma... It are said to appear in $map:02000175$. Please analyze $npc:22000052$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000882" feature="" npc="알리야르" name="Rumor has it, $npc:22000052$ grew feral after experiencing a childhood trauma... It are said to appear in $map:02000175$. Please analyze $npc:22000052$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000577" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:22000052$! What did you learn?" />
+	<key id="1016135801000578" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000806" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000013[gender:0]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000807" feature="" npc="알리야르" name="Rumor has it, $npc:23000013[gender:0]$ is a mutant creature born from environmental pollution... It is said to appear in $map:02000084$. Please analyze $npc:23000013[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000883" feature="" npc="알리야르" name="Rumor has it, $npc:23000013[gender:0]$ is a mutant creature born from environmental pollution... It is said to appear in $map:02000084$. Please analyze $npc:23000013[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000579" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000013[gender:0]$! What did you learn?" />
+	<key id="1016135801000580" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000808" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000018$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000809" feature="" npc="알리야르" name="Rumor has it, the $npc:23000018$ disgorges a vile and deadly vomit... They are said to appear in $map:02000111$. Please analyze $npc:23000018$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000884" feature="" npc="알리야르" name="Rumor has it, the $npc:23000018$ disgorges a vile and deadly vomit... They are said to appear in $map:02000111$. Please analyze $npc:23000018$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000581" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000018$! What did you learn?" />
+	<key id="1016135801000582" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000810" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000001[gender:0]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000811" feature="" npc="알리야르" name="Rumor has it, $npc:23000001[gender:0]$ is a member of the Penumbran Host... It is said to appear in $map:02000115$. Please analyze $npc:23000001[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000885" feature="" npc="알리야르" name="Rumor has it, $npc:23000001[gender:0]$ is a member of the Penumbran Host... It is said to appear in $map:02000115$. Please analyze $npc:23000001[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000583" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000001[gender:0]$! What did you learn?" />
+	<key id="1016135801000584" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000812" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000019[gender:0]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000813" feature="" npc="알리야르" name="Rumor has it, $npc:23000019[gender:0]$ is driven by filial love... It is said to appear in $map:02000085$. Please analyze $npc:23000019[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000886" feature="" npc="알리야르" name="Rumor has it, $npc:23000019[gender:0]$ is driven by filial love... It is said to appear in $map:02000085$. Please analyze $npc:23000019[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000585" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000019[gender:0]$! What did you learn?" />
+	<key id="1016135801000586" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000814" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000008[gender:0]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000815" feature="" npc="알리야르" name="Rumor has it that $npc:23000008[gender:0]$ commands the $npcPlural:23000001[gender:0]$... I&apos;m afraid that&apos;s all I know.&#x0A;Please analyze $npc:23000008[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000887" feature="" npc="알리야르" name="Rumor has it that $npc:23000008[gender:0]$ commands the $npcPlural:23000001[gender:0]$... I&apos;m afraid that&apos;s all I know.&#x0A;Please analyze $npc:23000008[gender:0]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016135801000587" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000008[gender:0]$! What did you learn?" />
+	<key id="1016221201000598" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000816" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000054$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000817" feature="" npc="알리야르" name="Rumor has it, $npc:23000054$ is a failed prototype... They are said to appear in $map:02000145$. Please analyze $npc:23000054$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000888" feature="" npc="알리야르" name="Rumor has it, $npc:23000054$ is a failed prototype... They are said to appear in $map:02000145$. Please analyze $npc:23000054$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000599" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000054$! What did you learn?" />
+	<key id="1016221201000600" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000818" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000020[gender:1]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000819" feature="" npc="알리야르" name="Rumor has it, $npc:23000020[gender:1]$ is driven by the love of its late mother... It is said to appear in $map:02000088$. Please analyze $npc:23000020[gender:1]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000889" feature="" npc="알리야르" name="Rumor has it, $npc:23000020[gender:1]$ is driven by the love of its late mother... It is said to appear in $map:02000088$. Please analyze $npc:23000020[gender:1]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000601" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000020[gender:1]$! What did you learn?" />
+	<key id="1016221201000602" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000820" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000035$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000821" feature="" npc="알리야르" name="Rumor has it, Lo is controlling Moomoo to his own ends... The pair are said to appear in $map:02000103$. Please analyze $npc:23000035$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000890" feature="" npc="알리야르" name="Rumor has it, Lo is controlling Moomoo to his own ends... The pair are said to appear in $map:02000103$. Please analyze $npc:23000035$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000603" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000035$! What did you learn?" />
+	<key id="1016221201000604" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000822" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000099$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000823" feature="" npc="알리야르" name="Rumor has it, $npc:23000099$ is an amazing jumper, despite its heavy body... It is said to appear in $map:02000021$. Please analyze $npc:23000099$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000891" feature="" npc="알리야르" name="Rumor has it, $npc:23000099$ is an amazing jumper, despite its heavy body... It is said to appear in $map:02000021$. Please analyze $npc:23000099$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000605" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000099$! What did you learn?" />
+	<key id="1016221201000606" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000824" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000017$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000825" feature="" npc="알리야르" name="Rumor has it, $npc:23000017$&apos;s shell sports very menacing spikes... It is said to appear in $map:02000022$. Please analyze $npc:23000017$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000892" feature="" npc="알리야르" name="Rumor has it, $npc:23000017$&apos;s shell sports very menacing spikes... It is said to appear in $map:02000022$. Please analyze $npc:23000017$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000607" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000017$! What did you learn?" />
+	<key id="1016221201000608" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000826" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000024[gender:1]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000827" feature="" npc="알리야르" name="Rumor has it, $npc:23000024[gender:1]$ has siblings... It is said to appear in $map:02000181$. Please analyze $npc:23000024[gender:1]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000893" feature="" npc="알리야르" name="Rumor has it, $npc:23000024[gender:1]$ has siblings... It is said to appear in $map:02000181$. Please analyze $npc:23000024[gender:1]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000609" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000024[gender:1]$! What did you learn?" />
+	<key id="1016221201000610" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000828" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000047$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000829" feature="" npc="알리야르" name="Rumor has it, $npc:23000047$ is the faithful servant to a certain witch... It is said to appear in $map:02000214$. Please analyze $npc:23000047$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000894" feature="" npc="알리야르" name="Rumor has it, $npc:23000047$ is the faithful servant to a certain witch... It is said to appear in $map:02000214$. Please analyze $npc:23000047$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000611" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000047$! What did you learn?" />
+	<key id="1016221201000612" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000830" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000034$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000831" feature="" npc="알리야르" name="Rumor has it, Toh is controlling Googoo to his own ends... The pair are said to appear in $map:02000169$. Please analyze $npc:23000034$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000895" feature="" npc="알리야르" name="Rumor has it, Toh is controlling Googoo to his own ends... The pair are said to appear in $map:02000169$. Please analyze $npc:23000034$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000613" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000034$! What did you learn?" />
+	<key id="1016221201000614" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000832" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000045$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000833" feature="" npc="알리야르" name="Rumor has it, $npc:23000045$ is a very violent and savage Cerberus... It is said to appear in $map:02000044$. Please analyze $npc:23000045$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000896" feature="" npc="알리야르" name="Rumor has it, $npc:23000045$ is a very violent and savage Cerberus... It is said to appear in $map:02000044$. Please analyze $npc:23000045$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000615" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000045$! What did you learn?" />
+	<key id="1016221201000616" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000834" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000026[gender:1]$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000835" feature="" npc="알리야르" name="Rumor has it, $npc:23000026[gender:1]$ has siblings... It is said to appear in $map:02000260$. Please analyze $npc:23000026[gender:1]$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000897" feature="" npc="알리야르" name="Rumor has it, $npc:23000026[gender:1]$ has siblings... It is said to appear in $map:02000260$. Please analyze $npc:23000026[gender:1]$&apos;s strengths and weaknesses, so that I can document them for my guide." />
+	<key id="1016221201000617" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000026[gender:1]$! What did you learn?" />
+	<key id="1016221201000618" feature="" npc="알리야르" name='&lt;font color=&quot;#909090&quot;&gt;(He sighs.)&lt;/font&gt;&#x0A;My monster compendium has turned out to be a much bigger task than I realized... I&apos;m not sure I&apos;ll ever finish it! In the interim, I&apos;ve decided to create an illustrated booklet that focuses only on very powerful adversaries. What do you say, will you help me with the data collection?' />
+	<key id="1021215901000836" feature="" npc="알리야르" name="While I was tinkering with my idea for a digest on powerful and notorious foes, I heard of one named $npc:23000012$. If you could analyze their special attacks and weaknesses, my illustrated booklet will be a best seller for sure! " />
+	<key id="1021215901000837" feature="" npc="알리야르" name="Rumor has it, $npc:23000012$ freezes everything it touches... It is said to appear in $map:02000176$. Please analyze $npc:23000012$&apos;s strengths and weaknesses, so that I can document them for my guide. Of course, anything else you learn about them would be welcome information indeed." />
+	<key id="1022211001000898" feature="" npc="알리야르" name="Rumor has it, $npc:23000012$ freezes everything it touches... It is said to appear in $map:02000176$. Please analyze $npc:23000012$&apos;s strengths and weaknesses, so that I can document them for my guide.&#x0A;" />
+	<key id="1016221201000619" feature="" npc="알리야르" name="You&apos;re alive! You&apos;d been gone so long I thought something had happened.... Well, tell me about your encounter with $npc:23000012$! What did you learn?" />
+	<key id="1016135801000588" feature="" npc="알리야르" name="Have you heard of $map:2000325$? It is said to be the ultimate challenge! Surely there&apos;s no better way to hone your combat skills." />
+	<key id="1023190701000899" feature="" npc="알리야르" name="Why not go there and test your mettle? And... while you&apos;re there, perhaps you can collect some data on the unique monsters that appear there, for my book? I would be very grateful, of course! What do you say, will you take on $map:2000325$?" />
+	<key id="1026122901000946" feature="" npc="알리야르" name="Weren&apos;t you going to challenge $map:2000325$? You can get there by way of $map:02000217$." />
+	<key id="1016135801000589" feature="" npc="알리야르" name="Tell me, did you discover any rare and unusual monsters? What were they like?" />
+	<key id="1023190701000900" feature="" npc="pc" name="There were a bunch of powerful spirits. They didn&apos;t go down without a fight." />
+	<key id="1023190701000901" feature="" npc="알리야르" name="Ah, I see. Spirits... Well, in any case, I&apos;m glad you returned from the trial none the worse for the wair." />
+	<key id="1016135801000590" feature="" npc="알리야르" name="Have you heard the rumors about the &lt;b&gt;time machine&lt;/b&gt;?&#x0A;That&apos;s right! A time machine is being developed in $map:2000298$!" />
+	<key id="1023190701000902" feature="" npc="알리야르" name="Can you &lt;i&gt;imagine&lt;/i&gt; everything I could do with a time machine? ...I could sell them, and get filthy rich! A time machine in every home! Forget to pick up the kids? Go back in time! Do something embarrassing at work? Jump forward to when everyone&apos;s forgotten! I can&apos;t see a single flaw in my plan." />
+	<key id="1023190701000903" feature="" npc="알리야르" name='I&apos;ve heard the time machine is located in the deepest room within $map:2000298$. They call the place the &quot;$map:02000304$&quot; or something…  Anyway, go and see for yourself if this time machine is the real thing!' />
+	<key id="1026122901000947" feature="" npc="알리야르" name="I have to know, is the time machine real?! Hurry up and go to $map:02000304$ and find out!" />
+	<key id="1016135801000591" feature="" npc="알리야르" name="You&apos;re back! Well, was there really a time machine?!" />
+	<key id="1023190701000904" feature="" npc="pc" name="So... there is a time machine, but no one should ever, ever own one." />
+	<key id="1023190701000905" feature="" npc="알리야르" name="W-what? Oh... How disappointing. I was so excited about being the exclusive vendor of time machines..." />
+	<key id="1016135801000592" feature="" npc="알리야르" name="Have you heard the rumors? A Vayarian who disappeared long ago has resurfaced at $map:02000191$. If what they say is true, its body is covered in chunks of ice imbued with magical, disease-curing powers! I&apos;m not sure how they discovered that... " />
+	<key id="1023190701000906" feature="" npc="알리야르" name="I know it&apos;s a big favor to ask, but do you think you could retrieve some of that magic ice for me? If the rumors are true, the commercial implications are staggering!" />
+	<key id="1026122901000948" feature="" npc="알리야르" name="I know it&apos;s a big favor to ask, but do you think you could retrieve some of that magic ice for me? I know it won&apos;t be easy separating it from the giant&apos;s body..." />
+	<key id="1016135801000593" feature="" npc="알리야르" name="You&apos;re back! Did you bring me some magic ice?" />
+	<key id="1023190701000907" feature="" npc="pc" name="I couldn&apos;t collect any ice, but it didn&apos;t have a medicinal use anyway." />
+	<key id="1023190701000908" feature="" npc="알리야르" name="Is that so? Oh dear... I guess the rumors were false. Well, it&apos;s back to the drawing board..." />
+	<key id="1016135801000594" feature="" npc="알리야르" name="Have you heard? $npc:23100033$, who appear in $map:2000098$, have fur whose softness and warmth cannot be matched! If I were to line boots with their fur, it would be an incredible hit!" />
+	<key id="1023190701000909" feature="" npc="알리야르" name="I&apos;ve seen a number of strong adventurers toting around hats and garments woven from their fur. But these creatures are violent. Shearing the beasts and making it out with your life is no easy task, so I haven&apos;t been able to get my hands on any. If you could bring me some of their fur so that I could verify these rumors, I would be most grateful." />
+	<key id="1026122901000949" feature="" npc="알리야르" name="Please investigate whether $npc:23100033$&apos;s fur is as soft and warm as people say. If you can, bring me back some. You can find them at $map:2000098$." />
+	<key id="1016135801000595" feature="" npc="알리야르" name="Well, was $npc:23100033$&apos;s fur as cozy as described?" />
+	<key id="1023190701000910" feature="" npc="pc" name="It &lt;i&gt;was&lt;/i&gt; soft, but they were too violent for me to bring back a sample." />
+	<key id="1023190701000911" feature="" npc="알리야르" name="Ah… If you had brought me some, I would&apos;ve been able to see for myself. A pity. If you should happen to get a hold of some of $npc:23100033$&apos;s fur in the future, I&apos;d be grateful if you would bring it here for me to see." />
+	<key id="0523110101001211" feature="" npc="알리야르" name="Have you heard of the ancient shaman who wields a dark and terrible magic? I speak of course of $npc:24002005$." />
+	<key id="0523110101001212" feature="" npc="알리야르" name="I was wondering if I could harness that magic to help me lift heavy objects and restock the shelves... Although i worry that using such dark magic could drive me insane. I know! All I have to do is investigate whether $npc:24002005$ seems like a well-adjusted person." />
+	<key id="0523110101001213" feature="" npc="알리야르" name="Would you go to $map:02010047$ in $map:02010054$ and see if $npc:24002005$&apos;s mind has been affected by the use of dark magic?" />
+	<key id="0523110101001214" feature="" npc="알리야르" name="Well, was $npc:24002005$&apos;s still in their right mind? Is their dark magic safe to use?" />
+	<key id="0523110101001215" feature="" npc="pc" name="Considering he tried to take control of my mind, I&apos;m going to say no." />
+	<key id="0523110101001216" feature="" npc="알리야르" name="Ah... R-Really? Hm... If it&apos;s that dangerous... Maybe I should just stick to lifting things the old-fashioned way." />
+	<key id="1023190701000915" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000915_NAME" />
+	<key id="1023190701000916" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000916_NAME" />
+	<key id="1023190701000917" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000917_NAME" />
+	<key id="1023190701000918" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000918_NAME" />
+	<key id="1026122901000951" feature="" npc="알리야르" name="SCRIPTQUESTSON_1026122901000951_NAME" />
+	<key id="1023190701000919" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000919_NAME" />
+	<key id="1023190701000920" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000920_NAME" />
+	<key id="1023190701000921" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000921_NAME" />
+	<key id="1023190701000922" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000922_NAME" />
+	<key id="1023190701000923" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000923_NAME" />
+	<key id="1023190701000924" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000924_NAME" />
+	<key id="1023190701000925" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000925_NAME" />
+	<key id="1026122901000952" feature="" npc="알리야르" name="SCRIPTQUESTSON_1026122901000952_NAME" />
+	<key id="1023190701000926" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000926_NAME" />
+	<key id="1023190701000927" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000927_NAME" />
+	<key id="1023190701000928" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000928_NAME" />
+	<key id="1023190701000929" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000929_NAME" />
+	<key id="1023190701000930" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000930_NAME" />
+	<key id="1026122901000953" feature="" npc="알리야르" name="SCRIPTQUESTSON_1026122901000953_NAME" />
+	<key id="1023190701000931" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000931_NAME" />
+	<key id="1023190701000932" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000932_NAME" />
+	<key id="1023190701000933" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000933_NAME" />
+	<key id="1023190701000934" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000934_NAME" />
+	<key id="1023190701000935" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000935_NAME" />
+	<key id="1026122901000954" feature="" npc="알리야르" name="SCRIPTQUESTSON_1026122901000954_NAME" />
+	<key id="1023190701000936" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000936_NAME" />
+	<key id="1023190701000937" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000937_NAME" />
+	<key id="1023190701000938" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000938_NAME" />
+	<key id="1023190701000939" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000939_NAME" />
+	<key id="1023190701000940" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000940_NAME" />
+	<key id="1023190701000941" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000941_NAME" />
+	<key id="1023190701000942" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000942_NAME" />
+	<key id="1026122901000955" feature="" npc="알리야르" name="SCRIPTQUESTSON_1026122901000955_NAME" />
+	<key id="1023190701000943" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000943_NAME" />
+	<key id="1023190701000944" feature="" npc="pc" name="SCRIPTQUESTSON_1023190701000944_NAME" />
+	<key id="1023190701000945" feature="" npc="알리야르" name="SCRIPTQUESTSON_1023190701000945_NAME" />
+	<key id="0401111101000956" feature="" npc="코디아" name="I&apos;m so glad I finally get to meet you!" />
+	<key id="0401111101000957" feature="" npc="코디아" name="Did you know that outfits can be enhanced with sockets? It&apos;s true!" />
+	<key id="0401111101000959" feature="" npc="코디아" name="You can embed sockets in standard outfits. Suits that take up two equipment slots get twice as many! Once socketed, you can put lumistones in your outfits for a little boost. Of course, you need $itemPlural:40100027$ to even get started." />
+	<key id="0401111101000960" feature="" npc="pc" name="Putting sockets in gear is tough enough..." />
+	<key id="0401111101000961" feature="" npc="코디아" name="I can&apos;t help you with that. But I can tell you all about special outfit crystals!" />
+	<key id="0401111101000962" feature="" npc="pc" name="This is starting to sound like a sales pitch." />
+	<key id="0401111101000963" feature="" npc="코디아" name="D-don&apos;t go! If I don&apos;t finish my lesson, I&apos;ll get fired!" />
+	<key id="0401111101000964" feature="" npc="pc" name="Fine. Where can I get these amazing crystals?" />
+	<key id="0401111101000965" feature="" npc="코디아" name="Wh-what an excellent question. I&apos;m glad you asked! So, you just go and... you get them..." />
+	<key id="0401111101000966" feature="" npc="pc" name="You get them... where?" />
+	<key id="0401111101000967" feature="" npc="코디아" name="I... I forget..." />
+	<key id="0405180601001112" feature="" npc="코디아" name="Breathe, $npcName:11001612$, breathe! I&apos;ll just... read you this pamphlet..." />
+	<key id="0405180601001113" feature="" npc="코디아" name='&quot;You can get special outfit crystals from the premium shop or by using Lulu&apos;s key. You can also get them by dismantling most outfits—even outfits that have expired!&quot;' />
+	<key id="0405180601001114" feature="" npc="코디아" name='&quot;The item&apos;s rarity and type will determine how many special outfit crystals you receive. There are some outfits that can&apos;t be dismantled, but they are rare. The item&apos;s tooltip should tell you everything you need to know.&quot;' />
+	<key id="0405180601001115" feature="" npc="pc" name="That&apos;s a lot to take in." />
+	<key id="0405180601001116" feature="" npc="코디아" name="Uh... Did you get all that?" />
+	<key id="0405180601001117" feature="" npc="pc" name="Let&apos;s say I did and move on." />
+	<key id="0405180601001118" feature="" npc="코디아" name="Thanks for your patience. There&apos;s just a little more I have to read... If you listen to the end, I&apos;ll give you an extremely nice gift!" />
+	<key id="0405180601001119" feature="" npc="pc" name="A gift? I like gifts." />
+	<key id="0405180601001120" feature="" npc="코디아" name='&quot;When you dismantle a outfit with additional sockets, half of the crystals used to purchase the expansion will be returned to you.&quot; Uh... I can&apos;t seem to remember how many are returned to you... Anyways, it&apos;s a lot!' />
+	<key id="0405180601001121" feature="" npc="pc" name="Is that it?" />
+	<key id="0405180601001122" feature="" npc="코디아" name='There&apos;s just one more line! &quot;Designed outfits cannot be dismantled unless they have first been socketed.&quot; There! I&apos;m done. Please tell my boss I did a good job!' />
+	<key id="0405180601001123" feature="" npc="pc" name="You really take this job seriously, don&apos;t you?" />
+	<key id="0405180601001124" feature="" npc="코디아" name="Unemployment is no joke! What with everything getting automated these days, it&apos;s hard to find steady work! Anyways, thanks for listening." />
+	<key id="0407114101001181" feature="" npc="프레이" name="You&apos;re under a lot of pressure. I hope you know how much everyone is counting on you." />
+	<key id="0407114101001182" feature="" npc="pc" name="I&apos;ll try not to disappoint." />
+	<key id="0407114101001183" feature="" npc="프레이" name="The empress has prepared a special gift for you, as thanks for everything you&apos;ve done. It would be rude of you not to accept it." />
+	<key id="0407114101001184" feature="" npc="pc" name="Aww, shucks. It was nothing." />
+	<key id="0407114101001185" feature="" npc="프레이" name="$npcName:11000005[gender:1]$ will be waiting in $map:02000031$ to present your gift. I&apos;ve heard it&apos;s something else." />
+	<key id="0407114101001186" feature="" npc="앤" name="Oh, $MyPCName$! I&apos;ve been waiting for you. The empress asked me to deliver this rare gift." />
+	<key id="0412201401001200" feature="" npc="앤" name="The empress tasked me with delivering this lumistone to you, $MyPCName$. With it, she passes on her blessings, and her profound hope for your future." />
+	<key id="0412201401001201" feature="" npc="앤" name="You must have done something quite noble and exceptional for the empress to bestow you with such a rare gift... $MyPCName$, you must feel so honored." />
+	<key id="0412201401001202" feature="" npc="pc" name="Err... What&apos;s this lumistone again, and why&apos;s it so great?" />
+	<key id="0412201401001203" feature="" npc="앤" name="W-why is a lumistone so great? It&apos;s... a lumistone! Have you really not heard of them before?" />
+	<key id="0412201401001204" feature="" npc="pc" name="What makes this lumistone so rare?" />
+	<key id="0412201401001205" feature="" npc="pc" name="What&apos;s so special about lumistone?" />
+	<key id="0412201401001206" feature="" npc="앤" name="If you don&apos;t appreciate it, I&apos;d be happy to... No. No, that won&apos;t do..." />
+	<key id="0412201401001207" feature="" npc="앤" name="I will not disobey the empress. You clearly have no concept of the value and use of lumistones, I will be happy to answer any questions you might have." />
+	<key id="0412201401001208" feature="" npc="앤" name="I&apos;m sure once you understand what it is you hold, you will appreciate what an incredible gift this is. And what exceptional quality... Frankly I&apos;m jealous. I&apos;d be happy to take the stone of your hand, if you don&apos;t want it." />
+	<key id="0412201401001209" feature="" npc="pc" name="Huh?" />
+	<key id="0412201401001210" feature="" npc="앤" name="Ha... Hahaha... Nevermind. That is a rare gift indeed, please make good use of it!" />
+</ms2>

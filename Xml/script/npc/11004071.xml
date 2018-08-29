@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<select id="0" feature="" locale="NA">
+		<content text="$script:0619202207010155$" />
+	</select>
+	<script randomPick="1" id="10" feature="" locale="NA">
+		<content text="$script:0619202207010156$" />
+		<content text="$script:0619202207010157$">
+			<distractor text="$script:0619202207010158$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="" locale="NA">
+		<content text="$script:0619202207010159$">
+			<distractor text="$script:0619202207010160$" goto="32" gotoFail="" />
+		</content>
+	</script>
+	<script id="32" feature="" locale="NA">
+		<content text="$script:0619202207010161$">
+			<distractor text="$script:0619202207010162$" goto="33" gotoFail="" />
+		</content>
+	</script>
+	<script id="33" feature="" locale="NA">
+		<content text="$script:0619202207010163$">
+			<distractor text="$script:0619202207010164$" goto="34" gotoFail="" />
+		</content>
+	</script>
+	<script id="34" feature="" locale="NA">
+		<content text="$script:0619202207010165$">
+			<distractor text="$script:0619202207010166$" goto="35" gotoFail="" />
+		</content>
+	</script>
+	<script id="35" feature="" locale="NA">
+		<content text="$script:0619202207010167$">
+			<distractor text="$script:0619202207010168$" goto="36" gotoFail="" />
+		</content>
+	</script>
+	<script id="36" feature="" locale="NA">
+		<content text="$script:0619202207010169$" />
+	</script>
+</ms2>

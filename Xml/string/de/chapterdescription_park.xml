@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <chapter id="4000" name="Der verschollene Bruder" isTutorial="" regionID="" />
+  <chapter id="4001" name="Kinder in Not" isTutorial="" regionID="" />
+  <chapter id="4002" name="Die TV-Krise" isTutorial="" regionID="" />
+  <chapter id="4003" name="Entfesselung der Unendlichkeit" isTutorial="" regionID="" />
+  <chapter id="4004" name="Ein Neuling gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4005" name="Ein Ritter gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4006" name="Ein Berserker gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4007" name="Ein Magier gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4008" name="Ein Priester gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4009" name="Ein Bogenschütze gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4010" name="Ein Kanonier gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4011" name="Ein Bandit gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4012" name="Ein Assassine gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4013" name="Der Neuling und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4014" name="Der Ritter und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4015" name="Der Berserker und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4016" name="Der Magier und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4017" name="Der Priester und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4018" name="Der Bogenschütze und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4019" name="Der Kanonier und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4020" name="Der Bandit und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4021" name="Der Assassine und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4022" name="Ein Runenfechter gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4023" name="Der Runenfechter und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4024" name="Das verschollene Mädchen" isTutorial="" regionID="" />
+  <chapter id="4025" name="Das Mädchen und ihr Geheimnis" isTutorial="" regionID="" />
+  <chapter id="4026" name="Ein methodischer Kapitän" isTutorial="" regionID="" />
+  <chapter id="4027" name="Auf der Suche nach dem Mondschatten" isTutorial="" regionID="" />
+  <chapter id="4028" name="Der niedliche Schein trügt" isTutorial="" regionID="" />
+  <chapter id="4029" name="Der Test der Erdmännchenpatrouille" isTutorial="" regionID="" />
+  <chapter id="4030" name="Blaue Strahlen in der Wüste" isTutorial="" regionID="" />
+  <chapter id="4031" name="Der mehrdimensionale Strahl" isTutorial="" regionID="" />
+  <chapter id="4032" name="Sternenblumen in Blüte" isTutorial="" regionID="" />
+  <chapter id="4033" name="Die brennende Kraft eines Neulings" isTutorial="" regionID="" />
+  <chapter id="4034" name="Die brennende Kraft eines Ritters" isTutorial="" regionID="" />
+  <chapter id="4035" name="Die brennende Kraft eines Berserkers" isTutorial="" regionID="" />
+  <chapter id="4036" name="Die brennende Kraft eines Magiers" isTutorial="" regionID="" />
+  <chapter id="4037" name="Die brennende Kraft eines Priesters" isTutorial="" regionID="" />
+  <chapter id="4038" name="Die brennende Kraft eines Bogenschützen" isTutorial="" regionID="" />
+  <chapter id="4039" name="Die brennende Kraft eines Kanoniers" isTutorial="" regionID="" />
+  <chapter id="4040" name="Die brennende Kraft eines Banditen" isTutorial="" regionID="" />
+  <chapter id="4041" name="Die brennende Kraft eines Assassinen" isTutorial="" regionID="" />
+  <chapter id="4042" name="Die brennende Kraft eines Runenfechters" isTutorial="" regionID="" />
+  <chapter id="4043" name="Ein Versprechen und Hoffnung" isTutorial="" regionID="" />
+  <chapter id="4044" name="Leute in Not" isTutorial="" regionID="" />
+  <chapter id="4045" name="Des Bruders Medizin" isTutorial="" regionID="" />
+  <chapter id="4046" name="Das Erwachen der Kraft" isTutorial="" regionID="" />
+  <chapter id="4047" name="Die Kraft wird stärker" isTutorial="" regionID="" />
+  <chapter id="4048" name="Die Katastrophe" isTutorial="" regionID="" />
+  <chapter id="4049" name="Ein unbekanntes Licht" isTutorial="" regionID="" />
+  <chapter id="4050" name="Ein Schläger gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4051" name="Der Schläger und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4052" name="Die brennende Kraft eines Schlägers" isTutorial="" regionID="" />
+  <chapter id="4053" name="Ein Seelenfessler gegen die Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4054" name="Der Seelenfessler und der Fluch " isTutorial="" regionID="" />
+  <chapter id="4055" name="Die brennende Kraft eines Seelenfesslers" isTutorial="" regionID="" />
+  <chapter id="4056" name="Schattenexpedition" isTutorial="" regionID="" />
+  <chapter id="4057" name="Merkwürdige Leute an einem merkwürdigen Ort" isTutorial="" regionID="" />
+  <chapter id="4058" name="Ein kleiner Hinweis" isTutorial="" regionID="" />
+  <chapter id="4059" name="Der Fährte auf der Spur" isTutorial="" regionID="" />
+  <chapter id="4060" name="Maplesoft-Informationen" isTutorial="" regionID="" />
+  <chapter id="4061" name="Munakras Licht" isTutorial="" regionID="" />
+  <chapter id="4062" name="Ein Treffen unter dem Ahornbaum" isTutorial="" regionID="" />
+  <chapter id="4063" name="Tag der offenen Tür" isTutorial="" regionID="" />
+  <chapter id="4064" name="Auf dem Weg nach Tria" isTutorial="" regionID="" />
+  <chapter id="4065" name="Gerüchte und ein Hinterhalt" isTutorial="" regionID="" />
+  <chapter id="4066" name="Eine Wache in Not" isTutorial="" regionID="" />
+  <chapter id="4067" name="Die Situation bei der Basteispitze" isTutorial="" regionID="" />
+  <chapter id="4068" name="Kriegsbotrebellion" isTutorial="" regionID="" />
+  <chapter id="4069" name="Wachturm" isTutorial="" regionID="" />
+  <chapter id="4070" name="Der heilige Vogel" isTutorial="" regionID="" />
+  <chapter id="4071" name="Die Ursache für das Feuer" isTutorial="" regionID="" />
+  <chapter id="4072" name="Film ab!" isTutorial="" regionID="" />
+  <chapter id="4073" name="Das Lied des Meeres" isTutorial="" regionID="" />
+  <chapter id="4074" name="Die gefrorene Legende" isTutorial="" regionID="" />
+  <chapter id="4075" name="Ein böses Omen" isTutorial="" regionID="" />
+  <chapter id="4076" name="Die Dunkelheit breitet sich aus" isTutorial="" regionID="" />
+  <chapter id="4077" name="Angriff der Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4078" name="Gefallene Flügel" isTutorial="" regionID="" />
+  <chapter id="4079" name="Die dunkle Seite der Kraft" isTutorial="" regionID="" />
+  <chapter id="4080" name="Licht und Dunkelheit" isTutorial="" regionID="" />
+  <chapter id="4081" name="Der Anfang eines Rätsels" isTutorial="" regionID="" />
+  <chapter id="4082" name="Zerbrochene Zeit" isTutorial="" regionID="" />
+  <chapter id="4083" name="Die Suche nach Antworten" isTutorial="" regionID="" />
+  <chapter id="4084" name="Die verborgene Wahrheit" isTutorial="" regionID="" />
+  <chapter id="4085" name="CHAPTERDESCRIPTION_4085_NAME:[F]Timaion01" isTutorial="" regionID="" feature="Timaion01" />
+  <chapter id="4086" name="CHAPTERDESCRIPTION_4086_NAME:[F]Timaion01" isTutorial="" regionID="" feature="Timaion01" />
+  <chapter id="4087" name="CHAPTERDESCRIPTION_4087_NAME:[F]Timaion01" isTutorial="" regionID="" feature="Timaion01" />
+  <chapter id="4088" name="CHAPTERDESCRIPTION_4088_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="4089" name="CHAPTERDESCRIPTION_4089_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="4090" name="CHAPTERDESCRIPTION_4090_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+</ms2>

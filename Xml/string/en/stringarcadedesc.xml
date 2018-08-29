@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="Vile pests are attacking the farm, and only you can stop them! Plant springy seeds to send these baddies flying." feature="ArcadeSpringFarm" />
+	<key id="2" name="Angry monkeys ahoy! It&apos;s a simian brawl above the sea. Don&apos;t let these monkeys hit you with their produce!" feature="ArcadeCrazyMonkeyOcean" />
+	<key id="3" name="" feature="" />
+	<key id="4" name="" feature="" />
+	<key id="5" name="" feature="" />
+	<key id="6" name="" feature="" />
+	<key id="7" name="" feature="" />
+	<key id="8" name="" feature="" />
+	<key id="9" name="" feature="" />
+</ms2>

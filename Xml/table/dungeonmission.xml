@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<DungeonMission id="20004000" feature="DungeonRank01" type="LastHitNpc" value1="23090005" maxScore="200" applyCount="1" />
+	<DungeonMission id="20004001" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="80004001" feature="DungeonRank01" type="PlayTime" value1="300" value2="1200" maxScore="280" />
+	<DungeonMission id="90004001" feature="DungeonRank01" type="PlayTime" value1="180" value2="420" maxScore="280" />
+	<DungeonMission id="20004002" feature="DungeonRank01" type="DamageBySkill" value1="70000002" value2="2" maxScore="200" applyCount="10" isPenaltyType="1" />
+	<DungeonMission id="20004003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20004003" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20004004" feature="DungeonRank01" type="DamageBySkill" value1="99999965" maxScore="50" applyCount="10" isPenaltyType="1" />
+	<DungeonMission id="20004005" feature="DungeonRank01" type="DamageBySkill" value1="50100367" value2="2" maxScore="50" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23004000" feature="DungeonRank01" type="LastHitNpc" value1="23290005" maxScore="200" applyCount="1" />
+	<DungeonMission id="23004001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="23004002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="83004001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="83004002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="23004003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23004003" feature="DungeonRank01" type="DeathCount" maxScore="1100" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23004004" feature="DungeonRank01" type="DamageBySkill" value1="99999965" maxScore="400" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23004005" feature="DungeonRank01" type="DamageBySkill" value1="50100376" value2="5" maxScore="200" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="20014000" feature="DungeonRank01" type="LastHitNpc" value1="23000011" maxScore="200" applyCount="1" />
+	<DungeonMission id="20014001" feature="DungeonRank01" type="PlayTime" value1="300" value2="780" maxScore="350" />
+	<DungeonMission id="80014001" feature="DungeonRank01" type="PlayTime" value1="780" value2="540" maxScore="330" />
+	<DungeonMission id="90014001" feature="DungeonRank01" type="PlayTime" value1="180" value2="420" maxScore="330" />
+	<DungeonMission id="20014002" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20014002" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20014003" feature="DungeonRank01" type="GainBuff" value1="50000949" maxScore="150" applyCount="3" />
+	<DungeonMission id="20014004" feature="DungeonRank01" type="DamageBySkill" value1="50100784" maxScore="40" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="20014005" feature="DungeonRank01" type="DamageBySkill" value1="50100785" maxScore="60" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="20016000" feature="DungeonRank01" type="LastHitNpc" value1="23000052" maxScore="200" applyCount="1" />
+	<DungeonMission id="20016001" feature="DungeonRank01" type="PlayTime" value1="300" value2="780" maxScore="350" />
+	<DungeonMission id="80016001" feature="DungeonRank01" type="PlayTime" value1="300" value2="1200" maxScore="330" />
+	<DungeonMission id="20016002" feature="DungeonRank01" type="GainBuff" value1="50000081" maxScore="150" applyCount="30" isPenaltyType="1" />
+	<DungeonMission id="20016003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20016003" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20016004" feature="DungeonRank01" type="DamageBySkill" value1="50101154,50101155" maxScore="60" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20016005" feature="DungeonRank01" type="DamageBySkill" value1="99999883" maxScore="40" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20018000" feature="DungeonRank01" type="LastHitNpc" value1="23000068" maxScore="200" applyCount="1" />
+	<DungeonMission id="20018001" feature="DungeonRank01" type="PlayTime" value1="300" value2="780" maxScore="350" />
+	<DungeonMission id="80018001" feature="DungeonRank01" type="PlayTime" value1="300" value2="1200" maxScore="330" />
+	<DungeonMission id="20018002" feature="DungeonRank01" type="LastHitNpc" maxScore="150" applyCount="30" />
+	<DungeonMission id="20018003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20018003" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20018004" feature="DungeonRank01" type="DamageBySkill" value1="50101114" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20018005" feature="DungeonRank01" type="DamageBySkill" value1="99999876" maxScore="50" applyCount="10" isPenaltyType="1" />
+	<DungeonMission id="23018000" feature="DungeonRank01" type="LastHitNpc" value1="23200068" maxScore="400" applyCount="1" />
+	<DungeonMission id="23018001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="83018001" feature="DungeonRank01" type="PlayTime" value1="720" value2="180" maxScore="200" />
+	<DungeonMission id="23018002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="83018002" feature="DungeonRank01" type="PlayTime" value1="540" value2="360" maxScore="300" />
+	<DungeonMission id="23018003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23018003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23018004" feature="DungeonRank01" type="DamageBySkill" value1="50101114" maxScore="400" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23018005" feature="DungeonRank01" type="DamageBySkill" value1="99999876" maxScore="200" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="20019000" feature="DungeonRank01" type="LastHitNpc" value1="23000080" maxScore="200" applyCount="1" />
+	<DungeonMission id="20019001" feature="DungeonRank01" type="PlayTime" value1="300" value2="780" maxScore="350" />
+	<DungeonMission id="80019001" feature="DungeonRank01" type="PlayTime" value1="300" value2="1200" maxScore="330" />
+	<DungeonMission id="20019002" feature="DungeonRank01" type="GainBuff" value1="50000440,50001550,60052031" maxScore="150" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20019003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20019003" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20019004" feature="DungeonRank01" type="DamageBySkill" value1="99999864" maxScore="50" applyCount="10" isPenaltyType="1" />
+	<DungeonMission id="20019005" feature="DungeonRank01" type="DamageBySkill" value1="99999863" maxScore="50" applyCount="10" isPenaltyType="1" />
+	<DungeonMission id="23019000" feature="DungeonRank01" type="LastHitNpc" value1="23200080" maxScore="400" applyCount="1" />
+	<DungeonMission id="23019001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="23019002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="23019003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23019004" feature="DungeonRank01" type="DamageBySkill" value1="99999864" maxScore="300" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23019005" feature="DungeonRank01" type="DamageBySkill" value1="99999863" maxScore="300" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="20020000" feature="DungeonRank01" type="LastHitNpc" value1="23000082" maxScore="200" applyCount="1" />
+	<DungeonMission id="20020001" feature="DungeonRank01" type="PlayTime" value1="300" value2="780" maxScore="350" />
+	<DungeonMission id="80020001" feature="DungeonRank01" type="PlayTime" value1="300" value2="1200" maxScore="330" />
+	<DungeonMission id="20020002" feature="DungeonRank01" type="GainBuff" value1="50001651" maxScore="150" applyCount="15" isPenaltyType="1" />
+	<DungeonMission id="20020003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20020003" feature="DungeonRank01" type="DeathCount" maxScore="420" applyCount="6" isPenaltyType="1" />
+	<DungeonMission id="20020004" feature="DungeonRank01" type="DamageBySkill" value1="50000560" maxScore="60" applyCount="10" isPenaltyType="1" />
+	<DungeonMission id="20020005" feature="DungeonRank01" type="DamageBySkill" value1="50000580" maxScore="40" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23020001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="23020002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="23020003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23020004" feature="DungeonRank01" type="DamageBySkill" value1="50000560" maxScore="360" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23020005" feature="DungeonRank01" type="DamageBySkill" value1="50000580" maxScore="240" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="20021001" feature="DungeonRank01" type="PlayTime" value1="300" value2="480" maxScore="350" />
+	<DungeonMission id="20021002" feature="DungeonRank01" type="GainBuff" value1="50001405,50001406,50001411" maxScore="150" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20021003" feature="DungeonRank01" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20021004" feature="DungeonRank01" type="DamageBySkill" value1="50001105" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20021005" feature="DungeonRank01" type="DamageBySkill" value1="50001110" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23021000" feature="DungeonRank01" locale="KR" type="LastHitNpc" value1="23000114" maxScore="1000" applyCount="1" />
+	<DungeonMission id="23021001" feature="DungeonRank01" locale="KR" type="PlayTime" value1="0" value2="420" maxScore="410" />
+	<DungeonMission id="23021003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="440" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23021004" feature="DungeonRank01" locale="KR" type="GainBuff" value1="50001405,50001406,50001411" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23021005" feature="DungeonRank01" locale="KR" type="DamageBySkill" value1="50001105" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23021006" feature="DungeonRank01" locale="KR" type="DamageBySkill" value1="50001110" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23021000" feature="DungeonRank01" type="LastHitNpc" value1="23000114" maxScore="1200" applyCount="1" />
+	<DungeonMission id="23021001" feature="DungeonRank01" type="PlayTime" value1="0" value2="420" maxScore="500" />
+	<DungeonMission id="23021003" feature="DungeonRank01" type="DeathCount" maxScore="520" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23021004" feature="DungeonRank01" type="GainBuff" value1="50001405,50001406,50001411" maxScore="60" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23021005" feature="DungeonRank01" type="DamageBySkill" value1="50001105" maxScore="60" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23021006" feature="DungeonRank01" type="DamageBySkill" value1="50001110" maxScore="60" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="20022001" feature="DungeonRank01" type="PlayTime" value1="300" value2="900" maxScore="350" />
+	<DungeonMission id="20022002" feature="DungeonRank01" type="LastHitNpc" value1="21000989,21500640,21500641,21500642,21500643,21500644,21500645" maxScore="150" applyCount="10" />
+	<DungeonMission id="20022003" feature="DungeonRank01" type="DeathCount" maxScore="400" applyCount="8" isPenaltyType="1" />
+	<DungeonMission id="20022004" feature="DungeonRank01" type="DamageBySkill" value1="99999836" maxScore="50" applyCount="25" isPenaltyType="1" />
+	<DungeonMission id="20022005" feature="DungeonRank01" type="DamageBySkill" value1="50001152" maxScore="50" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23022000" feature="DungeonRank01" locale="KR" type="LastHitNpc" value1="23200067" maxScore="1000" applyCount="1" />
+	<DungeonMission id="23022001" feature="DungeonRank01" locale="KR" type="PlayTime" value1="0" value2="420" maxScore="410" />
+	<DungeonMission id="23022003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="440" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23022004" feature="DungeonRank01" locale="KR" type="DamageBySkill" value1="99999836" maxScore="100" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23022005" feature="DungeonRank01" locale="KR" type="DamageBySkill" value1="50001152" maxScore="50" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23022000" feature="DungeonRank01" type="LastHitNpc" value1="23200067" maxScore="1200" applyCount="1" />
+	<DungeonMission id="23022001" feature="DungeonRank01" type="PlayTime" value1="0" value2="420" maxScore="500" />
+	<DungeonMission id="23022003" feature="DungeonRank01" type="DeathCount" maxScore="520" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23022004" feature="DungeonRank01" type="DamageBySkill" value1="99999836" maxScore="120" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23022005" feature="DungeonRank01" type="DamageBySkill" value1="50001152" maxScore="60" applyCount="2" isPenaltyType="1" />
+	<DungeonMission id="23006000" feature="DungeonRank01" type="LastHitNpc" value1="23200007" maxScore="400" applyCount="1" />
+	<DungeonMission id="23006001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="23006002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="83006001" feature="DungeonRank01" type="PlayTime" value1="720" value2="180" maxScore="200" />
+	<DungeonMission id="83006002" feature="DungeonRank01" type="PlayTime" value1="540" value2="360" maxScore="300" />
+	<DungeonMission id="23006003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23006003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23006004" feature="DungeonRank01" type="GainBuff" value1="50000508" maxScore="400" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23006005" feature="DungeonRank01" type="DamageBySkill" value1="50100394,50100405,50100406" maxScore="200" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="23010000" feature="DungeonRank01" type="LastHitNpc" value1="23200015" maxScore="400" applyCount="1" />
+	<DungeonMission id="23010001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="23010002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="83010001" feature="DungeonRank01" type="PlayTime" value1="720" value2="180" maxScore="200" />
+	<DungeonMission id="83010002" feature="DungeonRank01" type="PlayTime" value1="540" value2="360" maxScore="300" />
+	<DungeonMission id="23010003" feature="DungeonRank01" locale="KR" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23010003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23010004" feature="DungeonRank01" type="DamageBySkill" value1="50100703" maxScore="400" applyCount="4" isPenaltyType="1" />
+	<DungeonMission id="23010005" feature="DungeonRank01" type="DamageBySkill" value1="50100713" maxScore="200" applyCount="1" isPenaltyType="1" />
+	<DungeonMission id="23011001" feature="DungeonRank01" type="PlayTime" value1="600" value2="300" maxScore="200" />
+	<DungeonMission id="23011002" feature="DungeonRank01" type="PlayTime" value1="300" value2="600" maxScore="300" />
+	<DungeonMission id="23011003" feature="DungeonRank01" type="DeathCount" maxScore="900" applyCount="3" isPenaltyType="1" />
+	<DungeonMission id="23011004" feature="DungeonRank01" type="DamageBySkill" value1="50100747" maxScore="400" applyCount="5" isPenaltyType="1" />
+	<DungeonMission id="23011005" feature="DungeonRank01" type="DamageBySkill" value1="50100740,50100748,50100749" maxScore="200" applyCount="1" isPenaltyType="1" />
+</ms2>

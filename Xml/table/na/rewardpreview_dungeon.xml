@@ -1,0 +1,2593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<preview id="21001001">
+		<item itemID="13100006" grade="3" reqJobs="070" />
+		<item itemID="13100007" grade="3" reqJobs="070" />
+		<item itemID="13100021" grade="3" reqJobs="070" />
+		<item itemID="13100022" grade="3" reqJobs="070" />
+		<item itemID="13200003" grade="3" reqJobs="010" />
+		<item itemID="13200004" grade="3" reqJobs="010" />
+		<item itemID="13200015" grade="3" reqJobs="010" />
+		<item itemID="13200016" grade="3" reqJobs="010" />
+		<item itemID="13300003" grade="3" reqJobs="040" />
+		<item itemID="13300004" grade="3" reqJobs="040" />
+		<item itemID="13300019" grade="3" reqJobs="040" />
+		<item itemID="13300020" grade="3" reqJobs="040" />
+		<item itemID="13400003" grade="3" reqJobs="080" />
+		<item itemID="13400004" grade="3" reqJobs="080" />
+		<item itemID="13400015" grade="3" reqJobs="080" />
+		<item itemID="13400016" grade="3" reqJobs="080" />
+		<item itemID="14000003" grade="3" reqJobs="040" />
+		<item itemID="14000004" grade="3" reqJobs="040" />
+		<item itemID="14000015" grade="3" reqJobs="040" />
+		<item itemID="14000016" grade="3" reqJobs="040" />
+		<item itemID="14100003" grade="3" reqJobs="010" />
+		<item itemID="14100004" grade="3" reqJobs="010" />
+		<item itemID="14100017" grade="3" reqJobs="010" />
+		<item itemID="14100018" grade="3" reqJobs="010" />
+		<item itemID="15000003" grade="3" reqJobs="020" />
+		<item itemID="15000004" grade="3" reqJobs="020" />
+		<item itemID="15000019" grade="3" reqJobs="020" />
+		<item itemID="15000020" grade="3" reqJobs="020" />
+		<item itemID="15100003" grade="3" reqJobs="050" />
+		<item itemID="15100004" grade="3" reqJobs="050" />
+		<item itemID="15100014" grade="3" reqJobs="050" />
+		<item itemID="15100015" grade="3" reqJobs="050" />
+		<item itemID="15200003" grade="3" reqJobs="030" />
+		<item itemID="15200004" grade="3" reqJobs="030" />
+		<item itemID="15200017" grade="3" reqJobs="030" />
+		<item itemID="15200018" grade="3" reqJobs="030" />
+		<item itemID="15300003" grade="3" reqJobs="060" />
+		<item itemID="15300004" grade="3" reqJobs="060" />
+		<item itemID="15300013" grade="3" reqJobs="060" />
+		<item itemID="15300014" grade="3" reqJobs="060" />
+		<item itemID="11300003" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300009" grade="3" reqJobs="070,080" />
+		<item itemID="11300018" grade="3" reqJobs="030,040" />
+		<item itemID="11300027" grade="3" reqJobs="050,060" />
+		<item itemID="11400005" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400011" grade="3" reqJobs="070,080" />
+		<item itemID="11400020" grade="3" reqJobs="050,060" />
+		<item itemID="11500005" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500011" grade="3" reqJobs="070,080" />
+		<item itemID="11500020" grade="3" reqJobs="050,060" />
+		<item itemID="11600002" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600008" grade="3" reqJobs="070,080" />
+		<item itemID="11600017" grade="3" reqJobs="030,040" />
+		<item itemID="11600026" grade="3" reqJobs="050,060" />
+		<item itemID="11700004" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700010" grade="3" reqJobs="070,080" />
+		<item itemID="11700019" grade="3" reqJobs="030,040" />
+		<item itemID="11700028" grade="3" reqJobs="050,060" />
+		<item itemID="12200003" grade="3" reqJobs="030,040" />
+		<item itemID="11200001" grade="3" />
+		<item itemID="11800007" grade="3" />
+		<item itemID="11900001" grade="3" />
+		<item itemID="12100001" grade="3" />
+		<item itemID="11301063" grade="1" />
+		<item itemID="36000297" grade="1" />
+	</preview>
+	<preview id="25001001">
+		<item itemID="13100008" grade="3" reqJobs="070" />
+		<item itemID="13100023" grade="3" reqJobs="070" />
+		<item itemID="13200005" grade="3" reqJobs="010" />
+		<item itemID="13200017" grade="3" reqJobs="010" />
+		<item itemID="13300005" grade="3" reqJobs="040" />
+		<item itemID="13300021" grade="3" reqJobs="040" />
+		<item itemID="13400005" grade="3" reqJobs="080" />
+		<item itemID="13400017" grade="3" reqJobs="080" />
+		<item itemID="14000005" grade="3" reqJobs="040" />
+		<item itemID="14000017" grade="3" reqJobs="040" />
+		<item itemID="14100005" grade="3" reqJobs="010" />
+		<item itemID="14100019" grade="3" reqJobs="010" />
+		<item itemID="15000005" grade="3" reqJobs="020" />
+		<item itemID="15000021" grade="3" reqJobs="020" />
+		<item itemID="15100005" grade="3" reqJobs="050" />
+		<item itemID="15100016" grade="3" reqJobs="050" />
+		<item itemID="15200005" grade="3" reqJobs="030" />
+		<item itemID="15200019" grade="3" reqJobs="030" />
+		<item itemID="15300005" grade="3" reqJobs="060" />
+		<item itemID="15300015" grade="3" reqJobs="060" />
+		<item itemID="11300004" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300010" grade="3" reqJobs="070,080" />
+		<item itemID="11300019" grade="3" reqJobs="030,040" />
+		<item itemID="11300028" grade="3" reqJobs="050,060" />
+		<item itemID="11400006" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400012" grade="3" reqJobs="070,080" />
+		<item itemID="11500006" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500012" grade="3" reqJobs="070,080" />
+		<item itemID="11600003" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600009" grade="3" reqJobs="070,080" />
+		<item itemID="11600018" grade="3" reqJobs="030,040" />
+		<item itemID="11600027" grade="3" reqJobs="050,060" />
+		<item itemID="11700005" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700011" grade="3" reqJobs="070,080" />
+		<item itemID="11700020" grade="3" reqJobs="030,040" />
+		<item itemID="11700029" grade="3" reqJobs="050,060" />
+		<item itemID="12200004" grade="3" reqJobs="030,040" />
+		<item itemID="12200010" grade="3" reqJobs="050,060" />
+		<item itemID="11200002" grade="3" />
+		<item itemID="11800018" grade="3" />
+		<item itemID="11900002" grade="3" />
+		<item itemID="12000001" grade="3" />
+		<item itemID="12100002" grade="3" />
+		<item itemID="11300440" grade="1" />
+		<item itemID="36000290" grade="1" />
+	</preview>
+	<preview id="21005001">
+		<item itemID="11300005" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300011" grade="3" reqJobs="070,080" />
+		<item itemID="11300020" grade="3" reqJobs="030,040" />
+		<item itemID="11300029" grade="3" reqJobs="050,060" />
+		<item itemID="11400008" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400014" grade="3" reqJobs="070,080" />
+		<item itemID="11500008" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500014" grade="3" reqJobs="070,080" />
+		<item itemID="11600004" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600010" grade="3" reqJobs="070,080" />
+		<item itemID="11600019" grade="3" reqJobs="030,040" />
+		<item itemID="11600028" grade="3" reqJobs="050,060" />
+		<item itemID="11700006" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700012" grade="3" reqJobs="070,080" />
+		<item itemID="11700021" grade="3" reqJobs="030,040" />
+		<item itemID="11700030" grade="3" reqJobs="050,060" />
+		<item itemID="12200005" grade="3" reqJobs="030,040" />
+		<item itemID="12200006" grade="3" reqJobs="030,040" />
+		<item itemID="12200012" grade="3" reqJobs="050,060" />
+		<item itemID="13100010" grade="3" reqJobs="070" />
+		<item itemID="13100011" grade="3" reqJobs="070" />
+		<item itemID="13200007" grade="3" reqJobs="010" />
+		<item itemID="13200008" grade="3" reqJobs="010" />
+		<item itemID="13300010" grade="3" reqJobs="040" />
+		<item itemID="13300011" grade="3" reqJobs="040" />
+		<item itemID="13400007" grade="3" reqJobs="080" />
+		<item itemID="13400008" grade="3" reqJobs="080" />
+		<item itemID="14000007" grade="3" reqJobs="040" />
+		<item itemID="14000008" grade="3" reqJobs="040" />
+		<item itemID="14100007" grade="3" reqJobs="010" />
+		<item itemID="14100008" grade="3" reqJobs="010" />
+		<item itemID="15000007" grade="3" reqJobs="020" />
+		<item itemID="15000008" grade="3" reqJobs="020" />
+		<item itemID="15100007" grade="3" reqJobs="050" />
+		<item itemID="15100008" grade="3" reqJobs="050" />
+		<item itemID="15200007" grade="3" reqJobs="030" />
+		<item itemID="15200008" grade="3" reqJobs="030" />
+		<item itemID="15300007" grade="3" reqJobs="060" />
+		<item itemID="15300008" grade="3" reqJobs="060" />
+		<item itemID="11200002" grade="3" />
+		<item itemID="11800018" grade="3" />
+		<item itemID="11900002" grade="3" />
+		<item itemID="12000002" grade="3" />
+		<item itemID="12100002" grade="3" />
+		<item itemID="11300441" grade="1" />
+		<item itemID="36000291" grade="1" />
+	</preview>
+	<preview id="21006001">
+		<item itemID="11300005" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300011" grade="3" reqJobs="070,080" />
+		<item itemID="11300020" grade="3" reqJobs="030,040" />
+		<item itemID="11300029" grade="3" reqJobs="050,060" />
+		<item itemID="11400008" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400014" grade="3" reqJobs="070,080" />
+		<item itemID="11500008" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500014" grade="3" reqJobs="070,080" />
+		<item itemID="11600004" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600010" grade="3" reqJobs="070,080" />
+		<item itemID="11600019" grade="3" reqJobs="030,040" />
+		<item itemID="11600028" grade="3" reqJobs="050,060" />
+		<item itemID="11700006" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700012" grade="3" reqJobs="070,080" />
+		<item itemID="11700021" grade="3" reqJobs="030,040" />
+		<item itemID="11700030" grade="3" reqJobs="050,060" />
+		<item itemID="12200005" grade="3" reqJobs="030,040" />
+		<item itemID="12200006" grade="3" reqJobs="030,040" />
+		<item itemID="12200012" grade="3" reqJobs="050,060" />
+		<item itemID="13100010" grade="3" reqJobs="070" />
+		<item itemID="13100011" grade="3" reqJobs="070" />
+		<item itemID="13200007" grade="3" reqJobs="010" />
+		<item itemID="13200008" grade="3" reqJobs="010" />
+		<item itemID="13300010" grade="3" reqJobs="040" />
+		<item itemID="13300011" grade="3" reqJobs="040" />
+		<item itemID="13400007" grade="3" reqJobs="080" />
+		<item itemID="13400008" grade="3" reqJobs="080" />
+		<item itemID="14000007" grade="3" reqJobs="040" />
+		<item itemID="14000008" grade="3" reqJobs="040" />
+		<item itemID="14100007" grade="3" reqJobs="010" />
+		<item itemID="14100008" grade="3" reqJobs="010" />
+		<item itemID="15000007" grade="3" reqJobs="020" />
+		<item itemID="15000008" grade="3" reqJobs="020" />
+		<item itemID="15100007" grade="3" reqJobs="050" />
+		<item itemID="15100008" grade="3" reqJobs="050" />
+		<item itemID="15200007" grade="3" reqJobs="030" />
+		<item itemID="15200008" grade="3" reqJobs="030" />
+		<item itemID="15300007" grade="3" reqJobs="060" />
+		<item itemID="15300008" grade="3" reqJobs="060" />
+		<item itemID="11200002" grade="3" />
+		<item itemID="11800018" grade="3" />
+		<item itemID="11900002" grade="3" />
+		<item itemID="12000002" grade="3" />
+		<item itemID="12100002" grade="3" />
+		<item itemID="11604698" grade="1" />
+		<item itemID="36000302" grade="1" />
+	</preview>
+	<preview id="21007001">
+		<item itemID="11300005" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300011" grade="3" reqJobs="070,080" />
+		<item itemID="11300020" grade="3" reqJobs="030,040" />
+		<item itemID="11300029" grade="3" reqJobs="050,060" />
+		<item itemID="11400008" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400014" grade="3" reqJobs="070,080" />
+		<item itemID="11500008" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500014" grade="3" reqJobs="070,080" />
+		<item itemID="11600004" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600010" grade="3" reqJobs="070,080" />
+		<item itemID="11600019" grade="3" reqJobs="030,040" />
+		<item itemID="11600028" grade="3" reqJobs="050,060" />
+		<item itemID="11700006" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700012" grade="3" reqJobs="070,080" />
+		<item itemID="11700021" grade="3" reqJobs="030,040" />
+		<item itemID="11700030" grade="3" reqJobs="050,060" />
+		<item itemID="12200005" grade="3" reqJobs="030,040" />
+		<item itemID="12200006" grade="3" reqJobs="030,040" />
+		<item itemID="12200012" grade="3" reqJobs="050,060" />
+		<item itemID="13100010" grade="3" reqJobs="070" />
+		<item itemID="13100011" grade="3" reqJobs="070" />
+		<item itemID="13200007" grade="3" reqJobs="010" />
+		<item itemID="13200008" grade="3" reqJobs="010" />
+		<item itemID="13300010" grade="3" reqJobs="040" />
+		<item itemID="13300011" grade="3" reqJobs="040" />
+		<item itemID="13400007" grade="3" reqJobs="080" />
+		<item itemID="13400008" grade="3" reqJobs="080" />
+		<item itemID="14000007" grade="3" reqJobs="040" />
+		<item itemID="14000008" grade="3" reqJobs="040" />
+		<item itemID="14100007" grade="3" reqJobs="010" />
+		<item itemID="14100008" grade="3" reqJobs="010" />
+		<item itemID="15000007" grade="3" reqJobs="020" />
+		<item itemID="15000008" grade="3" reqJobs="020" />
+		<item itemID="15100007" grade="3" reqJobs="050" />
+		<item itemID="15100008" grade="3" reqJobs="050" />
+		<item itemID="15200007" grade="3" reqJobs="030" />
+		<item itemID="15200008" grade="3" reqJobs="030" />
+		<item itemID="15300007" grade="3" reqJobs="060" />
+		<item itemID="15300008" grade="3" reqJobs="060" />
+		<item itemID="11200002" grade="3" />
+		<item itemID="11800018" grade="3" />
+		<item itemID="11900002" grade="3" />
+		<item itemID="12000002" grade="3" />
+		<item itemID="12100002" grade="3" />
+		<item itemID="11850040" grade="1" />
+		<item itemID="36000306" grade="1" />
+	</preview>
+	<preview id="25002001">
+		<item itemID="13100038" grade="3" reqJobs="070" />
+		<item itemID="13100056" grade="3" reqJobs="070" />
+		<item itemID="13200037" grade="3" reqJobs="010" />
+		<item itemID="13200059" grade="3" reqJobs="010" />
+		<item itemID="13300028" grade="3" reqJobs="040" />
+		<item itemID="13300051" grade="3" reqJobs="040" />
+		<item itemID="13400030" grade="3" reqJobs="080" />
+		<item itemID="13400052" grade="3" reqJobs="080" />
+		<item itemID="14000023" grade="3" reqJobs="040" />
+		<item itemID="14000045" grade="3" reqJobs="040" />
+		<item itemID="14100031" grade="3" reqJobs="010" />
+		<item itemID="14100054" grade="3" reqJobs="010" />
+		<item itemID="15000035" grade="3" reqJobs="020" />
+		<item itemID="15000057" grade="3" reqJobs="020" />
+		<item itemID="15100033" grade="3" reqJobs="050" />
+		<item itemID="15100055" grade="3" reqJobs="050" />
+		<item itemID="15200032" grade="3" reqJobs="030" />
+		<item itemID="15200053" grade="3" reqJobs="030" />
+		<item itemID="15300030" grade="3" reqJobs="060" />
+		<item itemID="15300052" grade="3" reqJobs="060" />
+		<item itemID="11300025" grade="3" reqJobs="030,040" />
+		<item itemID="11300034" grade="3" reqJobs="050,060" />
+		<item itemID="11300075" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400061" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400066" grade="3" reqJobs="070,080" />
+		<item itemID="11500061" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500067" grade="3" reqJobs="070,080" />
+		<item itemID="11600100" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600101" grade="3" reqJobs="030,040" />
+		<item itemID="11600102" grade="3" reqJobs="050,060" />
+		<item itemID="11600103" grade="3" reqJobs="070,080" />
+		<item itemID="11700016" grade="3" reqJobs="070,080" />
+		<item itemID="11700025" grade="3" reqJobs="030,040" />
+		<item itemID="11700034" grade="3" reqJobs="050,060" />
+		<item itemID="11700062" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700123" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700124" grade="3" reqJobs="030,040" />
+		<item itemID="11700125" grade="3" reqJobs="050,060" />
+		<item itemID="11700126" grade="3" reqJobs="070,080" />
+		<item itemID="12200037" grade="3" reqJobs="030,040" />
+		<item itemID="12200042" grade="3" reqJobs="050,060" />
+		<item itemID="11301064" grade="1" />
+		<item itemID="36000298" grade="1" />
+	</preview>
+	<preview id="21003001">
+		<item itemID="11300025" grade="3" reqJobs="030,040" />
+		<item itemID="11300034" grade="3" reqJobs="050,060" />
+		<item itemID="11300075" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400061" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400066" grade="3" reqJobs="070,080" />
+		<item itemID="11500061" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500067" grade="3" reqJobs="070,080" />
+		<item itemID="11600100" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600101" grade="3" reqJobs="030,040" />
+		<item itemID="11600102" grade="3" reqJobs="050,060" />
+		<item itemID="11600103" grade="3" reqJobs="070,080" />
+		<item itemID="11700016" grade="3" reqJobs="070,080" />
+		<item itemID="11700025" grade="3" reqJobs="030,040" />
+		<item itemID="11700034" grade="3" reqJobs="050,060" />
+		<item itemID="11700062" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700123" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700124" grade="3" reqJobs="030,040" />
+		<item itemID="11700125" grade="3" reqJobs="050,060" />
+		<item itemID="11700126" grade="3" reqJobs="070,080" />
+		<item itemID="12200037" grade="3" reqJobs="030,040" />
+		<item itemID="12200042" grade="3" reqJobs="050,060" />
+		<item itemID="13100038" grade="3" reqJobs="070" />
+		<item itemID="13100055" grade="3" reqJobs="070" />
+		<item itemID="13100056" grade="3" reqJobs="070" />
+		<item itemID="13200036" grade="3" reqJobs="010" />
+		<item itemID="13200037" grade="3" reqJobs="010" />
+		<item itemID="13200058" grade="3" reqJobs="010" />
+		<item itemID="13200059" grade="3" reqJobs="010" />
+		<item itemID="13300027" grade="3" reqJobs="040" />
+		<item itemID="13300028" grade="3" reqJobs="040" />
+		<item itemID="13300050" grade="3" reqJobs="040" />
+		<item itemID="13300051" grade="3" reqJobs="040" />
+		<item itemID="13400029" grade="3" reqJobs="080" />
+		<item itemID="13400030" grade="3" reqJobs="080" />
+		<item itemID="13400051" grade="3" reqJobs="080" />
+		<item itemID="13400052" grade="3" reqJobs="080" />
+		<item itemID="14000022" grade="3" reqJobs="040" />
+		<item itemID="14000023" grade="3" reqJobs="040" />
+		<item itemID="14000044" grade="3" reqJobs="040" />
+		<item itemID="14000045" grade="3" reqJobs="040" />
+		<item itemID="14100030" grade="3" reqJobs="010" />
+		<item itemID="14100031" grade="3" reqJobs="010" />
+		<item itemID="14100053" grade="3" reqJobs="010" />
+		<item itemID="14100054" grade="3" reqJobs="010" />
+		<item itemID="15000034" grade="3" reqJobs="020" />
+		<item itemID="15000035" grade="3" reqJobs="020" />
+		<item itemID="15000056" grade="3" reqJobs="020" />
+		<item itemID="15000057" grade="3" reqJobs="020" />
+		<item itemID="15100032" grade="3" reqJobs="050" />
+		<item itemID="15100033" grade="3" reqJobs="050" />
+		<item itemID="15100054" grade="3" reqJobs="050" />
+		<item itemID="15100055" grade="3" reqJobs="050" />
+		<item itemID="15200031" grade="3" reqJobs="030" />
+		<item itemID="15200032" grade="3" reqJobs="030" />
+		<item itemID="15200052" grade="3" reqJobs="030" />
+		<item itemID="15200053" grade="3" reqJobs="030" />
+		<item itemID="15300029" grade="3" reqJobs="060" />
+		<item itemID="15300030" grade="3" reqJobs="060" />
+		<item itemID="15300051" grade="3" reqJobs="060" />
+		<item itemID="15300052" grade="3" reqJobs="060" />
+		<item itemID="11300016" grade="3" reqJobs="070,080" />
+		<item itemID="11200004" grade="3" />
+		<item itemID="11800021" grade="3" />
+		<item itemID="11900004" grade="3" />
+		<item itemID="12000003" grade="3" />
+		<item itemID="12100004" grade="3" />
+		<item itemID="11300443" grade="1" />
+		<item itemID="36000293" grade="1" />
+	</preview>
+	<preview id="20012001">
+		<item itemID="11700197" grade="3" reqJobs="070,080" />
+		<item itemID="12200037" grade="3" reqJobs="030,040" />
+		<item itemID="12200042" grade="3" reqJobs="050,060" />
+		<item itemID="12200068" grade="3" reqJobs="030,040" />
+		<item itemID="12200069" grade="3" reqJobs="050,060" />
+		<item itemID="12200100" grade="3" reqJobs="030,040" />
+		<item itemID="12200101" grade="3" reqJobs="050,060" />
+		<item itemID="12100012" grade="3" />
+		<item itemID="13100086" grade="3" reqJobs="070" />
+		<item itemID="13200086" grade="3" reqJobs="010" />
+		<item itemID="13300081" grade="3" reqJobs="040" />
+		<item itemID="13400082" grade="3" reqJobs="080" />
+		<item itemID="14000068" grade="3" reqJobs="040" />
+		<item itemID="14100074" grade="3" reqJobs="010" />
+		<item itemID="15000085" grade="3" reqJobs="020" />
+		<item itemID="15100084" grade="3" reqJobs="050" />
+		<item itemID="15200083" grade="3" reqJobs="030" />
+		<item itemID="15300082" grade="3" reqJobs="060" />
+		<item itemID="11300016" grade="3" reqJobs="070,080" />
+		<item itemID="11300025" grade="3" reqJobs="030,040" />
+		<item itemID="11300034" grade="3" reqJobs="050,060" />
+		<item itemID="11300075" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300167" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300168" grade="3" reqJobs="030,040" />
+		<item itemID="11300169" grade="3" reqJobs="050,060" />
+		<item itemID="11300170" grade="3" reqJobs="070,080" />
+		<item itemID="11300265" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300266" grade="3" reqJobs="030,040" />
+		<item itemID="11300267" grade="3" reqJobs="050,060" />
+		<item itemID="11300268" grade="3" reqJobs="070,080" />
+		<item itemID="11400061" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400066" grade="3" reqJobs="070,080" />
+		<item itemID="11400086" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400087" grade="3" reqJobs="070,080" />
+		<item itemID="11400201" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400202" grade="3" reqJobs="070,080" />
+		<item itemID="11500061" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500067" grade="3" reqJobs="070,080" />
+		<item itemID="11500085" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500086" grade="3" reqJobs="070,080" />
+		<item itemID="11500129" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500130" grade="3" reqJobs="070,080" />
+		<item itemID="11600058" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600064" grade="3" reqJobs="070,080" />
+		<item itemID="11600071" grade="3" reqJobs="030,040" />
+		<item itemID="11600078" grade="3" reqJobs="050,060" />
+		<item itemID="11600100" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600101" grade="3" reqJobs="030,040" />
+		<item itemID="11600102" grade="3" reqJobs="050,060" />
+		<item itemID="11600103" grade="3" reqJobs="070,080" />
+		<item itemID="11600171" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600172" grade="3" reqJobs="030,040" />
+		<item itemID="11600173" grade="3" reqJobs="050,060" />
+		<item itemID="11600174" grade="3" reqJobs="070,080" />
+		<item itemID="11700016" grade="3" reqJobs="070,080" />
+		<item itemID="11700025" grade="3" reqJobs="030,040" />
+		<item itemID="11700034" grade="3" reqJobs="050,060" />
+		<item itemID="11700062" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700123" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700124" grade="3" reqJobs="030,040" />
+		<item itemID="11700125" grade="3" reqJobs="050,060" />
+		<item itemID="11700126" grade="3" reqJobs="070,080" />
+		<item itemID="11700194" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700195" grade="3" reqJobs="030,040" />
+		<item itemID="11700196" grade="3" reqJobs="050,060" />
+		<item itemID="11300439" grade="1" />
+		<item itemID="36000289" grade="1" />
+	</preview>
+	<preview id="25004001">
+		<item itemID="13100039" grade="3" reqJobs="070" />
+		<item itemID="13100057" grade="3" reqJobs="070" />
+		<item itemID="13200038" grade="3" reqJobs="010" />
+		<item itemID="13200060" grade="3" reqJobs="010" />
+		<item itemID="13300029" grade="3" reqJobs="040" />
+		<item itemID="13300052" grade="3" reqJobs="040" />
+		<item itemID="13400031" grade="3" reqJobs="080" />
+		<item itemID="13400053" grade="3" reqJobs="080" />
+		<item itemID="14000024" grade="3" reqJobs="040" />
+		<item itemID="14000046" grade="3" reqJobs="040" />
+		<item itemID="14100032" grade="3" reqJobs="010" />
+		<item itemID="14100055" grade="3" reqJobs="010" />
+		<item itemID="15000036" grade="3" reqJobs="020" />
+		<item itemID="15000058" grade="3" reqJobs="020" />
+		<item itemID="15100034" grade="3" reqJobs="050" />
+		<item itemID="15100056" grade="3" reqJobs="050" />
+		<item itemID="15200033" grade="3" reqJobs="030" />
+		<item itemID="15200054" grade="3" reqJobs="030" />
+		<item itemID="15300031" grade="3" reqJobs="060" />
+		<item itemID="15300053" grade="3" reqJobs="060" />
+		<item itemID="11400086" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400087" grade="3" reqJobs="070,080" />
+		<item itemID="11500085" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500086" grade="3" reqJobs="070,080" />
+		<item itemID="11600058" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600064" grade="3" reqJobs="070,080" />
+		<item itemID="11600071" grade="3" reqJobs="030,040" />
+		<item itemID="11600078" grade="3" reqJobs="050,060" />
+		<item itemID="12200068" grade="3" reqJobs="030,040" />
+		<item itemID="12200069" grade="3" reqJobs="050,060" />
+		<item itemID="11701132" grade="1" />
+		<item itemID="36000303" grade="1" />
+	</preview>
+	<preview id="20006001">
+		<item itemID="13100016" grade="3" reqJobs="070" />
+		<item itemID="13200011" grade="3" reqJobs="010" />
+		<item itemID="13300014" grade="3" reqJobs="040" />
+		<item itemID="13300025" grade="3" />
+		<item itemID="13400011" grade="3" reqJobs="080" />
+		<item itemID="14000011" grade="3" reqJobs="040" />
+		<item itemID="14100012" grade="3" reqJobs="010" />
+		<item itemID="15000011" grade="3" reqJobs="020" />
+		<item itemID="15100009" grade="3" reqJobs="050" />
+		<item itemID="15200013" grade="3" reqJobs="030" />
+		<item itemID="15200014" grade="3" />
+		<item itemID="15300017" grade="3" reqJobs="060" />
+		<item itemID="11300065" grade="3" reqJobs="070,080" />
+		<item itemID="11300087" grade="3" reqJobs="030,040" />
+		<item itemID="11300094" grade="3" />
+		<item itemID="11300120" grade="3" reqJobs="050,060" />
+		<item itemID="11309996" grade="3" reqJobs="010,020,090" />
+		<item itemID="11409997" grade="3" reqJobs="010,020,090" />
+		<item itemID="11509997" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600052" grade="3" reqJobs="030,040" />
+		<item itemID="11600081" grade="3" reqJobs="070,080" />
+		<item itemID="11600083" grade="3" reqJobs="050,060" />
+		<item itemID="11600116" grade="3" />
+		<item itemID="11609996" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700052" grade="3" reqJobs="070,080" />
+		<item itemID="11700078" grade="3" reqJobs="030,040" />
+		<item itemID="11700104" grade="3" reqJobs="050,060" />
+		<item itemID="11709996" grade="3" reqJobs="010,020,090" />
+		<item itemID="12200019" grade="3" reqJobs="070,080" />
+		<item itemID="12200031" grade="3" reqJobs="030,040" />
+		<item itemID="12200045" grade="3" reqJobs="050,060" />
+		<item itemID="11200022" grade="3" />
+		<item itemID="11800028" grade="3" />
+		<item itemID="11900016" grade="3" />
+		<item itemID="12000046" grade="3" />
+		<item itemID="12100014" grade="3" />
+		<item itemID="11304787" grade="1" />
+		<item itemID="36000299" grade="1" />
+	</preview>
+	<preview id="20002001">
+		<item itemID="11609996" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700052" grade="3" reqJobs="070,080" />
+		<item itemID="11700078" grade="3" reqJobs="030,040" />
+		<item itemID="11700104" grade="3" reqJobs="050,060" />
+		<item itemID="11709996" grade="3" reqJobs="010,020,090" />
+		<item itemID="12200019" grade="3" reqJobs="070,080" />
+		<item itemID="12200031" grade="3" reqJobs="030,040" />
+		<item itemID="12200045" grade="3" reqJobs="050,060" />
+		<item itemID="11200007" grade="3" />
+		<item itemID="11200022" grade="3" />
+		<item itemID="11800024" grade="3" />
+		<item itemID="11800028" grade="3" />
+		<item itemID="11900015" grade="3" />
+		<item itemID="11900016" grade="3" />
+		<item itemID="12000010" grade="3" />
+		<item itemID="12000046" grade="3" />
+		<item itemID="12100012" grade="3" />
+		<item itemID="12100014" grade="3" />
+		<item itemID="13100016" grade="3" reqJobs="070" />
+		<item itemID="13200011" grade="3" reqJobs="010" />
+		<item itemID="13300014" grade="3" reqJobs="040" />
+		<item itemID="13400011" grade="3" reqJobs="080" />
+		<item itemID="14000011" grade="3" reqJobs="040" />
+		<item itemID="14100012" grade="3" reqJobs="010" />
+		<item itemID="15000011" grade="3" reqJobs="020" />
+		<item itemID="15100009" grade="3" reqJobs="050" />
+		<item itemID="15200013" grade="3" reqJobs="030" />
+		<item itemID="15300017" grade="3" reqJobs="060" />
+		<item itemID="11300065" grade="3" reqJobs="070,080" />
+		<item itemID="11300087" grade="3" reqJobs="030,040" />
+		<item itemID="11300120" grade="3" reqJobs="050,060" />
+		<item itemID="11309996" grade="3" reqJobs="010,020,090" />
+		<item itemID="11409997" grade="3" reqJobs="010,020,090" />
+		<item itemID="11509997" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600052" grade="3" reqJobs="030,040" />
+		<item itemID="11600081" grade="3" reqJobs="070,080" />
+		<item itemID="11600083" grade="3" reqJobs="050,060" />
+		<item itemID="11300444" grade="1" />
+		<item itemID="36000294" grade="1" />
+	</preview>
+	<preview id="20009001">
+		<item itemID="13100016" grade="3" reqJobs="070" />
+		<item itemID="13200011" grade="3" reqJobs="010" />
+		<item itemID="13300014" grade="3" reqJobs="040" />
+		<item itemID="13400011" grade="3" reqJobs="080" />
+		<item itemID="14000011" grade="3" reqJobs="040" />
+		<item itemID="14100012" grade="3" reqJobs="010" />
+		<item itemID="15000011" grade="3" reqJobs="020" />
+		<item itemID="15100009" grade="3" reqJobs="050" />
+		<item itemID="15200013" grade="3" reqJobs="030" />
+		<item itemID="15300017" grade="3" reqJobs="060" />
+		<item itemID="11300065" grade="3" reqJobs="070,080" />
+		<item itemID="11300087" grade="3" reqJobs="030,040" />
+		<item itemID="11300120" grade="3" reqJobs="050,060" />
+		<item itemID="11309996" grade="3" reqJobs="010,020,090" />
+		<item itemID="11409997" grade="3" reqJobs="010,020,090" />
+		<item itemID="11509997" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600052" grade="3" reqJobs="030,040" />
+		<item itemID="11600081" grade="3" reqJobs="070,080" />
+		<item itemID="11600083" grade="3" reqJobs="050,060" />
+		<item itemID="11609996" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700052" grade="3" reqJobs="070,080" />
+		<item itemID="11700078" grade="3" reqJobs="030,040" />
+		<item itemID="11700104" grade="3" reqJobs="050,060" />
+		<item itemID="11709996" grade="3" reqJobs="010,020,090" />
+		<item itemID="12200019" grade="3" reqJobs="070,080" />
+		<item itemID="12200031" grade="3" reqJobs="030,040" />
+		<item itemID="12200045" grade="3" reqJobs="050,060" />
+		<item itemID="11200007" grade="3" />
+		<item itemID="11200022" grade="3" />
+		<item itemID="11800024" grade="3" />
+		<item itemID="11800028" grade="3" />
+		<item itemID="11900015" grade="3" />
+		<item itemID="11900016" grade="3" />
+		<item itemID="12000010" grade="3" />
+		<item itemID="12000046" grade="3" />
+		<item itemID="12100012" grade="3" />
+		<item itemID="12100014" grade="3" />
+		<item itemID="11850043" grade="1" />
+		<item itemID="36000309" grade="1" />
+	</preview>
+	<preview id="21004001">
+		<item itemID="13100088" grade="3" reqJobs="070" />
+		<item itemID="13200088" grade="3" reqJobs="010" />
+		<item itemID="13300083" grade="3" reqJobs="040" />
+		<item itemID="13400084" grade="3" reqJobs="080" />
+		<item itemID="14000070" grade="3" reqJobs="040" />
+		<item itemID="14100076" grade="3" reqJobs="010" />
+		<item itemID="15000087" grade="3" reqJobs="020" />
+		<item itemID="15100086" grade="3" reqJobs="050" />
+		<item itemID="15200085" grade="3" reqJobs="030" />
+		<item itemID="15300084" grade="3" reqJobs="060" />
+		<item itemID="13100041" grade="3" reqJobs="070" />
+		<item itemID="13100059" grade="3" reqJobs="070" />
+		<item itemID="13200040" grade="3" reqJobs="010" />
+		<item itemID="13200062" grade="3" reqJobs="010" />
+		<item itemID="13300031" grade="3" reqJobs="040" />
+		<item itemID="13300054" grade="3" reqJobs="040" />
+		<item itemID="13400033" grade="3" reqJobs="080" />
+		<item itemID="13400055" grade="3" reqJobs="080" />
+		<item itemID="14000026" grade="3" reqJobs="040" />
+		<item itemID="14000048" grade="3" reqJobs="040" />
+		<item itemID="14100034" grade="3" reqJobs="010" />
+		<item itemID="14100057" grade="3" reqJobs="010" />
+		<item itemID="15000038" grade="3" reqJobs="020" />
+		<item itemID="15000060" grade="3" reqJobs="020" />
+		<item itemID="15100036" grade="3" reqJobs="050" />
+		<item itemID="15100058" grade="3" reqJobs="050" />
+		<item itemID="15200035" grade="3" reqJobs="030" />
+		<item itemID="15200056" grade="3" reqJobs="030" />
+		<item itemID="15300033" grade="3" reqJobs="060" />
+		<item itemID="15300055" grade="3" reqJobs="060" />
+		<item itemID="11400088" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400089" grade="3" reqJobs="070,080" />
+		<item itemID="11500087" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500088" grade="3" reqJobs="070,080" />
+		<item itemID="11600065" grade="3" reqJobs="070,080" />
+		<item itemID="11600072" grade="3" reqJobs="030,040" />
+		<item itemID="11600079" grade="3" reqJobs="050,060" />
+		<item itemID="11600080" grade="3" reqJobs="010,020,090" />
+		<item itemID="12200070" grade="3" reqJobs="030,040" />
+		<item itemID="12200071" grade="3" reqJobs="050,060" />
+		<item itemID="11300277" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300278" grade="3" reqJobs="030,040" />
+		<item itemID="11300279" grade="3" reqJobs="050,060" />
+		<item itemID="11300280" grade="3" reqJobs="070,080" />
+		<item itemID="11400207" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400208" grade="3" reqJobs="070,080" />
+		<item itemID="11500135" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500136" grade="3" reqJobs="070,080" />
+		<item itemID="11600183" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600184" grade="3" reqJobs="030,040" />
+		<item itemID="11600185" grade="3" reqJobs="050,060" />
+		<item itemID="11600186" grade="3" reqJobs="070,080" />
+		<item itemID="11700206" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700207" grade="3" reqJobs="030,040" />
+		<item itemID="11700208" grade="3" reqJobs="050,060" />
+		<item itemID="11700209" grade="3" reqJobs="070,080" />
+		<item itemID="12200106" grade="3" reqJobs="030,040" />
+		<item itemID="12200107" grade="3" reqJobs="050,060" />
+		<item itemID="11300171" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300172" grade="3" reqJobs="030,040" />
+		<item itemID="11300173" grade="3" reqJobs="050,060" />
+		<item itemID="11300174" grade="3" reqJobs="070,080" />
+		<item itemID="11400067" grade="3" reqJobs="070,080" />
+		<item itemID="11400072" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500068" grade="3" reqJobs="070,080" />
+		<item itemID="11500073" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700127" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700128" grade="3" reqJobs="030,040" />
+		<item itemID="11700129" grade="3" reqJobs="050,060" />
+		<item itemID="11700130" grade="3" reqJobs="070,080" />
+		<item itemID="12200038" grade="3" reqJobs="030,040" />
+		<item itemID="12200043" grade="3" reqJobs="050,060" />
+		<item itemID="11800022" grade="3" reqJobs="000" />
+		<item itemID="11701133" grade="1" />
+		<item itemID="36000304" grade="1" />
+	</preview>
+	<preview id="20005001">
+		<item itemID="13100088" grade="3" reqJobs="070" />
+		<item itemID="13200088" grade="3" reqJobs="010" />
+		<item itemID="13300083" grade="3" reqJobs="040" />
+		<item itemID="13400084" grade="3" reqJobs="080" />
+		<item itemID="14000070" grade="3" reqJobs="040" />
+		<item itemID="14100076" grade="3" reqJobs="010" />
+		<item itemID="15000087" grade="3" reqJobs="020" />
+		<item itemID="15100086" grade="3" reqJobs="050" />
+		<item itemID="15200085" grade="3" reqJobs="030" />
+		<item itemID="15300084" grade="3" reqJobs="060" />
+		<item itemID="11300277" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300278" grade="3" reqJobs="030,040" />
+		<item itemID="11300279" grade="3" reqJobs="050,060" />
+		<item itemID="11300280" grade="3" reqJobs="070,080" />
+		<item itemID="11400207" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400208" grade="3" reqJobs="070,080" />
+		<item itemID="11500135" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500136" grade="3" reqJobs="070,080" />
+		<item itemID="11600183" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600184" grade="3" reqJobs="030,040" />
+		<item itemID="11600185" grade="3" reqJobs="050,060" />
+		<item itemID="11600186" grade="3" reqJobs="070,080" />
+		<item itemID="11700206" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700207" grade="3" reqJobs="030,040" />
+		<item itemID="11700208" grade="3" reqJobs="050,060" />
+		<item itemID="11700209" grade="3" reqJobs="070,080" />
+		<item itemID="12200106" grade="3" reqJobs="030,040" />
+		<item itemID="12200107" grade="3" reqJobs="050,060" />
+		<item itemID="11200023" grade="3" />
+		<item itemID="11900022" grade="3" />
+		<item itemID="12000011" grade="3" />
+		<item itemID="12100015" grade="3" />
+		<item itemID="11300437" grade="1" />
+		<item itemID="36000287" grade="1" />
+	</preview>
+	<preview id="21002001">
+		<item itemID="13100047" grade="3" reqJobs="070" />
+		<item itemID="13100060" grade="3" reqJobs="070" />
+		<item itemID="13200050" grade="3" reqJobs="010" />
+		<item itemID="13200063" grade="3" reqJobs="010" />
+		<item itemID="13300042" grade="3" reqJobs="040" />
+		<item itemID="13300055" grade="3" reqJobs="040" />
+		<item itemID="13400043" grade="3" reqJobs="080" />
+		<item itemID="13400056" grade="3" reqJobs="080" />
+		<item itemID="14000036" grade="3" reqJobs="040" />
+		<item itemID="14000049" grade="3" reqJobs="040" />
+		<item itemID="14100045" grade="3" reqJobs="010" />
+		<item itemID="14100058" grade="3" reqJobs="010" />
+		<item itemID="15000048" grade="3" reqJobs="020" />
+		<item itemID="15000061" grade="3" reqJobs="020" />
+		<item itemID="15100046" grade="3" reqJobs="050" />
+		<item itemID="15100059" grade="3" reqJobs="050" />
+		<item itemID="15200044" grade="3" reqJobs="030" />
+		<item itemID="15200057" grade="3" reqJobs="030" />
+		<item itemID="15300043" grade="3" reqJobs="060" />
+		<item itemID="15300056" grade="3" reqJobs="060" />
+		<item itemID="11300209" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300214" grade="3" reqJobs="030,040" />
+		<item itemID="11300219" grade="3" reqJobs="050,060" />
+		<item itemID="11300224" grade="3" reqJobs="070,080" />
+		<item itemID="11400088" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400089" grade="3" reqJobs="070,080" />
+		<item itemID="11500087" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500088" grade="3" reqJobs="070,080" />
+		<item itemID="11600065" grade="3" reqJobs="070,080" />
+		<item itemID="11600072" grade="3" reqJobs="030,040" />
+		<item itemID="11600079" grade="3" reqJobs="050,060" />
+		<item itemID="11600080" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600108" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600109" grade="3" reqJobs="030,040" />
+		<item itemID="11600110" grade="3" reqJobs="050,060" />
+		<item itemID="11600111" grade="3" reqJobs="070,080" />
+		<item itemID="11700143" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700148" grade="3" reqJobs="030,040" />
+		<item itemID="11700153" grade="3" reqJobs="050,060" />
+		<item itemID="11700158" grade="3" reqJobs="070,080" />
+		<item itemID="12200070" grade="3" reqJobs="030,040" />
+		<item itemID="12200071" grade="3" reqJobs="050,060" />
+		<item itemID="13100041" grade="3" reqJobs="070" />
+		<item itemID="13100059" grade="3" reqJobs="070" />
+		<item itemID="13200040" grade="3" reqJobs="010" />
+		<item itemID="13200062" grade="3" reqJobs="010" />
+		<item itemID="13300031" grade="3" reqJobs="040" />
+		<item itemID="13300054" grade="3" reqJobs="040" />
+		<item itemID="13400033" grade="3" reqJobs="080" />
+		<item itemID="13400055" grade="3" reqJobs="080" />
+		<item itemID="14000026" grade="3" reqJobs="040" />
+		<item itemID="14000048" grade="3" reqJobs="040" />
+		<item itemID="14100034" grade="3" reqJobs="010" />
+		<item itemID="14100057" grade="3" reqJobs="010" />
+		<item itemID="15000038" grade="3" reqJobs="020" />
+		<item itemID="15000060" grade="3" reqJobs="020" />
+		<item itemID="15100036" grade="3" reqJobs="050" />
+		<item itemID="15100058" grade="3" reqJobs="050" />
+		<item itemID="15200035" grade="3" reqJobs="030" />
+		<item itemID="15200056" grade="3" reqJobs="030" />
+		<item itemID="15300033" grade="3" reqJobs="060" />
+		<item itemID="15300055" grade="3" reqJobs="060" />
+		<item itemID="11200005" grade="3" />
+		<item itemID="11800022" grade="3" />
+		<item itemID="11900031" grade="3" />
+		<item itemID="12000016" grade="3" />
+		<item itemID="12000023" grade="3" />
+		<item itemID="12100026" grade="3" />
+		<item itemID="11850039" grade="1" />
+		<item itemID="36000305" grade="1" />
+	</preview>
+	<preview id="25003001">
+		<item itemID="13100047" grade="3" reqJobs="070" />
+		<item itemID="13100060" grade="3" reqJobs="070" />
+		<item itemID="13200050" grade="3" reqJobs="010" />
+		<item itemID="13200063" grade="3" reqJobs="010" />
+		<item itemID="13300042" grade="3" reqJobs="040" />
+		<item itemID="13300055" grade="3" reqJobs="040" />
+		<item itemID="13400043" grade="3" reqJobs="080" />
+		<item itemID="13400056" grade="3" reqJobs="080" />
+		<item itemID="14000036" grade="3" reqJobs="040" />
+		<item itemID="14000049" grade="3" reqJobs="040" />
+		<item itemID="14100045" grade="3" reqJobs="010" />
+		<item itemID="14100058" grade="3" reqJobs="010" />
+		<item itemID="15000048" grade="3" reqJobs="020" />
+		<item itemID="15000061" grade="3" reqJobs="020" />
+		<item itemID="15100046" grade="3" reqJobs="050" />
+		<item itemID="15100059" grade="3" reqJobs="050" />
+		<item itemID="15200044" grade="3" reqJobs="030" />
+		<item itemID="15200057" grade="3" reqJobs="030" />
+		<item itemID="15300043" grade="3" reqJobs="060" />
+		<item itemID="15300056" grade="3" reqJobs="060" />
+		<item itemID="13100048" grade="3" reqJobs="070" />
+		<item itemID="13100061" grade="3" reqJobs="070" />
+		<item itemID="13200051" grade="3" reqJobs="010" />
+		<item itemID="13200064" grade="3" reqJobs="010" />
+		<item itemID="13300043" grade="3" reqJobs="040" />
+		<item itemID="13300056" grade="3" reqJobs="040" />
+		<item itemID="13400044" grade="3" reqJobs="080" />
+		<item itemID="13400057" grade="3" reqJobs="080" />
+		<item itemID="14000037" grade="3" reqJobs="040" />
+		<item itemID="14000050" grade="3" reqJobs="040" />
+		<item itemID="14100046" grade="3" reqJobs="010" />
+		<item itemID="14100059" grade="3" reqJobs="010" />
+		<item itemID="15000049" grade="3" reqJobs="020" />
+		<item itemID="15000062" grade="3" reqJobs="020" />
+		<item itemID="15100047" grade="3" reqJobs="050" />
+		<item itemID="15100060" grade="3" reqJobs="050" />
+		<item itemID="15200045" grade="3" reqJobs="030" />
+		<item itemID="15200058" grade="3" reqJobs="030" />
+		<item itemID="15300044" grade="3" reqJobs="060" />
+		<item itemID="15300057" grade="3" reqJobs="060" />
+		<item itemID="11300219" grade="3" reqJobs="050,060" />
+		<item itemID="11300224" grade="3" reqJobs="070,080" />
+		<item itemID="11700143" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700148" grade="3" reqJobs="030,040" />
+		<item itemID="11700153" grade="3" reqJobs="050,060" />
+		<item itemID="11700158" grade="3" reqJobs="070,080" />
+		<item itemID="11300209" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300214" grade="3" reqJobs="030,040" />
+		<item itemID="11600108" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600109" grade="3" reqJobs="030,040" />
+		<item itemID="11600110" grade="3" reqJobs="050,060" />
+		<item itemID="11600111" grade="3" reqJobs="070,080" />
+		<item itemID="11400102" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400108" grade="3" reqJobs="070,080" />
+		<item itemID="11500096" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500102" grade="3" reqJobs="070,080" />
+		<item itemID="11700131" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700132" grade="3" reqJobs="030,040" />
+		<item itemID="11700133" grade="3" reqJobs="050,060" />
+		<item itemID="11700134" grade="3" reqJobs="070,080" />
+		<item itemID="12200080" grade="3" reqJobs="030,040" />
+		<item itemID="12200086" grade="3" reqJobs="050,060" />
+		<item itemID="11604696" grade="1" />
+		<item itemID="36000300" grade="1" />
+		<item itemID="50600128" grade="3" />
+	</preview>
+	<preview id="20013001">
+		<item itemID="13100048" grade="3" reqJobs="070" />
+		<item itemID="13100061" grade="3" reqJobs="070" />
+		<item itemID="13200051" grade="3" reqJobs="010" />
+		<item itemID="13200064" grade="3" reqJobs="010" />
+		<item itemID="13300043" grade="3" reqJobs="040" />
+		<item itemID="13300056" grade="3" reqJobs="040" />
+		<item itemID="13400044" grade="3" reqJobs="080" />
+		<item itemID="13400057" grade="3" reqJobs="080" />
+		<item itemID="14000037" grade="3" reqJobs="040" />
+		<item itemID="14000050" grade="3" reqJobs="040" />
+		<item itemID="14100046" grade="3" reqJobs="010" />
+		<item itemID="14100059" grade="3" reqJobs="010" />
+		<item itemID="15000049" grade="3" reqJobs="020" />
+		<item itemID="15000062" grade="3" reqJobs="020" />
+		<item itemID="15100047" grade="3" reqJobs="050" />
+		<item itemID="15100060" grade="3" reqJobs="050" />
+		<item itemID="15200045" grade="3" reqJobs="030" />
+		<item itemID="15200058" grade="3" reqJobs="030" />
+		<item itemID="15300044" grade="3" reqJobs="060" />
+		<item itemID="15300057" grade="3" reqJobs="060" />
+		<item itemID="13100089" grade="3" reqJobs="070" />
+		<item itemID="13200089" grade="3" reqJobs="010" />
+		<item itemID="13300084" grade="3" reqJobs="040" />
+		<item itemID="13400085" grade="3" reqJobs="080" />
+		<item itemID="14000071" grade="3" reqJobs="040" />
+		<item itemID="14100077" grade="3" reqJobs="010" />
+		<item itemID="15000088" grade="3" reqJobs="020" />
+		<item itemID="15100087" grade="3" reqJobs="050" />
+		<item itemID="15200086" grade="3" reqJobs="030" />
+		<item itemID="15300085" grade="3" reqJobs="060" />
+		<item itemID="11300281" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300282" grade="3" reqJobs="030,040" />
+		<item itemID="11300283" grade="3" reqJobs="050,060" />
+		<item itemID="11300284" grade="3" reqJobs="070,080" />
+		<item itemID="11400209" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400210" grade="3" reqJobs="070,080" />
+		<item itemID="11500137" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500138" grade="3" reqJobs="070,080" />
+		<item itemID="11600187" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600188" grade="3" reqJobs="030,040" />
+		<item itemID="11600189" grade="3" reqJobs="050,060" />
+		<item itemID="11600190" grade="3" reqJobs="070,080" />
+		<item itemID="11700210" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700211" grade="3" reqJobs="030,040" />
+		<item itemID="11700212" grade="3" reqJobs="050,060" />
+		<item itemID="11700213" grade="3" reqJobs="070,080" />
+		<item itemID="12200108" grade="3" reqJobs="030,040" />
+		<item itemID="12200109" grade="3" reqJobs="050,060" />
+		<item itemID="11400102" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400108" grade="3" reqJobs="070,080" />
+		<item itemID="11500096" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500102" grade="3" reqJobs="070,080" />
+		<item itemID="11700131" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700132" grade="3" reqJobs="030,040" />
+		<item itemID="11700133" grade="3" reqJobs="050,060" />
+		<item itemID="11700134" grade="3" reqJobs="070,080" />
+		<item itemID="12200080" grade="3" reqJobs="030,040" />
+		<item itemID="12200086" grade="3" reqJobs="050,060" />
+		<item itemID="11300175" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300176" grade="3" reqJobs="030,040" />
+		<item itemID="11300177" grade="3" reqJobs="050,060" />
+		<item itemID="11300178" grade="3" reqJobs="070,080" />
+		<item itemID="11900031" grade="3" />
+		<item itemID="12100026" grade="3" />
+		<item itemID="11200030" grade="3" />
+		<item itemID="11300438" grade="1" />
+		<item itemID="36000288" grade="1" />
+	</preview>
+	<preview id="20003001">
+		<item itemID="13100090" grade="3" reqJobs="070" />
+		<item itemID="13200090" grade="3" reqJobs="010" />
+		<item itemID="13300085" grade="3" reqJobs="040" />
+		<item itemID="13400036" grade="3" />
+		<item itemID="13400086" grade="3" reqJobs="080" />
+		<item itemID="14000072" grade="3" reqJobs="040" />
+		<item itemID="14100037" grade="3" />
+		<item itemID="14100078" grade="3" reqJobs="010" />
+		<item itemID="15000089" grade="3" reqJobs="020" />
+		<item itemID="15100088" grade="3" reqJobs="050" />
+		<item itemID="15200087" grade="3" reqJobs="030" />
+		<item itemID="15300086" grade="3" reqJobs="060" />
+		<item itemID="11300175" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300176" grade="3" reqJobs="030,040" />
+		<item itemID="11300177" grade="3" reqJobs="050,060" />
+		<item itemID="11300178" grade="3" reqJobs="070,080" />
+		<item itemID="11400102" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400108" grade="3" reqJobs="070,080" />
+		<item itemID="11400211" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400212" grade="3" reqJobs="070,080" />
+		<item itemID="11500096" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500102" grade="3" reqJobs="070,080" />
+		<item itemID="11500139" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500140" grade="3" reqJobs="070,080" />
+		<item itemID="11600191" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600192" grade="3" reqJobs="030,040" />
+		<item itemID="11600193" grade="3" reqJobs="050,060" />
+		<item itemID="11600194" grade="3" reqJobs="070,080" />
+		<item itemID="11700131" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700132" grade="3" reqJobs="030,040" />
+		<item itemID="11700133" grade="3" reqJobs="050,060" />
+		<item itemID="11700134" grade="3" reqJobs="070,080" />
+		<item itemID="11700214" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700215" grade="3" reqJobs="030,040" />
+		<item itemID="11700216" grade="3" reqJobs="050,060" />
+		<item itemID="11700217" grade="3" reqJobs="070,080" />
+		<item itemID="12200080" grade="3" reqJobs="030,040" />
+		<item itemID="12200086" grade="3" reqJobs="050,060" />
+		<item itemID="12200110" grade="3" reqJobs="030,040" />
+		<item itemID="12200111" grade="3" reqJobs="050,060" />
+		<item itemID="11300442" grade="1" />
+		<item itemID="36000292" grade="1" />
+	</preview>
+	<preview id="20011001">
+		<item itemID="13100035" grade="3" reqJobs="070" />
+		<item itemID="13200048" grade="3" reqJobs="010" />
+		<item itemID="13200091" grade="3" />
+		<item itemID="13300037" grade="3" reqJobs="040" />
+		<item itemID="13400038" grade="3" reqJobs="080" />
+		<item itemID="14000034" grade="3" reqJobs="040" />
+		<item itemID="14100041" grade="3" reqJobs="010" />
+		<item itemID="15000046" grade="3" reqJobs="020" />
+		<item itemID="15000090" grade="3" />
+		<item itemID="15100041" grade="3" reqJobs="050" />
+		<item itemID="15200042" grade="3" reqJobs="030" />
+		<item itemID="15300041" grade="3" reqJobs="060" />
+		<item itemID="11300210" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300215" grade="3" reqJobs="030,040" />
+		<item itemID="11300220" grade="3" reqJobs="050,060" />
+		<item itemID="11300225" grade="3" reqJobs="070,080" />
+		<item itemID="11400103" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400109" grade="3" reqJobs="070,080" />
+		<item itemID="11500097" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500103" grade="3" reqJobs="070,080" />
+		<item itemID="11600090" grade="3" reqJobs="050" />
+		<item itemID="11600092" grade="3" reqJobs="070" />
+		<item itemID="11600094" grade="3" reqJobs="060" />
+		<item itemID="11600095" grade="3" reqJobs="040" />
+		<item itemID="11600096" grade="3" reqJobs="080" />
+		<item itemID="11600097" grade="3" reqJobs="030" />
+		<item itemID="11600098" grade="3" reqJobs="010" />
+		<item itemID="11600099" grade="3" reqJobs="020" />
+		<item itemID="11600117" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600118" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600122" grade="3" reqJobs="030,040" />
+		<item itemID="11600123" grade="3" reqJobs="030,040" />
+		<item itemID="11600127" grade="3" reqJobs="050,060" />
+		<item itemID="11600128" grade="3" reqJobs="050,060" />
+		<item itemID="11600132" grade="3" reqJobs="070,080" />
+		<item itemID="11600133" grade="3" reqJobs="070,080" />
+		<item itemID="11700112" grade="3" reqJobs="050" />
+		<item itemID="11700114" grade="3" reqJobs="070" />
+		<item itemID="11700116" grade="3" reqJobs="060" />
+		<item itemID="11700118" grade="3" reqJobs="040" />
+		<item itemID="11700119" grade="3" reqJobs="080" />
+		<item itemID="11700120" grade="3" reqJobs="030" />
+		<item itemID="11700121" grade="3" reqJobs="010" />
+		<item itemID="11700122" grade="3" reqJobs="020" />
+		<item itemID="11700144" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700149" grade="3" reqJobs="030,040" />
+		<item itemID="11700154" grade="3" reqJobs="050,060" />
+		<item itemID="11700159" grade="3" reqJobs="070,080" />
+		<item itemID="12200081" grade="3" reqJobs="030,040" />
+		<item itemID="12200087" grade="3" reqJobs="050,060" />
+		<item itemID="11200024" grade="3" />
+		<item itemID="11800030" grade="3" />
+		<item itemID="11900023" grade="3" />
+		<item itemID="12000012" grade="3" />
+		<item itemID="12100016" grade="3" />
+		<item itemID="11250102" grade="1" />
+		<item itemID="36000285" grade="1" />
+	</preview>
+	<preview id="20010001">
+		<item itemID="13100035" grade="3" reqJobs="070" />
+		<item itemID="13200048" grade="3" reqJobs="010" />
+		<item itemID="13300037" grade="3" reqJobs="040" />
+		<item itemID="13400038" grade="3" reqJobs="080" />
+		<item itemID="14000034" grade="3" reqJobs="040" />
+		<item itemID="14100041" grade="3" reqJobs="010" />
+		<item itemID="15000046" grade="3" reqJobs="020" />
+		<item itemID="15100041" grade="3" reqJobs="050" />
+		<item itemID="15200042" grade="3" reqJobs="030" />
+		<item itemID="15300041" grade="3" reqJobs="060" />
+		<item itemID="11300210" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300215" grade="3" reqJobs="030,040" />
+		<item itemID="11300220" grade="3" reqJobs="050,060" />
+		<item itemID="11300225" grade="3" reqJobs="070,080" />
+		<item itemID="11400103" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400109" grade="3" reqJobs="070,080" />
+		<item itemID="11400274" grade="3" />
+		<item itemID="11500097" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500103" grade="3" reqJobs="070,080" />
+		<item itemID="11500175" grade="3" />
+		<item itemID="11600090" grade="3" reqJobs="050" />
+		<item itemID="11600092" grade="3" reqJobs="070" />
+		<item itemID="11600094" grade="3" reqJobs="060" />
+		<item itemID="11600095" grade="3" reqJobs="040" />
+		<item itemID="11600096" grade="3" reqJobs="080" />
+		<item itemID="11600097" grade="3" reqJobs="030" />
+		<item itemID="11600098" grade="3" reqJobs="010" />
+		<item itemID="11600099" grade="3" reqJobs="020" />
+		<item itemID="11600117" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600118" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600122" grade="3" reqJobs="030,040" />
+		<item itemID="11600123" grade="3" reqJobs="030,040" />
+		<item itemID="11600127" grade="3" reqJobs="050,060" />
+		<item itemID="11600128" grade="3" reqJobs="050,060" />
+		<item itemID="11600132" grade="3" reqJobs="070,080" />
+		<item itemID="11600133" grade="3" reqJobs="070,080" />
+		<item itemID="11700112" grade="3" reqJobs="050" />
+		<item itemID="11700114" grade="3" reqJobs="070" />
+		<item itemID="11700116" grade="3" reqJobs="060" />
+		<item itemID="11700118" grade="3" reqJobs="040" />
+		<item itemID="11700119" grade="3" reqJobs="080" />
+		<item itemID="11700120" grade="3" reqJobs="030" />
+		<item itemID="11700121" grade="3" reqJobs="010" />
+		<item itemID="11700122" grade="3" reqJobs="020" />
+		<item itemID="11700144" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700149" grade="3" reqJobs="030,040" />
+		<item itemID="11700154" grade="3" reqJobs="050,060" />
+		<item itemID="11700159" grade="3" reqJobs="070,080" />
+		<item itemID="12200081" grade="3" reqJobs="030,040" />
+		<item itemID="12200087" grade="3" reqJobs="050,060" />
+		<item itemID="11200024" grade="3" />
+		<item itemID="11800030" grade="3" />
+		<item itemID="11900023" grade="3" />
+		<item itemID="12000012" grade="3" />
+		<item itemID="12100016" grade="3" />
+		<item itemID="11300449" grade="1" />
+		<item itemID="36000296" grade="1" />
+	</preview>
+	<preview id="21009001">
+		<item itemID="13100052" grade="3" reqJobs="070" />
+		<item itemID="13100065" grade="3" reqJobs="070" />
+		<item itemID="13200055" grade="3" reqJobs="010" />
+		<item itemID="13200068" grade="3" reqJobs="010" />
+		<item itemID="13300047" grade="3" reqJobs="040" />
+		<item itemID="13300060" grade="3" reqJobs="040" />
+		<item itemID="13400048" grade="3" reqJobs="080" />
+		<item itemID="13400061" grade="3" reqJobs="080" />
+		<item itemID="14000041" grade="3" reqJobs="040" />
+		<item itemID="14000054" grade="3" reqJobs="040" />
+		<item itemID="14100050" grade="3" reqJobs="010" />
+		<item itemID="14100063" grade="3" reqJobs="010" />
+		<item itemID="15000053" grade="3" reqJobs="020" />
+		<item itemID="15000066" grade="3" reqJobs="020" />
+		<item itemID="15100051" grade="3" reqJobs="050" />
+		<item itemID="15100064" grade="3" reqJobs="050" />
+		<item itemID="15200049" grade="3" reqJobs="030" />
+		<item itemID="15200062" grade="3" reqJobs="030" />
+		<item itemID="15300048" grade="3" reqJobs="060" />
+		<item itemID="15300061" grade="3" reqJobs="060" />
+		<item itemID="13100051" grade="3" reqJobs="070" />
+		<item itemID="13100064" grade="3" reqJobs="070" />
+		<item itemID="13200054" grade="3" reqJobs="010" />
+		<item itemID="13200067" grade="3" reqJobs="010" />
+		<item itemID="13300046" grade="3" reqJobs="040" />
+		<item itemID="13300059" grade="3" reqJobs="040" />
+		<item itemID="13400047" grade="3" reqJobs="080" />
+		<item itemID="13400060" grade="3" reqJobs="080" />
+		<item itemID="14000040" grade="3" reqJobs="040" />
+		<item itemID="14000053" grade="3" reqJobs="040" />
+		<item itemID="14100049" grade="3" reqJobs="010" />
+		<item itemID="14100062" grade="3" reqJobs="010" />
+		<item itemID="15000052" grade="3" reqJobs="020" />
+		<item itemID="15000065" grade="3" reqJobs="020" />
+		<item itemID="15100050" grade="3" reqJobs="050" />
+		<item itemID="15100063" grade="3" reqJobs="050" />
+		<item itemID="15200048" grade="3" reqJobs="030" />
+		<item itemID="15200061" grade="3" reqJobs="030" />
+		<item itemID="15300047" grade="3" reqJobs="060" />
+		<item itemID="15300060" grade="3" reqJobs="060" />
+		<item itemID="11300210" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300211" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300215" grade="3" reqJobs="030,040" />
+		<item itemID="11300216" grade="3" reqJobs="030,040" />
+		<item itemID="11300220" grade="3" reqJobs="050,060" />
+		<item itemID="11300221" grade="3" reqJobs="050,060" />
+		<item itemID="11300225" grade="3" reqJobs="070,080" />
+		<item itemID="11300226" grade="3" reqJobs="070,080" />
+		<item itemID="11400104" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400105" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400110" grade="3" reqJobs="070,080" />
+		<item itemID="11400111" grade="3" reqJobs="070,080" />
+		<item itemID="11500098" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500099" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500104" grade="3" reqJobs="070,080" />
+		<item itemID="11500105" grade="3" reqJobs="070,080" />
+		<item itemID="11600118" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600119" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600123" grade="3" reqJobs="030,040" />
+		<item itemID="11600124" grade="3" reqJobs="030,040" />
+		<item itemID="11600128" grade="3" reqJobs="050,060" />
+		<item itemID="11600129" grade="3" reqJobs="050,060" />
+		<item itemID="11600133" grade="3" reqJobs="070,080" />
+		<item itemID="11600134" grade="3" reqJobs="070,080" />
+		<item itemID="11700144" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700145" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700149" grade="3" reqJobs="030,040" />
+		<item itemID="11700150" grade="3" reqJobs="030,040" />
+		<item itemID="11700154" grade="3" reqJobs="050,060" />
+		<item itemID="11700155" grade="3" reqJobs="050,060" />
+		<item itemID="11700159" grade="3" reqJobs="070,080" />
+		<item itemID="11700160" grade="3" reqJobs="070,080" />
+		<item itemID="12200082" grade="3" reqJobs="030,040" />
+		<item itemID="12200083" grade="3" reqJobs="030,040" />
+		<item itemID="12200088" grade="3" reqJobs="050,060" />
+		<item itemID="12200089" grade="3" reqJobs="050,060" />
+		<item itemID="11300436" grade="1" />
+		<item itemID="36000286" grade="1" />
+	</preview>
+	<preview id="21017001">
+		<item itemID="13100052" grade="3" reqJobs="070" />
+		<item itemID="13100065" grade="3" reqJobs="070" />
+		<item itemID="13200055" grade="3" reqJobs="010" />
+		<item itemID="13200068" grade="3" reqJobs="010" />
+		<item itemID="13300047" grade="3" reqJobs="040" />
+		<item itemID="13300060" grade="3" reqJobs="040" />
+		<item itemID="13400048" grade="3" reqJobs="080" />
+		<item itemID="13400061" grade="3" reqJobs="080" />
+		<item itemID="14000041" grade="3" reqJobs="040" />
+		<item itemID="14000054" grade="3" reqJobs="040" />
+		<item itemID="14100050" grade="3" reqJobs="010" />
+		<item itemID="14100063" grade="3" reqJobs="010" />
+		<item itemID="15000053" grade="3" reqJobs="020" />
+		<item itemID="15000066" grade="3" reqJobs="020" />
+		<item itemID="15100051" grade="3" reqJobs="050" />
+		<item itemID="15100064" grade="3" reqJobs="050" />
+		<item itemID="15200049" grade="3" reqJobs="030" />
+		<item itemID="15200062" grade="3" reqJobs="030" />
+		<item itemID="15300048" grade="3" reqJobs="060" />
+		<item itemID="15300061" grade="3" reqJobs="060" />
+		<item itemID="13100051" grade="3" reqJobs="070" />
+		<item itemID="13100064" grade="3" reqJobs="070" />
+		<item itemID="13200054" grade="3" reqJobs="010" />
+		<item itemID="13200067" grade="3" reqJobs="010" />
+		<item itemID="13300046" grade="3" reqJobs="040" />
+		<item itemID="13300059" grade="3" reqJobs="040" />
+		<item itemID="13400047" grade="3" reqJobs="080" />
+		<item itemID="13400060" grade="3" reqJobs="080" />
+		<item itemID="14000040" grade="3" reqJobs="040" />
+		<item itemID="14000053" grade="3" reqJobs="040" />
+		<item itemID="14100049" grade="3" reqJobs="010" />
+		<item itemID="14100062" grade="3" reqJobs="010" />
+		<item itemID="15000052" grade="3" reqJobs="020" />
+		<item itemID="15000065" grade="3" reqJobs="020" />
+		<item itemID="15100050" grade="3" reqJobs="050" />
+		<item itemID="15100063" grade="3" reqJobs="050" />
+		<item itemID="15200048" grade="3" reqJobs="030" />
+		<item itemID="15200061" grade="3" reqJobs="030" />
+		<item itemID="15300047" grade="3" reqJobs="060" />
+		<item itemID="15300060" grade="3" reqJobs="060" />
+		<item itemID="11300210" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300211" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300215" grade="3" reqJobs="030,040" />
+		<item itemID="11300216" grade="3" reqJobs="030,040" />
+		<item itemID="11300220" grade="3" reqJobs="050,060" />
+		<item itemID="11300221" grade="3" reqJobs="050,060" />
+		<item itemID="11300225" grade="3" reqJobs="070,080" />
+		<item itemID="11300226" grade="3" reqJobs="070,080" />
+		<item itemID="11400104" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400105" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400110" grade="3" reqJobs="070,080" />
+		<item itemID="11400111" grade="3" reqJobs="070,080" />
+		<item itemID="11500098" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500099" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500104" grade="3" reqJobs="070,080" />
+		<item itemID="11500105" grade="3" reqJobs="070,080" />
+		<item itemID="11600118" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600119" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600123" grade="3" reqJobs="030,040" />
+		<item itemID="11600124" grade="3" reqJobs="030,040" />
+		<item itemID="11600128" grade="3" reqJobs="050,060" />
+		<item itemID="11600129" grade="3" reqJobs="050,060" />
+		<item itemID="11600133" grade="3" reqJobs="070,080" />
+		<item itemID="11600134" grade="3" reqJobs="070,080" />
+		<item itemID="11700144" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700145" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700149" grade="3" reqJobs="030,040" />
+		<item itemID="11700150" grade="3" reqJobs="030,040" />
+		<item itemID="11700154" grade="3" reqJobs="050,060" />
+		<item itemID="11700155" grade="3" reqJobs="050,060" />
+		<item itemID="11700159" grade="3" reqJobs="070,080" />
+		<item itemID="11700160" grade="3" reqJobs="070,080" />
+		<item itemID="12200082" grade="3" reqJobs="030,040" />
+		<item itemID="12200083" grade="3" reqJobs="030,040" />
+		<item itemID="12200088" grade="3" reqJobs="050,060" />
+		<item itemID="12200089" grade="3" reqJobs="050,060" />
+		<item itemID="11604697" grade="1" />
+		<item itemID="36000301" grade="1" />
+	</preview>
+	<preview id="21008001">
+		<item itemID="13100052" grade="3" reqJobs="070" />
+		<item itemID="13100065" grade="3" reqJobs="070" />
+		<item itemID="13200055" grade="3" reqJobs="010" />
+		<item itemID="13200068" grade="3" reqJobs="010" />
+		<item itemID="13300047" grade="3" reqJobs="040" />
+		<item itemID="13300060" grade="3" reqJobs="040" />
+		<item itemID="13400048" grade="3" reqJobs="080" />
+		<item itemID="13400061" grade="3" reqJobs="080" />
+		<item itemID="14000041" grade="3" reqJobs="040" />
+		<item itemID="14000054" grade="3" reqJobs="040" />
+		<item itemID="14100050" grade="3" reqJobs="010" />
+		<item itemID="14100063" grade="3" reqJobs="010" />
+		<item itemID="15000053" grade="3" reqJobs="020" />
+		<item itemID="15000066" grade="3" reqJobs="020" />
+		<item itemID="15100051" grade="3" reqJobs="050" />
+		<item itemID="15100064" grade="3" reqJobs="050" />
+		<item itemID="15200049" grade="3" reqJobs="030" />
+		<item itemID="15200062" grade="3" reqJobs="030" />
+		<item itemID="15300048" grade="3" reqJobs="060" />
+		<item itemID="15300061" grade="3" reqJobs="060" />
+		<item itemID="11300212" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300217" grade="3" reqJobs="030,040" />
+		<item itemID="11300222" grade="3" reqJobs="050,060" />
+		<item itemID="11300227" grade="3" reqJobs="070,080" />
+		<item itemID="11400106" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400112" grade="3" reqJobs="070,080" />
+		<item itemID="11500100" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500106" grade="3" reqJobs="070,080" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="12200084" grade="3" reqJobs="030,040" />
+		<item itemID="12200090" grade="3" reqJobs="050,060" />
+		<item itemID="11200032" grade="3" />
+		<item itemID="11900033" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11850042" grade="1" />
+		<item itemID="36000308" grade="1" />
+	</preview>
+	<preview id="25000001">
+		<item itemID="13100052" grade="3" reqJobs="070" />
+		<item itemID="13100065" grade="3" reqJobs="070" />
+		<item itemID="13200055" grade="3" reqJobs="010" />
+		<item itemID="13200068" grade="3" reqJobs="010" />
+		<item itemID="13300047" grade="3" reqJobs="040" />
+		<item itemID="13300060" grade="3" reqJobs="040" />
+		<item itemID="13400048" grade="3" reqJobs="080" />
+		<item itemID="13400061" grade="3" reqJobs="080" />
+		<item itemID="14000041" grade="3" reqJobs="040" />
+		<item itemID="14000054" grade="3" reqJobs="040" />
+		<item itemID="14100050" grade="3" reqJobs="010" />
+		<item itemID="14100063" grade="3" reqJobs="010" />
+		<item itemID="15000053" grade="3" reqJobs="020" />
+		<item itemID="15000066" grade="3" reqJobs="020" />
+		<item itemID="15100051" grade="3" reqJobs="050" />
+		<item itemID="15100064" grade="3" reqJobs="050" />
+		<item itemID="15200049" grade="3" reqJobs="030" />
+		<item itemID="15200062" grade="3" reqJobs="030" />
+		<item itemID="15300048" grade="3" reqJobs="060" />
+		<item itemID="15300061" grade="3" reqJobs="060" />
+		<item itemID="11300212" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300217" grade="3" reqJobs="030,040" />
+		<item itemID="11300222" grade="3" reqJobs="050,060" />
+		<item itemID="11300227" grade="3" reqJobs="070,080" />
+		<item itemID="11400106" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400112" grade="3" reqJobs="070,080" />
+		<item itemID="11500100" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500106" grade="3" reqJobs="070,080" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="12200084" grade="3" reqJobs="030,040" />
+		<item itemID="12200090" grade="3" reqJobs="050,060" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11800048" grade="3" />
+		<item itemID="11850041" grade="1" />
+		<item itemID="36000307" grade="1" />
+	</preview>
+	<preview id="21019001">
+		<item itemID="13100052" grade="3" reqJobs="070" />
+		<item itemID="13100065" grade="3" reqJobs="070" />
+		<item itemID="13200055" grade="3" reqJobs="010" />
+		<item itemID="13200068" grade="3" reqJobs="010" />
+		<item itemID="13300047" grade="3" reqJobs="040" />
+		<item itemID="13300060" grade="3" reqJobs="040" />
+		<item itemID="13400048" grade="3" reqJobs="080" />
+		<item itemID="13400061" grade="3" reqJobs="080" />
+		<item itemID="14000041" grade="3" reqJobs="040" />
+		<item itemID="14000054" grade="3" reqJobs="040" />
+		<item itemID="14100050" grade="3" reqJobs="010" />
+		<item itemID="14100063" grade="3" reqJobs="010" />
+		<item itemID="15000053" grade="3" reqJobs="020" />
+		<item itemID="15000066" grade="3" reqJobs="020" />
+		<item itemID="15100051" grade="3" reqJobs="050" />
+		<item itemID="15100064" grade="3" reqJobs="050" />
+		<item itemID="15200049" grade="3" reqJobs="030" />
+		<item itemID="15200062" grade="3" reqJobs="030" />
+		<item itemID="15300048" grade="3" reqJobs="060" />
+		<item itemID="15300061" grade="3" reqJobs="060" />
+		<item itemID="11300212" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300217" grade="3" reqJobs="030,040" />
+		<item itemID="11300222" grade="3" reqJobs="050,060" />
+		<item itemID="11300227" grade="3" reqJobs="070,080" />
+		<item itemID="11400106" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400112" grade="3" reqJobs="070,080" />
+		<item itemID="11500100" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500106" grade="3" reqJobs="070,080" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="12200084" grade="3" reqJobs="030,040" />
+		<item itemID="12200090" grade="3" reqJobs="050,060" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11800048" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="11300448" grade="1" />
+		<item itemID="36000295" grade="1" />
+	</preview>
+	<preview id="29001001">
+		<item itemID="30000875" grade="4" />
+	</preview>
+	<preview id="29002001">
+		<item itemID="20300649" grade="4" />
+	</preview>
+	<preview id="29003001">
+		<item itemID="30000869" grade="4" />
+	</preview>
+	<preview id="21013001">
+		<item itemID="13100066" grade="3" reqJobs="070" />
+		<item itemID="13200069" grade="3" reqJobs="010" />
+		<item itemID="13300061" grade="3" reqJobs="040" />
+		<item itemID="13400062" grade="3" reqJobs="080" />
+		<item itemID="14000055" grade="3" reqJobs="040" />
+		<item itemID="14100064" grade="3" reqJobs="010" />
+		<item itemID="15000067" grade="3" reqJobs="020" />
+		<item itemID="15100065" grade="3" reqJobs="050" />
+		<item itemID="15200063" grade="3" reqJobs="030" />
+		<item itemID="15300062" grade="3" reqJobs="060" />
+		<item itemID="11300213" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400107" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500101" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300218" grade="3" reqJobs="030,040" />
+		<item itemID="12200085" grade="3" reqJobs="030,040" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11300223" grade="3" reqJobs="050,060" />
+		<item itemID="12200091" grade="3" reqJobs="050,060" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11300228" grade="3" reqJobs="070,080" />
+		<item itemID="11400113" grade="3" reqJobs="070,080" />
+		<item itemID="11500107" grade="3" reqJobs="070,080" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11800048" grade="3" />
+	</preview>
+	<preview id="25009001">
+		<item itemID="13100066" grade="3" reqJobs="070" />
+		<item itemID="13200069" grade="3" reqJobs="010" />
+		<item itemID="13300061" grade="3" reqJobs="040" />
+		<item itemID="13400062" grade="3" reqJobs="080" />
+		<item itemID="14000055" grade="3" reqJobs="040" />
+		<item itemID="14100064" grade="3" reqJobs="010" />
+		<item itemID="15000067" grade="3" reqJobs="020" />
+		<item itemID="15100065" grade="3" reqJobs="050" />
+		<item itemID="15200063" grade="3" reqJobs="030" />
+		<item itemID="15300062" grade="3" reqJobs="060" />
+		<item itemID="11300213" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400107" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500101" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300218" grade="3" reqJobs="030,040" />
+		<item itemID="12200085" grade="3" reqJobs="030,040" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11300223" grade="3" reqJobs="050,060" />
+		<item itemID="12200091" grade="3" reqJobs="050,060" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11300228" grade="3" reqJobs="070,080" />
+		<item itemID="11400113" grade="3" reqJobs="070,080" />
+		<item itemID="11500107" grade="3" reqJobs="070,080" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11800048" grade="3" />
+	</preview>
+	<preview id="25010001">
+		<item itemID="13100053" grade="3" reqJobs="070" />
+		<item itemID="13200056" grade="3" reqJobs="010" />
+		<item itemID="13300048" grade="3" reqJobs="040" />
+		<item itemID="13400049" grade="3" reqJobs="080" />
+		<item itemID="14000042" grade="3" reqJobs="040" />
+		<item itemID="14100051" grade="3" reqJobs="010" />
+		<item itemID="15000054" grade="3" reqJobs="020" />
+		<item itemID="15100052" grade="3" reqJobs="050" />
+		<item itemID="15200050" grade="3" reqJobs="030" />
+		<item itemID="15300049" grade="3" reqJobs="060" />
+		<item itemID="11300213" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400107" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500101" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300218" grade="3" reqJobs="030,040" />
+		<item itemID="12200085" grade="3" reqJobs="030,040" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11300223" grade="3" reqJobs="050,060" />
+		<item itemID="12200091" grade="3" reqJobs="050,060" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11300228" grade="3" reqJobs="070,080" />
+		<item itemID="11400113" grade="3" reqJobs="070,080" />
+		<item itemID="11500107" grade="3" reqJobs="070,080" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11800048" grade="3" />
+	</preview>
+	<preview id="21015001">
+		<item itemID="13100053" grade="3" reqJobs="070" />
+		<item itemID="13200056" grade="3" reqJobs="010" />
+		<item itemID="13300048" grade="3" reqJobs="040" />
+		<item itemID="13400049" grade="3" reqJobs="080" />
+		<item itemID="14000042" grade="3" reqJobs="040" />
+		<item itemID="14100051" grade="3" reqJobs="010" />
+		<item itemID="15000054" grade="3" reqJobs="020" />
+		<item itemID="15100052" grade="3" reqJobs="050" />
+		<item itemID="15200050" grade="3" reqJobs="030" />
+		<item itemID="15300049" grade="3" reqJobs="060" />
+		<item itemID="11300213" grade="3" reqJobs="010,020,090" />
+		<item itemID="11400107" grade="3" reqJobs="010,020,090" />
+		<item itemID="11500101" grade="3" reqJobs="010,020,090" />
+		<item itemID="11600120" grade="3" reqJobs="010,020,090" />
+		<item itemID="11700147" grade="3" reqJobs="010,020,090" />
+		<item itemID="11300218" grade="3" reqJobs="030,040" />
+		<item itemID="12200085" grade="3" reqJobs="030,040" />
+		<item itemID="11600125" grade="3" reqJobs="030,040" />
+		<item itemID="11700152" grade="3" reqJobs="030,040" />
+		<item itemID="11300223" grade="3" reqJobs="050,060" />
+		<item itemID="12200091" grade="3" reqJobs="050,060" />
+		<item itemID="11600130" grade="3" reqJobs="050,060" />
+		<item itemID="11700157" grade="3" reqJobs="050,060" />
+		<item itemID="11300228" grade="3" reqJobs="070,080" />
+		<item itemID="11400113" grade="3" reqJobs="070,080" />
+		<item itemID="11500107" grade="3" reqJobs="070,080" />
+		<item itemID="11600135" grade="3" reqJobs="070,080" />
+		<item itemID="11700162" grade="3" reqJobs="070,080" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11800048" grade="3" />
+	</preview>
+	<preview id="20008001">
+		<item itemID="15100039" grade="4" />
+		<item itemID="15300036" grade="4" />
+		<item itemID="12200072" grade="4" />
+		<item itemID="11300183" grade="4" />
+		<item itemID="11600302" grade="4" />
+		<item itemID="11200029" grade="4" />
+		<item itemID="11800010" grade="4" />
+		<item itemID="15300049" grade="3" reqJobs="060" />
+		<item itemID="13230057" grade="3" reqJobs="010" />
+		<item itemID="14130052" grade="3" reqJobs="010" />
+		<item itemID="15030055" grade="3" reqJobs="020" />
+		<item itemID="15230051" grade="3" reqJobs="030" />
+		<item itemID="13330049" grade="3" reqJobs="040" />
+		<item itemID="14030043" grade="3" reqJobs="040" />
+		<item itemID="15130053" grade="3" reqJobs="050" />
+		<item itemID="13130054" grade="3" reqJobs="070" />
+		<item itemID="13430050" grade="3" reqJobs="080" />
+		<item itemID="15330050" grade="3" reqJobs="060" />
+		<item itemID="11330332" grade="3" reqJobs="010,020,090" />
+		<item itemID="11430352" grade="3" reqJobs="010,020,090" />
+		<item itemID="11530280" grade="3" reqJobs="010,020,090" />
+		<item itemID="11630285" grade="3" reqJobs="010,020,090" />
+		<item itemID="11730324" grade="3" reqJobs="010,020,090" />
+		<item itemID="11330333" grade="3" reqJobs="030,040" />
+		<item itemID="12230226" grade="3" reqJobs="030,040" />
+		<item itemID="11630286" grade="3" reqJobs="030,040" />
+		<item itemID="11730325" grade="3" reqJobs="030,040" />
+		<item itemID="11330334" grade="3" reqJobs="050,060" />
+		<item itemID="12230227" grade="3" reqJobs="050,060" />
+		<item itemID="11630287" grade="3" reqJobs="050,060" />
+		<item itemID="11730326" grade="3" reqJobs="050,060" />
+		<item itemID="11330335" grade="3" reqJobs="070,080" />
+		<item itemID="11430353" grade="3" reqJobs="070,080" />
+		<item itemID="11530281" grade="3" reqJobs="070,080" />
+		<item itemID="11630288" grade="3" reqJobs="070,080" />
+		<item itemID="11730327" grade="3" reqJobs="070,080" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11800048" grade="3" />
+	</preview>
+	<preview id="20001001">
+		<item itemID="14100022" grade="4" />
+		<item itemID="11300134" grade="4" />
+		<item itemID="11700142" grade="4" />
+		<item itemID="12000051" grade="4" />
+		<item itemID="11900058" grade="4" />
+		<item itemID="13230057" grade="3" reqJobs="010" />
+		<item itemID="14130052" grade="3" reqJobs="010" />
+		<item itemID="15030055" grade="3" reqJobs="020" />
+		<item itemID="15230051" grade="3" reqJobs="030" />
+		<item itemID="13330049" grade="3" reqJobs="040" />
+		<item itemID="14030043" grade="3" reqJobs="040" />
+		<item itemID="15130053" grade="3" reqJobs="050" />
+		<item itemID="13130054" grade="3" reqJobs="070" />
+		<item itemID="13430050" grade="3" reqJobs="080" />
+		<item itemID="15330050" grade="3" reqJobs="060" />
+		<item itemID="11330332" grade="3" reqJobs="010,020,090" />
+		<item itemID="11430352" grade="3" reqJobs="010,020,090" />
+		<item itemID="11530280" grade="3" reqJobs="010,020,090" />
+		<item itemID="11630285" grade="3" reqJobs="010,020,090" />
+		<item itemID="11730324" grade="3" reqJobs="010,020,090" />
+		<item itemID="11330333" grade="3" reqJobs="030,040" />
+		<item itemID="12230226" grade="3" reqJobs="030,040" />
+		<item itemID="11630286" grade="3" reqJobs="030,040" />
+		<item itemID="11730325" grade="3" reqJobs="030,040" />
+		<item itemID="11330334" grade="3" reqJobs="050,060" />
+		<item itemID="12230227" grade="3" reqJobs="050,060" />
+		<item itemID="11630287" grade="3" reqJobs="050,060" />
+		<item itemID="11730326" grade="3" reqJobs="050,060" />
+		<item itemID="11330335" grade="3" reqJobs="070,080" />
+		<item itemID="11430353" grade="3" reqJobs="070,080" />
+		<item itemID="11530281" grade="3" reqJobs="070,080" />
+		<item itemID="11630288" grade="3" reqJobs="070,080" />
+		<item itemID="11730327" grade="3" reqJobs="070,080" />
+		<item itemID="11200033" grade="3" />
+		<item itemID="11900034" grade="3" />
+		<item itemID="12100028" grade="3" />
+		<item itemID="12000025" grade="3" />
+		<item itemID="11800048" grade="3" />
+	</preview>
+	<preview id="20015001">
+		<item itemID="15200037" grade="4" />
+		<item itemID="13300034" grade="4" />
+		<item itemID="14000029" grade="4" />
+		<item itemID="11300185" grade="4" />
+		<item itemID="12200073" grade="4" />
+		<item itemID="12100045" grade="4" />
+		<item itemID="13130067" grade="3" reqJobs="070" />
+		<item itemID="13230070" grade="3" reqJobs="010" />
+		<item itemID="13330062" grade="3" reqJobs="040" />
+		<item itemID="13430063" grade="3" reqJobs="080" />
+		<item itemID="14030056" grade="3" reqJobs="040" />
+		<item itemID="14130065" grade="3" reqJobs="010" />
+		<item itemID="15030068" grade="3" reqJobs="020" />
+		<item itemID="15130066" grade="3" reqJobs="050" />
+		<item itemID="15230064" grade="3" reqJobs="030" />
+		<item itemID="15330063" grade="3" reqJobs="060" />
+		<item itemID="11330332" grade="3" reqJobs="010,020,090" />
+		<item itemID="11430352" grade="3" reqJobs="010,020,090" />
+		<item itemID="11530280" grade="3" reqJobs="010,020,090" />
+		<item itemID="11630285" grade="3" reqJobs="010,020,090" />
+		<item itemID="11730324" grade="3" reqJobs="010,020,090" />
+		<item itemID="11330333" grade="3" reqJobs="030,040" />
+		<item itemID="12230226" grade="3" reqJobs="030,040" />
+		<item itemID="11630286" grade="3" reqJobs="030,040" />
+		<item itemID="11730325" grade="3" reqJobs="030,040" />
+		<item itemID="11330334" grade="3" reqJobs="050,060" />
+		<item itemID="12230227" grade="3" reqJobs="050,060" />
+		<item itemID="11630287" grade="3" reqJobs="050,060" />
+		<item itemID="11730326" grade="3" reqJobs="050,060" />
+		<item itemID="11330335" grade="3" reqJobs="070,080" />
+		<item itemID="11430353" grade="3" reqJobs="070,080" />
+		<item itemID="11530281" grade="3" reqJobs="070,080" />
+		<item itemID="11630288" grade="3" reqJobs="070,080" />
+		<item itemID="11730327" grade="3" reqJobs="070,080" />
+		<item itemID="11930056" grade="3" />
+		<item itemID="11830060" grade="3" />
+		<item itemID="12130042" grade="3" />
+		<item itemID="11230044" grade="3" />
+		<item itemID="12030049" grade="3" />
+	</preview>
+	<preview id="21010001">
+		<item itemID="14100133" grade="4" />
+		<item itemID="13130067" grade="3" reqJobs="070" />
+		<item itemID="13230070" grade="3" reqJobs="010" />
+		<item itemID="13330062" grade="3" reqJobs="040" />
+		<item itemID="13430063" grade="3" reqJobs="080" />
+		<item itemID="14030056" grade="3" reqJobs="040" />
+		<item itemID="14130065" grade="3" reqJobs="010" />
+		<item itemID="15030068" grade="3" reqJobs="020" />
+		<item itemID="15130066" grade="3" reqJobs="050" />
+		<item itemID="15230064" grade="3" reqJobs="030" />
+		<item itemID="15330063" grade="3" reqJobs="060" />
+		<item itemID="11330332" grade="3" reqJobs="010,020,090" />
+		<item itemID="11430352" grade="3" reqJobs="010,020,090" />
+		<item itemID="11530280" grade="3" reqJobs="010,020,090" />
+		<item itemID="11630285" grade="3" reqJobs="010,020,090" />
+		<item itemID="11730324" grade="3" reqJobs="010,020,090" />
+		<item itemID="11330333" grade="3" reqJobs="030,040" />
+		<item itemID="12230226" grade="3" reqJobs="030,040" />
+		<item itemID="11630286" grade="3" reqJobs="030,040" />
+		<item itemID="11730325" grade="3" reqJobs="030,040" />
+		<item itemID="11330334" grade="3" reqJobs="050,060" />
+		<item itemID="12230227" grade="3" reqJobs="050,060" />
+		<item itemID="11630287" grade="3" reqJobs="050,060" />
+		<item itemID="11730326" grade="3" reqJobs="050,060" />
+		<item itemID="11330335" grade="3" reqJobs="070,080" />
+		<item itemID="11430353" grade="3" reqJobs="070,080" />
+		<item itemID="11530281" grade="3" reqJobs="070,080" />
+		<item itemID="11630288" grade="3" reqJobs="070,080" />
+		<item itemID="11730327" grade="3" reqJobs="070,080" />
+		<item itemID="11930056" grade="3" />
+		<item itemID="11830060" grade="3" />
+		<item itemID="12130042" grade="3" />
+		<item itemID="11230044" grade="3" />
+		<item itemID="12030049" grade="3" />
+	</preview>
+	<preview id="20017001">
+		<item itemID="13100149" grade="4" />
+		<item itemID="15330063" grade="3" reqJobs="060" />
+		<item itemID="13130036" grade="3" reqJobs="070" />
+		<item itemID="13230042" grade="3" reqJobs="010" />
+		<item itemID="13330033" grade="3" reqJobs="040" />
+		<item itemID="13430035" grade="3" reqJobs="080" />
+		<item itemID="14030028" grade="3" reqJobs="040" />
+		<item itemID="14130036" grade="3" reqJobs="010" />
+		<item itemID="15030040" grade="3" reqJobs="020" />
+		<item itemID="15130038" grade="3" reqJobs="050" />
+		<item itemID="15230036" grade="3" reqJobs="030" />
+		<item itemID="15330035" grade="3" reqJobs="060" />
+		<item itemID="11330332" grade="3" reqJobs="010,020,090" />
+		<item itemID="11430352" grade="3" reqJobs="010,020,090" />
+		<item itemID="11530280" grade="3" reqJobs="010,020,090" />
+		<item itemID="11630285" grade="3" reqJobs="010,020,090" />
+		<item itemID="11730324" grade="3" reqJobs="010,020,090" />
+		<item itemID="11330333" grade="3" reqJobs="030,040" />
+		<item itemID="12230226" grade="3" reqJobs="030,040" />
+		<item itemID="11630286" grade="3" reqJobs="030,040" />
+		<item itemID="11730325" grade="3" reqJobs="030,040" />
+		<item itemID="11330334" grade="3" reqJobs="050,060" />
+		<item itemID="12230227" grade="3" reqJobs="050,060" />
+		<item itemID="11630287" grade="3" reqJobs="050,060" />
+		<item itemID="11730326" grade="3" reqJobs="050,060" />
+		<item itemID="11330335" grade="3" reqJobs="070,080" />
+		<item itemID="11430353" grade="3" reqJobs="070,080" />
+		<item itemID="11530281" grade="3" reqJobs="070,080" />
+		<item itemID="11630288" grade="3" reqJobs="070,080" />
+		<item itemID="11730327" grade="3" reqJobs="070,080" />
+		<item itemID="11930056" grade="3" />
+		<item itemID="11830060" grade="3" />
+		<item itemID="12130042" grade="3" />
+		<item itemID="11230044" grade="3" />
+		<item itemID="12030049" grade="3" />
+	</preview>
+	<preview id="21014001">
+		<item itemID="15200148" grade="4" />
+		<item itemID="13130036" grade="3" reqJobs="070" />
+		<item itemID="13230042" grade="3" reqJobs="010" />
+		<item itemID="13330033" grade="3" reqJobs="040" />
+		<item itemID="13430035" grade="3" reqJobs="080" />
+		<item itemID="14030028" grade="3" reqJobs="040" />
+		<item itemID="14130036" grade="3" reqJobs="010" />
+		<item itemID="15030040" grade="3" reqJobs="020" />
+		<item itemID="15130038" grade="3" reqJobs="050" />
+		<item itemID="15230036" grade="3" reqJobs="030" />
+		<item itemID="15330035" grade="3" reqJobs="060" />
+		<item itemID="11330332" grade="3" reqJobs="010,020,090" />
+		<item itemID="11430352" grade="3" reqJobs="010,020,090" />
+		<item itemID="11530280" grade="3" reqJobs="010,020,090" />
+		<item itemID="11630285" grade="3" reqJobs="010,020,090" />
+		<item itemID="11730324" grade="3" reqJobs="010,020,090" />
+		<item itemID="11330333" grade="3" reqJobs="030,040" />
+		<item itemID="12230226" grade="3" reqJobs="030,040" />
+		<item itemID="11630286" grade="3" reqJobs="030,040" />
+		<item itemID="11730325" grade="3" reqJobs="030,040" />
+		<item itemID="11330334" grade="3" reqJobs="050,060" />
+		<item itemID="12230227" grade="3" reqJobs="050,060" />
+		<item itemID="11630287" grade="3" reqJobs="050,060" />
+		<item itemID="11730326" grade="3" reqJobs="050,060" />
+		<item itemID="11330335" grade="3" reqJobs="070,080" />
+		<item itemID="11430353" grade="3" reqJobs="070,080" />
+		<item itemID="11530281" grade="3" reqJobs="070,080" />
+		<item itemID="11630288" grade="3" reqJobs="070,080" />
+		<item itemID="11730327" grade="3" reqJobs="070,080" />
+		<item itemID="11930056" grade="3" />
+		<item itemID="11830060" grade="3" />
+		<item itemID="12130042" grade="3" />
+		<item itemID="11230044" grade="3" />
+		<item itemID="12030049" grade="3" />
+	</preview>
+	<preview id="21020001">
+		<item itemID="13400142" grade="4" />
+		<item itemID="13130042" grade="3" reqJobs="070" />
+		<item itemID="13230049" grade="3" reqJobs="010" />
+		<item itemID="13330038" grade="3" reqJobs="040" />
+		<item itemID="13430039" grade="3" reqJobs="080" />
+		<item itemID="14030035" grade="3" reqJobs="040" />
+		<item itemID="14130042" grade="3" reqJobs="010" />
+		<item itemID="15030047" grade="3" reqJobs="020" />
+		<item itemID="15130042" grade="3" reqJobs="050" />
+		<item itemID="15230043" grade="3" reqJobs="030" />
+		<item itemID="15330042" grade="3" reqJobs="060" />
+		<item itemID="11330342" grade="3" reqJobs="010" />
+		<item itemID="12230233" grade="3" reqJobs="010" />
+		<item itemID="11630295" grade="3" reqJobs="010" />
+		<item itemID="11730334" grade="3" reqJobs="010" />
+		<item itemID="11330343" grade="3" reqJobs="020" />
+		<item itemID="12230234" grade="3" reqJobs="020" />
+		<item itemID="11630296" grade="3" reqJobs="020" />
+		<item itemID="11730335" grade="3" reqJobs="020" />
+		<item itemID="11330341" grade="3" reqJobs="030" />
+		<item itemID="12230232" grade="3" reqJobs="030" />
+		<item itemID="11630294" grade="3" reqJobs="030" />
+		<item itemID="11730333" grade="3" reqJobs="030" />
+		<item itemID="11330339" grade="3" reqJobs="040" />
+		<item itemID="12230230" grade="3" reqJobs="040" />
+		<item itemID="11630292" grade="3" reqJobs="040" />
+		<item itemID="11730331" grade="3" reqJobs="040" />
+		<item itemID="11330336" grade="3" reqJobs="050" />
+		<item itemID="12230228" grade="3" reqJobs="050" />
+		<item itemID="11630289" grade="3" reqJobs="050" />
+		<item itemID="11730328" grade="3" reqJobs="050" />
+		<item itemID="11330338" grade="3" reqJobs="060" />
+		<item itemID="12230229" grade="3" reqJobs="060" />
+		<item itemID="11630291" grade="3" reqJobs="060" />
+		<item itemID="11730330" grade="3" reqJobs="060" />
+		<item itemID="11330337" grade="3" reqJobs="070" />
+		<item itemID="11430354" grade="3" reqJobs="070" />
+		<item itemID="11530282" grade="3" reqJobs="070" />
+		<item itemID="11630290" grade="3" reqJobs="070" />
+		<item itemID="11730329" grade="3" reqJobs="070" />
+		<item itemID="11330340" grade="3" reqJobs="080" />
+		<item itemID="12230231" grade="3" reqJobs="080" />
+		<item itemID="11630293" grade="3" reqJobs="080" />
+		<item itemID="11730332" grade="3" reqJobs="080" />
+		<item itemID="11930056" grade="3" />
+		<item itemID="11830060" grade="3" />
+		<item itemID="12130042" grade="3" />
+		<item itemID="11230044" grade="3" />
+		<item itemID="12030049" grade="3" />
+	</preview>
+	<preview id="21018001">
+		<item itemID="11300416" grade="4" />
+		<item itemID="11800065" grade="4" />
+		<item itemID="13130042" grade="3" reqJobs="070" />
+		<item itemID="13230049" grade="3" reqJobs="010" />
+		<item itemID="13330038" grade="3" reqJobs="040" />
+		<item itemID="13430039" grade="3" reqJobs="080" />
+		<item itemID="14030035" grade="3" reqJobs="040" />
+		<item itemID="14130042" grade="3" reqJobs="010" />
+		<item itemID="15030047" grade="3" reqJobs="020" />
+		<item itemID="15130042" grade="3" reqJobs="050" />
+		<item itemID="15230043" grade="3" reqJobs="030" />
+		<item itemID="15330042" grade="3" reqJobs="060" />
+		<item itemID="11330342" grade="3" reqJobs="010" />
+		<item itemID="12230233" grade="3" reqJobs="010" />
+		<item itemID="11630295" grade="3" reqJobs="010" />
+		<item itemID="11730334" grade="3" reqJobs="010" />
+		<item itemID="11330343" grade="3" reqJobs="020" />
+		<item itemID="12230234" grade="3" reqJobs="020" />
+		<item itemID="11630296" grade="3" reqJobs="020" />
+		<item itemID="11730335" grade="3" reqJobs="020" />
+		<item itemID="11330341" grade="3" reqJobs="030" />
+		<item itemID="12230232" grade="3" reqJobs="030" />
+		<item itemID="11630294" grade="3" reqJobs="030" />
+		<item itemID="11730333" grade="3" reqJobs="030" />
+		<item itemID="11330339" grade="3" reqJobs="040" />
+		<item itemID="12230230" grade="3" reqJobs="040" />
+		<item itemID="11630292" grade="3" reqJobs="040" />
+		<item itemID="11730331" grade="3" reqJobs="040" />
+		<item itemID="11330336" grade="3" reqJobs="050" />
+		<item itemID="12230228" grade="3" reqJobs="050" />
+		<item itemID="11630289" grade="3" reqJobs="050" />
+		<item itemID="11730328" grade="3" reqJobs="050" />
+		<item itemID="11330338" grade="3" reqJobs="060" />
+		<item itemID="12230229" grade="3" reqJobs="060" />
+		<item itemID="11630291" grade="3" reqJobs="060" />
+		<item itemID="11730330" grade="3" reqJobs="060" />
+		<item itemID="11330337" grade="3" reqJobs="070" />
+		<item itemID="11430354" grade="3" reqJobs="070" />
+		<item itemID="11530282" grade="3" reqJobs="070" />
+		<item itemID="11630290" grade="3" reqJobs="070" />
+		<item itemID="11730329" grade="3" reqJobs="070" />
+		<item itemID="11330340" grade="3" reqJobs="080" />
+		<item itemID="12230231" grade="3" reqJobs="080" />
+		<item itemID="11630293" grade="3" reqJobs="080" />
+		<item itemID="11730332" grade="3" reqJobs="080" />
+		<item itemID="11930056" grade="3" />
+		<item itemID="11830060" grade="3" />
+		<item itemID="12130042" grade="3" />
+		<item itemID="11230044" grade="3" />
+		<item itemID="12030049" grade="3" />
+	</preview>
+	<preview id="21016001">
+		<item itemID="13200145" grade="4" reqJobs="010" />
+		<item itemID="15000149" grade="4" reqJobs="020" />
+		<item itemID="15200148" grade="4" reqJobs="030" />
+		<item itemID="13300144" grade="4" reqJobs="040" />
+		<item itemID="15300142" grade="4" reqJobs="060" />
+		<item itemID="15100142" grade="4" reqJobs="050" />
+		<item itemID="13100149" grade="4" reqJobs="070" />
+		<item itemID="13400142" grade="4" reqJobs="080" />
+		<item itemID="14100133" grade="4" reqJobs="010" />
+		<item itemID="14000124" grade="4" reqJobs="040" />
+		<item itemID="12000061" grade="4" />
+		<item itemID="13130043" grade="3" reqJobs="070" />
+		<item itemID="13230044" grade="3" reqJobs="010" />
+		<item itemID="13330039" grade="3" reqJobs="040" />
+		<item itemID="13430040" grade="3" reqJobs="080" />
+		<item itemID="14030030" grade="3" reqJobs="040" />
+		<item itemID="14130039" grade="3" reqJobs="010" />
+		<item itemID="15030042" grade="3" reqJobs="020" />
+		<item itemID="15130043" grade="3" reqJobs="050" />
+		<item itemID="15230038" grade="3" reqJobs="030" />
+		<item itemID="15330037" grade="3" reqJobs="060" />
+		<item itemID="11330342" grade="3" reqJobs="010" />
+		<item itemID="12230233" grade="3" reqJobs="010" />
+		<item itemID="11630295" grade="3" reqJobs="010" />
+		<item itemID="11730334" grade="3" reqJobs="010" />
+		<item itemID="11330343" grade="3" reqJobs="020" />
+		<item itemID="12230234" grade="3" reqJobs="020" />
+		<item itemID="11630296" grade="3" reqJobs="020" />
+		<item itemID="11730335" grade="3" reqJobs="020" />
+		<item itemID="11330341" grade="3" reqJobs="030" />
+		<item itemID="12230232" grade="3" reqJobs="030" />
+		<item itemID="11630294" grade="3" reqJobs="030" />
+		<item itemID="11730333" grade="3" reqJobs="030" />
+		<item itemID="11330339" grade="3" reqJobs="040" />
+		<item itemID="12230230" grade="3" reqJobs="040" />
+		<item itemID="11630292" grade="3" reqJobs="040" />
+		<item itemID="11730331" grade="3" reqJobs="040" />
+		<item itemID="11330336" grade="3" reqJobs="050" />
+		<item itemID="12230228" grade="3" reqJobs="050" />
+		<item itemID="11630289" grade="3" reqJobs="050" />
+		<item itemID="11730328" grade="3" reqJobs="050" />
+		<item itemID="11330338" grade="3" reqJobs="060" />
+		<item itemID="12230229" grade="3" reqJobs="060" />
+		<item itemID="11630291" grade="3" reqJobs="060" />
+		<item itemID="11730330" grade="3" reqJobs="060" />
+		<item itemID="11330337" grade="3" reqJobs="070" />
+		<item itemID="11430354" grade="3" reqJobs="070" />
+		<item itemID="11530282" grade="3" reqJobs="070" />
+		<item itemID="11630290" grade="3" reqJobs="070" />
+		<item itemID="11730329" grade="3" reqJobs="070" />
+		<item itemID="11330340" grade="3" reqJobs="080" />
+		<item itemID="12230231" grade="3" reqJobs="080" />
+		<item itemID="11630293" grade="3" reqJobs="080" />
+		<item itemID="11730332" grade="3" reqJobs="080" />
+		<item itemID="11230031" grade="3" />
+		<item itemID="11830046" grade="3" />
+		<item itemID="11930032" grade="3" />
+		<item itemID="12030024" grade="3" />
+		<item itemID="12130027" grade="3" />
+	</preview>
+	<preview id="20014002">
+		<item itemID="11600301" grade="4" />
+		<item itemID="12000050" grade="4" />
+		<item itemID="13200025" grade="4" reqJobs="010" />
+		<item itemID="14100022" grade="4" reqJobs="010" />
+		<item itemID="15000016" grade="4" reqJobs="020" />
+		<item itemID="15200037" grade="4" reqJobs="030" />
+		<item itemID="13300034" grade="4" reqJobs="040" />
+		<item itemID="14000029" grade="4" reqJobs="040" />
+		<item itemID="15100039" grade="4" reqJobs="050" />
+		<item itemID="15300036" grade="4" reqJobs="060" />
+		<item itemID="13100126" grade="4" reqJobs="070" />
+		<item itemID="13400021" grade="4" reqJobs="080" />
+		<item itemID="13140054" grade="4" reqJobs="070" />
+		<item itemID="13240057" grade="4" reqJobs="010" />
+		<item itemID="13340049" grade="4" reqJobs="040" />
+		<item itemID="13440050" grade="4" reqJobs="080" />
+		<item itemID="14040043" grade="4" reqJobs="040" />
+		<item itemID="14140052" grade="4" reqJobs="010" />
+		<item itemID="15040055" grade="4" reqJobs="020" />
+		<item itemID="15140053" grade="4" reqJobs="050" />
+		<item itemID="15240051" grade="4" reqJobs="030" />
+		<item itemID="15340050" grade="4" reqJobs="060" />
+		<item itemID="11340332" grade="4" reqJobs="010,020,090" />
+		<item itemID="11440352" grade="4" reqJobs="010,020,090" />
+		<item itemID="11540280" grade="4" reqJobs="010,020,090" />
+		<item itemID="11640285" grade="4" reqJobs="010,020,090" />
+		<item itemID="11740324" grade="4" reqJobs="010,020,090" />
+		<item itemID="11340333" grade="4" reqJobs="030,040" />
+		<item itemID="12240226" grade="4" reqJobs="030,040" />
+		<item itemID="11640286" grade="4" reqJobs="030,040" />
+		<item itemID="11740325" grade="4" reqJobs="030,040" />
+		<item itemID="11340334" grade="4" reqJobs="050,060" />
+		<item itemID="12240227" grade="4" reqJobs="050,060" />
+		<item itemID="11640287" grade="4" reqJobs="050,060" />
+		<item itemID="11740326" grade="4" reqJobs="050,060" />
+		<item itemID="11340335" grade="4" reqJobs="070,080" />
+		<item itemID="11440353" grade="4" reqJobs="070,080" />
+		<item itemID="11540281" grade="4" reqJobs="070,080" />
+		<item itemID="11640288" grade="4" reqJobs="070,080" />
+		<item itemID="11740327" grade="4" reqJobs="070,080" />
+		<item itemID="11940056" grade="4" />
+		<item itemID="11840060" grade="4" />
+		<item itemID="12140042" grade="4" />
+		<item itemID="11240044" grade="4" />
+		<item itemID="12040049" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61100010" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="20016002">
+		<item itemID="15000149" grade="4" />
+		<item itemID="13140067" grade="4" reqJobs="070" />
+		<item itemID="13240070" grade="4" reqJobs="010" />
+		<item itemID="13340062" grade="4" reqJobs="040" />
+		<item itemID="13440063" grade="4" reqJobs="080" />
+		<item itemID="14040056" grade="4" reqJobs="040" />
+		<item itemID="14140065" grade="4" reqJobs="010" />
+		<item itemID="15040068" grade="4" reqJobs="020" />
+		<item itemID="15140066" grade="4" reqJobs="050" />
+		<item itemID="15240064" grade="4" reqJobs="030" />
+		<item itemID="15340063" grade="4" reqJobs="060" />
+		<item itemID="11340332" grade="4" reqJobs="010,020,090" />
+		<item itemID="11440352" grade="4" reqJobs="010,020,090" />
+		<item itemID="11540280" grade="4" reqJobs="010,020,090" />
+		<item itemID="11640285" grade="4" reqJobs="010,020,090" />
+		<item itemID="11740324" grade="4" reqJobs="010,020,090" />
+		<item itemID="11340333" grade="4" reqJobs="030,040" />
+		<item itemID="12240226" grade="4" reqJobs="030,040" />
+		<item itemID="11640286" grade="4" reqJobs="030,040" />
+		<item itemID="11740325" grade="4" reqJobs="030,040" />
+		<item itemID="11340334" grade="4" reqJobs="050,060" />
+		<item itemID="12240227" grade="4" reqJobs="050,060" />
+		<item itemID="11640287" grade="4" reqJobs="050,060" />
+		<item itemID="11740326" grade="4" reqJobs="050,060" />
+		<item itemID="11340335" grade="4" reqJobs="070,080" />
+		<item itemID="11440353" grade="4" reqJobs="070,080" />
+		<item itemID="11540281" grade="4" reqJobs="070,080" />
+		<item itemID="11640288" grade="4" reqJobs="070,080" />
+		<item itemID="11740327" grade="4" reqJobs="070,080" />
+		<item itemID="11940056" grade="4" />
+		<item itemID="11840060" grade="4" />
+		<item itemID="12140042" grade="4" />
+		<item itemID="11240044" grade="4" />
+		<item itemID="12040049" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61100020" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="20018002">
+		<item itemID="13200145" grade="4" />
+		<item itemID="11300434" grade="4" />
+		<item itemID="11800066" grade="4" />
+		<item itemID="13140042" grade="4" reqJobs="070" />
+		<item itemID="13240042" grade="4" reqJobs="010" />
+		<item itemID="13340033" grade="4" reqJobs="040" />
+		<item itemID="13440035" grade="4" reqJobs="080" />
+		<item itemID="14040028" grade="4" reqJobs="040" />
+		<item itemID="14140036" grade="4" reqJobs="010" />
+		<item itemID="15040040" grade="4" reqJobs="020" />
+		<item itemID="15140038" grade="4" reqJobs="050" />
+		<item itemID="15240036" grade="4" reqJobs="030" />
+		<item itemID="15340035" grade="4" reqJobs="060" />
+		<item itemID="11340332" grade="4" reqJobs="010,020,090" />
+		<item itemID="11440352" grade="4" reqJobs="010,020,090" />
+		<item itemID="11540280" grade="4" reqJobs="010,020,090" />
+		<item itemID="11640285" grade="4" reqJobs="010,020,090" />
+		<item itemID="11740324" grade="4" reqJobs="010,020,090" />
+		<item itemID="11340333" grade="4" reqJobs="030,040" />
+		<item itemID="12240226" grade="4" reqJobs="030,040" />
+		<item itemID="11640286" grade="4" reqJobs="030,040" />
+		<item itemID="11740325" grade="4" reqJobs="030,040" />
+		<item itemID="11340334" grade="4" reqJobs="050,060" />
+		<item itemID="12240227" grade="4" reqJobs="050,060" />
+		<item itemID="11640287" grade="4" reqJobs="050,060" />
+		<item itemID="11740326" grade="4" reqJobs="050,060" />
+		<item itemID="11340335" grade="4" reqJobs="070,080" />
+		<item itemID="11440353" grade="4" reqJobs="070,080" />
+		<item itemID="11540281" grade="4" reqJobs="070,080" />
+		<item itemID="11640288" grade="4" reqJobs="070,080" />
+		<item itemID="11740327" grade="4" reqJobs="070,080" />
+		<item itemID="11940056" grade="4" />
+		<item itemID="11840060" grade="4" />
+		<item itemID="12140042" grade="4" />
+		<item itemID="11240044" grade="4" />
+		<item itemID="12040049" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61100030" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="20004002">
+		<item itemID="59200302" grade="4" />
+		<item itemID="11300140" grade="4" />
+		<item itemID="11200006" grade="4" />
+		<item itemID="11800032" grade="4" />
+		<item itemID="13140036" grade="4" reqJobs="070" />
+		<item itemID="13240049" grade="4" reqJobs="010" />
+		<item itemID="13340038" grade="4" reqJobs="040" />
+		<item itemID="13440039" grade="4" reqJobs="080" />
+		<item itemID="14040035" grade="4" reqJobs="040" />
+		<item itemID="14140042" grade="4" reqJobs="010" />
+		<item itemID="15040047" grade="4" reqJobs="020" />
+		<item itemID="15140042" grade="4" reqJobs="050" />
+		<item itemID="15240043" grade="4" reqJobs="030" />
+		<item itemID="15340042" grade="4" reqJobs="060" />
+		<item itemID="11340342" grade="4" reqJobs="010" />
+		<item itemID="12240233" grade="4" reqJobs="010" />
+		<item itemID="11640295" grade="4" reqJobs="010" />
+		<item itemID="11740334" grade="4" reqJobs="010" />
+		<item itemID="11340343" grade="4" reqJobs="020" />
+		<item itemID="12240234" grade="4" reqJobs="020" />
+		<item itemID="11640296" grade="4" reqJobs="020" />
+		<item itemID="11740335" grade="4" reqJobs="020" />
+		<item itemID="11340341" grade="4" reqJobs="030" />
+		<item itemID="12240232" grade="4" reqJobs="030" />
+		<item itemID="11640294" grade="4" reqJobs="030" />
+		<item itemID="11740333" grade="4" reqJobs="030" />
+		<item itemID="11340339" grade="4" reqJobs="040" />
+		<item itemID="12240230" grade="4" reqJobs="040" />
+		<item itemID="11640292" grade="4" reqJobs="040" />
+		<item itemID="11740331" grade="4" reqJobs="040" />
+		<item itemID="11340336" grade="4" reqJobs="050" />
+		<item itemID="12240228" grade="4" reqJobs="050" />
+		<item itemID="11640289" grade="4" reqJobs="050" />
+		<item itemID="11740328" grade="4" reqJobs="050" />
+		<item itemID="11340338" grade="4" reqJobs="060" />
+		<item itemID="12240229" grade="4" reqJobs="060" />
+		<item itemID="11640291" grade="4" reqJobs="060" />
+		<item itemID="11740330" grade="4" reqJobs="060" />
+		<item itemID="11340337" grade="4" reqJobs="070" />
+		<item itemID="11440354" grade="4" reqJobs="070" />
+		<item itemID="11540282" grade="4" reqJobs="070" />
+		<item itemID="11640290" grade="4" reqJobs="070" />
+		<item itemID="11740329" grade="4" reqJobs="070" />
+		<item itemID="11340340" grade="4" reqJobs="080" />
+		<item itemID="12240231" grade="4" reqJobs="080" />
+		<item itemID="11640293" grade="4" reqJobs="080" />
+		<item itemID="11740332" grade="4" reqJobs="080" />
+		<item itemID="11940056" grade="4" />
+		<item itemID="11840060" grade="4" />
+		<item itemID="12140042" grade="4" />
+		<item itemID="11240044" grade="4" />
+		<item itemID="12040049" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61000079" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="20019002">
+		<item itemID="13100127" grade="4" reqJobs="070" />
+		<item itemID="13200123" grade="4" reqJobs="010" />
+		<item itemID="13300121" grade="4" reqJobs="040" />
+		<item itemID="13400121" grade="4" reqJobs="080" />
+		<item itemID="14000103" grade="4" reqJobs="040" />
+		<item itemID="14100111" grade="4" reqJobs="010" />
+		<item itemID="15000127" grade="4" reqJobs="020" />
+		<item itemID="15100121" grade="4" reqJobs="050" />
+		<item itemID="15200125" grade="4" reqJobs="030" />
+		<item itemID="15300120" grade="4" reqJobs="060" />
+		<item itemID="11200052" grade="4" />
+		<item itemID="13140043" grade="4" reqJobs="070" />
+		<item itemID="13240044" grade="4" reqJobs="010" />
+		<item itemID="13340039" grade="4" reqJobs="040" />
+		<item itemID="13440040" grade="4" reqJobs="080" />
+		<item itemID="14040030" grade="4" reqJobs="040" />
+		<item itemID="14140039" grade="4" reqJobs="010" />
+		<item itemID="15040042" grade="4" reqJobs="020" />
+		<item itemID="15140043" grade="4" reqJobs="050" />
+		<item itemID="15240038" grade="4" reqJobs="030" />
+		<item itemID="15340037" grade="4" reqJobs="060" />
+		<item itemID="11440397" grade="4" reqJobs="010" />
+		<item itemID="11540317" grade="4" reqJobs="010" />
+		<item itemID="11640392" grade="4" reqJobs="010" />
+		<item itemID="11740419" grade="4" reqJobs="010" />
+		<item itemID="11340451" grade="4" reqJobs="010" />
+		<item itemID="11440398" grade="4" reqJobs="020" />
+		<item itemID="11540318" grade="4" reqJobs="020" />
+		<item itemID="11640393" grade="4" reqJobs="020" />
+		<item itemID="11740420" grade="4" reqJobs="020" />
+		<item itemID="11340452" grade="4" reqJobs="020" />
+		<item itemID="11440399" grade="4" reqJobs="030" />
+		<item itemID="11540319" grade="4" reqJobs="030" />
+		<item itemID="11640394" grade="4" reqJobs="030" />
+		<item itemID="11740421" grade="4" reqJobs="030" />
+		<item itemID="11340453" grade="4" reqJobs="030" />
+		<item itemID="11440400" grade="4" reqJobs="040" />
+		<item itemID="11540320" grade="4" reqJobs="040" />
+		<item itemID="11640395" grade="4" reqJobs="040" />
+		<item itemID="11740422" grade="4" reqJobs="040" />
+		<item itemID="11340454" grade="4" reqJobs="040" />
+		<item itemID="11440401" grade="4" reqJobs="050" />
+		<item itemID="11540321" grade="4" reqJobs="050" />
+		<item itemID="11640396" grade="4" reqJobs="050" />
+		<item itemID="11740423" grade="4" reqJobs="050" />
+		<item itemID="11340455" grade="4" reqJobs="050" />
+		<item itemID="11440402" grade="4" reqJobs="060" />
+		<item itemID="11540322" grade="4" reqJobs="060" />
+		<item itemID="11640397" grade="4" reqJobs="060" />
+		<item itemID="11740424" grade="4" reqJobs="060" />
+		<item itemID="11340456" grade="4" reqJobs="060" />
+		<item itemID="11440403" grade="4" reqJobs="070" />
+		<item itemID="11540323" grade="4" reqJobs="070" />
+		<item itemID="11640398" grade="4" reqJobs="070" />
+		<item itemID="11740425" grade="4" reqJobs="070" />
+		<item itemID="11340457" grade="4" reqJobs="070" />
+		<item itemID="11440404" grade="4" reqJobs="080" />
+		<item itemID="11540324" grade="4" reqJobs="080" />
+		<item itemID="11640399" grade="4" reqJobs="080" />
+		<item itemID="11740426" grade="4" reqJobs="080" />
+		<item itemID="11340458" grade="4" reqJobs="080" />
+		<item itemID="11940056" grade="4" />
+		<item itemID="11840060" grade="4" />
+		<item itemID="12140042" grade="4" />
+		<item itemID="11240044" grade="4" />
+		<item itemID="12040049" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61100090" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="20020002">
+		<item itemID="13140150" grade="4" reqJobs="070" />
+		<item itemID="13240146" grade="4" reqJobs="010" />
+		<item itemID="13340145" grade="4" reqJobs="040" />
+		<item itemID="13440143" grade="4" reqJobs="080" />
+		<item itemID="15040150" grade="4" reqJobs="020" />
+		<item itemID="15140143" grade="4" reqJobs="050" />
+		<item itemID="15240149" grade="4" reqJobs="030" />
+		<item itemID="15340143" grade="4" reqJobs="060" />
+		<item itemID="11900071" grade="4" />
+		<item itemID="13140044" grade="4" reqJobs="070" />
+		<item itemID="13240045" grade="4" reqJobs="010" />
+		<item itemID="13340040" grade="4" reqJobs="040" />
+		<item itemID="13440041" grade="4" reqJobs="080" />
+		<item itemID="14040032" grade="4" reqJobs="040" />
+		<item itemID="14140043" grade="4" reqJobs="010" />
+		<item itemID="15040043" grade="4" reqJobs="020" />
+		<item itemID="15140044" grade="4" reqJobs="050" />
+		<item itemID="15240039" grade="4" reqJobs="030" />
+		<item itemID="15340038" grade="4" reqJobs="060" />
+		<item itemID="11440569" grade="4" reqJobs="010" />
+		<item itemID="11540485" grade="4" reqJobs="010" />
+		<item itemID="11640596" grade="4" reqJobs="010" />
+		<item itemID="11740626" grade="4" reqJobs="010" />
+		<item itemID="11340662" grade="4" reqJobs="010" />
+		<item itemID="11440570" grade="4" reqJobs="020" />
+		<item itemID="11540486" grade="4" reqJobs="020" />
+		<item itemID="11640597" grade="4" reqJobs="020" />
+		<item itemID="11740627" grade="4" reqJobs="020" />
+		<item itemID="11340663" grade="4" reqJobs="020" />
+		<item itemID="11440571" grade="4" reqJobs="030" />
+		<item itemID="11540487" grade="4" reqJobs="030" />
+		<item itemID="11640598" grade="4" reqJobs="030" />
+		<item itemID="11740628" grade="4" reqJobs="030" />
+		<item itemID="11340664" grade="4" reqJobs="030" />
+		<item itemID="11440572" grade="4" reqJobs="040" />
+		<item itemID="11540488" grade="4" reqJobs="040" />
+		<item itemID="11640599" grade="4" reqJobs="040" />
+		<item itemID="11740629" grade="4" reqJobs="040" />
+		<item itemID="11340665" grade="4" reqJobs="040" />
+		<item itemID="11440573" grade="4" reqJobs="050" />
+		<item itemID="11540489" grade="4" reqJobs="050" />
+		<item itemID="11640600" grade="4" reqJobs="050" />
+		<item itemID="11740630" grade="4" reqJobs="050" />
+		<item itemID="11340666" grade="4" reqJobs="050" />
+		<item itemID="11440574" grade="4" reqJobs="060" />
+		<item itemID="11540490" grade="4" reqJobs="060" />
+		<item itemID="11640601" grade="4" reqJobs="060" />
+		<item itemID="11740631" grade="4" reqJobs="060" />
+		<item itemID="11340667" grade="4" reqJobs="060" />
+		<item itemID="11440575" grade="4" reqJobs="070" />
+		<item itemID="11540491" grade="4" reqJobs="070" />
+		<item itemID="11640602" grade="4" reqJobs="070" />
+		<item itemID="11740632" grade="4" reqJobs="070" />
+		<item itemID="11340668" grade="4" reqJobs="070" />
+		<item itemID="11440576" grade="4" reqJobs="080" />
+		<item itemID="11540492" grade="4" reqJobs="080" />
+		<item itemID="11640603" grade="4" reqJobs="080" />
+		<item itemID="11740633" grade="4" reqJobs="080" />
+		<item itemID="11340669" grade="4" reqJobs="080" />
+		<item itemID="11940056" grade="4" />
+		<item itemID="11840060" grade="4" />
+		<item itemID="12140042" grade="4" />
+		<item itemID="11240044" grade="4" />
+		<item itemID="12040049" grade="4" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61100040" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="23006003">
+		<item itemID="13200148" grade="5" reqJobs="010" />
+		<item itemID="15000152" grade="5" reqJobs="020" />
+		<item itemID="15200151" grade="5" reqJobs="030" />
+		<item itemID="13300147" grade="5" reqJobs="040" />
+		<item itemID="15100145" grade="5" reqJobs="050" />
+		<item itemID="15300145" grade="5" reqJobs="060" />
+		<item itemID="13100152" grade="5" reqJobs="070" />
+		<item itemID="13400145" grade="5" reqJobs="080" />
+		<item itemID="11300469" grade="5" reqJobs="010" />
+		<item itemID="11400411" grade="5" reqJobs="010" />
+		<item itemID="11500331" grade="5" reqJobs="010" />
+		<item itemID="11600410" grade="5" reqJobs="010" />
+		<item itemID="11700437" grade="5" reqJobs="010" />
+		<item itemID="11300470" grade="5" reqJobs="020" />
+		<item itemID="11400412" grade="5" reqJobs="020" />
+		<item itemID="11500332" grade="5" reqJobs="020" />
+		<item itemID="11600411" grade="5" reqJobs="020" />
+		<item itemID="11700438" grade="5" reqJobs="020" />
+		<item itemID="11300471" grade="5" reqJobs="030" />
+		<item itemID="11600412" grade="5" reqJobs="030" />
+		<item itemID="11700439" grade="5" reqJobs="030" />
+		<item itemID="12200267" grade="5" reqJobs="030" />
+		<item itemID="11300472" grade="5" reqJobs="040" />
+		<item itemID="11600413" grade="5" reqJobs="040" />
+		<item itemID="11700440" grade="5" reqJobs="040" />
+		<item itemID="12200268" grade="5" reqJobs="040" />
+		<item itemID="11300473" grade="5" reqJobs="050" />
+		<item itemID="11600414" grade="5" reqJobs="050" />
+		<item itemID="11700441" grade="5" reqJobs="050" />
+		<item itemID="12200269" grade="5" reqJobs="050" />
+		<item itemID="11300474" grade="5" reqJobs="060" />
+		<item itemID="11600415" grade="5" reqJobs="060" />
+		<item itemID="11700442" grade="5" reqJobs="060" />
+		<item itemID="12200270" grade="5" reqJobs="060" />
+		<item itemID="11300475" grade="5" reqJobs="070" />
+		<item itemID="11400413" grade="5" reqJobs="070" />
+		<item itemID="11500333" grade="5" reqJobs="070" />
+		<item itemID="11600416" grade="5" reqJobs="070" />
+		<item itemID="11700443" grade="5" reqJobs="070" />
+		<item itemID="11300476" grade="5" reqJobs="080" />
+		<item itemID="11400414" grade="5" reqJobs="080" />
+		<item itemID="11500334" grade="5" reqJobs="080" />
+		<item itemID="11600417" grade="5" reqJobs="080" />
+		<item itemID="11700444" grade="5" reqJobs="080" />
+		<item itemID="36000167" grade="5" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="30000601" grade="4" />
+		<item itemID="20000025" grade="1" />
+		<item itemID="61120050" grade="4" feature="PetUpdate01" />
+		<item itemID="61100050" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="23010003">
+		<item itemID="13200137" grade="5" reqJobs="010" />
+		<item itemID="14100125" grade="5" reqJobs="010" />
+		<item itemID="15000142" grade="5" reqJobs="020" />
+		<item itemID="15200140" grade="5" reqJobs="030" />
+		<item itemID="13300136" grade="5" reqJobs="040" />
+		<item itemID="14000117" grade="5" reqJobs="040" />
+		<item itemID="15100135" grade="5" reqJobs="050" />
+		<item itemID="15300134" grade="5" reqJobs="060" />
+		<item itemID="13100142" grade="5" reqJobs="070" />
+		<item itemID="13400135" grade="5" reqJobs="080" />
+		<item itemID="11300377" grade="5" reqJobs="010" />
+		<item itemID="11600339" grade="5" reqJobs="010" />
+		<item itemID="11700371" grade="5" reqJobs="010" />
+		<item itemID="12200256" grade="5" reqJobs="010" />
+		<item itemID="11300378" grade="5" reqJobs="020" />
+		<item itemID="11600340" grade="5" reqJobs="020" />
+		<item itemID="11700372" grade="5" reqJobs="020" />
+		<item itemID="12200257" grade="5" reqJobs="020" />
+		<item itemID="11300376" grade="5" reqJobs="030" />
+		<item itemID="11600338" grade="5" reqJobs="030" />
+		<item itemID="11700370" grade="5" reqJobs="030" />
+		<item itemID="12200255" grade="5" reqJobs="030" />
+		<item itemID="11300374" grade="5" reqJobs="040" />
+		<item itemID="11600336" grade="5" reqJobs="040" />
+		<item itemID="11700368" grade="5" reqJobs="040" />
+		<item itemID="12200253" grade="5" reqJobs="040" />
+		<item itemID="11300371" grade="5" reqJobs="050" />
+		<item itemID="11600333" grade="5" reqJobs="050" />
+		<item itemID="11700365" grade="5" reqJobs="050" />
+		<item itemID="12200251" grade="5" reqJobs="050" />
+		<item itemID="11300373" grade="5" reqJobs="060" />
+		<item itemID="11600335" grade="5" reqJobs="060" />
+		<item itemID="11700367" grade="5" reqJobs="060" />
+		<item itemID="12200252" grade="5" reqJobs="060" />
+		<item itemID="11300372" grade="5" reqJobs="070" />
+		<item itemID="11400367" grade="5" reqJobs="070" />
+		<item itemID="11500295" grade="5" reqJobs="070" />
+		<item itemID="11600334" grade="5" reqJobs="070" />
+		<item itemID="11700366" grade="5" reqJobs="070" />
+		<item itemID="11300375" grade="5" reqJobs="080" />
+		<item itemID="11600337" grade="5" reqJobs="080" />
+		<item itemID="11700369" grade="5" reqJobs="080" />
+		<item itemID="12200254" grade="5" reqJobs="080" />
+		<item itemID="36000167" grade="5" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="30000601" grade="4" />
+		<item itemID="61120060" grade="4" feature="PetUpdate01" />
+		<item itemID="61100060" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="23018003">
+		<item itemID="13250147" grade="5" reqJobs="010" />
+		<item itemID="14150236" grade="5" reqJobs="010" />
+		<item itemID="15050151" grade="5" reqJobs="020" />
+		<item itemID="15250150" grade="5" reqJobs="030" />
+		<item itemID="13350146" grade="5" reqJobs="040" />
+		<item itemID="14050227" grade="5" reqJobs="040" />
+		<item itemID="15150144" grade="5" reqJobs="050" />
+		<item itemID="15350144" grade="5" reqJobs="060" />
+		<item itemID="13150151" grade="5" reqJobs="070" />
+		<item itemID="13450144" grade="5" reqJobs="080" />
+		<item itemID="11350460" grade="5" reqJobs="010" />
+		<item itemID="11450406" grade="5" reqJobs="010" />
+		<item itemID="11550326" grade="5" reqJobs="010" />
+		<item itemID="11650401" grade="5" reqJobs="010" />
+		<item itemID="11750428" grade="5" reqJobs="010" />
+		<item itemID="11350461" grade="5" reqJobs="020" />
+		<item itemID="11450407" grade="5" reqJobs="020" />
+		<item itemID="11550327" grade="5" reqJobs="020" />
+		<item itemID="11650402" grade="5" reqJobs="020" />
+		<item itemID="11750429" grade="5" reqJobs="020" />
+		<item itemID="11350462" grade="5" reqJobs="030" />
+		<item itemID="11450923" grade="5" reqJobs="030" />
+		<item itemID="11550827" grade="5" reqJobs="030" />
+		<item itemID="11650403" grade="5" reqJobs="030" />
+		<item itemID="11750430" grade="5" reqJobs="030" />
+		<item itemID="11350463" grade="5" reqJobs="040" />
+		<item itemID="11450924" grade="5" reqJobs="040" />
+		<item itemID="11550828" grade="5" reqJobs="040" />
+		<item itemID="11650404" grade="5" reqJobs="040" />
+		<item itemID="11750431" grade="5" reqJobs="040" />
+		<item itemID="11350464" grade="5" reqJobs="050" />
+		<item itemID="11450925" grade="5" reqJobs="050" />
+		<item itemID="11550829" grade="5" reqJobs="050" />
+		<item itemID="11650405" grade="5" reqJobs="050" />
+		<item itemID="11750432" grade="5" reqJobs="050" />
+		<item itemID="11350465" grade="5" reqJobs="060" />
+		<item itemID="11450926" grade="5" reqJobs="060" />
+		<item itemID="11550830" grade="5" reqJobs="060" />
+		<item itemID="11650406" grade="5" reqJobs="060" />
+		<item itemID="11750433" grade="5" reqJobs="060" />
+		<item itemID="11350466" grade="5" reqJobs="070" />
+		<item itemID="11450408" grade="5" reqJobs="070" />
+		<item itemID="11550328" grade="5" reqJobs="070" />
+		<item itemID="11650407" grade="5" reqJobs="070" />
+		<item itemID="11750434" grade="5" reqJobs="070" />
+		<item itemID="11350467" grade="5" reqJobs="080" />
+		<item itemID="11450409" grade="5" reqJobs="080" />
+		<item itemID="11550329" grade="5" reqJobs="080" />
+		<item itemID="11650408" grade="5" reqJobs="080" />
+		<item itemID="11750435" grade="5" reqJobs="080" />
+		<item itemID="36000167" grade="5" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="30000601" grade="4" />
+		<item itemID="61120030" grade="4" feature="PetUpdate01" />
+		<item itemID="61100030" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="23004003">
+		<item itemID="13160153" grade="6" reqJobs="070" />
+		<item itemID="13260149" grade="6" reqJobs="010" />
+		<item itemID="13360148" grade="6" reqJobs="040" />
+		<item itemID="13460146" grade="6" reqJobs="080" />
+		<item itemID="14060125" grade="6" reqJobs="040" />
+		<item itemID="14160134" grade="6" reqJobs="010" />
+		<item itemID="15060153" grade="6" reqJobs="020" />
+		<item itemID="15160146" grade="6" reqJobs="050" />
+		<item itemID="15260152" grade="6" reqJobs="030" />
+		<item itemID="15360146" grade="6" reqJobs="060" />
+		<item itemID="11360137" grade="6" reqJobs="010" />
+		<item itemID="11460075" grade="6" reqJobs="010" />
+		<item itemID="11560076" grade="6" reqJobs="010" />
+		<item itemID="11660086" grade="6" reqJobs="010" />
+		<item itemID="11760107" grade="6" reqJobs="010" />
+		<item itemID="11360135" grade="6" reqJobs="020" />
+		<item itemID="11460074" grade="6" reqJobs="020" />
+		<item itemID="11560075" grade="6" reqJobs="020" />
+		<item itemID="11660084" grade="6" reqJobs="020" />
+		<item itemID="11760105" grade="6" reqJobs="020" />
+		<item itemID="11360148" grade="6" reqJobs="030" />
+		<item itemID="11460914" grade="6" reqJobs="030" />
+		<item itemID="11560818" grade="6" reqJobs="030" />
+		<item itemID="11660093" grade="6" reqJobs="030" />
+		<item itemID="11760115" grade="6" reqJobs="030" />
+		<item itemID="11360138" grade="6" reqJobs="040" />
+		<item itemID="11460915" grade="6" reqJobs="040" />
+		<item itemID="11560819" grade="6" reqJobs="040" />
+		<item itemID="11660087" grade="6" reqJobs="040" />
+		<item itemID="11760108" grade="6" reqJobs="040" />
+		<item itemID="11360146" grade="6" reqJobs="050" />
+		<item itemID="11460078" grade="6" reqJobs="050" />
+		<item itemID="11560079" grade="6" reqJobs="050" />
+		<item itemID="11660091" grade="6" reqJobs="050" />
+		<item itemID="11760113" grade="6" reqJobs="050" />
+		<item itemID="11360136" grade="6" reqJobs="060" />
+		<item itemID="11460916" grade="6" reqJobs="060" />
+		<item itemID="11560820" grade="6" reqJobs="060" />
+		<item itemID="11660085" grade="6" reqJobs="060" />
+		<item itemID="11760106" grade="6" reqJobs="060" />
+		<item itemID="11360143" grade="6" reqJobs="070" />
+		<item itemID="11460076" grade="6" reqJobs="070" />
+		<item itemID="11560077" grade="6" reqJobs="070" />
+		<item itemID="11660088" grade="6" reqJobs="070" />
+		<item itemID="11760109" grade="6" reqJobs="070" />
+		<item itemID="11360144" grade="6" reqJobs="080" />
+		<item itemID="11460077" grade="6" reqJobs="080" />
+		<item itemID="11560078" grade="6" reqJobs="080" />
+		<item itemID="11660089" grade="6" reqJobs="080" />
+		<item itemID="11760111" grade="6" reqJobs="080" />
+		<item itemID="36000168" grade="5" />
+		<item itemID="30000448" grade="4" />
+		<item itemID="30000601" grade="4" />
+		<item itemID="61020079" grade="4" feature="PetUpdate01" />
+		<item itemID="61000079" grade="3" feature="PetUpdate01" />
+	</preview>
+	<preview id="20007001">
+		<item itemID="11300188" grade="5" />
+		<item itemID="50600168" grade="4" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+	</preview>
+	<preview id="25008001">
+		<item itemID="90000014" grade="1" />
+		<item itemID="30001181" grade="5" />
+	</preview>
+	<preview id="26001001">
+		<item itemID="40100041" grade="1" feature="GuildSystem01" />
+		<item itemID="30000861" grade="4" feature="GuildSystem01" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100029" grade="4" feature="Peachy01" />
+		<item itemID="11900092" grade="3" />
+	</preview>
+	<preview id="26002001">
+		<item itemID="40100041" grade="1" feature="GuildSystem01" />
+		<item itemID="30000861" grade="4" feature="GuildSystem01" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100029" grade="4" feature="Peachy01" />
+		<item itemID="12000081" grade="3" />
+	</preview>
+	<preview id="26003001">
+		<item itemID="40100041" grade="1" feature="GuildSystem01" />
+		<item itemID="30000861" grade="4" feature="GuildSystem01" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100029" grade="4" feature="Peachy01" />
+		<item itemID="70300035" grade="1" />
+	</preview>
+	<preview id="26004001">
+		<item itemID="40100041" grade="1" feature="GuildSystem01" />
+		<item itemID="30000861" grade="4" feature="GuildSystem01" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100029" grade="4" feature="Peachy01" />
+		<item itemID="11301066" grade="3" />
+	</preview>
+	<preview id="26005001">
+		<item itemID="40100041" grade="1" feature="GuildSystem01" />
+		<item itemID="30000861" grade="4" feature="GuildSystem01" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100029" grade="4" feature="Peachy01" />
+		<item itemID="20200079" grade="1" />
+	</preview>
+	<preview id="29004001">
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100035" grade="3" />
+		<item itemID="40100034" grade="3" />
+		<item itemID="63100501" grade="3" feature="PetItem01" />
+		<item itemID="30000915" grade="1" feature="PetCombine01" />
+		<item itemID="40100036" grade="1" />
+	</preview>
+	<preview id="29005001">
+		<item itemID="31001023" grade="4" feature="ItemRemakeOption" />
+		<item itemID="30001163" grade="4" feature="OptionBlock01" />
+		<item itemID="31001024" grade="4" feature="ItemRemakeOption" />
+		<item itemID="30001164" grade="4" feature="OptionBlock01" />
+		<item itemID="33000279" grade="4" feature="MagicScroll01" />
+		<item itemID="33000280" grade="4" feature="MagicScroll01" />
+		<item itemID="40100029" grade="4" feature="Peachy01" />
+	</preview>
+	<preview id="24090004">
+		<item itemID="36000284" grade="5" />
+		<item itemID="33000279" grade="4" />
+		<item itemID="33000280" grade="4" />
+		<item itemID="30000925" grade="1" />
+	</preview>
+	<preview id="24091005">
+		<item itemID="40100035" grade="3" />
+		<item itemID="40100034" grade="3" />
+		<item itemID="40100036" grade="1" />
+	</preview>
+	<preview id="24092005">
+		<item itemID="40100035" grade="3" />
+		<item itemID="40100034" grade="3" />
+		<item itemID="40100036" grade="1" />
+	</preview>
+	<preview id="24093005">
+		<item itemID="40100035" grade="3" />
+		<item itemID="40100034" grade="3" />
+		<item itemID="40100036" grade="1" />
+	</preview>
+	<preview id="24094005">
+		<item itemID="40100035" grade="3" />
+		<item itemID="40100034" grade="3" />
+		<item itemID="40100036" grade="1" />
+	</preview>
+	<preview id="24095005">
+		<item itemID="40100035" grade="3" />
+		<item itemID="40100034" grade="3" />
+		<item itemID="40100036" grade="1" />
+	</preview>
+	<preview id="29006001">
+		<item itemID="20301387" grade="5" />
+		<item itemID="50600142" grade="4" />
+	</preview>
+</ms2>

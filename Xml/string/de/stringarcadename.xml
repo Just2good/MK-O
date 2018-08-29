@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="1" name="Teraling-Hof" feature="ArcadeSpringFarm" />
+  <key id="2" name="Makakisches Meer" feature="ArcadeCrazyMonkeyOcean" />
+  <key id="3" name="Nicht verfügbar" feature="" />
+  <key id="4" name="Nicht verfügbar" feature="" />
+  <key id="5" name="Nicht verfügbar" feature="" />
+  <key id="6" name="Nicht verfügbar" feature="" />
+  <key id="7" name="Nicht verfügbar" feature="" />
+  <key id="8" name="Nicht verfügbar" feature="" />
+  <key id="9" name="Nicht verfügbar" feature="" />
+</ms2>

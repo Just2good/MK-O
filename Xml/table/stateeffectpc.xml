@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<StateEffect stateType="gosWalk" effect="Item/SpecialSkin/MajesticWing/Eff_MajesticWing_RunWalk.xml">
+		<Info gender="0" setID="17040401" />
+	</StateEffect>
+	<StateEffect stateType="gosFallDamage" effect="Item/SpecialSkin/MajesticWing/Eff_MajesticWing_FallDamage.xml">
+		<Info gender="0" setID="17040401" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/SpecialSkin/MajesticWing/Eff_MajesticWing_RunWalk.xml">
+		<Info gender="1" setID="17040402" />
+	</StateEffect>
+	<StateEffect stateType="gosFallDamage" effect="Item/SpecialSkin/MajesticWing/Eff_MajesticWing_FallDamage.xml">
+		<Info gender="1" setID="17040402" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Zakumchair_A.xml">
+		<Info emotionSkillID="90200089" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Zakumchair_A.xml">
+		<Info emotionSkillID="90200089" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_HappyBirthday_A.xml">
+		<Info emotionSkillID="90200090" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_HappyBirthday_A.xml">
+		<Info emotionSkillID="90200090" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Pinkbean_01_A.xml">
+		<Info emotionSkillID="90200088" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Pinkbean_01_A.xml">
+		<Info emotionSkillID="90200088" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Vipchair_A01.xml">
+		<Info emotionSkillID="90200091" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Vipchair_A01.xml">
+		<Info emotionSkillID="90200091" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_VipCake_A01.xml">
+		<Info emotionSkillID="90200096" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_VipCake_A01.xml">
+		<Info emotionSkillID="90200096" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Throne_D.xml">
+		<Info emotionSkillID="90200097" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Throne_D.xml">
+		<Info emotionSkillID="90200097" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Pumpkin/Eff_pumpkin_Idle_Male.xml">
+		<Info gender="0" setID="17083101" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Pumpkin/Eff_pumpkin_Idle_Female.xml">
+		<Info gender="1" setID="17083102" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Birthcake_A01.xml">
+		<Info emotionSkillID="90200099" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Birthcake_A01.xml">
+		<Info emotionSkillID="90200099" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Glowstar/Eff_Glowstar_Idle_Male.xml">
+		<Info gender="0" setID="17112901" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Glowstar/Eff_Glowstar_Idle_Female.xml">
+		<Info gender="1" setID="17112902" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/ButterflyDream/Eff_ButterflyDream_Idle_Male.xml">
+		<Info gender="0" setID="18011501" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/ButterflyDream/Eff_ButterflyDream_Idle_Female.xml">
+		<Info gender="1" setID="18011502" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/SpecialSkin/ButterflyDream/Eff_ButterflyDream_GroundEffect.xml">
+		<Info gender="0" setID="18011501" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/SpecialSkin/ButterflyDream/Eff_ButterflyDream_GroundEffect.xml">
+		<Info gender="1" setID="18011502" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_CBTcake_A01.xml">
+		<Info emotionSkillID="90200106" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_CBTcake_A01.xml">
+		<Info emotionSkillID="90200106" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_coffee_A01.xml">
+		<Info emotionSkillID="90220010" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_coffee_A01.xml">
+		<Info emotionSkillID="90220010" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Withducky_Dance_A.xml">
+		<Info emotionSkillID="90220011" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Withducky_Dance_A.xml">
+		<Info emotionSkillID="90220011" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotion" effect="CH/Emotion/Eff_Emotion_Camping_Ready_A.xml">
+		<Info emotionSkillID="90200110" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosEmotionIdle" effect="CH/Emotion/Eff_Emotion_Camping_Loop_A.xml">
+		<Info emotionSkillID="90200110" gender="2" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Olympos/Eff_Olympos_Idle_Male.xml">
+		<Info gender="0" setID="18062801" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/SpecialSkin/Olympos/Eff_Olympos_Idle_Female.xml">
+		<Info gender="1" setID="18062802" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/SpecialSkin/Olympos/Eff_Olympos_GroundEffect.xml">
+		<Info gender="0" setID="18062801" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/SpecialSkin/Olympos/Eff_Olympos_GroundEffect.xml">
+		<Info gender="1" setID="18062802" />
+	</StateEffect>
+</ms2>

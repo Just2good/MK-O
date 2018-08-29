@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<StateEffect stateType="gosIdle" effect="Item/Eff_Mantle_flowers.xml">
+		<Info petID="60000003" emotionID="60000003" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/Eff_Mantle_flowers.xml">
+		<Info skillID="81000001" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/Eff_Mantle_flowers.xml">
+		<Info setID="17040401" />
+	</StateEffect>
+	<StateEffect stateType="gosIdle" effect="Item/Eff_Mantle_flowers.xml">
+		<Info petID="60000005" emotionID="60000005" setID="17040401" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/Eff_Mantle_flowers.xml">
+		<Info petID="60000005" emotionID="60000005" skillID="81000001" />
+	</StateEffect>
+	<StateEffect stateType="gosWalk" effect="Item/Eff_Mantle_flowers.xml">
+		<Info setID="17040401" skillID="81000001" />
+	</StateEffect>
+</ms2>

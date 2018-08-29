@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<option code="12100078" grade="4" optionNumPick="2,2" cap_value_base="10,70" cad_value_base="30,210" />
+	<option code="12100079" grade="4" optionNumPick="2,2" asp_value_base="1,5" finaladditionaldamage_rate_base="0.01,0.04" />
+	<option code="12100080" grade="4" optionNumPick="2,2" atp_value_base="1,7" pen_rate_base="0.01,0.04" />
+	<option code="11800090" grade="3" optionNumPick="2,2" gathering_double_mastery_rate_base="0.1,0.1" farming_double_mastery_rate_base="0.1,0.1" />
+	<option code="12100081" grade="3" optionNumPick="2,2" mining_double_mastery_rate_base="0.1,0.1" breeding_double_mastery_rate_base="0.1,0.1" />
+	<option code="11900092" grade="3" optionNumPick="2,2" fishing_double_mastery_rate_base="0.03,0.03" seg_fishingreward_rate_base="0.03,0.03" />
+	<option code="12000081" grade="3" optionNumPick="2,2" playinstrument_double_mastery_rate_base="0.03,0.03" seg_playinstrumentreward_rate_base="0.03,0.03" />
+	<option code="11800094" grade="5" optionNumPick="2,2" str_value_base="1" dex_value_base="1" />
+	<option code="11800095" grade="5" optionNumPick="2,2" str_value_base="1" dex_value_base="1" />
+</ms2>

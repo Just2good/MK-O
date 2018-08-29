@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+	
+<ms2>
+
+	<state name="대기">
+		<onEnter>
+			<action name="SetUserValue" triggerID="99990016" key="respawn" value="0" />
+		</onEnter>
+		<condition name="유저를감지했으면" arg1="915" arg2="">
+			<transition state="작동"/>	
+		</condition>
+	</state>
+	
+	<state name="작동">
+		<onEnter>
+			<action name="SetUserValue" triggerID="99990001" key="GravityRoom" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="GravityRoom" value="0" />
+			<action name="SetUserValue" triggerID="99990004" key="GravityRoom" value="0" />
+			<action name="SetUserValue" triggerID="99990005" key="GravityRoom" value="0" />
+			<action name="액터를설정한다" arg1="9904" arg2="1" arg3="Closed" />
+		</onEnter>
+		<condition name="유저를감지했으면" arg1="914" arg2="">
+			<transition state="감지"/>	
+		</condition>
+	</state>
+	
+	<state name="감지">
+		<onEnter>
+			<action name="액터를설정한다" arg1="9904" arg2="1" arg3="Opened" />
+			<action name="버프를걸어준다" arg1="915" arg2="70002105" arg3="1" arg4="" arg5="0" />
+			<action name="SetGravity" gravity="-32" />
+			<action name="이벤트UI를설정한다" arg1="1" arg2="중력이 조정됩니다." arg3="5000" />
+			<action name="SetUserValue" triggerID="99990016" key="respawn" value="2" />	<!-- <1층 스폰 중지> -->
+		</onEnter>
+		<condition name="WaitTick" waitTick="1000">
+			<transition state="종료"/>
+		</condition>
+	</state>
+
+	<state name="종료">
+		<onEnter>
+			<action name="액터를설정한다" arg1="9904" arg2="0" arg3="Opened" />
+			<action name="SetUserValue" triggerID="99990001" key="GravityRoom" value="1" />	<!-- <중력방 활성화> -->
+			<action name="SetUserValue" triggerID="99990003" key="GravityRoom" value="1" />
+			<action name="SetUserValue" triggerID="99990004" key="GravityRoom" value="1" />
+			<action name="SetUserValue" triggerID="99990005" key="GravityRoom" value="1" />
+		</onEnter>
+	</state>
+
+</ms2>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>  
+ <state name="Ready">
+    <onEnter>
+
+    </onEnter>
+
+		<condition name="유저를감지했으면" arg1="199">
+				<transition state="스테이지6_시작"/> <!-- 스테이지 6 보스 전투판으로 가기-->
+		</condition>
+  </state>
+  
+  
+  
+ <state name="스테이지6_시작">
+    <onEnter>
+
+    </onEnter>
+		<!-- 졸구간 스테이지5 완료하면  보스에게 Stage06 = ?  신호 받을 때까지 여기서 대기하기-->
+		<condition name="UserValue" key="Stage06" value="11">  
+			<transition state="스테이지6_왼쪽_왼쪽진행" />
+		</condition>		
+
+
+		
+		
+		<condition name="UserValue" key="Stage06" value="21">  
+			<transition state="스테이지6_가운데_가운데진행" />
+		</condition>		
+	
+
+		
+		
+		<condition name="UserValue" key="Stage06" value="31">  
+			<transition state="스테이지6_오른쪽_가운데진행" />
+		</condition>				
+
+  </state>    
+  
+  
+  
+  
+   <state name="스테이지6_왼쪽_왼쪽진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="6101" arg2="1" arg3="1" arg4="1"/>   <!--	6스테이지 보스로 가는 포탈 생성 -->	
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>    
+  
+  
+  
+  
+  
+   <state name="스테이지6_가운데_가운데진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="6201" arg2="1" arg3="1" arg4="1"/>   
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>      
+  
+  
+ 
+  
+   <state name="스테이지6_오른쪽_가운데진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="6301" arg2="1" arg3="1" arg4="1"/>  
+		<action name="포탈을설정한다" arg1="6302" arg2="1" arg3="1" arg4="1"/>  
+		<action name="포탈을설정한다" arg1="6303" arg2="1" arg3="1" arg4="1"/>  
+		<action name="포탈을설정한다" arg1="6304" arg2="1" arg3="1" arg4="1"/>  
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>    
+  
+
+
+
+  
+	<state name="종료">
+	</state>
+	
+</ms2>

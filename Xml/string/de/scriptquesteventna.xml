@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="0628212818002889" feature="" npc="루비" name="$MyPCName$, $MyPCName$! Hast du schonmal von Regenbogenschleimen gehört? Ähm&#160;... Sie ähneln normalen Schleimen, sind aber regenbogenfarbig, und sie haben Flügel! Und sie sind megaaaaniedlich!" />
+  <key id="0628212818002890" feature="" npc="루비" name="Ich frage, weil ich einen verirrten Schleim gefunden habe, der unbedingt ein nettes neues Zuhause braucht. Im Moment sieht er vielleicht noch ziemlich durchschnittlich aus, aber wenn er heranwächst, färbt er sich in den strahlenden Farben des Regenbogens! $MyPCName$, denkst du, du könntest dich um ihn kümmern?" />
+  <key id="0628212818002891" feature="" npc="루비" name="Es gibt da nur einen wiiiiinzig kleinen Haken: Regenbogenschleime sind recht wählerisch, was ihr Fressen angeht. Aber keine Sorge! Du kannst schon allein dafür, dass du dich in der Maple-Welt aufhältst, bis zu 5&#160;Portionen $itemPlural:20301497$ pro Tag erhalten! Oh, und wenn du mit den Regenbogenschleimen anderer Besitzer spielst, teilen sie bis zu 3 zusätzliche Futterportionen mit dir!" />
+  <key id="0628212818002892" feature="" npc="루비" name="Hier ist ein $item:50400282$. Platziere es in deinem Zuhause und ziehe deinen eigenen Schleim groß! Aber nicht vergessen, ihn gut zu füttern und ihn regelmäßig zu knuddeln!" />
+  <key id="0628212818002893" feature="" npc="루비" name="Platziere ganz einfach das $item:50400282$, das du von mir erhalten hast, in deinem Zuhause. Die Schleime sind anfangs alle grün, aber wenn du sie mit Liebe hegst und pflegst und mit jeder Menge leckerem $itemPlural:20301497$ verwöhnst, verwandelt sich das Grün in die Farben des Regenbogens!" />
+  <key id="0628212818002894" feature="" npc="루비" name="$npcPlural:50400282$ sind so unwiderstehlich weich, dass man sie einfach drücken muss. Platziere ein $item:50400282$ in deinem Zuhause, damit du einen Schleim so richtig knuddeln kannst!" />
+  <key id="0628212818002895" feature="" npc="루비" name="Hier ist etwas köstliches, nahrhaftes $itemPlural:20301497$. Füttere damit deinen hungrigen $npc:50400282$, damit das arme Ding nicht verhungert!" />
+</ms2>

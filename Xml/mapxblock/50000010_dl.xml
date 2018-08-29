@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<minimap>
+		<frustum left="-2457.6" right="2457.6" top="1382.4" bottom="-1382.4" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1920" top="0" bottom="1080" />
+		<image left="392" right="1416" top="24" bottom="1048" name="./Data/Resource/Image/Map/Minimap/50000009.dds" icon="" />
+		<camera position="-1019.017273, -81.920616, 1227.017334" rotation="90.000000, 0.000000, -45.000000" />
+		<edit zoomfactor="1.28" />
+	</minimap>
+	<clientProperty bgDay="" />
+</ms2>

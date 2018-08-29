@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0" name="No Insignia" feature="Season1" />
+	<key id="11" name="Veteran" feature="Season1" />
+	<key id="1" name="Power Enchanter" feature="Season1" />
+	<key id="2" name="Top Designer" feature="Season1" />
+	<key id="3" name="True Champion" feature="Season1" />
+	<key id="4" name="Star Architect" feature="Season1" />
+	<key id="5" name="Trophy Maniac" feature="Season1" />
+	<key id="6" name="Fishing Champion" feature="Fishing" />
+	<key id="7" name="Maestro" feature="MusicInstrument" />
+	<key id="22" name="Warrior of Light" />
+	<key id="28" name="Mushking Royale" feature="SurvivalContents01" />
+	<key id="29" name="True Adventurer" feature="AdventureLevel" />
+	<key id="33" name="Founder&apos;s Insignia" locale="NA" />
+	<key id="34" name="Mushking Champion" feature="SurvivalContents03" locale="NA" />
+</ms2>

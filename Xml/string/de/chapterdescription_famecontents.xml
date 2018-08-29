@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <chapter id="10000" name="CHAPTERDESCRIPTION_10000_NAME:[F]FameContents" isTutorial="" regionID="" feature="FameContents" />
+  <chapter id="10001" name="CHAPTERDESCRIPTION_10001_NAME:[F]FameContents" isTutorial="" regionID="" feature="FameContents" />
+  <chapter id="10002" name="CHAPTERDESCRIPTION_10002_NAME:[F]FameContents" isTutorial="" regionID="" feature="FameContents" />
+  <chapter id="10003" name="CHAPTERDESCRIPTION_10003_NAME:[F]FameContents" isTutorial="" regionID="" feature="FameContents" />
+  <chapter id="10004" name="CHAPTERDESCRIPTION_10004_NAME:[F]FameContents" isTutorial="" regionID="" feature="FameContents" />
+  <chapter id="10005" name="CHAPTERDESCRIPTION_10005_NAME:[F]FameContents" isTutorial="" regionID="" feature="FameContents" />
+  <chapter id="10006" name="CHAPTERDESCRIPTION_10006_NAME:[F]FameContents_EP1_01" isTutorial="" regionID="" feature="FameContents_EP1_01" />
+  <chapter id="10007" name="CHAPTERDESCRIPTION_10007_NAME:[F]FameChallengeDungeon" isTutorial="" regionID="" feature="FameChallengeDungeon" />
+  <chapter id="10008" name="CHAPTERDESCRIPTION_10008_NAME:[F]FameChallengeDungeon" isTutorial="" regionID="" feature="FameChallengeDungeon" />
+  <chapter id="10009" name="CHAPTERDESCRIPTION_10009_NAME:[F]FameChallengeDungeon" isTutorial="" regionID="" feature="FameChallengeDungeon" />
+  <chapter id="10010" name="CHAPTERDESCRIPTION_10010_NAME:[F]FameChallengeDungeon" isTutorial="" regionID="" feature="FameChallengeDungeon" />
+  <chapter id="10011" name="CHAPTERDESCRIPTION_10011_NAME:[F]FameChallengeDungeon" isTutorial="" regionID="" feature="FameChallengeDungeon" />
+  <chapter id="10012" name="CHAPTERDESCRIPTION_10012_NAME:[F]FameChallengeDungeon" isTutorial="" regionID="" feature="FameChallengeDungeon" />
+  <chapter id="10013" name="CHAPTERDESCRIPTION_10013_NAME:[F]FameContents_EP1_02" isTutorial="" regionID="" feature="FameContents_EP1_02" />
+</ms2>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<select id="0" feature="" locale="">
+		<content voiceID="ko/Npc/02000947" text="$script:0406144907006007$" />
+	</select>
+	<monologue id="10" feature="" locale="">
+		<content text="$script:0406144907006008$" />
+	</monologue>
+	<monologue id="20" feature="" locale="">
+		<content text="$script:0406144907006009$" />
+	</monologue>
+	<script randomPick="1" id="30" feature="" locale="KR">
+		<content voiceID="ko/Npc/02000941" text="$script:0511193407006099$">
+			<distractor text="$script:0511193407006100$" goto="35" gotoFail="" />
+		</content>
+	</script>
+	<script id="35" feature="" locale="KR">
+		<content voiceID="ko/Npc/02000947" text="$script:0511193407006101$" />
+	</script>
+	<script randomPick="1" id="40" feature="" locale="KR">
+		<content text="$script:0202173007009842$">
+			<distractor text="$script:0202173007009843$" goto="41" gotoFail="42" />
+		</content>
+	</script>
+	<script id="41" feature="" locale="KR">
+		<content functionID="1" openTalkReward="1" text="$script:0202173007009844$" />
+	</script>
+	<script id="42" feature="" locale="KR">
+		<content text="$script:0202173007009845$" />
+	</script>
+	<script randomPick="1" id="50" feature="" locale="KR">
+		<content text="$script:0202173007009846$" />
+	</script>
+	<script randomPick="1" id="60" feature="" locale="CN">
+		<content voiceID="ko/Npc/02000941" text="$script:0219172307009848$">
+			<distractor text="$script:0219172307009849$" goto="61" gotoFail="" />
+		</content>
+	</script>
+	<script id="61" feature="" locale="CN">
+		<content voiceID="ko/Npc/02000947" text="$script:0219172307009850$" />
+	</script>
+	<script randomPick="1" id="70" feature="Develop" locale="CN">
+		<content text="$script:0219180707009851$">
+			<distractor text="$script:0219180707009852$" goto="71" gotoFail="72" />
+		</content>
+	</script>
+	<script id="71" feature="Develop" locale="CN">
+		<content functionID="2" openTalkReward="1" text="$script:0219180707009853$" />
+	</script>
+	<script id="72" feature="Develop" locale="CN">
+		<content text="$script:0219180707009854$" />
+	</script>
+	<script randomPick="1" id="80" feature="Develop" locale="CN">
+		<content text="$script:0219180707009855$" />
+	</script>
+</ms2>

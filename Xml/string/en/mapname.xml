@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="00000001" name="# Login Screen" feature="CBT" />
+	<key id="00000002" name="# Character Select Screen" feature="CBT" />
+	<key id="00000003" name="# Character Select Screen - Henesys" feature="CBT" />
+	<key id="00000004" name="# Character Select Screen - Ellinia" feature="CBT" />
+	<key id="00000005" name="# Character Select Screen - Perion" feature="CBT" />
+	<key id="00000006" name="# Character Select Screen - Kerning City" feature="CBT" />
+	<key id="00000008" name="# Character Select Screen - Tria" feature="CBT" />
+	<key id="00000009" name="# Character Select Screen - Taliskar" feature="CBT" />
+	<key id="00000011" name="# Character Select Screen - Halloween" feature="LobbyMap01" />
+	<key id="00000012" name="# Character Select Screen - Christmas" feature="LobbyMap01" />
+	<key id="00000013" name="# Character Select Screen - Madria" feature="LobbyMap01" />
+	<key id="00000014" name="# Character Select Screen - Cherry Blossoms" feature="LobbyMap01" />
+	<key id="00000015" name="# Character Select Screen - Summer" feature="LobbyMap01" />
+	<key id="00000017" name="# Character Select Screen - Harvest Festival" feature="LobbyMap01" />
+	<key id="00000018" name="# Character Select Screen - Halloween 2017" feature="LobbyMap01" />
+	<key id="00000021" name="# Character Selection Screen - 2018 Lunar New Year" feature="LobbyMap01" />
+	<key id="00000022" name="# Character Select Screen - Spring 2018" feature="LobbyMap01" />
+	<key id="00000023" name="# Character Select Screen - Mushking" feature="LobbyMap01" />
+	<key id="00001001" name="# Game Mode Selection Screen" feature="LobbyMap01" />
+	<key id="02000001" name="Tria" feature="CBT" />
+	<key id="02000002" name="Evansville" feature="CBT" />
+	<key id="02000003" name="Verdant Heights" feature="Season2" />
+	<key id="02000004" name="Trinket Woods" feature="CBT" />
+	<key id="02000005" name="Ellin Town" feature="CBT" />
+	<key id="02000006" name="Ellin Grove" feature="CBT" />
+	<key id="02000007" name="Breezy Hills" feature="Season2" />
+	<key id="02000008" name="Ludibrium Crevasse" feature="Season2" />
+	<key id="02000009" name="Sand Dunes" feature="Season2" />
+	<key id="02000010" name="Paruvan Plateau" feature="CBT" />
+	<key id="02000011" name="Lava Crest" feature="Season3" />
+	<key id="02000012" name="Fungi Forest" feature="Season2" />
+	<key id="02000013" name="Forgotten Keep" feature="Season2" />
+	<key id="02000014" name="Ludibrium Crater" feature="CBT" />
+	<key id="02000015" name="Henesys Docks" feature="Season2" />
+	<key id="02000016" name="Henesys Clock Tower" feature="Season3" />
+	<key id="02000017" name="Sylvan Woods Trail" feature="CBT" />
+	<key id="02000018" name="Berrysweet Castle" feature="Season3" />
+	<key id="02000019" name="Besherel Magic Library" feature="Season2" />
+	<key id="02000020" name="Royal Rental Storage" feature="CBT" />
+	<key id="02000021" name="Precipice Fortress" feature="Season2" />
+	<key id="02000022" name="Ellua Riverside" feature="Season2" />
+	<key id="02000023" name="Ellinia" feature="CBT" />
+	<key id="02000024" name="Ellbo&apos;s Hollow" feature="CBT" />
+	<key id="02000025" name="Tria Palace" feature="CBT" />
+	<key id="02000026" name="Shadow Research Center" feature="CBT" />
+	<key id="02000027" name="Henesys Hospital" feature="CBT" />
+	<key id="02000028" name="Ellinia Hospital" feature="CBT" />
+	<key id="02000029" name="Van Corta" feature="Season1" />
+	<key id="02000031" name="Tria Library" feature="CBT" />
+	<key id="02000032" name="Perion Hospital" feature="CBT" />
+	<key id="02000033" name="Troy Inn" feature="CBT" />
+	<key id="02000034" name="Goldus Bank Main Branch" feature="CBT" />
+	<key id="02000035" name="Hall of Magic" feature="CBT" />
+	<key id="02000036" name="Decor Haven" feature="CBT" />
+	<key id="02000037" name="Temple of Immortals" feature="Season3" />
+	<key id="02000038" name="Rainbow Mountain" feature="Season2" />
+	<key id="02000039" name="Hotottot River" feature="CBT" />
+	<key id="02000040" name="Lavaluna Cave" feature="Season3" />
+	<key id="02000041" name="Fairy Tree Lake" feature="CBT" />
+	<key id="02000042" name="Ellosylva" feature="Season2" />
+	<key id="02000043" name="Boulderwhite Mountains" feature="CBT" />
+	<key id="02000044" name="Fractured Canyon" feature="Season3" />
+	<key id="02000045" name="Bonebridge Worksite" feature="CBT" />
+	<key id="02000046" name="Molten Hourglass" feature="CBT" />
+	<key id="02000047" name="Misty Temple" feature="CBT" />
+	<key id="02000048" name="Stonehill Dig Site" feature="Season1" />
+	<key id="02000049" name="Pigming Clan Altar" feature="Season3" />
+	<key id="02000050" name="Crow&apos;s Eye Village" feature="CBT" />
+	<key id="02000051" name="Perion" feature="CBT" />
+	<key id="02000052" name="Lava Eye Nest" feature="CBT" />
+	<key id="02000053" name="Corona Lake" feature="Season2" />
+	<key id="02000054" name="Spectrumwood" feature="CBT" />
+	<key id="02000055" name="Bastei Peak" feature="CBT" />
+	<key id="02000056" name="Prism Falls" feature="CBT" />
+	<key id="02000057" name="West Wind Hill" feature="Season2" />
+	<key id="02000058" name="Stone Quarry" feature="Season2" />
+	<key id="02000059" name="Logger&apos;s Hill" feature="CBT" />
+	<key id="02000060" name="Razed Forest" feature="CBT" />
+	<key id="02000061" name="Raptor Dive Pass" feature="Season3" />
+	<key id="02000062" name="Lith Harbor" feature="CBT" />
+	<key id="02000063" name="Cheliska Bay" feature="Season2" />
+	<key id="02000064" name="Queenstown" feature="CBT" />
+	<key id="02000065" name="Minister&apos;s Office" feature="CBT" />
+	<key id="02000066" name="Cusp of Life" feature="Season2" />
+	<key id="02000067" name="Tortuga Seaside Cliffs" feature="Season2" />
+	<key id="02000068" name="Adventurer&apos;s Guild" feature="CBT" />
+	<key id="02000069" name="The Crest" feature="CBT" />
+	<key id="02000070" name="Geno&apos;s House" feature="CBT" />
+	<key id="02000071" name="Kerning City Hospital" feature="CBT" />
+	<key id="02000072" name="Elder&apos;s House" feature="CBT" />
+	<key id="02000073" name="Forest Witch&apos;s Shop" feature="CBT" />
+	<key id="02000074" name="Forsaken Hideout" feature="CBT" />
+	<key id="02000076" name="Henesys" feature="CBT" />
+	<key id="02000077" name="Lupinrock Cave" feature="Quest2017_2" />
+	<key id="02000078" name="Murpagoth Temple" feature="Quest2017_2" />
+	<key id="02000079" name="Ignicore" feature="Season2" />
+	<key id="02000080" name="Vayar Design Shop" feature="CBT" />
+	<key id="02000081" name="Perion Town Storage" feature="CBT" />
+	<key id="02000082" name="Abandoned Charnel House" feature="CBT" />
+	<key id="02000083" name="Kerning Interchange" feature="CBT" />
+	<key id="02000084" name="Kerning Junkyard" feature="Season1" />
+	<key id="02000085" name="Frostheart" feature="CBT" />
+	<key id="02000086" name="Lavaworks" feature="CBT" />
+	<key id="02000087" name="Andrea Barony" feature="Season1" />
+	<key id="02000088" name="Trinian Crossing" feature="CBT" />
+	<key id="02000089" name="Torhara Spring" feature="CBT" />
+	<key id="02000090" name="Forest of Lost Memories" feature="Season2" />
+	<key id="02000091" name="West Watchtower" feature="Season2" />
+	<key id="02000092" name="Revoldic Dam" feature="CBT" />
+	<key id="02000093" name="Karnif&apos;s Fang" feature="Season3" />
+	<key id="02000094" name="Red Wall" feature="Season3" />
+	<key id="02000095" name="Picchu Picchu Gardens" feature="Season2" />
+	<key id="02000096" name="Lava Springs" feature="Season2" />
+	<key id="02000097" name="Skyreach Pass" feature="Season3" />
+	<key id="02000098" name="Blueshade Cave" feature="Season3" />
+	<key id="02000099" name="Sunset Tower" feature="CBT" />
+	<key id="02000100" name="Kerning City" feature="CBT" />
+	<key id="02000101" name="Orne Town" feature="CBT" />
+	<key id="02000102" name="Eileen Town" feature="CBT" />
+	<key id="02000103" name="Baum Tree" feature="Season2" />
+	<key id="02000104" name="Crystal Vale" feature="CBT" />
+	<key id="02000105" name="Aner Park" feature="CBT" />
+	<key id="02000106" name="Centura Cave" feature="CBT" />
+	<key id="02000107" name="Beauty Street" feature="Season1" />
+	<key id="02000108" name="Forelle Town" feature="Season2" />
+	<key id="02000109" name="Firefly Cavern" feature="CBT" />
+	<key id="02000110" name="Barrota Shore" feature="CBT" />
+	<key id="02000111" name="Beachway 111" feature="CBT" />
+	<key id="02000112" name="Godspring" feature="Season2" />
+	<key id="02000113" name="Greenia Falls" feature="Season2" />
+	<key id="02000114" name="Royal Road Plaza" feature="CBT" />
+	<key id="02000115" name="South Royal Road" feature="CBT" />
+	<key id="02000116" name="Hushwood Vale" feature="CBT" />
+	<key id="02000117" name="Crooked Canyon" feature="CBT" />
+	<key id="02000118" name="North Royal Road" feature="CBT" />
+	<key id="02000119" name="Middleton" feature="CBT" />
+	<key id="02000120" name="Rina&apos;s House" feature="CBT" />
+	<key id="02000121" name="Cathy Mart" feature="CBT" />
+	<key id="02000122" name="Nelph&apos;s House" feature="CBT" />
+	<key id="02000123" name="Golden Estates Realty" feature="CBT" />
+	<key id="02000124" name="Alikar" feature="CBT" />
+	<key id="02000125" name="Henry&apos;s General Hospital" feature="CBT" />
+	<key id="02000127" name="Amore Wedding Hall" feature="Season1" />
+	<key id="02000128" name="Great Ellin Tree" feature="Season2" />
+	<key id="02000129" name="Fungeeburg Stump" feature="Season2" />
+	<key id="02000130" name="Ellin Ruins" feature="Season2" />
+	<key id="02000131" name="Overtop Beanstalk" feature="Season2" />
+	<key id="02000132" name="Rose Castle" feature="Season2" />
+	<key id="02000133" name="Highcliff Temple" feature="Season3" />
+	<key id="02000134" name="Goldus Pharmaceuticals" feature="CBT" />
+	<key id="02000135" name="Mounthill" feature="Season1" />
+	<key id="02000136" name="Fellowstone Construction" feature="CBT" />
+	<key id="02000137" name="Majore Lake Park" feature="CBT" />
+	<key id="02000138" name="Woodward" feature="Season1" />
+	<key id="02000139" name="Barrota Port" feature="CBT" />
+	<key id="02000140" name="Tria Royal Office" feature="CBT" />
+	<key id="02000141" name="Golden Tower 8F" feature="CBT" />
+	<key id="02000142" name="Clock Tower Square" feature="Season2" />
+	<key id="02000143" name="Blooming Farm" feature="CBT" />
+	<key id="02000144" name="Woodward Alley" feature="CBT" />
+	<key id="02000145" name="Neuron DNA Research Center" feature="CBT" />
+	<key id="02000146" name="Shadow Gate" feature="CBT" />
+	<key id="02000147" name="Flora Avenue" feature="CBT" />
+	<key id="02000148" name="Suffering Wasteland" feature="CBT" />
+	<key id="02000149" name="Enigma Arcade" feature="CBT" />
+	<key id="02000150" name="Jack&apos;s House" feature="CBT" />
+	<key id="02000151" name="Herbalist&apos;s House" feature="CBT" />
+	<key id="02000152" name="Dark Wind Command" feature="CBT" />
+	<key id="02000153" name="Dark Wind HQ" feature="CBT" />
+	<key id="02000154" name="Kerning Mayor&apos;s Office" feature="CBT" />
+	<key id="02000155" name="Goldus Bank HQ" feature="CBT" />
+	<key id="02000156" name="Shady Office" feature="CBT" />
+	<key id="02000157" name="Kerning City Hall" feature="CBT" />
+	<key id="02000158" name="Goldus Penthouse" feature="CBT" />
+	<key id="02000159" name="Development Lab" feature="CBT" />
+	<key id="02000160" name="Beans&apos;s House" feature="CBT" />
+	<key id="02000161" name="Clock Tower Interior" feature="Season2" />
+	<key id="02000162" name="Magma Research Station" feature="Season3" />
+	<key id="02000163" name="MSL Electronics Institute" feature="Season3" />
+	<key id="02000164" name="Silverstone Bridge" feature="CBT" />
+	<key id="02000165" name="Resortville" feature="CBT" />
+	<key id="02000166" name="New Goldus" feature="CBT" />
+	<key id="02000167" name="Oasis Town" feature="CBT" />
+	<key id="02000168" name="Serpent Town" feature="CBT" />
+	<key id="02000169" name="Whistler Cliffs" feature="Season3" />
+	<key id="02000170" name="Wolfclaw Canyon" feature="Season3" />
+	<key id="02000171" name="Kolopua Crag" feature="Season3" />
+	<key id="02000172" name="Moonglow Forest" feature="Season2" />
+	<key id="02000173" name="Ant Tunnel Entrance" feature="Season2" />
+	<key id="02000174" name="Ant Tunnel Plaza" feature="Season2" />
+	<key id="02000175" name="Frostember Void" feature="Season3" />
+	<key id="02000176" name="Frozencrest" feature="Season3" />
+	<key id="02000177" name="Horus&apos;s Nest Entrance" feature="Season2" />
+	<key id="02000178" name="Mon Petit Chouchou Hotel" feature="Season3" />
+	<key id="02000179" name="Forest of Life" feature="Season2" />
+	<key id="02000180" name="Caustic Garden" feature="Season2" />
+	<key id="02000181" name="Reflection Castle" feature="Season2" />
+	<key id="02000182" name="Tidepool Cliffs" feature="Season2" />
+	<key id="02000183" name="Barbosa Beach" feature="Season2" />
+	<key id="02000184" name="Slumberland" feature="Season3" />
+	<key id="02000185" name="Sweet Tooth Valley" feature="Season2" />
+	<key id="02000186" name="Sweetskirts" feature="Season2" />
+	<key id="02000187" name="MSL Robot Dev Center" feature="Season3" />
+	<key id="02000188" name="Grand Hall" feature="CBT" />
+	<key id="02000189" name="Goldus Tower Lobby" feature="CBT" />
+	<key id="02000190" name="Vidrem Mansion" feature="CBT" />
+	<key id="02000191" name="Baraska Ice Cave" feature="Season3" />
+	<key id="02000192" name="Cave of Eternity" feature="Season3" />
+	<key id="02000193" name="Derelict Warehouse" feature="CBT" />
+	<key id="02000194" name="Clock Tower Passage" feature="Season2" />
+	<key id="02000195" name="Maple TV Newsroom" feature="Season1" />
+	<key id="02000196" name="Public Restroom" feature="Season2" />
+	<key id="02000197" name="Whisper Cave" feature="Season2" />
+	<key id="02000198" name="Mrs. Ibelin&apos;s House" feature="CBT" />
+	<key id="02000199" name="Lith Harbor Theme Shop" feature="Season1" />
+	<key id="02000200" name="Darkmist Path" feature="Season3" />
+	<key id="02000201" name="Goldus Bank Branch" feature="CBT" />
+	<key id="02000202" name="Stranger&apos;s House" feature="CBT" />
+	<key id="02000203" name="Nerman Forge" feature="CBT" />
+	<key id="02000204" name="Moonlight Fortress" feature="Season2" />
+	<key id="02000205" name="Eve&apos;s House" feature="CBT" />
+	<key id="02000206" name="Forest of Chaos" feature="Season2" />
+	<key id="02000208" name="Humblis&apos;s Hideout" feature="CBT" />
+	<key id="02000209" name="Cathy Mart Main Branch" feature="CBT" />
+	<key id="02000210" name="Cathy Mart Branch" feature="CBT" />
+	<key id="02000211" name="Cathy Mart Branch" feature="CBT" />
+	<key id="02000212" name="Cathy Mart Branch" feature="CBT" />
+	<key id="02000213" name="Shadow Altar" feature="CBT" />
+	<key id="02000214" name="Twilight Moon Castle" feature="Season2" />
+	<key id="02000215" name="Ellua Forest Path" feature="Season2" />
+	<key id="02000216" name="Black Market" feature="CBT" />
+	<key id="02000217" name="Brave Peak" feature="CBT" />
+	<key id="02000218" name="Schwanda&apos;s Atelier" feature="CBT" />
+	<key id="02000219" name="Secret Room" feature="Season2" />
+	<key id="02000220" name="Soul Dimension" feature="Season2" />
+	<key id="02000221" name="Zorba&apos;s Books" feature="CBT" />
+	<key id="02000222" name="Blooming House" feature="CBT" />
+	<key id="02000223" name="Bonebridge Nook" feature="CBT" />
+	<key id="02000224" name="Warehouse 224" feature="Quest2017" />
+	<key id="02000225" name="Barrota Trading Lobby" feature="CBT" />
+	<key id="02000226" name="President&apos;s Office" feature="CBT" />
+	<key id="02000227" name="Dimensional Barrier" feature="Season2" />
+	<key id="02000228" name="Command Center" feature="CBT" />
+	<key id="02000229" name="Yamarcha Temple Ruins" feature="Season3" />
+	<key id="02000230" name="Mine Hideout" feature="Season3" />
+	<key id="02000231" name="Ludi Fantasia" feature="Season3" />
+	<key id="02000232" name="Tronix Bunker" feature="Season3" />
+	<key id="02000233" name="Underground Tunnel" feature="CBT" />
+	<key id="02000234" name="Escapee&apos;s Dream" feature="CBT" />
+	<key id="02000235" name="Wailing Mine" feature="Season3" />
+	<key id="02000236" name="Magma Trail" feature="Season3" />
+	<key id="02000237" name="Underground Tunnel" feature="Season2" />
+	<key id="02000238" name="Cliffside Cavern" feature="CBT" />
+	<key id="02000239" name="Hawker&apos;s Rest Area" feature="Season2" />
+	<key id="02000240" name="Neuron DNA Basement" feature="CBT" />
+	<key id="02000241" name="Golden Tower 7F" feature="CBT" />
+	<key id="02000242" name="Golden Tower 6F" feature="CBT" />
+	<key id="02000243" name="Golden Tower 5F" feature="CBT" />
+	<key id="02000244" name="Golden Tower 4F" feature="CBT" />
+	<key id="02000245" name="Golden Tower 3F" feature="CBT" />
+	<key id="02000246" name="Golden Tower 2F" feature="CBT" />
+	<key id="02000247" name="Golden Tower 1F" feature="CBT" />
+	<key id="02000248" name="Golden Tower Elevator" feature="CBT" />
+	<key id="02000249" name="Goldus Tower Basement 1F" feature="CBT" />
+	<key id="02000250" name="Turtcoli Cave" feature="CBT" />
+	<key id="02000251" name="Goldus Tower Basement 2F" feature="CBT" />
+	<key id="02000252" name="Palace Undercroft" feature="Season2" />
+	<key id="02000253" name="Undercroft Corridor" feature="Season2" />
+	<key id="02000254" name="Banquet Hall" feature="Season2" />
+	<key id="02000255" name="Ludi Station" feature="Season3" />
+	<key id="02000256" name="Ant Tunnel Passage" feature="Season3" />
+	<key id="02000257" name="Macaroon Acres" feature="Season3" />
+	<key id="02000258" name="Frostbunny Park" feature="Season3" />
+	<key id="02000259" name="Ludi Arcade" feature="Season3" />
+	<key id="02000260" name="Frostpeak Mountain" feature="Season3" />
+	<key id="02000261" name="Snowscarf Haven" feature="Season3" />
+	<key id="02000262" name="Ludition Carnival" feature="Season3" />
+	<key id="02000263" name="Crystalfrost Wall" feature="Season3" />
+	<key id="02000264" name="Igloo Hill" feature="Season3" />
+	<key id="02000265" name="Kerning Techno Valley" feature="Season3" />
+	<key id="02000266" name="Muros Media Park" feature="Season3" />
+	<key id="02000267" name="Windsong Ravine" feature="CBT" />
+	<key id="02000268" name="Magma Gorge" feature="Season3" />
+	<key id="02000269" name="Cellimental Test Bunker" feature="Season3" />
+	<key id="02000270" name="Taliskar" feature="Season3" />
+	<key id="02000271" name="New Kerningdom" feature="Season3" />
+	<key id="02000272" name="Old Kerningdom" feature="Season3" />
+	<key id="02000273" name="Steamerbrook" feature="Season3" />
+	<key id="02000274" name="Water Supply Center" feature="Season3" />
+	<key id="02000275" name="Phantoma Cyborg Center" feature="Season3" />
+	<key id="02000276" name="Kernel Energy Research" feature="Season3" />
+	<key id="02000277" name="MSL Factory" feature="Season3" />
+	<key id="02000278" name="Serene Docks" feature="Season2" />
+	<key id="02000279" name="Chronoff Train Station" feature="Season3" />
+	<key id="02000280" name="Harrot Hill" feature="Season3" />
+	<key id="02000281" name="Poison Cave Entrance" feature="CBT" />
+	<key id="02000282" name="Poison Cave Crossroads" feature="CBT" />
+	<key id="02000283" name="Poison Cave Surface" feature="CBT" />
+	<key id="02000284" name="Poison Cave Top Level" feature="CBT" />
+	<key id="02000285" name="Tria Theme Shop" feature="CBT" />
+	<key id="02000286" name="Henesys Theme Shop" feature="CBT" />
+	<key id="02000287" name="Perion Theme Shop" feature="CBT" />
+	<key id="02000288" name="Kerning City Theme Shop" feature="CBT" />
+	<key id="02000289" name="Ellinia Theme Shop" feature="CBT" />
+	<key id="02000290" name="Cherry Blossom Hill" feature="Season1" />
+	<key id="02000291" name="Victoria Runway" feature="Season1" />
+	<key id="02000292" name="Katramus Mine" feature="Season3" />
+	<key id="02000293" name="Katramus Gardens" feature="Season3" />
+	<key id="02000294" name="Katramus Forge" feature="Season3" />
+	<key id="02000295" name="Katramus Arena" feature="Season3" />
+	<key id="02000296" name="Katramus Soul Prison" feature="Season3" />
+	<key id="02000297" name="Katramus Apex" feature="Season3" />
+	<key id="02000298" name="Ludible Time Hall" feature="Season3" />
+	<key id="02000299" name="Time Machine Chamber" feature="Season3" />
+	<key id="02000300" name="Wounded Canyon" feature="Season3" />
+	<key id="02000301" name="Undercover Lab" feature="Season3" />
+	<key id="02000302" name="Black Soul Forest" feature="Season3" />
+	<key id="02000303" name="Primeval Jungle" feature="Season3" />
+	<key id="02000304" name="A Place Beyond Time" feature="Season3" />
+	<key id="02000305" name="Rainbow Reach" feature="Season2" />
+	<key id="02000306" name="Cliffside Mud Hut" feature="Season3" />
+	<key id="02000307" name="Chronoff Closure" feature="Season3" />
+	<key id="02000308" name="Umbral Passage" feature="Season3" />
+	<key id="02000309" name="Chaos Tempus Center" feature="Season3" />
+	<key id="02000310" name="Palace Dungeon" feature="Season3" />
+	<key id="02000311" name="Pyratalos" feature="Season3" />
+	<key id="02000312" name="Van Corta" feature="Season1" />
+	<key id="02000313" name="Bastei Peak" feature="Season1" />
+	<key id="02000314" name="Sunset Tower Roof" feature="Season1" />
+	<key id="02000315" name="Forest of Chaos" feature="Season2" />
+	<key id="02000316" name="Horus&apos;s Nest" feature="Season2" />
+	<key id="02000317" name="Ignicore" feature="Season2" />
+	<key id="02000318" name="Moonlight Fortress" feature="Season2" />
+	<key id="02000319" name="Tronix Bunker" feature="Season3" />
+	<key id="02000320" name="Ruff&apos;s Hollow" feature="Season2" />
+	<key id="02000321" name="Baraska Ice Cave" feature="Season3" />
+	<key id="02000322" name="Blueshade Cave" feature="Season3" />
+	<key id="02000323" name="Pyratalos" feature="Season3" />
+	<key id="02000324" name="MSL Factory HQ" feature="Season3" />
+	<key id="02000325" name="Testing Grounds" feature="Season3" />
+	<key id="02000326" name="Shadow Altar" feature="Season3" />
+	<key id="02000327" name="Moonlight Fortress" feature="Season3" />
+	<key id="02000328" name="Toxic Garden" feature="Season1" />
+	<key id="02000329" name="Operation Hen Rescue" feature="Season1" />
+	<key id="02000330" name="Run-down Warehouse" feature="Season1" />
+	<key id="02000331" name="Twinkling Path" feature="Season1" />
+	<key id="02000334" name="Watchtower Rampart" feature="Season3" />
+	<key id="02000344" name="Amazing Box" feature="Season3" />
+	<key id="02000345" name="Marble Hall" feature="Season3" />
+	<key id="02000346" name="Petrified Brook" feature="Season3" />
+	<key id="02000347" name="Dancing Sand Tomb" feature="Season3" />
+	<key id="02000348" name="Splint Coal Mine" feature="Season3" />
+	<key id="02000349" name="Root of Darkness" feature="KatvanDungeon" />
+	<key id="02000350" name="Dark Descent" feature="TimeAttackDungeon" />
+	<key id="02000351" name="Tronix Bunker Entrance" feature="Season3" />
+	<key id="02000352" name="Tronix Bunker Passage" feature="Season3" />
+	<key id="02000353" name="Baraska Ice Cave Entrance" feature="Season3" />
+	<key id="02000354" name="Blueshade Cave Entrance" feature="Season3" />
+	<key id="02000355" name="Lingering Darkness" feature="KatvanDungeon" />
+	<key id="02000356" name="Shadow Altar" feature="Season1" />
+	<key id="02000357" name="Ludibrium Clock Tower" feature="Season2" />
+	<key id="02000358" name="Indoor Souvenir Photo Op" feature="CBT" />
+	<key id="02000359" name="Indoor MS2 Award Exhibit" feature="CBT" />
+	<key id="02000360" name="The Waddle Penguin Club" feature="CBT" />
+	<key id="02000377" name="Coco Island" feature="Fishing" />
+	<key id="02000380" name="Muros Studio" feature="Season3" />
+	<key id="02000386" name="Pippy&apos;s Escape" feature="ItemDungeon" />
+	<key id="02000387" name="Cathy Mart Part-Time Job" feature="ItemPartyDungeon" />
+	<key id="02000394" name="Guild Registry HQ" feature="ContentsGuide01" />
+	<key id="02000405" name="Hellebanican" feature="Season1" />
+	<key id="02000419" name="Temple of Immortals" feature="Season3" />
+	<key id="02000424" name="Berg Island" feature="Mastery05" />
+	<key id="02000425" name="Alkimi Island" feature="Mastery05" />
+	<key id="02000499" name="Royale Park" feature="SurvivalContents03" />
+	<key id="03000002" name="Deadsville" feature="Season3" />
+	<key id="03000003" name="Savage Crossroads" feature="Season2" />
+	<key id="03000004" name="Gloomy Forest" feature="Season3" />
+	<key id="03000006" name="Black Forest" feature="Season3" />
+	<key id="03000007" name="Piercing Wind Hills" feature="Season3" />
+	<key id="03000009" name="Stormy Hills" feature="Season3" />
+	<key id="03000013" name="Shadow Fortress" feature="Season3" />
+	<key id="03000014" name="Kabrium Basin" feature="CBT" />
+	<key id="03000015" name="Inferno Ferry" feature="Season3" />
+	<key id="03000017" name="Specter Woods Trail" feature="Season2" />
+	<key id="03000021" name="Wailing Crag Fortress" feature="Season3" />
+	<key id="03000022" name="Torrava River" feature="Season2" />
+	<key id="03000024" name="Moldy Hollow" feature="Season3" />
+	<key id="03000036" name="Corrupted Square" feature="Season3" />
+	<key id="03000038" name="Flamebow Mountain" feature="Season3" />
+	<key id="03000039" name="Inferno Brook" feature="Season3" />
+	<key id="03000043" name="Obsidian Mount" feature="Season2" />
+	<key id="03000045" name="Bonebridge Ruins" feature="Season3" />
+	<key id="03000046" name="Infernal Hourglass" feature="Season3" />
+	<key id="03000054" name="Snagwood Forest" feature="Season2" />
+	<key id="03000056" name="Phantasm Falls" feature="Season3" />
+	<key id="03000057" name="Stormville" feature="Season2" />
+	<key id="03000058" name="Darkstone Quarry" feature="Season2" />
+	<key id="03000059" name="Outlaw&apos;s Overlook" feature="Season2" />
+	<key id="03000060" name="Blazing Forest" feature="KatvanDungeon" />
+	<key id="03000062" name="Lith Ruins" feature="Season3" />
+	<key id="03000064" name="Cozalita Graveyard" feature="Season2" />
+	<key id="03000076" name="Ravaged Henesys" feature="Season2" />
+	<key id="03000083" name="Bleakshadow Crossing" feature="Season2" />
+	<key id="03000084" name="Bleakshadow Waste Center" feature="Season2" />
+	<key id="03000085" name="Dark Heart" feature="Season2" />
+	<key id="03000086" name="Lavarush Valley" feature="Season2" />
+	<key id="03000087" name="Barren Barony" feature="Season3" />
+	<key id="03000088" name="Darknian Thoroughfare" feature="Season3" />
+	<key id="03000089" name="Demonspring" feature="Season3" />
+	<key id="03000090" name="Sealed Forest" feature="KatvanDungeon" />
+	<key id="03000091" name="Turka&apos;s Watchtower" feature="Season3" />
+	<key id="03000092" name="Melta Dam" feature="CBT" />
+	<key id="03000101" name="Calamitysnare" feature="Season3" />
+	<key id="03000103" name="Inferno Tree" feature="KatvanDungeon" />
+	<key id="03000104" name="Crystal Vale Ruins" feature="Season2" />
+	<key id="03000110" name="Shadow Factory" feature="Season2" />
+	<key id="03000111" name="Beachway 666" feature="Season2" />
+	<key id="03000114" name="Sidian Road Plaza" feature="Season3" />
+	<key id="03000115" name="South Sidian Road" feature="Season3" />
+	<key id="03000117" name="Victoria Liner" feature="Season3" />
+	<key id="03000118" name="North Sidian Road" feature="Season3" />
+	<key id="03000130" name="Vanished Ruins" feature="Season2" />
+	<key id="03000134" name="Chekarta Chemicals" feature="CBT" />
+	<key id="03000135" name="Blackout Expanse" feature="CBT" />
+	<key id="03000136" name="Occupied Fellowstone" feature="CBT" />
+	<key id="03000137" name="Majore Bog" feature="CBT" />
+	<key id="03000143" name="Debloon Ranch" feature="Season2" />
+	<key id="03000145" name="Dark Cell Virus Center" feature="CBT" />
+	<key id="03000146" name="Picardiv" feature="CBT" />
+	<key id="03000147" name="Silent Street" feature="Season3" />
+	<key id="03000165" name="Wallowville" feature="Season3" />
+	<key id="03000185" name="Bitters Valley" feature="Season3" />
+	<key id="03000203" name="Storm Forge" feature="Season2" />
+	<key id="03009001" name="Kabrium Basin Shelter" feature="CBT" />
+	<key id="03009005" name="Vanished Ruins Shelter" feature="Season2" />
+	<key id="03009006" name="Debloon Ranch Shelter" feature="Season2" />
+	<key id="03009007" name="Black Forest Shelter" feature="Season3" />
+	<key id="03009008" name="Piercing Wind Shelter" feature="Season3" />
+	<key id="03009009" name="Obsidian Mount Shelter" feature="ShadowCataclysm" />
+	<key id="03009010" name="South Sidian Road Shelter" feature="Season3" />
+	<key id="03009015" name="Razed Forest Shelter" feature="KatvanDungeon" />
+	<key id="03009017" name="Secret Shelter" feature="Season3" />
+	<key id="03009018" name="Lumina Checkpoint" feature="Season3" />
+	<key id="03009021" name="Baba Powder Lab" feature="CBT" />
+	<key id="03009022" name="Lumina Liberation Hangout" feature="CBT" />
+	<key id="03009023" name="Picardiv Station" feature="CBT" />
+	<key id="03009024" name="Hidden Refuge" feature="CBT" />
+	<key id="50000001" name="Dungeon Lobby" feature="CBT" />
+	<key id="50000002" name="Hard Adventure Dungeon Lobby" feature="CBT" />
+	<key id="50000003" name="Chaos Raid Dungeon Lobby" feature="CBT" />
+	<key id="51000001" name="Teraspring Farm" feature="ArcadeSpringFarm" />
+	<key id="51000003" name="Simian Sea" feature="ArcadeCrazyMonkeyOcean" />
+	<key id="52000001" name="Forest Cabin" feature="CBT" />
+	<key id="52000002" name="Balmy Farm" feature="Season1" />
+	<key id="52000003" name="Umbral Cavern" feature="Season3" />
+	<key id="52000004" name="Golma Apartments" feature="Season1" />
+	<key id="52000006" name="Ludibrium Station" feature="CBT" />
+	<key id="52000007" name="Moon Station" feature="CBT" />
+	<key id="52000008" name="Rosetta Beauty Salon" feature="CBT" />
+	<key id="52000009" name="Douglas Dye Workshop" feature="CBT" />
+	<key id="52000010" name="Tria Plastic Surgery" feature="CBT" />
+	<key id="52000011" name="Time Barrier" feature="Season3" />
+	<key id="52000012" name="Shaman&apos;s Grave" feature="Season3" />
+	<key id="52000013" name="Soul Orb" feature="Season3" />
+	<key id="52000020" name="Barrota Information Brokerage" feature="Quest2017" />
+	<key id="52000033" name="Audience Chamber" feature="Season1" />
+	<key id="52000035" name="Dark Gallery" feature="Season1" />
+	<key id="52000036" name="Black Moon Abyss" feature="Season1" />
+	<key id="52000037" name="Noxious Grotto" feature="Season1" />
+	<key id="52000046" name="Abandoned Townhouse" feature="Quest2017" />
+	<key id="52000054" name="Black Moon Abyss" feature="Season1" />
+	<key id="52000055" name="Dark Wind HQ" feature="Season1" />
+	<key id="52000056" name="Maple Tree Hill" feature="Season1" />
+	<key id="52000057" name="Nerman Craft Shop" feature="ContentsGuide01" />
+	<key id="52000058" name="Harang Island" feature="ContentsGuide01" />
+	<key id="52000059" name="Harang Island" feature="ContentsGuide01" />
+	<key id="52000060" name="Queen&apos;s Hall Antechamber" feature="ContentsGuide01" />
+	<key id="52000061" name="Queen&apos;s Hall" feature="ContentsGuide01" />
+	<key id="52000062" name="Persika Boutique" feature="ContentsGuide01" />
+	<key id="52000063" name="MapleCar Racing Circuit" feature="ContentsGuide01" />
+	<key id="52000064" name="Prismatic Dream City" feature="ContentsGuide01" />
+	<key id="52000065" name="Unknown Location" feature="Season1" />
+	<key id="52000066" name="Cave Depths" feature="Season1" />
+	<key id="52000067" name="Kerning, Black Mushroom" feature="Season1" />
+	<key id="52000068" name="Tria Battlefield" feature="Season1" />
+	<key id="52000069" name="Palace Bunker" feature="Season1" />
+	<key id="52000070" name="Commander&apos;s Hideout" feature="Season1" />
+	<key id="52000071" name="Abandoned Apartment" feature="Season1" />
+	<key id="52000072" name="Shadow Tunnel" feature="Season1" />
+	<key id="52000073" name="Dark Wind Command" feature="Season1" />
+	<key id="52000074" name="Command Center" feature="Season1" />
+	<key id="52000075" name="Palace Dungeon" feature="Season1" />
+	<key id="52000076" name="Root of Darkness" feature="Season1" />
+	<key id="52000079" name="Abandoned Room" feature="Season1" />
+	<key id="52000098" name="Dark Gallery" feature="Season1" />
+	<key id="52000100" name="Ellinel Lecture Hall" feature="JobIntro" />
+	<key id="52000101" name="Ellinel Magic Academy" feature="JobIntro" />
+	<key id="52000102" name="Headmaster&apos;s Office" feature="JobIntro" />
+	<key id="52000103" name="Tria Library" feature="JobIntro" />
+	<key id="52000104" name="Rien" feature="JobIntro" />
+	<key id="52000105" name="Bamboo Grove" feature="JobIntro" />
+	<key id="52000106" name="Rien" feature="JobIntro" />
+	<key id="52000107" name="Edelstein" feature="JobIntro" />
+	<key id="52000108" name="Fusion Core Laboratory" feature="JobIntro" />
+	<key id="52000109" name="Edelstein" feature="JobIntro" />
+	<key id="52000110" name="Heavy Gunner Map 4" feature="JobIntro" />
+	<key id="52000111" name="Kerning City" feature="JobIntro" />
+	<key id="52000112" name="Jazz Club" feature="JobIntro" />
+	<key id="52000113" name="Kerning City" feature="JobIntro" />
+	<key id="52000114" name="Assassin Map 4" feature="JobIntro" />
+	<key id="52000115" name="Door of Light" feature="JobIntro" />
+	<key id="52000116" name="Caravan Depot" feature="Quest2017" />
+	<key id="52000117" name="Tria Royal Office" feature="Quest2017" />
+	<key id="52000118" name="Nelph&apos;s House" feature="Quest2017" />
+	<key id="52000119" name="Golden Tower 8F" feature="Quest2017" />
+	<key id="52000120" name="Henesys Outpost" feature="Quest2017" />
+	<key id="52000121" name="Corrupted Forest" feature="Quest2017" />
+	<key id="52000122" name="Hushwood Vale" feature="Quest2017" />
+	<key id="52000123" name="Crooked Canyon" feature="Quest2017" />
+	<key id="52000124" name="Eve&apos;s House" feature="Quest2017" />
+	<key id="52000125" name="Derelict Warehouse" feature="Quest2017" />
+	<key id="52000126" name="Woodward Alley" feature="Quest2017" />
+	<key id="52000127" name="Kerning City Hospital" feature="Quest2017" />
+	<key id="52000128" name="Goldus Bank" feature="JobIntro" />
+	<key id="52000129" name="Kerning City Slums" feature="JobIntro" />
+	<key id="52000130" name="Back Alley" feature="JobIntro" />
+	<key id="52000131" name="Jonathan Button&apos;s Room" feature="JobIntro" />
+	<key id="52000132" name="Ellinel Lecture Hall" feature="Quest2017" />
+	<key id="52000133" name="Ellinel Magic Academy" feature="Quest2017" />
+	<key id="52000134" name="Headmaster&apos;s Office" feature="Quest2017" />
+	<key id="52000135" name="Einos&apos;s Laboratory" feature="Quest2017" />
+	<key id="52000136" name="Ellinel Lecture Hall" feature="Quest2017" />
+	<key id="52000137" name="Einos&apos;s Laboratory" feature="Quest2017" />
+	<key id="52000138" name="Dark Wind HQ Passage" feature="Quest2017" />
+	<key id="52000139" name="Shadow Gate Base Camp" feature="JobIntro" />
+	<key id="52000140" name="Shadow Gate Outskirts" feature="JobIntro" />
+	<key id="52000141" name="Priests&apos; Quarters" feature="JobIntro" />
+	<key id="52000142" name="Training Yard" feature="JobIntro" />
+	<key id="52000143" name="Tournament Hall" feature="JobIntro" />
+	<key id="52000144" name="Knight Captain&apos;s Office" feature="JobIntro" />
+	<key id="52000145" name="Green Hoods Dorm" feature="JobIntro" />
+	<key id="52000146" name="Forest Crossroad" feature="JobIntro" />
+	<key id="52000147" name="Space Lapenta&apos;s Sanctuary" feature="JobIntro" />
+	<key id="52000148" name="Archery Academy" feature="JobIntro" />
+	<key id="52000149" name="Forest of Life" feature="Quest2017_2" />
+	<key id="52000150" name="Transdimensional Forest" feature="Quest2017_2" />
+	<key id="52000151" name="Transdimensional Forest" feature="Quest2017_2" />
+	<key id="52000187" name="Royale Park Path" feature="SurvivalContents03" />
+	<key id="52010026" name="Healing Forest" feature="Quest2017" />
+	<key id="52010027" name="Gale Valley" feature="Quest2017_2" />
+	<key id="52010028" name="Temple of the Forgotten" feature="Quest2017_2" />
+	<key id="52010029" name="Vayar Sanctum" feature="Quest2017_2" />
+	<key id="52010030" name="Cave of Trials" feature="Quest2017_2" />
+	<key id="52010031" name="Lupinrock Cave" feature="Quest2017_2" />
+	<key id="52010032" name="Murpagoth Temple" feature="Quest2017_2" />
+	<key id="52010033" name="Perion Hospital" feature="Quest2017_2" />
+	<key id="52010034" name="Centura Cave" feature="Quest2017_2" />
+	<key id="52010035" name="Evagor&apos;s House" feature="Quest2017_2" />
+	<key id="61000001" name="Trap Master" feature="CBT" />
+	<key id="61000002" name="Sole Survivor" feature="CBT" />
+	<key id="61000003" name="Maple OX Quiz" feature="MassiveOxQuiz" />
+	<key id="61000004" name="Ludibrium Escape" feature="CBT" />
+	<key id="61000005" name="Puzzroon&apos;s Cave" feature="CBT" />
+	<key id="61000006" name="Crazy Runners" feature="CBT" />
+	<key id="61000007" name="Spring Beach" feature="CBT" />
+	<key id="61000008" name="Dance Dance Stop" feature="MassiveDanceDanceStop" />
+	<key id="61000011" name="Self OX Quiz" feature="UGCMapOX" />
+	<key id="61000021" name="Custom OX Quiz" feature="UGCMapOX" />
+	<key id="62000000" name="Private Residence" feature="CBT" />
+	<key id="63000001" name="Amherst" feature="CBT" />
+	<key id="63000002" name="Turtcoli Beach" feature="CBT" />
+	<key id="63000003" name="Chief&apos;s House" feature="CBT" />
+	<key id="63000004" name="Town Storage" feature="CBT" />
+	<key id="63000005" name="Oarsman&apos;s Rest Area" feature="CBT" />
+	<key id="63000007" name="Whispering Stream" feature="CBT" />
+	<key id="63000008" name="Fluttering Garden" feature="CBT" />
+	<key id="63000009" name="Windy Forest Trail" feature="CBT" />
+	<key id="63000010" name="Dangerous Forest Trail" feature="CBT" />
+	<key id="63000033" name="The Waddle Penguin Club" feature="CBT" />
+	<key id="63000034" name="Indoor Souvenir Photo Op" feature="CBT" />
+	<key id="63000041" name="Mountain Pass" feature="Season1" />
+	<key id="63000042" name="Henry&apos;s General Ward" feature="Season1" />
+	<key id="63000044" name="Harang Island" feature="ContentsGuide01" />
+	<key id="63000045" name="Nerman Craft Shop" feature="ContentsGuide01" />
+	<key id="63000046" name="Nerman Mine" feature="ContentsGuide01" />
+	<key id="63000047" name="Hall of Heroes" feature="ChaosRaid" />
+	<key id="63000048" name="Winter Event Map" feature="MustBeModified" />
+	<key id="63000049" name="Monsteropoly Town" feature="MustBeModified" />
+	<key id="63000050" name="Tria Battlefield" feature="Season1" />
+	<key id="63000051" name="Cherry Blossom Festival" feature="MustBeModified" />
+	<key id="63000052" name="Breezy Gardens" feature="MasterySecond" />
+	<key id="63000055" name="2nd Anniversary Venue" feature="Season1" />
+	<key id="63000056" name="Summer Leaf Hill" feature="ContentsGuide03" />
+	<key id="63000057" name="Ray Event Map" feature="Season1" />
+	<key id="63000058" name="Summer Leaf Central" feature="ContentsGuide03" />
+	<key id="63000059" name="Star Sands Fishing Hole" feature="Season1" />
+	<key id="63000060" name="Rainbow Fishing Hole" feature="Season1" />
+	<key id="63000061" name="MAPNAME_63000061_NAME:[F]Season1" feature="Season1" />
+	<key id="63000062" name="MAPNAME_63000062_NAME:[F]Season1" feature="Season1" />
+	<key id="64000001" name="Glorious Arena" feature="CBT" />
+	<key id="65000001" name="Red Arena" feature="CBT" />
+	<key id="65000002" name="Crimson Tear Mine" feature="CBT" />
+	<key id="65000003" name="Treasure Island" feature="Season1" />
+	<key id="65010001" name="Woodward Square" feature="PvPRankingDuelMode" />
+	<key id="65010002" name="Driftloop Shore" feature="PvPRankingDuelMode" />
+	<key id="65010003" name="Ellin Falls" feature="PvPRankingDuelMode" />
+	<key id="65010004" name="Luderi Dual Arena" feature="PvPRankingDuelMode" />
+	<key id="65010005" name="Minar Desert" feature="PvPRankingDuelMode" />
+	<key id="65010006" name="Lavaluna Gate" feature="PvPRankingDuelMode" />
+	<key id="65010007" name="Baraska Forest" feature="PvPRankingDuelMode" />
+	<key id="65010008" name="Ludibrium Block" feature="PvPRankingDuelMode" />
+	<key id="65010009" name="Vigilante Cadet Corps" feature="PvPRankingDuelMode" />
+	<key id="65010010" name="TT Cruiser" feature="PvPRankingDuelMode" />
+	<key id="66000001" name="(Guild) Sole Survivor" feature="CBT" />
+	<key id="66000002" name="(Guild) Spring Beach" feature="CBT" />
+	<key id="66000003" name="(Guild) Red Arena" feature="CBT" />
+	<key id="66000004" name="(Guild) Treasure Island" feature="CBT" />
+	<key id="66100001" name="Manovich Castle 1" feature="GuildHouse01" />
+	<key id="66100002" name="Moonlight Sunset Castle 2" feature="GuildHouse01" />
+	<key id="66100003" name="Moonlight Sunset Castle 3" feature="GuildHouse01" />
+	<key id="66100004" name="Moonlight Sunset Castle 4" feature="GuildHouse01" />
+	<key id="66100005" name="Moonlight Sunset Castle 5" feature="GuildHouse01" />
+	<key id="66100006" name="Nazkar Castle 3" feature="GuildHouse01" />
+	<key id="66100007" name="Madria Castle 4" feature="GuildHouse01" />
+	<key id="66100008" name="Nazkar Castle 4" feature="GuildHouse01" />
+	<key id="66100009" name="Madria Castle 5" feature="GuildHouse01" />
+	<key id="66100010" name="Nazkar Castle 5" feature="GuildHouse01" />
+	<key id="66100011" name="Manovich Castle 2" feature="GuildHouse01" />
+	<key id="66100012" name="Collector&apos;s Center 5" feature="GuildHouse01" />
+	<key id="66100013" name="Manovich Castle 3" feature="GuildHouse01" />
+	<key id="66100014" name="Manovich Castle 4" feature="GuildHouse01" />
+	<key id="66100015" name="Manovich Castle 5" feature="GuildHouse01" />
+	<key id="80000001" name="Fractured Ludibrium" feature="CBT" />
+	<key id="80000004" name="Money Tree Mayhem" feature="CBT" />
+	<key id="80000006" name="Kumbawanka&apos;s Vault" feature="CBT" />
+	<key id="80000007" name="Surnuny&apos;s Dream" feature="CBT" />
+	<key id="80000008" name="Rainbow Slime Factory" feature="CBT" />
+	<key id="80000009" name="Rainbow Slime Factory" feature="CBT" />
+	<key id="80000010" name="Suborbital Drop" feature="CBT" />
+	<key id="80000011" name="Papa Santa&apos;s Holiday Tree" feature="Season1" />
+	<key id="80000014" name="Abandoned Mine B1" feature="TreasureMap01" />
+	<key id="80000015" name="Abandoned Mine B4" feature="TreasureMap01" />
+	<key id="81000001" name="Ludibrium Escape M" feature="userOpenMinigame" />
+	<key id="81000002" name="Spring Beach M" feature="userOpenMinigame" />
+	<key id="81000003" name="Crazy Runners M" feature="userOpenMinigame" />
+	<key id="82000000" name="Mushtopia" feature="SurvivalContents02" />
+	<key id="82000001" name="Mushtopia" feature="SurvivalContents02" />
+	<key id="82000002" name="Mushtopia" feature="SurvivalContentsTeam" />
+	<key id="82000003" name="Mushtopia" feature="SurvivalContentsTeam" />
+	<key id="82000006" name="Mushtopia" feature="SurvivalContents01" />
+	<key id="82000012" name="Mushtopia" feature="SurvivalContents01" />
+	<key id="99999888" name="#Test_888" feature="CBT" />
+	<key id="99999889" name="#Test_889" feature="CBT" />
+	<key id="99999890" name="# ChromaKey_White" feature="CBT" />
+	<key id="99999891" name="# ChromaKey_Red" feature="CBT" />
+	<key id="99999892" name="# ChromaKey_Green" feature="CBT" />
+	<key id="99999893" name="# ChromaKey_Blue" feature="CBT" />
+	<key id="99999894" name="# ChromaKey_Black" feature="CBT" />
+	<key id="99999919" name="Guild Battle Test Map" feature="CBT" />
+	<key id="99999920" name="PvP Test Map" feature="CBT" />
+	<key id="99999936" name="# Effect Test Map 01" feature="CBT" />
+	<key id="99999937" name="# Effect Test Map 02" feature="CBT" />
+	<key id="99999970" name="# BGTest 970 #" feature="CBT" />
+</ms2>

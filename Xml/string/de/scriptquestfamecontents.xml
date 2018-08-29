@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="1122233719007202" feature="" npc="블랙아이" name="$MyPCName$, I apologize for suddenly contacting you without prior notice." />
+  <key id="1122233719007203" feature="" npc="블랙아이" name="The situation isn't good for me to ask how you have been. Everyone is going through hard times after the attack on Tria." />
+  <key id="1122233719007204" feature="" npc="블랙아이" name="The farmland was trampled by the enemies, and the industrial facilities are on the verge of shutting down. The merchants stopped all business citing safety as the reason. We're short on food and supplies all over the place." />
+  <key id="1122233719007205" feature="" npc="블랙아이" name="But $MyPCName$, wouldn't you do anything if only you can help the people and this situation?" />
+  <key id="1122233719007206" feature="" npc="블랙아이" name="There is something I would like to discuss... I mean, ask of you. Come to $map:02000153$. I'll be waiting." />
+  <key id="1122233719007207" feature="" npc="블랙아이" name="$MyPCName$, come to $map:02000153$." />
+  <key id="1122233719007208" feature="" npc="블랙아이" name="You've come, $MyPCName$." />
+  <key id="1122233719007209" feature="" npc="프레이" name="We arrived just now as well." />
+  <key id="1122233719007210" feature="" npc="오스칼" name="Thank you for the trouble of coming here." />
+  <key id="1122233719007211" feature="" npc="알론" name="Since the most important person is here, shall we start?" />
+  <key id="1122233719007212" feature="" npc="알론" name="&lt;font size='40'&gt;It's about &lt;font color=&quot;#ffd200&quot;&gt;'that plan.'&lt;/font&gt;&lt;/font&gt;" />
+  <key id="1122233719007213" feature="" npc="블랙아이" name="Fine, let's start since we don't have time to waste." />
+  <key id="1122233719007214" feature="" npc="블랙아이" name="Dark Wind, Green Hood, Secret Knight, and Tria Guard have been holding emergency countermeasure meetings all this time after the attack on Tria." />
+  <key id="1122233719007215" feature="" npc="블랙아이" name="We had many meetings and discussed how to defend Maple World that is in crisis but..." />
+  <key id="1122233719007216" feature="" npc="블랙아이" name="Well... we don't have any bright idea. So we each decided to do what we do best. The Royal Guard helps people, Green Hood gathers and distributes supplies..." />
+  <key id="1122233719007218" feature="" npc="블랙아이" name="Uh, Allon. I'm not trying to be sarcastic, but what did the Secret Knight do? " />
+  <key id="1122233719007219" feature="" npc="알론" name="If you're not being sarcastic... they did what they usually do. They observed the Shadow World and searched for traces of darkness. Although it turned out to be meaningless..." />
+  <key id="1122233719007220" feature="" npc="블랙아이" name="Well... the same goes for Dark Wind doing meaningless espionage." />
+  <key id="1122233719007221" feature="" npc="블랙아이" name="&lt;font size='40'&gt;... Until &lt;font color=&quot;#ffd200&quot;&gt;that&lt;/font&gt; was found.&lt;/font&gt;" />
+  <key id="1122233719007222" feature="" npc="블랙아이" name="One significant thing Dark Wind did was collecting every information on the traitor Katvan. We don't know when and how he will return." />
+  <key id="1122233719007223" feature="" npc="블랙아이" name="And our search team succeeded in finding &lt;font color=&quot;#ffd200&quot;&gt;Katvan's secret data server&lt;/font&gt; left in Dark Wind HQ." />
+  <key id="1122233719007224" feature="" npc="블랙아이" name="But the thing that Katvan left was... &lt;font size='40'&gt;not simple data.&lt;/font&gt;" />
+  <key id="1122233719007225" feature="" npc="블랙아이" name="&lt;font size='40'&gt;&lt;font color=&quot;#ffd200&quot;&gt;Project Sky Fortress.&lt;/font&gt; &#xA;A construction plan for a next-generation mobility aircraft carrier.&lt;/font&gt;" />
+  <key id="1122233719007226" feature="" npc="블랙아이" name="It's a large vessel with an independent operational capability converted for flight and to be used as Dark Wind's mobile center." />
+  <key id="1122233719007227" feature="" npc="블랙아이" name="Katvan was concerned of HQ's safety after Black Mushroom and went with the plan for a mobile command facility that can maintain HQ functions even after a full-scale assault." />
+  <key id="1122233719007228" feature="" npc="블랙아이" name="Well, it was just pretext for him to hide his conspiracy. The empress and Prime Minister Vidrem were clueless about this plan." />
+  <key id="1122233719007229" feature="" npc="블랙아이" name="&lt;font size='30'&gt;It's obvious for whom Katvan was constructing Sky Fortress.&lt;/font&gt;" />
+  <key id="1122233719007230" feature="" npc="PC" name="Then... are we going to destroy this carrier?" />
+  <key id="1122233719007231" feature="" npc="블랙아이" name="Heheheh..." />
+  <key id="1122233719007232" feature="" npc="블랙아이" name="Huhu..." />
+  <key id="1122233719007233" feature="" npc="블랙아이" name="Don't be rash, $MyPCName$." />
+  <key id="1122233719007234" feature="" npc="블랙아이" name="&lt;font size='40'&gt;There's no way we would destroy something as nice as this.&lt;/font&gt;" />
+  <key id="1122233719007235" feature="" npc="블랙아이" name="Dark Wind already secured the carrier and the construction facility. It even has a real corny codename called &lt;font color=&quot;#ffd200&quot;&gt;Dark Site Area 51&lt;/font&gt;." />
+  <key id="1122233719007236" feature="" npc="블랙아이" name="With Katvan gone, the engineers ran off and abandoned the facility. It was a piece of cake taking the place." />
+  <key id="1122233719007237" feature="" npc="블랙아이" name="I thought this carrier is our chance. Maple World has always been attacked, but an opportunity has been given." />
+  <key id="1122233719007238" feature="" npc="블랙아이" name="Dark Wind completely disassembled the carrier afterwards and newly constructed it as the carrier of the &lt;font color=&quot;#ffd200&quot;&gt;Maple Alliance&lt;/font&gt;." />
+  <key id="1122233719007239" feature="" npc="PC" name="&lt;font color=&quot;#ffd200&quot;&gt;(Maple Alliance...?)&lt;/font&gt;" />
+  <key id="1122233719007240" feature="" npc="블랙아이" name="The allied factions of Dark Wind, Secret Knight, Green Hood, and Royal Guard. We decided to officially call it the &lt;font color=&quot;#ffd200&quot;&gt;Maple Alliance&lt;/font&gt;." />
+  <key id="1122233719007241" feature="" npc="블랙아이" name="And this carrier... we're going to make Sky Fortress the flagship of the Maple Alliance." />
+  <key id="1122233719007242" feature="" npc="블랙아이" name="We can go quickly and safely to wherever that needs help, and we can transport supplies without fear of getting them stolen by enemies or monsters." />
+  <key id="1122233719007243" feature="" npc="블랙아이" name="It truly is a sky fortress, the shield of the skies. It is our last hope in defending Maple World." />
+  <key id="1122233719007244" feature="" npc="블랙아이" name="This is &lt;font color=&quot;#ffd200&quot;&gt;'that plan'&lt;/font&gt; I talked about earlier. The newly formed Project Sky Fortress." />
+  <key id="1122233719007245" feature="" npc="블랙아이" name="It looks to be equipped with all the necessary elements such as military strength, a base, and operational plan. But it's missing the most important thing." />
+  <key id="1122233719007246" feature="" npc="PC" name="(Ask what that is.)" />
+  <key id="1122233719007247" feature="" npc="블랙아이" name="Hehe... the most important element is..." />
+  <key id="1122233719007248" feature="" npc="블랙아이" name="&lt;font size='40'&gt;&lt;font color=&quot;#ffd200&quot;&gt;$MyPCName$&lt;/font&gt;, it's you.&lt;/font&gt;" />
+  <key id="1122233719007249" feature="" npc="PC" name="&lt;font size='40'&gt;?!&lt;/font&gt;" />
+  <key id="1122233719007250" feature="" npc="블랙아이" name="Empress Ereve made one request when we reported the establishment of the Maple Alliance and the Sky Fortress plan." />
+  <key id="1122233719007251" feature="" npc="블랙아이" name="$MyPCName$, you are the center of the Maple Alliance. We want you to assume the reins." />
+  <key id="1122233719007252" feature="" npc="블랙아이" name="You thought what they were saying was strange at first but soon understood." />
+  <key id="1122233719007253" feature="" npc="알론" name="Me, Blackeye, Oska, and Frey. Each of our troops and our individual skills may be outstanding." />
+  <key id="1122233719007254" feature="" npc="알론" name="But we have a low understanding of each other's faction. That is a big obstacle in the alliance's plan." />
+  <key id="1122233719007255" feature="" npc="알론" name="But you, $MyPCName$, are different. You went on adventures with all of the factions and experienced them all." />
+  <key id="1122233719007256" feature="" npc="알론" name="The empress had her eyes on that point. She saw potential in you to be the center of each faction." />
+  <key id="1122233719007258" feature="" npc="블랙아이" name="$MyPCName$, I'm sorry to have called you all of sudden to make this request, but it's time to get down to business." />
+  <key id="1122233719007259" feature="" npc="블랙아이" name="&lt;font size='40'&gt;I want to select you as the Maple Alliance's vanguard.&lt;/font&gt;" />
+  <key id="1122233719007260" feature="" npc="블랙아이" name="I will give you some time to think it over. Talk to me once you have decided." />
+  <key id="1122233719007261" feature="" npc="블랙아이" name="I will give you some time to think it over. Talk to me once you have decided." />
+  <key id="1122233719007262" feature="" npc="블랙아이" name="Hm, you decided quicker than I thought." />
+  <key id="1122233719007263" feature="" npc="블랙아이" name="I see... you were already determined and didn't need to think about it. It looks like the empress didn't recommend you for no reason." />
+  <key id="1122233719007264" feature="" npc="블랙아이" name="Fine, $MyPCName$. From this day forward, I include you in the Maple Alliance's vanguard and as the alliance guardian." />
+  <key id="1122233719007265" feature="" npc="블랙아이" name="Now we can finally do something. I leave it to you, $MyPCName$." />
+  <key id="1122233719007266" feature="" npc="블랙아이" name="Shall we depart?" />
+  <key id="1122233719007267" feature="" npc="PC" name="(Ask where you're going suddenly!)" />
+  <key id="1122233719007268" feature="" npc="블랙아이" name="To the Maple Alliance's new base, the Sky Fortress, of course." />
+  <key id="1122233719007269" feature="" npc="블랙아이" name="It's going to take off soon. That's why we had to hurry." />
+  <key id="1122233719007270" feature="" npc="PC" name="(...You say to him to tell you important things like these in advance.)" />
+  <key id="1122233719007271" feature="" npc="블랙아이" name="Haha, I'm sorry. I had no choice since I need to keep it confidential." />
+  <key id="1122233719007272" feature="" npc="블랙아이" name="Now, stop crying and let's go! &lt;font color=&quot;#ffd200&quot;&gt;Dark Site Area 51&lt;/font&gt; is quite far from here." />
+  <key id="1122233719007273" feature="" npc="PC" name="(Ask where Dark Site Area 51 is located.)" />
+  <key id="1122233719007274" feature="" npc="블랙아이" name="Hehe... You'll be surprised. A secret weapon is sometimes right under your feet." />
+  <key id="1122233719007275" feature="" npc="블랙아이" name="Hehe... You'll be surprised. A secret weapon is sometimes right under your feet." />
+  <key id="1122233719007276" feature="" npc="프레이" name="This is truly the work of Dark Wind to convert Revoldic Dam like this." />
+  <key id="1122233719007277" feature="" npc="알론" name="It's very close to Tria and Katvan made this..." />
+  <key id="1122233719007278" feature="" npc="블리체" name="Be at ease. This place is unrelated to Katvan now." />
+  <key id="1122233719007279" feature="" npc="블리체" name="Let's introduce ourselves first since there are new faces." />
+  <key id="1122233719007280" feature="" npc="블리체" name="&lt;font size='35'&gt;Tria Navy, &lt;font color=&quot;#ffd200&quot;&gt;Briche Martini&lt;/font&gt;.&lt;/font&gt;" />
+  <key id="1122233719007281" feature="" npc="알론" name="Hm! Does that mean Briche is the captain of Sky Fortress?" />
+  <key id="1122233719007282" feature="" npc="블리체" name="&lt;font size='35'&gt;Do you have complaints?&lt;/font&gt;" />
+  <key id="1122233719007283" feature="" npc="알론" name="...That brusqueness is just like your father..." />
+  <key id="1122233719007284" feature="" npc="블랙아이" name="Anyways, pleased to work with you Captain Briche. This person here was recommended by the empress." />
+  <key id="1122233719007285" feature="" npc="PC" name="(You greet her happily...)" />
+  <key id="1122233719007286" feature="" npc="블리체" name="Let's leave the introductions for later since we're busy for takeoff." />
+  <key id="1122233719007287" feature="" npc="블리체" name="The adjutant should be waiting at the front of the carrier. The leaders should be briefed and leave quickly if possible." />
+  <key id="1122233719007288" feature="" npc="블리체" name="&lt;font size='35'&gt;The operation will be carried out by your &lt;font color=&quot;#ffd200&quot;&gt;successors&lt;/font&gt;.&lt;/font&gt;" />
+  <key id="1122233719007289" feature="" npc="알론" name="...Hmph, acting just like Admiral Martini's daughter." />
+  <key id="1122233719007290" feature="" npc="블리체" name="...Hm? Didn't I say we're busy? Hurry to the adjutant and get briefed on the mission. That's all." />
+  <key id="1122233719007291" feature="" npc="네이린" name="Hello leaders and $MyPCName$! I'm Nairin, the tactical adjutant!" />
+  <key id="1122233719007292" feature="" npc="네이린" name="$MyPCName$, I heard you're taking the central role in this operation. I look forward to working with you!" />
+  <key id="1122233719007293" feature="" npc="네이린" name="Anyways, I really missed you Oska!" />
+  <key id="1122233719007294" feature="" npc="오스칼" name="Whispering... (Nairin, focus! You're the representing the Green Hoods right now!)" />
+  <key id="1122233719007295" feature="" npc="네이린" name="&lt;font size='35'&gt;Ah! Ahem, ahem...&lt;/font&gt;" />
+  <key id="1122233719007296" feature="" npc="네이린" name="Now I'll begin the briefing on the Maple Alliance's defense operation and aircraft carrier Sky Fortress!" />
+  <key id="1122233719007297" feature="" npc="네이린" name="&lt;font size='35'&gt;HMS-001, the living island-class aircraft mobility carrier Sky Fortress.&lt;/font&gt;" />
+  <key id="1122233719007298" feature="" npc="네이린" name="This carrier was built under the guidance of Dark Wind's previous leader Katvan-" />
+  <key id="1122233719007299" feature="" npc="블랙아이" name="Uh... adjutant? I already relayed the information on Katvan and this carrier has nothing to do with him now." />
+  <key id="1122233719007300" feature="" npc="네이린" name="Uh... yes, that is true but..." />
+  <key id="1122233719007301" feature="" npc="네이린" name="Uh... Alright! Now I'll explain the Maple Alliance task force mission-" />
+  <key id="1122233719007302" feature="" npc="알론" name="Each faction is closely aligned with $MyPCName$ at the center taking an active part. We go around Maple World removing threats and promoting safety." />
+  <key id="1122233719007303" feature="" npc="알론" name="...That's what I heard. Right, Oska?" />
+  <key id="1122233719007304" feature="" npc="네이린" name="..." />
+  <key id="1122233719007305" feature="" npc="오스칼" name="Hey! You should leave some for our adjutant!" />
+  <key id="1122233719007306" feature="" npc="네이린" name="..." />
+  <key id="1122233719007307" feature="" npc="네이린" name="Well... looks like everyone already knows... I'll just..." />
+  <key id="1122233719007308" feature="" npc="프레이" name="Ah, Adjutant Nairin. I have a question." />
+  <key id="1122233719007309" feature="" npc="프레이" name="&lt;font size='35'&gt;I'm curious of the weapons and system equipped on Sky Fortress. Can't we be briefed on that?&lt;/font&gt;" />
+  <key id="1122233719007310" feature="" npc="네이린" name="...Excuse me?" />
+  <key id="1122233719007311" feature="" npc="네이린" name="&lt;font size='40'&gt;Why not? Of course!&lt;/font&gt;" />
+  <key id="1122233719007312" feature="" npc="네이린" name="Front guns, tail guns, ground strike weapon, anti-aircraft weapon, armored carrier, plate unit, engine output, cruising speed, flight distance, deck planes, crewmembers, mounted personnel, carrier facilities, early warning system, radar system, and so forth!" />
+  <key id="1122233719007313" feature="" npc="네이린" name="Alright! Where should I start?!" />
+  <key id="1122233719007314" feature="" npc="오스칼" name="Uh... Nairin? I don't think we need the details for that..." />
+  <key id="1122233719007315" feature="" npc="프레이" name="&lt;font size='35'&gt;Adjutant, start with the guns.&lt;/font&gt;" />
+  <key id="1122233719007316" feature="" npc="알론" name="Frey, why you?!" />
+  <key id="1122233719007317" feature="" npc="블랙아이" name="Hehe, I think this is going to take long. $MyPCName$, why don't you meet the officers from the other units in the meantime?" />
+  <key id="1122233719007318" feature="" npc="블랙아이" name="All of them were recommended by the leaders of each faction and assigned to Sky Fortress just like Adjutant Nairin." />
+  <key id="1122233719007319" feature="" npc="블랙아이" name="Since everyone's new, it would be great to make an introduction before taking off." />
+  <key id="1122233719007320" feature="" npc="샤텐" name="Hey there, $MyPCName$. Good to see you! I'm Schatten, officer of Dark Wind." />
+  <key id="1122233719007321" feature="" npc="샤텐" name="Hey there, $MyPCName$. Good to see you! I'm Schatten, officer of Dark Wind." />
+  <key id="1122233719007322" feature="" npc="샤텐" name="Hey there, $MyPCName$. Good to see you! I'm Schatten, officer of Dark Wind." />
+  <key id="1122233719007323" feature="" npc="샤텐" name="Seeing you up close, you're the cute type. I feel like you were taller during the &lt;font color=&quot;#ffd200&quot;&gt;Black Mushroom incident&lt;/font&gt;. Maybe it's because of that robot!" />
+  <key id="1122233719007324" feature="" npc="PC" name="(You saw me back then in Kerning City?)" />
+  <key id="1122233719007325" feature="" npc="샤텐" name="Hey, of course! I even saw you in &lt;font color=&quot;#ffd200&quot;&gt;Lith Harbor&lt;/font&gt;. Weren't you aware?" />
+  <key id="1122233719007326" feature="" npc="샤텐" name="You should keep your eyes peeled. Hahaha!" />
+  <key id="1122233719007327" feature="" npc="샤텐" name="You see, I know everything about you. I used to a part of &lt;font color=&quot;#ffd200&quot;&gt;Shadow Wind&lt;/font&gt;." />
+  <key id="1122233719007328" feature="" npc="샤텐" name="There are so many things I don't want to know about, but my eyes and ears are all over Maple World." />
+  <key id="1122233719007329" feature="" npc="PC" name="(&lt;font color=&quot;#ffd200&quot;&gt;Shadow Wind&lt;/font&gt;...? Ask what that is.)" />
+  <key id="1122233719007330" feature="" npc="샤텐" name="&lt;font size='40'&gt;I'll have to shoot you if I tell you... Do you still want to know?&lt;/font&gt;" />
+  <key id="1122233719007331" feature="" npc="샤텐" name="Ahahaha! I'm joking! It's a joke! I wanted to see your awkward expression and it was really cute." />
+  <key id="1122233719007332" feature="" npc="샤텐" name="I'll tell you about Shadow Wind once we get a bit closer. Unfortunately, I can't trust right now." />
+  <key id="1122233719007333" feature="" npc="PC" name="(Made you curious...)" />
+  <key id="1122233719007334" feature="" npc="샤텐" name="Anyways, Dark Wind will now go all over Maple World to &lt;font color=&quot;#ffd200&quot;&gt;bust crime&lt;/font&gt;, &lt;font color=&quot;#ffd200&quot;&gt;work undercover&lt;/font&gt;, and search for &lt;font color=&quot;#ffd200&quot;&gt;Katvan's remaining members&lt;/font&gt; from Sky Fortress." />
+  <key id="1122233719007335" feature="" npc="샤텐" name="$MyPCName$, I look forward to working with you and try to make me like you." />
+  <key id="1122233719007336" feature="" npc="샤텐" name="Oh, go around that corner and you'll find Condor, the Tria Guard's Royal Guard Leader. You are going around meeting the officers, right?" />
+  <key id="1122233719007337" feature="" npc="샤텐" name="You should have met him first and not me... haha! I pray that you are lucky and have social sense!" />
+  <key id="1122233719007338" feature="" npc="콘대르" name="Are you the one who pulled strings and joined the unit by recommendation from the empress?!" />
+  <key id="1122233719007339" feature="" npc="콘대르" name="Are you the one who pulled strings and joined the unit by recommendation from the empress?!" />
+  <key id="1122233719007340" feature="" npc="콘대르" name="&lt;font size='35'&gt;Are you the one who pulled strings and joined the unit by recommendation from the empress?!&lt;/font&gt;" />
+  <key id="1122233719007341" feature="" npc="PC" name="(P-pulled strings?)" />
+  <key id="1122233719007342" feature="" npc="콘대르" name="Ha! What nonsense! During my time, we never dreamt of joining a mission through recommendations! You need to contest with skills. Kids these days... tsk tsk." />
+  <key id="1122233719007343" feature="" npc="PC" name="(...Ask whether he's Condor the Royal Guard Leader.)" />
+  <key id="1122233719007344" feature="" npc="콘대르" name="What if I am?" />
+  <key id="1122233719007345" feature="" npc="PC" name="(Ah... I thought you were the Royal Guard Leader because of your confident and brawny appearance. If you're not, I want to make a request to Tria Guard to take you in and make you one of the officers.)" />
+  <key id="1122233719007346" feature="" npc="콘대르" name="Hm?" />
+  <key id="1122233719007347" feature="" npc="콘대르" name="&lt;font size='40'&gt;...AHAHAHAHA!&lt;/font&gt;" />
+  <key id="1122233719007348" feature="" npc="콘대르" name="You have good eyes unlike other young people these days!" />
+  <key id="1122233719007349" feature="" npc="콘대르" name="That's right! I'm Condor the Royal Guard Leader. I'm the officer of Tria Guard for the Maple Alliance." />
+  <key id="1122233719007350" feature="" npc="콘대르" name="Not many years passed since I passed on the position of Guard Captain to Frey, but all of these incidents broke out as soon as I left that position!" />
+  <key id="1122233719007351" feature="" npc="콘대르" name="And that Frey was going around saying he's going to join the Maple Alliance after the attack on Tria, so I said something to him." />
+  <key id="1122233719007352" feature="" npc="콘대르" name="Hey! How can the Guard Captain leave Tria and the empress! I didn't dare think about that during my time!" />
+  <key id="1122233719007353" feature="" npc="콘대르" name="That won't do. That is why I, Condor, joined as the officer of Tria Guard instead of Frey." />
+  <key id="1122233719007354" feature="" npc="PC" name="(That's the Royal Guard Leader for you... Nice shot.)" />
+  <key id="1122233719007355" feature="" npc="콘대르" name="Ha! You flatter me." />
+  <key id="1122233719007356" feature="" npc="콘대르" name="&lt;font size='35'&gt;Trying to join me already! Ahahahaha!&lt;/font&gt;" />
+  <key id="1122233719007357" feature="" npc="PC" name="(...)" />
+  <key id="1122233719007358" feature="" npc="콘대르" name="Well, if you want to join me and succeed, you should be fully aware of the mission objectives that Tria Guard will carry out." />
+  <key id="1122233719007359" feature="" npc="콘대르" name="My Guard is in charge of &lt;font color=&quot;#ffd200&quot;&gt;closely defending every place around the world&lt;/font&gt;, not just Tria, and &lt;font color=&quot;#ffd200&quot;&gt;providing supplies when they are low&lt;/font&gt;." />
+  <key id="1122233719007360" feature="" npc="콘대르" name="If you know &lt;font color=&quot;#ffd200&quot;&gt;various Life Skills&lt;/font&gt;, you will be a greater help than expected." />
+  <key id="1122233719007361" feature="" npc="콘대르" name="I'll decide whether you get to join me depending on your actions! I'll keep an eye on you when the mission begins!" />
+  <key id="1122233719007362" feature="" npc="콘대르" name="If you're meeting the other officers, a young person like you is just gawking around the carrier by the bridge. Go over there. He's the officer of the Secret Knight." />
+  <key id="1122233719007363" feature="" npc="콘대르" name="Wearing his coat on his shoulders... What a show off! If the rules of the Guard attire gets applied, I would be blasting on him!" />
+  <key id="1122233719007364" feature="" npc="메이슨" name="Sky Fortress... it truly is a huge carrier." />
+  <key id="1122233719007365" feature="" npc="메이슨" name="Sky Fortress... it truly is a huge carrier." />
+  <key id="1123183219007541" feature="" npc="메이슨" name="Sky Fortress... it's beyond my expectation. To be able to build something like this with human power." />
+  <key id="1123183219007542" feature="" npc="메이슨" name="But it's compact in size when compared to my Knight HQ, &lt;font color=&quot;#ffd200&quot;&gt;Eye of Providence&lt;/font&gt;, since it was made by the goddess of light..." />
+  <key id="1123183219007543" feature="" npc="PC" name="(Ask if he's the officer of the Secret Knight.)" />
+  <key id="1123183219007544" feature="" npc="메이슨" name="Secret Knight... That's what we were called." />
+  <key id="1123183219007545" feature="" npc="메이슨" name="Let me make a formal introduction. I'm Mason the temple knight, officer of the &lt;font color=&quot;#ffd200&quot;&gt;Lumiknights&lt;/font&gt;." />
+  <key id="1123183219007546" feature="" npc="PC" name="(Lumi... knights?)" />
+  <key id="1123183219007547" feature="" npc="메이슨" name="That's the official name of the Secret Knight. Since the Q-class confidentiality has been lifted, I have decided to reveal the Secret Knight by its official name, the Lumiknights." />
+  <key id="1123183219007548" feature="" npc="메이슨" name="The Lumiknights have been hiding behind the shadow of mysticism and observing the world without getting involved." />
+  <key id="1123183219007549" feature="" npc="메이슨" name="Just like in the past during the War of Light and Darkness..." />
+  <key id="1123183219007550" feature="" npc="메이슨" name="But now it's going to be different. I support the decision of the higher ups in trying to clear their faults." />
+  <key id="1123183219007551" feature="" npc="메이슨" name="The Lumiknights will work with the Alliance to &lt;font color=&quot;#ffd200&quot;&gt;investigate the Shadow World&lt;/font&gt; and &lt;font color=&quot;#ffd200&quot;&gt;defend against the energy of darkness&lt;/font&gt; all over Maple World." />
+  <key id="1123183219007552" feature="" npc="메이슨" name="Anyways, I look forward to working with you when the mission begins." />
+  <key id="1123183219007553" feature="" npc="PC" name="(Ask where the captain is.)" />
+  <key id="1123183219007554" feature="" npc="메이슨" name="Pass this place and go down the passage. I'll take my leave..." />
+  <key id="1122233719007392" feature="" npc="블리체" name="Hm? Do you have business with me?" />
+  <key id="1122233719007393" feature="" npc="블리체" name="Hm? Do you have business with me?" />
+  <key id="1122233719007394" feature="" npc="블리체" name="Hm? Do you have business with me?" />
+  <key id="1122233719007395" feature="" npc="PC" name="(I-I came to finish the introduction from earlier...)" />
+  <key id="1122233719007396" feature="" npc="블리체" name="Hm, I didn't know that bothered you." />
+  <key id="1122233719007397" feature="" npc="블리체" name="Welcome, $MyPCName$. I'm Captain Briche Martini of the Tria Navy." />
+  <key id="1122233719007398" feature="" npc="PC" name="...?! (She was suddenly nice... What's going on? Wasn't she a scary person?)" />
+  <key id="1122233719007399" feature="" npc="PC" name="(Uh... I'm confused. I didn't expect that response from her?!)" />
+  <key id="1122233719007400" feature="" npc="블리체" name="...? Is that all?" />
+  <key id="1122233719007401" feature="" npc="PC" name="(Uh... That is...)" />
+  <key id="1122233719007402" feature="" npc="블리체" name="&lt;font color=&quot;#ffd200&quot;&gt;I met with the officers of each faction and talked about their mission. I'm also curious about the Maple Alliance.&lt;/font&gt; That is written all over your face, but maybe I'm wrong." />
+  <key id="1122233719007403" feature="" npc="PC" name="(No! No! No! You say that she's right.)" />
+  <key id="1122233719007404" feature="" npc="블리체" name="Hm. It seems you're nervous since we have a big mission ahead of us." />
+  <key id="1122233719007405" feature="" npc="블리체" name="The Maple Alliance is a union of each faction, but will also take on independent missions separate from them." />
+  <key id="1122233719007406" feature="" npc="블리체" name="Probably most will be the &lt;font color=&quot;#ffd200&quot;&gt;captain's direct order&lt;/font&gt;. Special missions outside the jurisdiction of the other factions." />
+  <key id="1122233719007407" feature="" npc="블리체" name="They will be either &lt;font color=&quot;#ffd200&quot;&gt;searching danger areas&lt;/font&gt; all over Maple World, &lt;font color=&quot;#ffd200&quot;&gt;testing experimental weapons&lt;/font&gt; of the carrier, or sometimes &lt;font color=&quot;#ffd200&quot;&gt;entering dungeons&lt;/font&gt;." />
+  <key id="1122233719007408" feature="" npc="블리체" name="&lt;font size='35'&gt;That is, only when you are qualified to take on those missions.&lt;/font&gt;" />
+  <key id="1122233719007409" feature="" npc="블리체" name="Don't think that I accepted you just because you were recommended by the empress. I don't want anyone I haven't accepted on this fleet." />
+  <key id="1122233719007410" feature="" npc="블리체" name="We will start immediately with the mission assessment process when Sky Fortress takes off." />
+  <key id="1122233719007411" feature="" npc="블리체" name="You will be &lt;font color=&quot;#ffd200&quot;&gt;tested on whether you are qualified to take on the mission&lt;/font&gt; of each faction." />
+  <key id="1122233719007412" feature="" npc="블리체" name="Hm, I shouldn't have said that when you're already nervous." />
+  <key id="1122233719007413" feature="" npc="PC" name="(Say that you're somewhat relaxed.)" />
+  <key id="1122233719007414" feature="" npc="블리체" name="That's good to hear. Let's end our talk here. Take action after getting the status on the takeoff preparation from Adjutant Nairin. That's all." />
+  <key id="1122233719007415" feature="" npc="네이린" name="...Last of all, the Green Hoods will temporarily put aside the main combat missions, and proceed with support missions for the other factions and the Maple Alliance." />
+  <key id="1122233719007416" feature="" npc="네이린" name="...Last of all, the Green Hoods will temporarily put aside the main combat missions, and proceed with support missions for the other factions and the Maple Alliance." />
+  <key id="1122233719007417" feature="" npc="네이린" name="...Last of all, the Green Hoods will temporarily put aside the main combat missions, and proceed with &lt;font color=&quot;#ffd200&quot;&gt;support missions for the other factions and the Maple Alliance&lt;/font&gt;." />
+  <key id="1122233719007418" feature="" npc="프레이" name="Then the Green Hoods must be in charge of the &lt;font color=&quot;#ffd200&quot;&gt;MAVIEW Radar System&lt;/font&gt; that you mentioned earlier!" />
+  <key id="1122233719007419" feature="" npc="네이린" name="You have a good memory! " />
+  <key id="1122233719007420" feature="" npc="알론" name="Frey... I didn't know he was a military buff..." />
+  <key id="1122233719007421" feature="" npc="오스칼" name="Maybe that's why he became a soldier..." />
+  <key id="1122233719007422" feature="" npc="네이린" name="Sky Fortress's MAVIEW Radar System is also linked to my data tablet. Would you like to see the test run we're doing right now?" />
+  <key id="1122233719007423" feature="" npc="네이린" name="Oh, what great timing! The radar caught something. " />
+  <key id="1122233719007424" feature="" npc="네이린" name="These &lt;font color=&quot;#ffd200&quot;&gt;red dots&lt;/font&gt; are the radar response.&#xA;Biological responses not of our allies are &lt;font color=&quot;#ffd200&quot;&gt;red&lt;/font&gt;..." />
+  <key id="1122233719007425" feature="" npc="네이린" name="&lt;font size='35'&gt;Wait.&lt;/font&gt;" />
+  <key id="1122233719007426" feature="" npc="네이린" name="&lt;font size='40'&gt;Why are there red dots there?!&lt;/font&gt;" />
+  <key id="1122233719007427" feature="" npc="네이린" name="The first assessment mission is to &lt;font color=&quot;#ffd200&quot;&gt;subdue the monsters near Lava Crest&lt;/font&gt;." />
+  <key id="1122233719007428" feature="" npc="네이린" name="That area is a highly strategic place as Pyrros Fard's isolation area. It will be difficult if the monsters cause a disturbance and the isolation gets relaxed." />
+  <key id="1122233719007429" feature="" npc="네이린" name="It's fitting as an assessment mission, right? But you need to be careful because it's actually the real thing." />
+  <key id="1122233719007430" feature="" npc="네이린" name="Your first assessment mission is to subdue the monsters near Lava Crest." />
+  <key id="1122233719007431" feature="" npc="네이린" name="Let's see... the monster response dropped below the danger level! Mission complete, $MyPCName$." />
+  <key id="1122233719007432" feature="" npc="네이린" name="Oh! When you complete a mission, you can check the &lt;font color=&quot;#ffd200&quot;&gt;each faction's status from the Adventure menu&lt;/font&gt;." />
+  <key id="1122233719007433" feature="" npc="네이린" name="From this status, you can see &lt;font color=&quot;#ffd200&quot;&gt;comments from other members&lt;/font&gt; regarding your activities. You should check it out often!" />
+  <key id="1122233719007434" feature="" npc="샤텐" name="Hey, $MyPCName$! You should come over here now. Nainai, are you trying to keep $MyPCName$ to yourself?" />
+  <key id="1122233719007435" feature="" npc="네이린" name="What are you talking about? And I'm not Nainai?! Call me Nairin!" />
+  <key id="1122233719007436" feature="" npc="샤텐" name="Yes, of course!" />
+  <key id="1122233719007437" feature="" npc="샤텐" name="Now, $MyPCName$. Actually, there's something I want to confirm with you as well. " />
+  <key id="1122233719007438" feature="" npc="샤텐" name="A signal from a monster that has been giving us trouble was detected right next to the area where you just had your mission." />
+  <key id="1122233719007439" feature="" npc="샤텐" name="&lt;font size='35'&gt;Fire Prizbox.&lt;/font&gt;" />
+  <key id="1122233719007440" feature="" npc="샤텐" name="It's an adverse condition enforcement reconnaissance drone developed by MSL Robot Dev Center a long time ago. For some unknown reason, it went out of control and started attacking adventurers." />
+  <key id="1122233719007441" feature="" npc="샤텐" name="I don't know what was on their mind when they made that... I think those guys from MSL intentionally released the Prizbox series in a remote area to test combat robots." />
+  <key id="1122233719007442" feature="" npc="샤텐" name="I want to arrest all of them and feed them Coro Mushroom Soup... but I don't have any evidence." />
+  <key id="1122233719007443" feature="" npc="샤텐" name="Well, I'll give this mission to you and also see your ability in impromptu field missions." />
+  <key id="1123203319007555" feature="" npc="PC" name="(Ask where that area is located.)" />
+  <key id="1123203319007556" feature="" npc="샤텐" name="&lt;font size='35'&gt;You can find that out yourself!&lt;/font&gt;" />
+  <key id="1123203319007557" feature="" npc="샤텐" name="&lt;font size='40'&gt;Launch the emergency eject pod!&lt;/font&gt;" />
+  <key id="1122233719007445" feature="" npc="샤텐" name="Find the area on the World Map and do the mission." />
+  <key id="1122233719007446" feature="" npc="샤텐" name="Yoo-hoo! You did pretty well! Shall I give you a kiss on the cheeks for successfully completing your first field mission?" />
+  <key id="1122233719007447" feature="" npc="PC" name="(...Say that you're fine.)" />
+  <key id="1122233719007448" feature="" npc="샤텐" name="Haha! You can't save them up, so there's no use if you regret it!" />
+  <key id="1122233719007449" feature="" npc="샤텐" name="What you just did was a field mission. It was doable, right?" />
+  <key id="1122233719007450" feature="" npc="샤텐" name="When the mission officially begins, check out the &lt;font color=&quot;#ffd200&quot;&gt;areas on the World Map every day for that day's field mission&lt;/font&gt;." />
+  <key id="1122233719007451" feature="" npc="샤텐" name="Your judgment on taking part in the field missions or not is important. It's fine to &lt;font color=&quot;#ffd200&quot;&gt;leave the area if it's hard for you to carry it out&lt;/font&gt;." />
+  <key id="1122233719007452" feature="" npc="샤텐" name="&lt;font color=&quot;#ffd200&quot;&gt;The mission in progress will remain even though you leave the area&lt;/font&gt;, but remember to finish before &lt;font color=&quot;#ffd200&quot;&gt;midnight because it will be aborted&lt;/font&gt;." />
+  <key id="1122233719007453" feature="" npc="블리체" name="&lt;font size='35'&gt;Nairin, what is going on right now?&lt;/font&gt;" />
+  <key id="1122233719007454" feature="" npc="네이린" name="&lt;font size='35'&gt;Unidentified biological responses have been detected from all sides... They are approaching fast!&lt;/font&gt;" />
+  <key id="1122233719007455" feature="" npc="메이슨" name="I have a rough idea of what's going on... I've seen beings approaching at this speed just once." />
+  <key id="1122233719007456" feature="" npc="메이슨" name="&lt;font size='35'&gt;...Allon's fan club.&lt;/font&gt;" />
+  <key id="1122233719007457" feature="" npc="블리체" name="..." />
+  <key id="1122233719007458" feature="" npc="프레이" name="..." />
+  <key id="1122233719007459" feature="" npc="오스칼" name="Who recommended him again?" />
+  <key id="1122233719007460" feature="" npc="알론" name="...M-mason! Refrain from such talk in this situation!" />
+  <key id="1122233719007461" feature="" npc="메이슨" name="You won't say that if you actually saw them... hm." />
+  <key id="1122233719007462" feature="" npc="네이린" name="&lt;font size='35'&gt;Oh...! An image is being transmitted from the observation scanner!&lt;/font&gt;" />
+  <key id="1122233719007463" feature="" npc="네이린" name="This is...?" />
+  <key id="1122233719007464" feature="" npc="샤텐" name="&lt;font size='35'&gt;The Rooks? They must have obtained information from Katvan...&lt;/font&gt;" />
+  <key id="1122233719007465" feature="" npc="콘대르" name="Captain! There's too many of them! We can't defeat them with our current troops!" />
+  <key id="1122233719007466" feature="" npc="블리체" name="I'm sure their objective is hijacking Sky Fortress. Then there's no need for us to try and clear them out." />
+  <key id="1122233719007467" feature="" npc="블리체" name="&lt;font size='35'&gt;Let's move to where they can't reach us.&lt;/font&gt;" />
+  <key id="1122233719007468" feature="" npc="블리체" name="&lt;font size='35'&gt;To all members, prepare for emergency takeoff!&lt;/font&gt;" />
+  <key id="1122233719007469" feature="" npc="블리체" name="Nairin, what's the status on the carrier?" />
+  <key id="1122233719007470" feature="" npc="네이린" name="&lt;font size='35'&gt;Reactor is 60% charged! We need more time, captain!&lt;/font&gt;" />
+  <key id="1122233719007471" feature="" npc="알론" name="I'll make you as much time as you need." />
+  <key id="1122233719007472" feature="" npc="오스칼" name="Nairin, we didn't become leaders because we're cool." />
+  <key id="1122233719007473" feature="" npc="프레이" name="Adjutant, don't worry because we also have $MyPCName$ with us. I'll come back later for the briefing." />
+  <key id="1122233719007474" feature="" npc="프레이" name="$MyPCName$, everyone is talking with confidence but this won't be an easy battle." />
+  <key id="1122233719007475" feature="" npc="프레이" name="However... we must protect the carrier for our comrades that fell at the Tria Battlefield." />
+  <key id="1122233719007476" feature="" npc="프레이" name="Joddy would want that as well." />
+  <key id="1122233719007477" feature="" npc="PC" name="(...Say that you will protect it.)" />
+  <key id="1122233719007478" feature="" npc="프레이" name="&lt;font size='35'&gt;Good, then let's go!&lt;/font&gt;" />
+  <key id="1122233719007479" feature="" npc="블리체" name="To all members! Protect the carrier until we're ready for takeoff!" />
+  <key id="1122233719007480" feature="" npc="네이린" name="&lt;font size='35'&gt;$MyPCName$! You're safe!&lt;/font&gt;" />
+  <key id="1122233719007481" feature="" npc="블리체" name="Was that the last transport? I guess everyone's safe." />
+  <key id="1122233719007482" feature="" npc="PC" name="(What happened? I'm sure the guns were fired...)" />
+  <key id="1122233719007483" feature="" npc="블랙아이" name="...I was on the carrier when I opened my eyes. Even I'm dumbfounded on what happened." />
+  <key id="1122233719007484" feature="" npc="알론" name="We somehow survived... Was it because of &lt;font color=&quot;#ffd200&quot;&gt;Bulwark&lt;/font&gt; blocking the explosion?" />
+  <key id="1122233719007485" feature="" npc="블리체" name="That shield was definitely useful, but no one would have been safe if the guns were real." />
+  <key id="1122233719007486" feature="" npc="블리체" name="It was an XR-class prototype. A nonlethal thermobaric weapon." />
+  <key id="1122233719007487" feature="" npc="블리체" name="The explosive used on the enemies was just flashy in appearance. It was a &lt;font color=&quot;#ffd200&quot;&gt;weapon with little destructive power used as a show of force&lt;/font&gt;." />
+  <key id="1122233719007488" feature="" npc="프레이" name="Oh...! It's the explosive that Adjutant Nairin talked about! It creates a large-scale shockwave with just atmospheric and blasting pressure..." />
+  <key id="1122233719007489" feature="" npc="네이린" name="Yes! It's that weapon! In other words, it's just a frightening fireworks!" />
+  <key id="1122233719007490" feature="" npc="샤텐" name="Nairin... do you want to experience it too? If you shoot fireworks at people, does it hurt or not?" />
+  <key id="1122233719007491" feature="" npc="메이슨" name="It would hurt a lot if you were ordinary people, but it would just sting a little for knights at the temple knight level." />
+  <key id="1122233719007492" feature="" npc="샤텐" name="Oh really?" />
+  <key id="1122233719007493" feature="" npc="블랙아이" name="...Well, when I think about how they fled scared out of their wits, the plan wasn't so bad." />
+  <key id="1122233719007494" feature="" npc="블랙아이" name="$MyPCName$, your performance was remarkable. You calmly went into battle against such numbers." />
+  <key id="1122233719007495" feature="" npc="블랙아이" name="Good job. You should rest since you must be exhausted." />
+  <key id="1122233719007496" feature="" npc="블랙아이" name="...But Captain Briche doesn't think so." />
+  <key id="1122233719007497" feature="" npc="블리체" name="Of course. This is when we should be fully prepared or we will be in danger." />
+  <key id="1122233719007498" feature="" npc="블리체" name="I would like the leaders to return to Tria and report the situation to the empress." />
+  <key id="1122233719007499" feature="" npc="블리체" name="&lt;font size='35'&gt;The carrier is safe, but Maple World is in more danger than before.&lt;/font&gt;" />
+  <key id="1122233719007500" feature="" npc="프레이" name="That is correct... the enemies are even more daring after the attack on Tria. Everyone, let's hurry." />
+  <key id="1122233719007501" feature="" npc="블리체" name="$MyPCName$, it's a pity but you don't have time for rest." />
+  <key id="1122233719007502" feature="" npc="블리체" name="When the carrier is on a stable trajectory, your assessment mission will be executed as planned." />
+  <key id="1122233719007503" feature="" npc="블리체" name="Don't think that I'll pull punches because this happened." />
+  <key id="1122233719007504" feature="" npc="블리체" name="We're going to thoroughly assess you at this rate. I think Maple World's danger level went up a few just now. That means we need a competent member." />
+  <key id="1122233719007505" feature="" npc="블랙아이" name="$MyPCName$, it will be a good way for you to grow by getting recognition from Captain Briche and the other members. Make sure to become an essential member of the fleet." />
+  <key id="1122233719007506" feature="" npc="블랙아이" name="Hm, I never knew I would say this to someone other than Lennon, but let me say it." />
+  <key id="1122233719007507" feature="" npc="블랙아이" name="&lt;font size='35'&gt;I wish you luck, friend.&lt;/font&gt;" />
+  <key id="1122233719007508" feature="" npc="콘대르" name="I don't really say this, but I feel like that youngster will give you wrong information!" />
+  <key id="1122233719007509" feature="" npc="메이슨" name="&lt;font size='35'&gt;I'm flattered.&lt;/font&gt;" />
+  <key id="1122233719007510" feature="" npc="콘대르" name="Why, look at this! An elder is speaking and you're making irrelevant remarks... tsk tsk..." />
+  <key id="1122233719007511" feature="" npc="콘대르" name="What I'm trying to say is that I will be talking about the Faction Shop instead of him." />
+  <key id="1122233719007512" feature="" npc="콘대르" name="Below the bridge, the &lt;font color=&quot;#ffd200&quot;&gt;quartermaster sells basic supplies&lt;/font&gt;, but each &lt;font color=&quot;#ffd200&quot;&gt;faction officer sells special items&lt;/font&gt;!" />
+  <key id="1122233719007513" feature="" npc="콘대르" name="&lt;font size='35'&gt;But the Faction Shop has a use restriction.&lt;/font&gt;" />
+  <key id="1122233719007514" feature="" npc="콘대르" name="The reason is simple, so listen up. There was an order from Captain Briche to &lt;font color=&quot;#ffd200&quot;&gt;grant permission to use the shop only to those whose ability has been vetted&lt;/font&gt;." />
+  <key id="1122233719007515" feature="" npc="콘대르" name="And rules were created for these special items to be &lt;font color=&quot;#ffd200&quot;&gt;purchased with a special currency called Faction Token&lt;/font&gt; in order to prevent reckless use of those items." />
+  <key id="1122233719007516" feature="" npc="콘대르" name="I completely agree with the captain's decision! If Tria Guard's latest equipment is given to a rookie like you, anybody and everybody will take the Tria Guard lightly!" />
+  <key id="1122233719007517" feature="" npc="콘대르" name="Well... if you want to join me, seize an opportunity, and become a hero, you might especially get the Tria Guard's latest equipment. Ahahahaha!" />
+  <key id="1122233719007518" feature="" npc="콘대르" name="Well... if you want to join me, seize an opportunity, and become a hero, you might especially get the Tria Guard's latest equipment. Ahahahaha!" />
+  <key id="1122233719007519" feature="" npc="콘대르" name="Well, you can check out the Faction Shop later if you're curious about anything else. I've been watching and the other factions brought in new equipment and items." />
+  <key id="1122233719007520" feature="" npc="콘대르" name="Tactical adjutant! If the Green Hoods have any extras, why don't you trade with us, the Tria Guard?" />
+  <key id="1122233719007521" feature="" npc="네이린" name="I really want to help since we're in the Alliance... I don't know why but I don't want to give them to you..." />
+  <key id="1122233719007522" feature="" npc="콘대르" name="Ha! You're really cold-hearted!" />
+  <key id="1122233719007523" feature="" npc="블리체" name="$MyPCName$, I received a report on the assessment process." />
+  <key id="1122233719007524" feature="" npc="블리체" name="I'll tell you the result." />
+  <key id="1122233719007525" feature="" npc="블리체" name="I'll tell you the result right now." />
+  <key id="1122233719007526" feature="" npc="블리체" name="&lt;font size='40'&gt;You pass.&lt;/font&gt;" />
+  <key id="1122233719007527" feature="" npc="블리체" name="You are capable to be deployed to the field immediately, but the officers want to continue watching you." />
+  <key id="1122233719007528" feature="" npc="블리체" name="Therefore, I will be watching you coldly for the time being." />
+  <key id="1122233719007529" feature="" npc="블리체" name="$MyPCName$, you should be aware by now. We don't assess people based on rumors and the mood." />
+  <key id="1122233719007530" feature="" npc="블리체" name="Even if you're recommended by Empress Ereve, you need to be newly assessed by me and the fleet members. " />
+  <key id="1122233719007531" feature="" npc="블리체" name="This fair assessment will lead to your growth, and that growth might become the first step of a hero to protect Maple World. " />
+  <key id="1122233719007532" feature="" npc="블리체" name="If you're curious about that, then start testing your potential now." />
+  <key id="1122233719007533" feature="" npc="블리체" name="&lt;font size='40'&gt;Welcome to Sky Fortress, $MyPCName$.&lt;/font&gt;" />
+  <key id="1122233719007534" feature="" npc="샤텐" name="If you want to know where you are, open the World Map and see!" />
+  <key id="1122233719007535" feature="" npc="네이린" name="I'm a little sorry to suddenly push this on to you!" />
+  <key id="1122233719007537" feature="" npc="샤텐" name="If you want to know where you are, open the World Map and see!" />
+  <key id="1122233719007538" feature="" npc="샤텐" name="The drone's signal weakened a lot. $MyPCName$, I think that's enough!" />
+  <key id="1122233719007539" feature="" npc="샤텐" name="Now I'm going to analyze the weakness of the Prizbox series with your combat data. Then dispatching the Dark Wind members for the rest will be enough." />
+  <key id="1122233719007540" feature="" npc="샤텐" name="Good job, you should return now!" />
+  <key id="1226205419008192" feature="" npc="블리체" name="Has everyone gathered?" />
+  <key id="1226205419008193" feature="" npc="네이린" name="For the captain to gather all of us, this doesn't feel good. Right, $npcName:11003535[gender:1]$?" />
+  <key id="1226205419008194" feature="" npc="샤텐" name="Well, maybe she's going to make a public confession to you seeing how she's gathered everyone. " />
+  <key id="1226205419008195" feature="" npc="샤텐" name="I like Nairin. I really like Nairin. I very much like Nairin." />
+  <key id="1226205419008196" feature="" npc="네이린" name="Argh! Stop it!" />
+  <key id="1226205419008197" feature="" npc="샤텐" name="Hehe! If the captain doesn't say it, I will! You know I like you Nainai, right?" />
+  <key id="1226205419008198" feature="" npc="네이린" name="Stop teasing me if you really like me!" />
+  <key id="1226205419008199" feature="" npc="블리체" name="..." />
+  <key id="1226205419008200" feature="" npc="블리체" name="Are you ready to listen, $MyPCName$?" />
+  <key id="1226205419008201" feature="" npc="블리체" name="&lt;font size='40'&gt;I will now give the fleet's top priority mission.&lt;/font&gt;" />
+  <key id="1226205419008202" feature="" npc="블리체" name="As you all know, air supremacy in Maple World has come back to us with the appearance of Sky Fortress." />
+  <key id="1226205419008203" feature="" npc="블리체" name="Now the merchants have resumed the &lt;font color=&quot;#ffd200&quot;&gt;flying trading ship&lt;/font&gt; that was Maple World's past pride." />
+  <key id="1226205419008204" feature="" npc="콘대르" name="Haha! That's good news! Now supplies and food will flourish." />
+  <key id="1226205419008205" feature="" npc="PC" name="(Flying... trading ship?)" />
+  <key id="1226205419008206" feature="" npc="샤텐" name="$MyPCName$, you don't know about the flying trading ship? I think you need some special private lessons for not knowing Maple World's specialty." />
+  <key id="1226205419008207" feature="" npc="샤텐" name="&lt;font size='35'&gt;Orbis-class Airlift Carrier&lt;/font&gt; " />
+  <key id="1226205419008208" feature="" npc="샤텐" name="This beautiful carrier, also known as the &lt;font color=&quot;#ffd200&quot;&gt;flying trading ship&lt;/font&gt;, was one of Maple World's pride! Not just the supplies transport one, but the passenger type was real famous too!" />
+  <key id="1226205419008209" feature="" npc="샤텐" name="They were put of my commission when we lost the skies in the past war, but I'm really glad that they have returned." />
+  <key id="1226205419008210" feature="" npc="메이슨" name="The shield of the skies restored benefits and memories. That makes it worthwhile to get involved in the world." />
+  <key id="1226205419008211" feature="" npc="메이슨" name="...But you didn't gather us just for this good news, right? Captain, please get to the point now." />
+  <key id="1226205419008212" feature="" npc="블리체" name="It's a shame that I don't have only good news." />
+  <key id="1226205419008213" feature="" npc="블리체" name="I digress." />
+  <key id="1226205419008214" feature="" npc="블리체" name="As Mason said, I didn't gather you just for good news." />
+  <key id="1226205419008215" feature="" npc="블리체" name="We received information that 4 flying trading ships went missing. And one of them was discovered destroyed." />
+  <key id="1226205419008216" feature="" npc="콘대르" name="Who would dare?" />
+  <key id="1226205419008217" feature="" npc="샤텐" name="Wasn't the skies our domain now? Even the airborne early warning system was functioning properly." />
+  <key id="1226205419008218" feature="" npc="네이린" name="Strictly speaking, the territory of the skies that our fleet can cover is extremely limited..." />
+  <key id="1226205419008219" feature="" npc="네이린" name="If the filter is based on something not in our database, it's highly likely that it won't get detected by the warning system." />
+  <key id="1226205419008220" feature="" npc="블리체" name="Looks like the aftermath of the emergency takeoff is slowly reaching us. Both the airborne early warning system and the weapon system are not in a perfect state... We will need to be fully equpped if we're going to consider a prolonged battle." />
+  <key id="1226205419008221" feature="" npc="블리체" name="But we can't sit on our hands. In order to protect the flying trading ships, we must reveal the cause of the crash and find the missing ones." />
+  <key id="1226205419008222" feature="" npc="블리체" name="Now, make use of each faction's specialty and commence the search operation." />
+  <key id="1226205419008223" feature="" npc="블리체" name="$npcName:11003534[gender:0]$." />
+  <key id="1226205419008224" feature="" npc="콘대르" name="Present." />
+  <key id="1226205419008225" feature="" npc="블리체" name="Tria Guard will collect information from Tria and the nearby cities on the missing trading ships. Try to get information from many people as possible." />
+  <key id="1226205419008226" feature="" npc="콘대르" name="Leave it to me!" />
+  <key id="1226205419008227" feature="" npc="블리체" name="$npcName:11003535[gender:1]$." />
+  <key id="1226205419008228" feature="" npc="샤텐" name="Yes, captain." />
+  <key id="1226205419008229" feature="" npc="블리체" name="Dark Wind will secure trade routes of all the flying trading ships that went active recently. It won't be easy, but you can use any means necessary." />
+  <key id="1226205419008230" feature="" npc="샤텐" name="For real? Really, captain? It's been a while but I'm going to use the Shadow Wind style, okay?" />
+  <key id="1226205419008231" feature="" npc="블리체" name="Hm..." />
+  <key id="1226205419008232" feature="" npc="블리체" name="When I said any means necessary, limit them to Dark Wind tactics." />
+  <key id="1226205419008233" feature="" npc="샤텐" name="Aww! I got excited for no reason!" />
+  <key id="1226205419008234" feature="" npc="블리체" name="Next is $npcName:11003536[gender:0]$." />
+  <key id="1226205419008235" feature="" npc="네이린" name="Ma'am!" />
+  <key id="1226205419008236" feature="" npc="블리체" name="Green Hood will get information from our collaborator in the Barrota Trading Company and analyze that information." />
+  <key id="1226205419008237" feature="" npc="네이린" name="Roger!" />
+  <key id="1226205419008238" feature="" npc="블리체" name="And $npcName:11003537[gender:0]$." />
+  <key id="1226205419008239" feature="" npc="메이슨" name="I'm all ears." />
+  <key id="1226205419008240" feature="" npc="블리체" name="Lumiknights will move to the trading ship crash site. Go investigate your domain." />
+  <key id="1226205419008241" feature="" npc="메이슨" name="To sum up... you must mean the dark energy. I wasn't really happy about that place either." />
+  <key id="1226205419008242" feature="" npc="메이슨" name="Heh... you have good senses, captain." />
+  <key id="1226205419008243" feature="" npc="블리체" name="And last is $MyPCName$." />
+  <key id="1226205419008244" feature="" npc="PC" name="Okay!" />
+  <key id="1226205419008245" feature="" npc="블리체" name="You will make use of your unique mobility to head each faction's field mission." />
+  <key id="1226205419008246" feature="" npc="블리체" name="It will be a fitting mission as the Alliance Guardian." />
+  <key id="1226205419008247" feature="" npc="블리체" name="Make use of your unique mobility to help everyone." />
+  <key id="1226205419008248" feature="" npc="블리체" name="&lt;font size='35'&gt;That is all.&lt;/font&gt;" />
+  <key id="1226205419008249" feature="" npc="블리체" name="While each faction proceeds with the investigation, I will be restoring the data on the black box retrieved from the crashed trading ship with the fleet's analysis team." />
+  <key id="1226205419008250" feature="" npc="블리체" name="However... it was severely damaged and proper restoration doesn't seem likely. Therefore, the investigation results from each faction will become the most important clue." />
+  <key id="1226205419008251" feature="" npc="블리체" name="To all members, commence mission!" />
+  <key id="1226205419008252" feature="" npc="콘대르" name="Hey, rookie! Any thoughts on becoming the Royal Guard's chess piece?" />
+  <key id="1226205419008253" feature="" npc="PC" name="(Say that you're on standby for mission as Condor Special Forces.)" />
+  <key id="1226205419008254" feature="" npc="콘대르" name="Bwahahaha! Looks like you're completely under me!" />
+  <key id="1226205419008255" feature="" npc="콘대르" name="Fine! Like the captain said, let's collect information on the flying trading ships from people." />
+  <key id="1226205419008256" feature="" npc="콘대르" name="We'll start with &lt;font color=&quot;#ffd200&quot;&gt;$map:02000062$&lt;/font&gt; first! It should be the harbor first since it's a trading ship, right? You know the movie, Lith the Harbor?" />
+  <key id="1226205419008257" feature="" npc="PC" name="(Oh! Say that movie was really fun, even though you haven't watched it.)" />
+  <key id="1226205419008258" feature="" npc="콘대르" name="...Huh? I didn't really like that movie..." />
+  <key id="1226205419008259" feature="" npc="PC" name="(Say that actually it was really bad.)" />
+  <key id="1226205419008260" feature="" npc="콘대르" name="Right? Even our movie taste is the same. You really are under me." />
+  <key id="1226205419008261" feature="" npc="콘대르" name="While you gather information at the harbor, I'll need to ask the Royal Guards something." />
+  <key id="1226205419008262" feature="" npc="콘대르" name="Tria is vast. I will need to single out the people I know." />
+  <key id="1226205419008263" feature="" npc="콘대르" name="...What are you doing? Move it! Condor Special Forces! Bwahahahaha!" />
+  <key id="1226205419008264" feature="" npc="콘대르" name="What are you doing? Hurry up!" />
+  <key id="1226205419008265" feature="" npc="콘대르" name="You're too slow! How could someone young as you return later than me!" />
+  <key id="1226205419008266" feature="" npc="콘대르" name="So, did you ask the residents? Did they know something?" />
+  <key id="1226205419008267" feature="" npc="PC" name="(There are rumors that everything disappears when a ship with wings moves in the skies.)" />
+  <key id="1226205419008268" feature="" npc="콘대르" name="Hm... that must mean the residents saw those 4 ships. But since the same number didn't return, such an unsettling rumor is going around." />
+  <key id="1226205419008269" feature="" npc="콘대르" name="Good investigation!" />
+  <key id="1226205419008270" feature="" npc="콘대르" name="Now, let's go to Tria that I bisque fired to finish our investigation." />
+  <key id="1226205419008271" feature="" npc="콘대르" name="According to my source, there's an unsettling rumor going around &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt;. We should figure out what the rumor is about since it might be connected to the missing trading ships." />
+  <key id="1226205419008272" feature="" npc="PC" name="(Ask if he has a source.)" />
+  <key id="1226205419008273" feature="" npc="콘대르" name="Source? Well... my source is vast you could call it a fortress! Bwahahaha!" />
+  <key id="1226205419008274" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(...Oh god of society... may your power...)&lt;/font&gt;" />
+  <key id="1226205419008275" feature="" npc="콘대르" name="What? Was it boring?" />
+  <key id="1226205419008276" feature="" npc="PC" name="(Slap your knees and act like you can't breathe from laughing so hard.)" />
+  <key id="1226205419008277" feature="" npc="콘대르" name="I can't believe you're getting excited with a joke like that. If I tell a real joke, you'll get pinned by a metal tombstone. Hahaha!" />
+  <key id="1226205419008278" feature="" npc="콘대르" name="Since I'm feeling good, I'll give you some money for the Air Taxi. Go there quickly by taxi!" />
+  <key id="1226205419008279" feature="" npc="콘대르" name="What are you doing? Aren't you going to find out the rumor?" />
+  <key id="1226205419008280" feature="" npc="콘대르" name="So, what was the unsettling rumor going around amongst the residents of Tria?" />
+  <key id="1226205419008281" feature="" npc="PC" name="(Hand the photo you received from Denver.)" />
+  <key id="1226205419008282" feature="" npc="콘대르" name="Hm? It's blurry and I can't tell what it is... Looks like a black bird with a long neck." />
+  <key id="1226205419008283" feature="" npc="메이슨" name="Do you have presbyopia? It could look like that if you're looking at it upside down." />
+  <key id="1226205419008284" feature="" npc="콘대르" name="You youngster! The photo isn't clear to begin with! I know there's something but I can't tell what it is!" />
+  <key id="1226205419008285" feature="" npc="메이슨" name="But there's one thing I suspect just looking at that silhouette. Hm... but if my suspicion is right... this is scary." />
+  <key id="1226205419008286" feature="" npc="콘대르" name="Argh... you come here and make me upset. Anyways, something serious is happening." />
+  <key id="1226205419008287" feature="" npc="콘대르" name="Hm... the royal court must definitely know something when even ordinary people saw and felt many things. It's strange that they are silent..." />
+  <key id="1226205419008288" feature="" npc="콘대르" name="Hey, Condor Special Forces. I have a last mission for you. Ask the Tria royal court about this rumor." />
+  <key id="1226205419008289" feature="" npc="콘대르" name="The royal court handles much more information than ordinary people. They must already be aware of the unsettling rumor and the truth behind it." />
+  <key id="1226205419008290" feature="" npc="PC" name="(Say that Condor Special Forces will depart immediately.)" />
+  <key id="1226205419008291" feature="" npc="콘대르" name="Hey, why are you in a hurry? Get on the Air Taxi and take it slow. And do some shopping while you're in Tria." />
+  <key id="1226205419008292" feature="" npc="콘대르" name="Why are you messing around when I sent you off nicely?" />
+  <key id="1226205419008293" feature="" npc="콘대르" name="Surely you must have brought back useful information, right?" />
+  <key id="1226205419008294" feature="" npc="PC" name="(Relay the information you heard from everyone.)" />
+  <key id="1226205419008295" feature="" npc="콘대르" name="A being even the goddess of light couldn't kill? Aren't we in trouble then?" />
+  <key id="1226205419008296" feature="" npc="PC" name="(Say that being doesn't exist in Maple World anymore.)" />
+  <key id="1226205419008297" feature="" npc="콘대르" name="That's a relief. But did $npcName:11003566[gender:0]$ say &lt;font color=&quot;#ffd200&quot;&gt;previous captain&lt;/font&gt;?" />
+  <key id="1226205419008298" feature="" npc="PC" name="(Say that he did.)" />
+  <key id="1226205419008299" feature="" npc="콘대르" name="Don't tell me &lt;font color=&quot;#ffd200&quot;&gt;that&lt;/font&gt; reappeared. There's no way..." />
+  <key id="1226205419008300" feature="" npc="PC" name="Guard Leader...?" />
+  <key id="1226205419008301" feature="" npc="콘대르" name="This is making me feel uncomfortable... People are saying demons are flying in the skies or some great threat is approaching..." />
+  <key id="1226205419008302" feature="" npc="콘대르" name="Good job, rookie. Relay this information to the captain for now." />
+  <key id="1226205419008303" feature="" npc="샤텐" name="Come over here, cutie! You just heard what the captain said, right?" />
+  <key id="1226205419008304" feature="" npc="샤텐" name="Our job is to figure out the trade route of the flying trading ship. Then we can find out where they were headed and which fleet disappeared." />
+  <key id="1226205419008305" feature="" npc="PC" name="(Ask if a request can be made to the merchants to help with information.)" />
+  <key id="1226205419008306" feature="" npc="샤텐" name="Tell me about it. That's how it should be... The other merchants are fine, but the Barrota Trading Company is scared and coming out passive." />
+  <key id="1226205419008307" feature="" npc="샤텐" name="It's not like they just started the business. They don't want to hand over the trade route because it will reveal the places where they make money." />
+  <key id="1226205419008308" feature="" npc="샤텐" name="I understand but they should have cooperated since the scale of this matter is different. They're just thinking about profits when a ship and people went missing. Tell them to be ready for an investigation when this matter is resolved." />
+  <key id="1226205419008309" feature="" npc="샤텐" name="Well, that will be taken care of by Dark Wind later. There's something you and I have to do." />
+  <key id="1226205419008310" feature="" npc="샤텐" name="No matter how much they want to hide it, all the trade route and data are stored in the MSL cloud." />
+  <key id="1226205419008311" feature="" npc="샤텐" name="We are going to hack into the MSL communication device and snatch the data." />
+  <key id="1226205419008312" feature="" npc="샤텐" name="Unfortunately, that communication device is a closed network. In other words, you need to go to the site directly and access the communication device." />
+  <key id="1226205419008313" feature="" npc="샤텐" name="Don't worry! Just connect the Dark Wind USB to the device and I'll take care of the rest. Then I leave it to you!" />
+  <key id="1226205419008314" feature="" npc="샤텐" name="You didn't forget my request, did you? Should you be here right now?" />
+  <key id="1226205419008315" feature="" npc="샤텐" name="Good job! The key to the closed network is accessing the device. It's a piece of cake once we have access." />
+  <key id="1226205419008316" feature="" npc="샤텐" name="But... what do we do about this?" />
+  <key id="1226205419008317" feature="" npc="샤텐" name="The area we just accessed doesn't have even half of the data! I'm sure they used distributed storage." />
+  <key id="1226205419008318" feature="" npc="샤텐" name="But they're better than I expected. Very little can be gleaned even though information slips through one location if data is managed like this." />
+  <key id="1226205419008319" feature="" npc="샤텐" name="Hm, let's go to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000162$&lt;/font&gt; next. There's a machine there that processes many data. We should check the data there." />
+  <key id="1226205419008320" feature="" npc="샤텐" name="Oh... right. $npcName:21000134$ is over there..." />
+  <key id="1226205419008321" feature="" npc="샤텐" name="You will need to use some force this time. If $npcName:21000134$ is there, we can't hack from here due to the jamming signals. That's really annoying, don't you agree?" />
+  <key id="1226205419008322" feature="" npc="샤텐" name="I'll give you a massage when you come back! Good luck." />
+  <key id="1226205419008323" feature="" npc="샤텐" name="Didn't you get the data yet? Then your massage will come later!" />
+  <key id="1226205419008324" feature="" npc="샤텐" name="Ugh, we can't fully analyze the data yet even though we added the one you got this time! They're really annoying me." />
+  <key id="1226205419008325" feature="" npc="PC" name="(...Say that you agree.)" />
+  <key id="1226205419008326" feature="" npc="샤텐" name="The encouraging thing is that we gathered half the data!" />
+  <key id="1226205419008327" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(It's only half?)&lt;/font&gt;" />
+  <key id="1226205419008328" feature="" npc="샤텐" name="If we make a deduction based on the data we got so far...hm, they have at least 5 trade routes. Seeing how some departure and arrival have a fixed route, it looks like there are safe routes." />
+  <key id="1226205419008329" feature="" npc="샤텐" name="We're almost done. Keep it up a little more, cutie." />
+  <key id="1226205419008330" feature="" npc="샤텐" name="It's time to hack again! Let's see where our little kitten is going this time." />
+  <key id="1226205419008331" feature="" npc="PC" name="(...Say that you want to act freely now.)" />
+  <key id="1226205419008332" feature="" npc="샤텐" name="Oh, no! If you, little kitten, act as you please, you will get caught by the captain." />
+  <key id="1226205419008333" feature="" npc="샤텐" name="She will ask where you're going and not doing the mission you're told to do." />
+  <key id="1226205419008334" feature="" npc="블리체" name="&lt;font size='35'&gt;Kitten?&lt;/font&gt;" />
+  <key id="1226205419008335" feature="" npc="샤텐" name="Ah, n-no. Captain $npcName:11003533[gender:0]$." />
+  <key id="1226205419008336" feature="" npc="블리체" name="I see. Excuse me." />
+  <key id="1226205419008337" feature="" npc="샤텐" name="Captain, do you have a radar that responds to kitten? How did you appear at just the right time?" />
+  <key id="1226205419008338" feature="" npc="PC" name="(Say that you were surprised.)" />
+  <key id="1226205419008339" feature="" npc="샤텐" name="I was really surprised and almost forgot to give our kitten an errand." />
+  <key id="1226205419008340" feature="" npc="PC" name="(...)" />
+  <key id="1226205419008341" feature="" npc="샤텐" name="$MyPCName$, move out! Go to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000277$&lt;/font&gt; and access the device!" />
+  <key id="1226205419008342" feature="" npc="샤텐" name="$MyPCName$, I'm not going to pet you even if you wait here. Hurry along on your errand." />
+  <key id="1226205419008343" feature="" npc="샤텐" name="..." />
+  <key id="1226205419008344" feature="" npc="샤텐" name="Argh... How much of the data did they split?" />
+  <key id="1226205419008345" feature="" npc="샤텐" name="If I did this according to the Shadow Wind style, I would have already gotten the trade route by now and even found out who their kindergarten crush was." />
+  <key id="1226205419008346" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(Shadow Wind... I wonder what sort of organization it was?)&lt;/font&gt;" />
+  <key id="1226205419008347" feature="" npc="샤텐" name="Just a little more! Looking at the data we got so far, we just need to secure data from one more location!" />
+  <key id="1226205419008348" feature="" npc="샤텐" name="Now let's move out for the finale." />
+  <key id="1226205419008349" feature="" npc="샤텐" name="The last place you need to go is &lt;font color=&quot;#ffd200&quot;&gt;$map:02000269$&lt;/font&gt;. Once you get the final data from that place, we'll be able to figure out the trade route of the flying trading ship." />
+  <key id="1226205419008350" feature="" npc="PC" name="(Say that you'll be back soon!)" />
+  <key id="1226205419008351" feature="" npc="샤텐" name="Are you motivated because this is the last? But I want to spend more time with you!" />
+  <key id="1226205419008352" feature="" npc="샤텐" name="Didn't you say that you'll bring me what I want? Or are you next to me because you want to play with me? I want to play with you too, but there are too many eyes here." />
+  <key id="1226205419008353" feature="" npc="샤텐" name="Phew... the flying trading ship's trade route is finally complete." />
+  <key id="1226205419008354" feature="" npc="샤텐" name="I should acknowledge their efforts. It's my first time seeing data managed like this. The new president of the Barrota Trading Company is no ordinary person." />
+  <key id="1226205419008355" feature="" npc="PC" name="(Say that it was really tough.)" />
+  <key id="1226205419008356" feature="" npc="샤텐" name="You went through a lot. I'll give your reward on your cheek, okay?" />
+  <key id="1226205419008357" feature="" npc="PC" name="&lt;font size='50'&gt;?!&lt;/font&gt;" />
+  <key id="1226205419008358" feature="" npc="샤텐" name="Hm? Why are you suddenly blushing?" />
+  <key id="1226205419008359" feature="" npc="PC" name="N-nothing!" />
+  <key id="1226205419008360" feature="" npc="샤텐" name="Hahah. Why are you running away? Thanks for the trouble!" />
+  <key id="1226205419008361" feature="" npc="네이린" name="$MyPCName$, let's do our best this time!" />
+  <key id="1226205419008362" feature="" npc="네이린" name="What we need to do is get the ledger from our collaborator in the Barrota Trading Company." />
+  <key id="1226205419008363" feature="" npc="네이린" name="If the trading ship crashed because of an attack from someone, they must have been after the goods loaded on the ship." />
+  <key id="1226205419008364" feature="" npc="네이린" name="We need the trading book to prove that hypothesis." />
+  <key id="1226205419008365" feature="" npc="네이린" name="We decided to meet the collaborator in &lt;font color=&quot;#ffd200&quot;&gt;$map:02000139$&lt;/font&gt;. I will proceed with optical reconnaissance of the area just in case." />
+  <key id="1226205419008366" feature="" npc="네이린" name="Oh! You'll have an easy time to the operation area as a deck plane has been arranged!" />
+  <key id="1226205419008367" feature="" npc="네이린" name="Vanguard Six, relaying from the bridge. Landing zone is &lt;font color=&quot;#ffd200&quot;&gt;$map:02000139$&lt;/font&gt;. $MyPCName$ will get on board." />
+  <key id="1226205419008368" feature="" npc="네이린" name="$MyPCName$, what are you doing here right now? Did you forget to bring the ledger?" />
+  <key id="1226205419008369" feature="" npc="솔베이" name="Huh, you're?" />
+  <key id="1226205419008370" feature="" npc="솔베이" name="Aren't you $MyPCName$? What brings you here?" />
+  <key id="1226205419008371" feature="" npc="PC" name="(Say that you came as Maple Alliance's representative.)" />
+  <key id="1226205419008372" feature="" npc="솔베이" name="So you're the person that was going to be sent by the Green Hoods! If it's you, then I can be reassured." />
+  <key id="1226205419008373" feature="" npc="PC" name="(Ask what's going on.)" />
+  <key id="1226205419008374" feature="" npc="솔베이" name="Sigh... the Barrota Trading Company got a new president after what happened to &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000526[gender:0]$&lt;/font&gt;. Everyone was happy at first since that position has been vacant for a long time." />
+  <key id="1226205419008375" feature="" npc="솔베이" name="But everything about the new president is a mystery. I've never seen the president or even know the president's name. But another thing I can't stand is that even the ledger is full of secrets." />
+  <key id="1226205419008376" feature="" npc="솔베이" name="Many funds are circulating in our trading company due to the recent supply and demand of munition. It wouldn't be wrong to say that it's currently the core of our company. But the ledger for this munition is all written by hand." />
+  <key id="1226205419008377" feature="" npc="PC" name="(Ask if another record is being kept.)" />
+  <key id="1226205419008378" feature="" npc="솔베이" name="Only the president has access to the munition ledger. I secretly took the ledger because I believe such transactions will ruin our company someday, but there's magic on this and I can't read it." />
+  <key id="1226205419008379" feature="" npc="솔베이" name="I was worried whether I'd find someone trustworthy if I requested for help, but I can be at ease if it's you, $MyPCName$. Please find someone who can decipher the magic on this ledger." />
+  <key id="1226205419008380" feature="" npc="PC" name="(Ask if it's dangerous because the ledger was taken in secret.)" />
+  <key id="1226205419008381" feature="" npc="솔베이" name="It's fine. I didn't take it directly from the president's office but intercepted it. I won't be suspected even though it's found out that the ledger is gone." />
+  <key id="1226205419008382" feature="" npc="PC" name="(Tell him to be careful because he might never know.)" />
+  <key id="1226205419008383" feature="" npc="솔베이" name="Thanks for the concern. Then I place my trust in you!" />
+  <key id="1226205419008384" feature="" npc="네이린" name="That must be the secret ledger! The cover won't move because of the magic." />
+  <key id="1226205419008385" feature="" npc="네이린" name="We need the wisdom of a high ranking wizard in order to decipher the magic on this secret ledger. $MyPCName$, is there anyone you know?" />
+  <key id="1226205419008386" feature="" npc="PC" name="(Say that you think it might be possible with &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000033[gender:0]$&lt;/font&gt; of &lt;font color=&quot;#ffd200&quot;&gt;$map:02000023$&lt;/font&gt;.)" />
+  <key id="1226205419008387" feature="" npc="네이린" name="It's a good thing that you know someone! Or I would had to analyze places where high ranking wizards usually stay. This will save some time!" />
+  <key id="1226205419008388" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(How can you get that from an analysis?!)&lt;/font&gt;" />
+  <key id="1226205419008389" feature="" npc="네이린" name="Thank you $MyPCName$. Then I'll provide support to send you there right now." />
+  <key id="1226205419008390" feature="" npc="네이린" name="What's the magic deciphering status? We're in a tricky situation because the Guard Leader is saying to open it by force!" />
+  <key id="1226205419008391" feature="" npc="호르헤" name="Oh, you are?" />
+  <key id="1226205419008392" feature="" npc="호르헤" name="It's been a while, $MyPCName$." />
+  <key id="1226205419008393" feature="" npc="PC" name="(Say that you came for a request.)" />
+  <key id="1226205419008394" feature="" npc="호르헤" name="Well, this is new. I was the one who always came with requests. Tell me what it is. I'll listen to it if I can help." />
+  <key id="1226205419008395" feature="" npc="PC" name="(Show him the secret ledger and ask if it can be deciphered.)" />
+  <key id="1226205419008396" feature="" npc="호르헤" name="Where did you get this? I can sense an extremely complicated magical modification." />
+  <key id="1226205419008397" feature="" npc="PC" name="(Say that you can't tell him the source.)" />
+  <key id="1226205419008398" feature="" npc="호르헤" name="Oh, it was simply an intellectual curiosity. $MyPCName$, I'm sorry to say this but deciphering protection magic is not my specialty." />
+  <key id="1226205419008399" feature="" npc="호르헤" name="However, I know a protection magic expert." />
+  <key id="1226205419008400" feature="" npc="PC" name="(Ask who that is.)" />
+  <key id="1226205419008401" feature="" npc="호르헤" name="It's the &lt;font color=&quot;#ffd200&quot;&gt;Ellinel class president&lt;/font&gt;... Hehe." />
+  <key id="1226205419008402" feature="" npc="호르헤" name="You're lucky, $MyPCName$. It just so happens that the &lt;font color=&quot;#ffd200&quot;&gt;Ellinel class president&lt;/font&gt; is here in this place." />
+  <key id="1226205419008403" feature="" npc="호르헤" name="I believe she would easily decipher magic like this." />
+  <key id="1226205419008404" feature="" npc="PC" name="(Ask where you can meet her.)" />
+  <key id="1226205419008405" feature="" npc="호르헤" name="She's often in front of &lt;font color=&quot;#ffd200&quot;&gt;$map:02000109$&lt;/font&gt;. She says she focuses the best there. You should go there." />
+  <key id="1226205419008406" feature="" npc="호르헤" name="She should be in front of &lt;font color=&quot;#ffd200&quot;&gt;$map:02000109$&lt;/font&gt;. Hurry over there." />
+  <key id="1226205419008407" feature="" npc="케이틀린" name="Well, if it isn't $MyPCName$. What brings you here?" />
+  <key id="1226205419008408" feature="" npc="PC" name="(Say that you came to meet the Ellinel class president.)" />
+  <key id="1226205419008409" feature="" npc="케이틀린" name="Ellinel class president...? Good thing you're here!" />
+  <key id="1226205419008410" feature="" npc="PC" name="(Ask where the class president is.)" />
+  <key id="1226205419008411" feature="" npc="케이틀린" name="&lt;font size='35'&gt;Right in front of you.&lt;/font&gt;" />
+  <key id="1226205419008412" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;($npcName:11003146[gender:1]$ was the class president?)&lt;/font&gt;" />
+  <key id="1226205419008413" feature="" npc="케이틀린" name="So, what do you want to ask the Ellinel class president?" />
+  <key id="1226205419008414" feature="" npc="케이틀린" name="I don't help just anyone, but I'll especially help you since we're not strangers." />
+  <key id="1226205419008415" feature="" npc="PC" name="(Hand her the secret ledger and ask her to decipher the protection magic.)" />
+  <key id="1226205419008416" feature="" npc="케이틀린" name="What is this book? It has a very meticulous protection magic on it. Not anyone can undo this, but it's easy for me." />
+  <key id="1226205419008417" feature="" npc="PC" name="(Press on her to undo it immediately.)" />
+  <key id="1226205419008418" feature="" npc="케이틀린" name="Just wait a little! You think protection magic is like a 3-minute mushroom curry? It requires extremely complicated and detailed work!" />
+  <key id="1226205419008419" feature="" npc="케이틀린" name="This defense magic isn't difficult, but it's annoying. It requires many materials. First, I need &lt;font color=&quot;#ffd200&quot;&gt;$item:30001033$&lt;/font&gt;. Get that for me." />
+  <key id="1226205419008420" feature="" npc="PC" name="(Ask where you can get it.)" />
+  <key id="1226205419008421" feature="" npc="케이틀린" name="$MyPCName$, you don't even know that? &lt;font color=&quot;#ffd200&quot;&gt;$item:30001033$&lt;/font&gt; is obviously in &lt;font color=&quot;#ffd200&quot;&gt;$map:02000090$&lt;/font&gt;. Now, hurry along." />
+  <key id="1226205419008422" feature="" npc="PC" name="(Ask if she can use teleport magic.)" />
+  <key id="1226205419008423" feature="" npc="케이틀린" name="Of course! Isn't that basic for the Ellinel class president?" />
+  <key id="1226205419008424" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(Alright, I caught her.)&lt;/font&gt;" />
+  <key id="1226205419008425" feature="" npc="케이틀린" name="What's with that look like you don't believe me! Will you believe if I showed you?!" />
+  <key id="1226205419008426" feature="" npc="케이틀린" name="You should be thankful that I'm helping." />
+  <key id="1226205419008427" feature="" npc="케이틀린" name="Let's see... looks like you brought what I asked. This will be enough." />
+  <key id="1226205419008428" feature="" npc="PC" name="(Ask if she can decipher the magic now.)" />
+  <key id="1226205419008429" feature="" npc="케이틀린" name="No, this is just one of the materials I need. We still have a long way to go, so stop rushing me." />
+  <key id="1226205419008430" feature="" npc="케이틀린" name="Do you know that there are two steps to deciphering protection magic?" />
+  <key id="1226205419008431" feature="" npc="PC" name="(Say that you're hearing it for the first time.)" />
+  <key id="1226205419008432" feature="" npc="케이틀린" name="$MyPCName$... I'm really amazed at your knowledge of magic. I'll explain it to you since I'm nice. Listen carefully and memorize. Remember to tell Professor &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000032[gender:0]$&lt;/font&gt; how nice I am, got it?" />
+  <key id="1226205419008433" feature="" npc="PC" name="(Say that you will tell him.)" />
+  <key id="1226205419008434" feature="" npc="케이틀린" name="Good. I said earlier that there are two steps to deciphering protection magic. What we prepared is the first step which is the destruction step." />
+  <key id="1226205419008435" feature="" npc="케이틀린" name="The protection magic is undone and we take out the information within. Now, you can predict what the next step is, right?" />
+  <key id="1218214819007928" feature="" npc="pc" name="(Say that it's the seal step.)" />
+  <key id="1218214819007929" feature="" npc="pc" name="(Say that it's the restoration step.)" />
+  <key id="1226205419008436" feature="" npc="케이틀린" name="Wrong! Don't you know something as simple as this? Think a little harder." />
+  <key id="1218214819007931" feature="" npc="pc" name="(Say that it's the seal step.)" />
+  <key id="1218214819007932" feature="" npc="pc" name="(Say that it's the restoration step.)" />
+  <key id="1227104719008723" feature="" npc="케이틀린" name="Hey! I just told you that was wrong!" />
+  <key id="1227104719008724" feature="" npc="pc" name="(Say that it's the restoration step.)" />
+  <key id="1226205419008437" feature="" npc="케이틀린" name="That's right. Since we got the information, we need to change it back to a state we can see. If we can't see it, undoing the seal magic is meaningless." />
+  <key id="1226205419008438" feature="" npc="PC" name="(Say that you think you know now.)" />
+  <key id="1226205419008439" feature="" npc="케이틀린" name="You understand quickly because the teacher is great! Now, do you know what you need to bring?" />
+  <key id="1226205419008440" feature="" npc="PC" name="(Say that you don't know that.)" />
+  <key id="1226205419008441" feature="" npc="케이틀린" name="Argh! In order for us to see the information, we need &lt;font color=&quot;#ffd200&quot;&gt;$item:30001034$&lt;/font&gt;. It should be in &lt;font color=&quot;#ffd200&quot;&gt;$map:02000019$&lt;/font&gt;. Go there." />
+  <key id="1226205419008442" feature="" npc="PC" name="(Say that you think she will teleport you there if she's nice.)" />
+  <key id="1226205419008443" feature="" npc="케이틀린" name="...Hey, it seems you've been sneaky and using me to your advantage... In return, you must tell Professor &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000032[gender:0]$&lt;/font&gt; how much I helped you, okay?" />
+  <key id="1226205419008444" feature="" npc="케이틀린" name="The seal magic can't be undone without &lt;font color=&quot;#ffd200&quot;&gt;$item:30001034$&lt;/font&gt;. Hurry and bring it." />
+  <key id="1226205419008445" feature="" npc="케이틀린" name="Did you get &lt;font color=&quot;#ffd200&quot;&gt;$item:30001034$&lt;/font&gt;?" />
+  <key id="1226205419008446" feature="" npc="PC" name="(Hand over the Magic Ink you got.)" />
+  <key id="1226205419008447" feature="" npc="케이틀린" name="Perfect! We need to get only one more thing now." />
+  <key id="1226205419008448" feature="" npc="케이틀린" name="Now, we need one more to decipher the protection magic." />
+  <key id="1226205419008449" feature="" npc="PC" name="(Didn't you just say that protection magic is in two steps?)" />
+  <key id="1226205419008450" feature="" npc="케이틀린" name="Huh? N-no! There are 3 steps to deciphering protection magic." />
+  <key id="1226205419008451" feature="" npc="PC" name="I'm sure you said 2 steps..." />
+  <key id="1226205419008452" feature="" npc="케이틀린" name="&lt;font size='35'&gt;3 steps! THREE!&lt;/font&gt;" />
+  <key id="1226205419008453" feature="" npc="PC" name="(In order to calm &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003146[gender:1]$&lt;/font&gt;, ask what she needs.)" />
+  <key id="1226205419008454" feature="" npc="케이틀린" name="&lt;font size='25'&gt;...Fruit.&lt;/font&gt;" />
+  <key id="1226205419008455" feature="" npc="PC" name="(Say that you can't hear her.)" />
+  <key id="1226205419008456" feature="" npc="케이틀린" name="I need &lt;font color=&quot;#ffd200&quot;&gt;$item:30000232$&lt;/font&gt;. Bring me around 20!" />
+  <key id="1226205419008457" feature="" npc="PC" name="Oh, I heard it's popular these days. I guess you, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003146[gender:1]$&lt;/font&gt;, need it too. But it could be less effective depending on the gender..." />
+  <key id="1226205419008458" feature="" npc="케이틀린" name="I already know about that?! So, are you going to get them or not?" />
+  <key id="1226205419008459" feature="" npc="PC" name="(Say that you'll get them right away!)" />
+  <key id="1226205419008460" feature="" npc="케이틀린" name="Hmph! Stupid!" />
+  <key id="1226205419008461" feature="" npc="케이틀린" name="I can't help you decipher the protection magic until you bring me &lt;font color=&quot;#ffd200&quot;&gt;$item:30000232$&lt;/font&gt;! Never!" />
+  <key id="1226205419008462" feature="" npc="케이틀린" name="You got them! I'm sure that these...!" />
+  <key id="1226205419008463" feature="" npc="케이틀린" name="...I'm telling this to you but... I want to give these to Professor &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000032[gender:0]$&lt;/font&gt;..." />
+  <key id="1226205419008464" feature="" npc="PC" name="&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000032[gender:0]$&lt;/font&gt;?" />
+  <key id="1226205419008465" feature="" npc="케이틀린" name="Well... he seems low on energy lately... and I want to score some points because Professor &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000032[gender:0]$&lt;/font&gt; seems colder after that incident..." />
+  <key id="1226205419008466" feature="" npc="케이틀린" name="I'm not taking about grades... It's you know... something like heart points... Ah! Whatever! Why am I talking about this to you? Hmph!" />
+  <key id="1226205419008467" feature="" npc="PC" name="(Calm $npcName:11003146[gender:1]$ saying that he'll love the gift.)" />
+  <key id="1226205419008468" feature="" npc="케이틀린" name="You think so too? He'll like it, right? It bothered me that his wing was limping when I saw him last time..." />
+  <key id="1226205419008469" feature="" npc="케이틀린" name="...Thanks, $MyPCName$. Let's start undoing that protection magic." />
+  <key id="1226205419008470" feature="" npc="케이틀린" name="Shall we start?" />
+  <key id="1226205419008471" feature="" npc="케이틀린" name="We will play this formula in reverse to neutralize the protection magic, and use &lt;font color=&quot;#ffd200&quot;&gt;$item:30001033$&lt;/font&gt; and &lt;font color=&quot;#ffd200&quot;&gt;$item:30001034$&lt;/font&gt; that you gathered..." />
+  <key id="1226205419008472" feature="" npc="케이틀린" name="Here! You'll be able to read it now." />
+  <key id="1226205419008473" feature="" npc="PC" name="(You can really open the book and see the contents inside.)" />
+  <key id="1226205419008474" feature="" npc="케이틀린" name="See? This is the skill of the Ellinel class president! Have a more respectful attitude towards me when we meet again!" />
+  <key id="1226205419008475" feature="" npc="PC" name="(Say that you will return to Sky Fortress.)" />
+  <key id="1226205419008476" feature="" npc="케이틀린" name="Hey, did you listen to what I said? &lt;font size='40'&gt;HEY!&lt;/font&gt;" />
+  <key id="1226205419008477" feature="" npc="케이틀린" name="Don't forget to say good things about me to Professor &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000032[gender:0]$&lt;/font&gt;!" />
+  <key id="1226205419008478" feature="" npc="네이린" name="You're back, $MyPCName$! Did you get the magic on the secret ledger undone?" />
+  <key id="1226205419008479" feature="" npc="PC" name="(Say that it was safely undone and hand over the ledger.)" />
+  <key id="1226205419008480" feature="" npc="네이린" name="You're right! Good job. I'll take it from here!" />
+  <key id="1226205419008481" feature="" npc="네이린" name="...Hm? What's this? This doesn't even need to be analyzed." />
+  <key id="1226205419008482" feature="" npc="PC" name="(Ask about the contents inside.)" />
+  <key id="1226205419008483" feature="" npc="네이린" name="This company... siphoned off munition and dealt in illegal trade! But the client isn't written here... Most of the goods are banned for export." />
+  <key id="1226205419008484" feature="" npc="네이린" name="Spiked armor for shock troops... this is a new item from the Nerman Workshop... Lightweight alloy... this is normally used to improve the carrier but... also used as material for weapons... and there's a large quantity of floating stones." />
+  <key id="1226205419008485" feature="" npc="네이린" name="They could easily form a small scale fleet with this volume being traded." />
+  <key id="1226205419008486" feature="" npc="네이린" name="Hm... but many are missing as I look at the ledger carefully, and it's been happening regularly. I think the losses are being filled because the unit cost is expensive..." />
+  <key id="1226205419008487" feature="" npc="네이린" name="Why are things going missing regulary? I'll report this to the captain for now and analyze the cause." />
+  <key id="1226205419008488" feature="" npc="네이린" name="$MyPCName$, thank you for the support! I'll give you the details when the extensive analysis is complete." />
+  <key id="1226205419008489" feature="" npc="메이슨" name="$MyPCName$, the aura around you is telling me that you want to help me." />
+  <key id="1226205419008490" feature="" npc="메이슨" name="Fine. I will specially give you such an opportunity." />
+  <key id="1226205419008491" feature="" npc="PC" name="(...Say that you will help for now.)" />
+  <key id="1226205419008492" feature="" npc="메이슨" name="Just like the captain said, the Lumiknights will go to &lt;font color=&quot;#ffd200&quot;&gt;$map:52010053$&lt;/font&gt; and check for any singularities in that region." />
+  <key id="1226205419008493" feature="" npc="메이슨" name="But many monsters have been detected in that region. Thus, I would like you to take on your duty as the guardian knight. Wipe out the monsters and secure safety of that region." />
+  <key id="1226205419008494" feature="" npc="PC" name="(Ask why he's not taking the Lumiknights knights there.)" />
+  <key id="1226205419008495" feature="" npc="메이슨" name="They cannot come and go as they please since their existence is top secret. I'm able to speak with you from the start because the Q class secret has been lifted." />
+  <key id="1226205419008496" feature="" npc="메이슨" name="But even though the Q class secret has been lifted, I still feel uncomfortable acting and battling independently. I would like you to join me." />
+  <key id="1226205419008497" feature="" npc="PC" name="(He looks like a temple knight... ask why he feels uncomfortable with combat.)" />
+  <key id="1226205419008498" feature="" npc="메이슨" name="My magic sword... Addan Deith. Do you know why it hovers around me?" />
+  <key id="1226205419008499" feature="" npc="메이슨" name="It's to restrain me." />
+  <key id="1226205419008500" feature="" npc="메이슨" name="If I have the sword in my grasp... that day will become the last page of world history." />
+  <key id="1226205419008501" feature="" npc="메이슨" name="Addan Deith is a sword of many tears. It's a weak blade that feels for the world..." />
+  <key id="1226205419008502" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(...You will feel relieved if you just fought instead.)&lt;/font&gt;" />
+  <key id="1226205419008503" feature="" npc="메이슨" name="Your expression looks like you accept. Then, please depart without delay." />
+  <key id="1226205419008504" feature="" npc="메이슨" name="Didn't you hear what $npcName:11003536[gender:0]$ just said? Let's wrap things up here." />
+  <key id="1226205419008505" feature="" npc="메이슨" name="I knew it but you have good skills. It was worth it to come with you." />
+  <key id="1226205419008506" feature="" npc="메이슨" name="Anyways, the reaction of the monsters is negative and hostile than usual even though we appeared here out of the blue. It looks like something is in this region." />
+  <key id="1226205419008507" feature="" npc="메이슨" name="It's weak but... feels like a dark energy." />
+  <key id="1226205419008508" feature="" npc="메이슨" name="Hmph, a barrier..." />
+  <key id="1226205419008509" feature="" npc="메이슨" name="This energy is different from the usual dark energy I felt. It's difficult to detect it if you're not incredibly focused." />
+  <key id="1226205419008510" feature="" npc="메이슨" name="I need a catalyst. Please gather suspicious objects that I may get an intense feel of the traces of darkness." />
+  <key id="1226205419008511" feature="" npc="PC" name="(Say that you should look for it together.)" />
+  <key id="1226205419008512" feature="" npc="메이슨" name="...Are you sure? If the dark things come close to my body, it will cause a reaction and I might become evil... Would that be fine?" />
+  <key id="1226205419008513" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(...Let's hurry and find the suspicious object.)&lt;/font&gt;" />
+  <key id="1226205419008514" feature="" npc="메이슨" name="$MyPCName$, you're very quick and already on the move. Then I leave it to you." />
+  <key id="1226205419008515" feature="" npc="메이슨" name="Please gather suspicious objects that I may get an intense feel of the traces of darkness." />
+  <key id="1226205419008516" feature="" npc="메이슨" name="I get an intense feel of the traces of darkness as you come closer. It seems like you found them." />
+  <key id="1226205419008517" feature="" npc="메이슨" name="Then... let me take a look." />
+  <key id="1226205419008518" feature="" npc="PC" name="(Ask whether he's pushing his body too far by feeling the energy.)" />
+  <key id="1226205419008519" feature="" npc="메이슨" name="You don't need to worry about my safety. I can do this even for a thousand years if it will make the world better." />
+  <key id="1226205419008520" feature="" npc="PC" name="(Mason... he means it and isn't showing off by saying that.)" />
+  <key id="1226205419008521" feature="" npc="메이슨" name="..." />
+  <key id="1226205419008522" feature="" npc="PC" name="(Wait quietly for $npcName:11000401[gender:0]$.)" />
+  <key id="1226205419008523" feature="" npc="메이슨" name="&lt;font size='35'&gt;...This energy?&lt;/font&gt;" />
+  <key id="1226205419008524" feature="" npc="PC" name="What's the matter?" />
+  <key id="1226205419008525" feature="" npc="메이슨" name="I feel a huge evil energy... I'm at a lost for words to describe it..." />
+  <key id="1226205419008526" feature="" npc="메이슨" name="I can't believe such a great evil energy exists..." />
+  <key id="1226205419008527" feature="" npc="메이슨" name="Amazing. It's my first time sensing such a great evil energy." />
+  <key id="1226205419008528" feature="" npc="메이슨" name="But... this great evil energy has a different trait from the dark energy that I have felt. This is not a recent occurrence... it feels like a trait from the past when the goddesses of light and darkness existed." />
+  <key id="1226205419008529" feature="" npc="PC" name="(Ask if he found traces of the goddess of darkness.)" />
+  <key id="1226205419008530" feature="" npc="메이슨" name="Unfortunately, I don't think it's that. I didn't feel a divine aura from this evil trait." />
+  <key id="1226205419008531" feature="" npc="메이슨" name="...This... I will need to report to the captain and the senior command of the knights." />
+  <key id="1226205419008532" feature="" npc="메이슨" name="$MyPCName$, thank you for the trouble. Let's return to the carrier." />
+  <key id="1226205419008533" feature="" npc="블리체" name="It seems everyone finished their mission." />
+  <key id="1226205419008534" feature="" npc="블리체" name="Now share the information that everyone obtained." />
+  <key id="1226205419008535" feature="" npc="블리체" name="I now begin the meeting of commanders. Everyone, follow me to the operation center. Including you, $MyPCName$." />
+  <key id="1226205419008536" feature="" npc="블리체" name="Everyone, follow me to the operation center. Including you, $MyPCName$." />
+  <key id="1226205419008537" feature="" npc="블리체" name="First, I thank all of you for making this mission a top priority despite your busy schedule." />
+  <key id="1226205419008538" feature="" npc="샤텐" name="I didn't go through any trouble. It was $MyPCName$ who went through all the trouble!" />
+  <key id="1226205419008539" feature="" npc="네이린" name="That's right! The analysis of the ledger is almost complete thanks to $MyPCName$." />
+  <key id="1226205419008540" feature="" npc="콘대르" name="All these compliments! You sure are worthy of being under me!" />
+  <key id="1226205419008541" feature="" npc="메이슨" name="I would like to appoint you as an official guardian knight, but I will push that back for later." />
+  <key id="1226205419008542" feature="" npc="메이슨" name="Captain, I think something big is going to happen." />
+  <key id="1226205419008543" feature="" npc="블리체" name="That makes the two of us, Mason. I felt uncomfortable when I first received this mission." />
+  <key id="1226205419008544" feature="" npc="블리체" name="We will need to complile the investigatin results from each faction first." />
+  <key id="1226205419008545" feature="" npc="블리체" name="Royal Guard Leader, I ask you for the Tria Guard's investigation result first." />
+  <key id="1226205419008546" feature="" npc="블리체" name="I think it's best to check this image with all of you." />
+  <key id="1226205419008547" feature="" npc="콘대르" name="The Tria Guard, well... we didn't go through much. There was an unsettling rumor going around amongst the people and a picture of a black swan with a long neck." />
+  <key id="1226205419008548" feature="" npc="네이린" name="Uh... how does this look like a swan? Do you have farsightedness... from old age? Or did you look at this backwards?" />
+  <key id="1226205419008549" feature="" npc="콘대르" name="Hmph! You're saying the exact same thing that young guy said! I give up! If I saw this backwards-" />
+  <key id="1226205419008550" feature="" npc="콘대르" name="...Huh?" />
+  <key id="1226205419008551" feature="" npc="콘대르" name="This... is not a swan... Wait... I think I saw this before..." />
+  <key id="1226205419008552" feature="" npc="메이슨" name="What you're thinking about right now isn't too different from what I'm thinking." />
+  <key id="1226205419008553" feature="" npc="메이슨" name="The Lumiknights found dark energy at the trading ship crash site. But that trait... was very different from what we usually come into contact with. It was familiar but... strangely different..." />
+  <key id="1226205419008554" feature="" npc="메이슨" name="I'm also hazy with my memory on that trait. I could remember immediately if I had a critical clue..." />
+  <key id="1226205419008555" feature="" npc="블리체" name="Nairin, I then ask you for the Green Hoods' result while those two think." />
+  <key id="1226205419008556" feature="" npc="네이린" name="Yes, captain. The Green Hoods proceeded with the investigation based on the secret ledger given to us by Solvay from the Barrota Trading Company." />
+  <key id="1226205419008557" feature="" npc="네이린" name="$MyPCName$ went through much trouble in the process, but it wasn't a waste. The newly appointed president of the company was trading in illegal weapons. Lightweight alloy, spiked armor for shock troops, large quantity of floating stones, and so forth..." />
+  <key id="1226205419008558" feature="" npc="네이린" name="Although we don't know who the clients are, a considerable number of illegal weapons were traded. What's worse is that ledger states several tons went missing. There's a high chance that the missing trading ship was loaded with illegal weapons." />
+  <key id="1226205419008559" feature="" npc="샤텐" name="So that's why they were hiding the trade route! No wonder they did a quadruple data partition." />
+  <key id="1226205419008560" feature="" npc="샤텐" name="Captain, the trade route of the Barrota trading ship that Dark Wind investigated was very interesting." />
+  <key id="1226205419008561" feature="" npc="샤텐" name="4 ships had departure records but no entrance records. Doesn't the number match the destroyed ships and the missing ships?" />
+  <key id="1226205419008562" feature="" npc="샤텐" name="The interesting thing is that the trade route of all 4 ships passed the floating city of Orbis, and the signal was also lost near Orbis. " />
+  <key id="1226205419008563" feature="" npc="블리체" name="Orbis...?" />
+  <key id="1226205419008564" feature="" npc="블리체" name="Orbis... isn't that the ruined city that got destroyed during the War of Light and Darkness?" />
+  <key id="1226205419008565" feature="" npc="샤텐" name="Yes, that's correct. But the place is inhabited now, and the central part is still burning making it useless as a temporary base." />
+  <key id="1226205419008566" feature="" npc="샤텐" name="In other words, there is zero chance that pirates would have stayed there to plunder." />
+  <key id="1226205419008567" feature="" npc="블리체" name="What if they are not human but things that like fire are living there? What if they were the ones attacking the ships?" />
+  <key id="1226205419008568" feature="" npc="샤텐" name="Huh? What are you saying..." />
+  <key id="1226205419008569" feature="" npc="메이슨" name="...!" />
+  <key id="1226205419008570" feature="" npc="콘대르" name="Wait! I remembered something!" />
+  <key id="1226205419008571" feature="" npc="네이린" name="Oh, captain, I have an urgent report before that! The black box data has been restored!" />
+  <key id="1226205419008572" feature="" npc="블리체" name="...This clue may link everything." />
+  <key id="1226205419008573" feature="" npc="블리체" name="The information is enough." />
+  <key id="1226205419008574" feature="" npc="블리체" name="Analysis team, transmit the black box data to the operation center." />
+  <key id="1226205419008575" feature="" npc="블리체" name="What?!" />
+  <key id="1226205419008576" feature="" npc="PC" name="(Say that it's too blurry to see what it is.)" />
+  <key id="1226205419008577" feature="" npc="블리체" name="Screen, sharpen the image and restore the subject's form." />
+  <key id="1226205419008578" feature="" npc="네이린" name="Screen, sharpen the image and restore the subject's form!" />
+  <key id="1226205419008579" feature="" npc="네이린" name="Screen processing, stand by!" />
+  <key id="1226205419008580" feature="" npc="네이린" name="Subject form restoration almost complete!" />
+  <key id="1226205419008581" feature="" npc="네이린" name="Th-this is?!" />
+  <key id="1226205419008582" feature="" npc="블리체" name="Balrog... Crimson Balrog..." />
+  <key id="1226205419008583" feature="" npc="콘대르" name="That's it! No wonder it looked familiar. What I was trying to remember was them!" />
+  <key id="1226205419008584" feature="" npc="메이슨" name="This answers the question on the trait I felt. The image makes it clear." />
+  <key id="1226205419008585" feature="" npc="블리체" name="The culprit of the trading ship incident was... Crimson Balrog." />
+  <key id="1226205419008586" feature="" npc="블리체" name="I think we got all the information we need." />
+  <key id="1226205419008587" feature="" npc="블리체" name="$npcName:11003536[gender:0]$, enter the information gathered so far into the MAVIEW radar. Then apply the extensive filtering conditions and scan the entire Maple World. Let's see if it can avoid our eyes this time." />
+  <key id="1226205419008588" feature="" npc="네이린" name="Y-yes! Captain!" />
+  <key id="1226205419008589" feature="" npc="블리체" name="I look forward to the MAVIEW radar's scan result." />
+  <key id="1226205419008590" feature="" npc="블리체" name="$npcName:11003536[gender:0]$, what's the result?" />
+  <key id="1226205419008591" feature="" npc="네이린" name="Captain, there's tens... no, hundreds of signals detected by the radar." />
+  <key id="1226205419008592" feature="" npc="블리체" name="Location?" />
+  <key id="1226205419008593" feature="" npc="네이린" name="It's &lt;font color=&quot;#ffd200&quot;&gt;$map:02000049$&lt;/font&gt;!" />
+  <key id="1226205419008594" feature="" npc="블리체" name="It's strange that they would launch a large scale attack when they have never done anything to attract attention until now. Since this could be a trap by the enemy, just get rid of them all now that they have been found out by us." />
+  <key id="1226205419008595" feature="" npc="콘대르" name="How dare they to my homeland! I'll go there this instant and sweep them away." />
+  <key id="1226205419008596" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(He was from Perion?)&lt;/font&gt;" />
+  <key id="1226205419008597" feature="" npc="블리체" name="Calm down, $npcName:11003534[gender:0]$. All of us will head there." />
+  <key id="1226205419008598" feature="" npc="블리체" name="Everyone heard, right?" />
+  <key id="1226205419008599" feature="" npc="블리체" name="Everyone heard, right? Full speed to Perion!" />
+  <key id="1226205419008600" feature="" npc="블리체" name="Full speed to Perion!" />
+  <key id="1226205419008601" feature="" npc="트리스탄" name="I'm saved because all of you came in the nick of time. Thanks." />
+  <key id="1226205419008602" feature="" npc="PC" name="(Ask who he is.)" />
+  <key id="1226205419008603" feature="" npc="트리스탄" name="Let me introduce myself again. I'm &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144[gender:0]$&lt;/font&gt;." />
+  <key id="1226205419008604" feature="" npc="콘대르" name="Y-you!" />
+  <key id="1226205419008605" feature="" npc="트리스탄" name="It's been a while, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003534[gender:0]$&lt;/font&gt;. You still have a fiery temperament." />
+  <key id="1226205419008606" feature="" npc="콘대르" name="I couldn't believe my eyes when I saw you. Where have you been all this time! Are you trying to make a comeback after hearing I came back as well? You were always like that! Always following behind me..." />
+  <key id="1226205419008607" feature="" npc="PC" name="(Tell him to calm down and listen to what he has to say.)" />
+  <key id="1226205419008608" feature="" npc="트리스탄" name="It looks like everyone has many questions." />
+  <key id="1226205419008609" feature="" npc="트리스탄" name="Who's in charge here?" />
+  <key id="1226205419008610" feature="" npc="블리체" name="I'm the one in charge. The name's &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003582[gender:0]$&lt;/font&gt;. You can call me Captain &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003582[gender:0]$&lt;/font&gt;. You seem like an acquaintance of &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003534[gender:0]$&lt;/font&gt;..." />
+  <key id="1226205419008611" feature="" npc="콘대르" name="He's the former captain, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144[gender:0]$&lt;/font&gt;. He suddenly left the position of captain and disappeared to somewhere. I didn't know I would meet him again here." />
+  <key id="1226205419008612" feature="" npc="트리스탄" name="I see I'm late with the introduction. I'm &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144[gender:0]$&lt;/font&gt;." />
+  <key id="1226205419008613" feature="" npc="블리체" name="Can you explain who is after Perion and how did you know and come?" />
+  <key id="1226205419008614" feature="" npc="트리스탄" name="They are a gang of the &lt;font color=&quot;#ffd200&quot;&gt;Crimson Balrog&lt;/font&gt;. The minions of Balrog." />
+  <key id="1226205419008615" feature="" npc="PC" name="(Ask why they are after Perion.)" />
+  <key id="1226205419008616" feature="" npc="트리스탄" name="By nature, strength has been a top priority for the Balrog species. The name Balrog, representing their species, is given to the strongest among them whom they follow. But that Balrog has been helpless recently..." />
+  <key id="1226205419008617" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(Ah...)&lt;/font&gt;" />
+  <key id="1226205419008618" feature="" npc="트리스탄" name="&lt;font size='30'&gt;But before I continue, I will need to explain why that Balrog is helpless. &lt;font size='10'&gt;Then... well, I will need to explain why I went to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt; first. All of you must have thought I'm from &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt; because I was the former captain, but my homeland isn't &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt;. You might be curious but I'll pass since that information isn't important. Anyways, I went to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000001$&lt;/font&gt; for the first time and was amazed. It was a huge city unlike my homeland. I was almost overcome by the big city, but I came to my senses thinking I need to find what I need to do. But what can a rookie that just came from the countryside do? Naturally, nobody wanted to hire me. I was discouraged but a flier blew in front of me. That flier was a &lt;font size='30'&gt;knight recruitment.&lt;/font&gt; I thought, 'This is it!' I've been confident of my strength and reflexes ever since I was young. So I took part in the training and went into battles. I started to receive recognition and became the captain which I don't deserve. That is when I met this guy, &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003534[gender:0]$&lt;/font&gt;. He's a great comrade in arms. I spent such happy days, but felt that aura on a certain day. That aura was connected to &lt;font size='30'&gt;my family's task&lt;/font&gt;. " />
+  <key id="1226205419008619" feature="" npc="트리스탄" name="&lt;font size='30'&gt;There's a task that has been passed down through the generations in my family.&lt;font size='10'&gt; And that is to protect Maple World from Balrog. The story I'm about to tell you was passed down through the generations to my father, to his father, and to his father's father. My family used to defend Maple World in the past with the goddess of light. We spent peaceful days with the goddess of light, but a great evil energy took Maple World by surprise one day. &lt;font size='30'&gt;That was &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt;. The father of the current &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;.&lt;/font&gt; The goddess of light and my ancestor were in a fierce battle with &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt;, but they could not defeat him. The goddess of light thought the best they could do was to seal him. He was sealed in another dimension and the blood he shed during the battle was sealed in the holy mountain of Perion. His son secretly observed the process, absorbed the remnants, and called &lt;font size='30'&gt;himself &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;.&lt;font size='10'&gt; Afterwards, &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;hid himself and stayed quiet until the goddesses of light and darkness disappeared. After the goddesses were gone, he didn't stop to occupy Maple World. He continued to attack people and destroy cities. Then my ancestors made a decision after seeing those actions.&lt;/font&gt;" />
+  <key id="1226205419008620" feature="" npc="트리스탄" name="&lt;font size='30'&gt;That my family will go against Balrog to the end. &lt;font size='10'&gt;Afterwards, whenever &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; appeared, my ancestors went to stop him. &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; was always stopped by my ancestors because the past memory of seeing &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; defeated left a strong impression on him. His ambition to occupy Maple World always failed thanks to that. As this pattern went on for a long time, &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; became less active. When I heard this story from my father, I just thought of it as an old story passed down my family. As I was living peacefully as the captain, I suddenly felt &lt;font size='30'&gt;the aura of &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; one day.&lt;font size='10'&gt; I hesitated to make a move since I got used to the peaceful life. But the souls of my ancestors whispered to me. &lt;font size='30'&gt;Only you can stop &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;.&lt;font size='10'&gt; Afterwards, I stepped down from my position as captain and started the hunt for &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;. The memories of my ancestors helped me but it wasn't easy. That is why I asked the adventurers for help. They helped me wholeheartedly. I wasn't able to defeat &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; completely, but I was able to interfere with his actions. But as this repeated over and over, the minions of &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; no longer regarded him as their leader. As I mentioned earlier, strength is a top priority of the Balrog species." />
+  <key id="1226205419008621" feature="" npc="트리스탄" name="&lt;font size='30'&gt;That is why they thought they needed to look for a new leader.&lt;font size='10'&gt; The new leader they found was the evil demon, &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt;, that existed with the goddesses of light and darkness in the past. He is the father of the current &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;. A powerful medium is required to bring him back to Maple World as he was sealed by the goddess of light. They have looked for traces of &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; for a long time and finally found him. But &lt;font size='30'&gt;I don't know how they found out&lt;font size='10'&gt; the blood of &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; was in Perion. They couldn't have felt the aura of &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; since it was sealed in the holy mountain of Perion. Anyways, you asked why they are after Perion, right? It's because of the blood of &lt;font size='30'&gt;&lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt;.&lt;/font&gt; " />
+  <key id="1226205419008622" feature="" npc="블리체" name="&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003536[gender:0]$&lt;/font&gt;?" />
+  <key id="1226205419008623" feature="" npc="네이린" name="Yes, captain." />
+  <key id="1226205419008624" feature="" npc="블리체" name="Insert the conversation just now into the analysis tool and give a brief summary." />
+  <key id="1226205419008625" feature="" npc="네이린" name="...Exceeded available capacity for data analysis... Captain... it can't be analyzed..." />
+  <key id="1226205419008626" feature="" npc="콘대르" name="Was he always this talkative?" />
+  <key id="1226205419008627" feature="" npc="메이슨" name="&lt;font color=&quot;#ffd200&quot;&gt;Crimson Balrog&lt;/font&gt; betrayed &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt; because of his repeated failures and pushed ahead with the revival of &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; in order to serve a strong leader, and the medium to revive &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; is the blood of &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; sealed in &lt;font color=&quot;#ffd200&quot;&gt;$map:02000051$&lt;/font&gt;, correct?" />
+  <key id="1226205419008628" feature="" npc="트리스탄" name="Yes, that is what I was saying." />
+  <key id="1226205419008629" feature="" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(Total respect.)&lt;/font&gt;" />
+  <key id="1226205419008630" feature="" npc="트리스탄" name="It's been a while and I talked a lot." />
+  <key id="1226205419008631" feature="" npc="블리체" name="...I understood the general situation, but I still have one question." />
+  <key id="1226205419008632" feature="" npc="콘대르" name="That's right! How did you know and come here?" />
+  <key id="1226205419008633" feature="" npc="트리스탄" name="Welll... it's because of my ill-fated relationship with &lt;font color=&quot;#ffd200&quot;&gt;Balrog&lt;/font&gt;.&lt;font size='10'&gt; Didn't I talk about the story of how my ancestors hunted Balrog? That is when Balrog and my family...  " />
+  <key id="1226205419008634" feature="" npc="PC" name="W-wait!" />
+  <key id="1226205419008635" feature="" npc="트리스탄" name="Hm, what is it?" />
+  <key id="1226205419008636" feature="" npc="PC" name="(You look at $npcName:11000401[gender:0]$ asking for his interpretation.)" />
+  <key id="1226205419008637" feature="" npc="메이슨" name="I think it's best if we all heard it but..." />
+  <key id="1226205419008638" feature="" npc="블리체" name="Interpret." />
+  <key id="1226205419008639" feature="" npc="메이슨" name="I'll specially help you, $MyPCName$. &lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144[gender:0]$&lt;/font&gt;, please continue." />
+  <key id="1226205419008640" feature="" npc="트리스탄" name="... ... ... ...And that's what happened." />
+  <key id="1226205419008641" feature="" npc="메이슨" name="&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144[gender:0]$&lt;/font&gt; can feel Balrog's aura. It must be from the hunting experience passed them from his ancestors. He was looking for any abnormalities with the &lt;font color=&quot;#ffd200&quot;&gt;Crimson Balrogs&lt;/font&gt; and came here after observing a large scale movement.&#xA;" />
+  <key id="1226205419008642" feature="" npc="트리스탄" name="I was certain something serious is going on after seeing their large scale movement. I could stop them now but... I feel like the threat has already begun. " />
+  <key id="1226205419008643" feature="" npc="블리체" name="No matter what threat occurs, all we need to do is stop it. Everyone, make thorough preparations for the upcoming big threat." />
+  <key id="1226205419008644" feature="" npc="블리체" name="&lt;font size='40'&gt;There's nothing that can pierce through the shield of the skies.&lt;/font&gt;" />
+  <key id="1226205419008645" feature="" npc="블리체" name="$MyPCName$, there's information to be relayed to everyone." />
+  <key id="1226205419008646" feature="" npc="블리체" name="I'll brief on the details in the operation center." />
+  <key id="1226205419008647" feature="" npc="블리체" name="Call each faction officer to come as well..." />
+  <key id="1226205419008648" feature="" npc="블리체" name="&lt;font size='40'&gt;...Hm?&lt;/font&gt;" />
+  <key id="1226205419008649" feature="" npc="PC" name="(...?)" />
+  <key id="1226205419008650" feature="" npc="블리체" name="...It's nothing. Do not be concerned." />
+  <key id="1226205419008651" feature="" npc="블리체" name="(...It feels like someone is watching.)" />
+  <key id="1226205419008652" feature="" npc="블리체" name="&lt;font size='40'&gt;(I have a bad feeling about this...)&lt;/font&gt;" />
+  <key id="1226205419008653" feature="" npc="블리체" name="(...It feels like someone is watching.)" />
+  <key id="1226205419008654" feature="" npc="벨라" name="I apologize for being late, Black Mage. I was carrying out the order from &lt;font color=&quot;#ffd200&quot;&gt;Madria&lt;/font&gt;." />
+  <key id="1226205419008655" feature="" npc="검은 마법사" name="It doesn't matter, Bella. The arrival of &lt;font color=&quot;#ffd200&quot;&gt;Madrakan&lt;/font&gt; is more important than this gathering." />
+  <key id="1226205419008656" feature="" npc="발록" name="&lt;font size='40'&gt;Grrr...&lt;/font&gt; Black Mage... you are negligent in managing your subordinates. How dare they not keep the appointed time of their sovereign's call!" />
+  <key id="1226205419008657" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;Are you trying to teach me how to be a sovereign when you were betrayed by your own subordinates?&lt;/font&gt;" />
+  <key id="1226205419008658" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;Not only is your situation ridiculous, it's pathetic. I can't stand hearing more of it.&lt;/font&gt;" />
+  <key id="1226205419008659" feature="" npc="벨라" name="No wonder I don't see the &lt;font color=&quot;#ffd200&quot;&gt;Crimson Balrogs&lt;/font&gt;. Seems like you experienced something interesting like betrayal, oh Balrog." />
+  <key id="1226205419008660" feature="" npc="발록" name="&lt;font size='60'&gt;Why you puny human! You dare make fun of the demon king!&lt;/font&gt;" />
+  <key id="1226205419008661" feature="" npc="검은 마법사" name="You didn't come all the way here to show off your petty pride, did you?" />
+  <key id="1226205419008662" feature="" npc="검은 마법사" name="Or do you want me to finally take away your insignificant life?" />
+  <key id="1226205419008663" feature="" npc="발록" name="Back when you were the Mage of Light and the you now, you're still as arrogant as ever..." />
+  <key id="1226205419008664" feature="" npc="발록" name="&lt;font size='80'&gt;RAAAWR!&lt;/font&gt;" />
+  <key id="1226205419008665" feature="" npc="발록" name="It infuriates me but... I didn't come today to fight..." />
+  <key id="1226205419008666" feature="" npc="발록" name="I would like to have a fight right now but... I came all the way to this gloomy place today to make a &lt;font color=&quot;#ffd200&quot;&gt;deal&lt;/font&gt;." />
+  <key id="1226205419008680" feature="" npc="검은 마법사" name="It seems you found a way to wake him up, the great immortal monarch..." />
+  <key id="1227205319008725" feature="" npc="발록" name="I would like to have a fight right now but... I came all the way to this gloomy place today to make a &lt;font color=&quot;#ffd200&quot;&gt;deal&lt;/font&gt;." />
+  <key id="1227205319008726" feature="" npc="검은 마법사" name="A deal? It piques my interest a little." />
+  <key id="1227205319008727" feature="" npc="발록" name="...Just like you said, &lt;font color=&quot;#ffd200&quot;&gt;all of my subordinates betrayed me.&lt;/font&gt; Both the Crimson Balrogs and the warriors under them." />
+  <key id="1227205319008728" feature="" npc="검은 마법사" name="I'm fully aware that your species follow the way of strength. There's no reason for your subordinates to follow you when you lose to even those insignificant adventurers." />
+  <key id="1227205319008729" feature="" npc="벨라" name="It feels a bit late for them to betray you now. But the Crimson Balrogs don't really have a &lt;font color=&quot;#ffd200&quot;&gt;great demon to server&lt;/font&gt;." />
+  <key id="1227205319008730" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;No, there is one.&lt;/font&gt;" />
+  <key id="1227205319008731" feature="" npc="발록" name="&lt;font size='40'&gt;HAHAHAHA...! This will be easy to explain since you remember!&lt;/font&gt;" />
+  <key id="1227205319008732" feature="" npc="발록" name="&lt;font size='40'&gt;It's &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt;, an ancient Balrog who is also my father.&lt;/font&gt;" />
+  <key id="1227205319008733" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;Did he revive?&lt;/font&gt;" />
+  <key id="1227205319008734" feature="" npc="발록" name="Far from it! If &lt;font color=&quot;#ffd200&quot;&gt;Infernog&lt;/font&gt; revived, there's no way Maple World would be at peace like this." />
+  <key id="1227205319008735" feature="" npc="발록" name="...And I wouldn't be here at all." />
+  <key id="1227205319008736" feature="" npc="발록" name="But he's close to &lt;font color=&quot;#ffd200&quot;&gt;reviving&lt;/font&gt;. Didn't you see the signs?" />
+  <key id="1227205319008737" feature="" npc="벨라" name="Black Mage... I did witness the Crimson Balrogs in the skies frequently. It doesn't look like they are simply expanding their territory." />
+  <key id="1227205319008738" feature="" npc="검은 마법사" name="It seems they found a way to wake him. &lt;font color=&quot;#ffd200&quot;&gt;That great immortal monarch&lt;/font&gt;." />
+  <key id="1227205319008739" feature="" npc="발록" name="&lt;font size='40'&gt;HAHAHAHAHA! Black Mage!&lt;/font&gt;" />
+  <key id="1227205319008740" feature="" npc="발록" name="There's a &lt;font color=&quot;#ffd200&quot;&gt;huge carrier&lt;/font&gt; in the skies... and now a new disaster is trying to revive!" />
+  <key id="1227205319008741" feature="" npc="발록" name="Your plan, do you think it's feasible in this situation? That stopping the &lt;font color=&quot;#ffd200&quot;&gt;destruction from light&lt;/font&gt; or whatever it was." />
+  <key id="1227205319008742" feature="" npc="검은 마법사" name="..." />
+  <key id="1227205319008743" feature="" npc="벨라" name="Oh Balrog, you seem very confident in this situation. Didn't you come here because you have a solution?" />
+  <key id="1226205419008686" feature="" npc="발록" name="You are shrewd... puny human..." />
+  <key id="1226205419008700" feature="" npc="검은 마법사" name="..." />
+  <key id="1227205319008744" feature="" npc="발록" name="You are shrewd... puny human..." />
+  <key id="1227205319008745" feature="" npc="발록" name="Black Mage, I have a plan to get rid of these two variables at once." />
+  <key id="1227205319008746" feature="" npc="발록" name="&lt;font size='40'&gt;A plan to &lt;font color=&quot;#ffd200&quot;&gt;destroy that despicable ship&lt;/font&gt; and &lt;font color=&quot;#ffd200&quot;&gt;stop my father's revival&lt;/font&gt;.&lt;/font&gt;" />
+  <key id="1227205319008747" feature="" npc="발록" name="I'm the only one that knows the whereabouts of &lt;font color=&quot;#ffd200&quot;&gt;that thing&lt;/font&gt; needed to revive Infernog." />
+  <key id="1227205319008748" feature="" npc="발록" name="My subordinates are relying on &lt;font color=&quot;#ffd200&quot;&gt;rumors of that thing's whereabouts&lt;/font&gt; prying here and there." />
+  <key id="1227205319008749" feature="" npc="벨라" name="If we can utilize that rumor... we can move the Crimson Balrogs however we want. &lt;font color=&quot;#ffd200&quot;&gt;Such as creating an intentional encounter with the aircraft carrier...&lt;/font&gt; " />
+  <key id="1227205319008750" feature="" npc="벨라" name="Hm, it's just a matter of time until Sky Fortress is destroyed when you think of the strength and overwhelming troops of the Crimson Balrogs." />
+  <key id="1227205319008751" feature="" npc="발록" name="And when they're busy fighting and tire out... I will appear at that moment and destroy both sides! &lt;font color=&quot;#ffd200&quot;&gt;Both the annoying aircraft carrier and the traitorous group will vanish!&lt;/font&gt;" />
+  <key id="1227205319008752" feature="" npc="발록" name="&lt;font size='40'&gt;You will have two variables removed and I will become the king of my species once more with this deal. Aren't these good conditions?&lt;/font&gt;" />
+  <key id="1227205319008753" feature="" npc="발록" name="Hahaha! Think carefully, Black Mage. If Infernog revives, he will attack Maple World like before... &lt;font color=&quot;#ffd200&quot;&gt;Then do you think Ereve will be safe?&lt;/font&gt;" />
+  <key id="1227205319008754" feature="" npc="발록" name="If Infernog hurts Ereve... none of us will be safe..." />
+  <key id="1227205319008755" feature="" npc="발록" name="&lt;font size='40'&gt;&lt;font color=&quot;#ffd200&quot;&gt;From the destruction from light, that is.&lt;/font&gt;&lt;/font&gt;" />
+  <key id="1227205319008756" feature="" npc="검은 마법사" name="...Very interesting." />
+  <key id="1227205319008757" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;Did you come here calling that a deal?&lt;/font&gt;" />
+  <key id="1227205319008758" feature="" npc="검은 마법사" name="&lt;font color=&quot;#ffd200&quot;&gt;The great immortal monarch&lt;/font&gt;? You bring something that only applies to your kind and trying to make a deal with me?" />
+  <key id="1227205319008759" feature="" npc="검은 마법사" name="If Infernog dabbles in my plan even a little, your species will disappear at that moment." />
+  <key id="1227205319008760" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;The reason any of you are still alive is because I wasn't interested.&lt;/font&gt;" />
+  <key id="1227205319008761" feature="" npc="검은 마법사" name="But it seems you're begging me to take interest... Then I should exterminate you as you wish." />
+  <key id="1227205319008762" feature="" npc="발록" name="W-wait! Hold it, Black Mage!" />
+  <key id="1226205419008706" feature="" npc="발록" name="Grrr... I can't believe I have to do this..." />
+  <key id="1226205419008707" feature="" npc="발록" name="&lt;font size='40'&gt;Lapenta Shard...&lt;/font&gt;" />
+  <key id="1226205419008708" feature="" npc="발록" name="If you stop my father's revival... I will give you my Lapenta Shard..." />
+  <key id="1226205419008709" feature="" npc="발록" name="The Lapenta given to divine creatures... although this is a fragment of it, I know it will be tempting to you..." />
+  <key id="1226205419008710" feature="" npc="발록" name="...I'm saying this just in case, but I'm the only one that knows the whereabouts of my Lapenta! Don't even think of killing me for it!" />
+  <key id="1226205419008711" feature="" npc="검은 마법사" name="Hehehe... Balrog... I never imagined to see you begging for your life... This is very interesting..." />
+  <key id="1226205419008712" feature="" npc="검은 마법사" name="&lt;font size='40'&gt;Fine, I accept your tribute.&lt;/font&gt;" />
+  <key id="1226205419008713" feature="" npc="검은 마법사" name="Find the things that chipmunk hid. Seems like he hid them well to extend his insignificant life, hehehe..." />
+  <key id="1226205419008714" feature="" npc="발록" name="&lt;font size='60'&gt;RAAAWR! Chipmunk?&lt;/font&gt;" />
+  <key id="1226205419008715" feature="" npc="벨라" name="Oh Balrog, I'm jealous that the Black Mage adores you, hehehe..." />
+  <key id="1226205419008716" feature="" npc="발록" name="(Jerks... once I recover my power... I'll get rid of you... grr...)" />
+  <key id="1226205419008717" feature="" npc="벨라" name="&lt;font size='40'&gt;Black Mage, should I bring &lt;font color=&quot;#ffd200&quot;&gt;Turka&lt;/font&gt;?&lt;/font&gt;" />
+  <key id="1226205419008718" feature="" npc="검은 마법사" name="No, I don't trust him." />
+  <key id="1226205419008719" feature="" npc="검은 마법사" name="&lt;font color=&quot;#ffd200&quot;&gt;Corrupting Katvan was not part of the plan.&lt;/font&gt; The aftereffect was that Sky Fortress fell into their hands." />
+  <key id="1226205419008720" feature="" npc="검은 마법사" name="Bella, I'll leave you to Balrog for a while. You will carry out his plan." />
+  <key id="1226205419008721" feature="" npc="검은 마법사" name="&lt;font size='35'&gt;It will be fun to get rid of Sky Fortress as well. Make them long for the skies.&lt;/font&gt;" />
+  <key id="1226205419008722" feature="" npc="벨라" name="&lt;font size='35'&gt;Yes, Black Mage. I follow your command.&lt;/font&gt;" />
+  <key id="0112150219008763" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008763_NAME" />
+  <key id="0112150219008764" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008764_NAME" />
+  <key id="0112150219008765" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008765_NAME" />
+  <key id="0112150219008766" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008766_NAME" />
+  <key id="0112150219008767" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008767_NAME" />
+  <key id="0112150219008768" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0112150219008768_NAME" />
+  <key id="0112150219008769" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008769_NAME" />
+  <key id="0112150219008770" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008770_NAME" />
+  <key id="0112150219008771" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0112150219008771_NAME" />
+  <key id="0112150219008772" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0112150219008772_NAME" />
+  <key id="0112150219008773" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0112150219008773_NAME" />
+  <key id="0112150219008774" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008774_NAME" />
+  <key id="0112150219008775" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008775_NAME" />
+  <key id="0112150219008776" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008776_NAME" />
+  <key id="0112150219008777" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008777_NAME" />
+  <key id="0112150219008778" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0112150219008778_NAME" />
+  <key id="0112150219008779" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008779_NAME" />
+  <key id="0112150219008780" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0112150219008780_NAME" />
+  <key id="0112150219008781" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008781_NAME" />
+  <key id="0112150219008782" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008782_NAME" />
+  <key id="0112150219008783" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008783_NAME" />
+  <key id="0112150219008784" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0112150219008784_NAME" />
+  <key id="0112150219008785" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0112150219008785_NAME" />
+  <key id="0112150219008786" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0112150219008786_NAME" />
+  <key id="0112150219008787" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0112150219008787_NAME" />
+  <key id="0112150219008788" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0112150219008788_NAME" />
+  <key id="0112150219008789" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0112150219008789_NAME" />
+  <key id="0112150219008790" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008790_NAME" />
+  <key id="0112150219008791" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008791_NAME" />
+  <key id="0112150219008792" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0112150219008792_NAME" />
+  <key id="0112150219008793" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0112150219008793_NAME" />
+  <key id="0112150219008794" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0112150219008794_NAME" />
+  <key id="0112150219008795" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0112150219008795_NAME" />
+  <key id="0112155619008805" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0112155619008805_NAME" />
+  <key id="0112155619008806" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0112155619008806_NAME" />
+  <key id="0112155619008807" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0112155619008807_NAME" />
+  <key id="0112150219008796" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0112150219008796_NAME" />
+  <key id="0112160419008808" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112160419008808_NAME" />
+  <key id="0112150219008797" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008797_NAME" />
+  <key id="0112150219008798" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008798_NAME" />
+  <key id="0112150219008799" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008799_NAME" />
+  <key id="0112150219008800" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008800_NAME" />
+  <key id="0118103519009085" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118103519009085_NAME" />
+  <key id="0118103519009086" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118103519009086_NAME" />
+  <key id="0112150219008804" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112150219008804_NAME" />
+  <key id="0112182719008809" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008809_NAME" />
+  <key id="0112182719008810" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0112182719008810_NAME" />
+  <key id="0112182719008811" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008811_NAME" />
+  <key id="0115104519008818" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115104519008818_NAME" />
+  <key id="0115104519008819" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115104519008819_NAME" />
+  <key id="0115104519008820" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115104519008820_NAME" />
+  <key id="0112182719008812" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008812_NAME" />
+  <key id="0112182719008813" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0112182719008813_NAME" />
+  <key id="0112182719008814" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008814_NAME" />
+  <key id="0112182719008815" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008815_NAME" />
+  <key id="0112182719008816" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008816_NAME" />
+  <key id="0115104519008821" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115104519008821_NAME" />
+  <key id="0115104519008822" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115104519008822_NAME" />
+  <key id="0115104519008823" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115104519008823_NAME" />
+  <key id="0115104519008824" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0115104519008824_NAME" />
+  <key id="0115104519008825" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115104519008825_NAME" />
+  <key id="0115104519008826" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0115104519008826_NAME" />
+  <key id="0115104519008827" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115104519008827_NAME" />
+  <key id="0115104519008828" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115104519008828_NAME" />
+  <key id="0115104519008829" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115104519008829_NAME" />
+  <key id="0115104519008830" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115104519008830_NAME" />
+  <key id="0115111619008836" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115111619008836_NAME" />
+  <key id="0112182719008817" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0112182719008817_NAME" />
+  <key id="0115105319008831" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115105319008831_NAME" />
+  <key id="0115105319008832" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115105319008832_NAME" />
+  <key id="0115105319008833" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115105319008833_NAME" />
+  <key id="0115105319008834" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115105319008834_NAME" />
+  <key id="0115112519008843" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115112519008843_NAME" />
+  <key id="0115105319008835" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115105319008835_NAME" />
+  <key id="0115111619008837" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115111619008837_NAME" />
+  <key id="0115111619008838" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115111619008838_NAME" />
+  <key id="0115111619008839" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115111619008839_NAME" />
+  <key id="0115111619008840" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115111619008840_NAME" />
+  <key id="0115111619008841" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115111619008841_NAME" />
+  <key id="0115111619008842" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115111619008842_NAME" />
+  <key id="0115134319008844" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008844_NAME" />
+  <key id="0115134319008845" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008845_NAME" />
+  <key id="0115134319008846" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008846_NAME" />
+  <key id="0115134319008847" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008847_NAME" />
+  <key id="0115134319008848" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008848_NAME" />
+  <key id="0115134319008849" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008849_NAME" />
+  <key id="0115134319008850" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008850_NAME" />
+  <key id="0115134319008851" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008851_NAME" />
+  <key id="0115134319008852" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008852_NAME" />
+  <key id="0115134319008853" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008853_NAME" />
+  <key id="0115134319008854" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008854_NAME" />
+  <key id="0115134319008855" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008855_NAME" />
+  <key id="0115134319008856" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0115134319008856_NAME" />
+  <key id="0115134319008857" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0115134319008857_NAME" />
+  <key id="0115134319008858" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008858_NAME" />
+  <key id="0115134319008859" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008859_NAME" />
+  <key id="0115134319008860" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0115134319008860_NAME" />
+  <key id="0115134319008861" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008861_NAME" />
+  <key id="0115134319008862" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008862_NAME" />
+  <key id="0115134319008863" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115134319008863_NAME" />
+  <key id="0115134319008864" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115134319008864_NAME" />
+  <key id="0115134319008865" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008865_NAME" />
+  <key id="0115134319008866" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008866_NAME" />
+  <key id="0115134319008867" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115134319008867_NAME" />
+  <key id="0115143619008870" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115143619008870_NAME" />
+  <key id="0115134319008868" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0115134319008868_NAME" />
+  <key id="0115212719008871" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008871_NAME" />
+  <key id="0115212719008872" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008872_NAME" />
+  <key id="0115212719008873" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008873_NAME" />
+  <key id="0115212719008874" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008874_NAME" />
+  <key id="0115212719008875" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008875_NAME" />
+  <key id="0115212719008876" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115212719008876_NAME" />
+  <key id="0115212719008877" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008877_NAME" />
+  <key id="0115212719008878" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115212719008878_NAME" />
+  <key id="0115212719008879" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0115212719008879_NAME" />
+  <key id="0115212719008880" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0115212719008880_NAME" />
+  <key id="0115212719008881" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0115212719008881_NAME" />
+  <key id="0115212719008882" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115212719008882_NAME" />
+  <key id="0115212719008883" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0115212719008883_NAME" />
+  <key id="0122200419009511" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0122200419009511_NAME" />
+  <key id="0115212719008884" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008884_NAME" />
+  <key id="0115212719008885" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008885_NAME" />
+  <key id="0115212719008886" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008886_NAME" />
+  <key id="0115212719008887" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008887_NAME" />
+  <key id="0115212719008888" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0115212719008888_NAME" />
+  <key id="0115212719008889" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008889_NAME" />
+  <key id="0115212719008890" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0115212719008890_NAME" />
+  <key id="0115212719008891" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008891_NAME" />
+  <key id="0115212719008892" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008892_NAME" />
+  <key id="0115212719008893" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115212719008893_NAME" />
+  <key id="0115212719008894" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008894_NAME" />
+  <key id="0115212719008895" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008895_NAME" />
+  <key id="0115212719008896" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008896_NAME" />
+  <key id="0115212719008897" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008897_NAME" />
+  <key id="0115212719008898" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008898_NAME" />
+  <key id="0115212719008899" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008899_NAME" />
+  <key id="0115212719008900" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008900_NAME" />
+  <key id="0115212719008901" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008901_NAME" />
+  <key id="0115212719008902" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008902_NAME" />
+  <key id="0115212719008903" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008903_NAME" />
+  <key id="0115212719008904" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008904_NAME" />
+  <key id="0115212719008905" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0115212719008905_NAME" />
+  <key id="0115212719008906" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008906_NAME" />
+  <key id="0115212719008907" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115212719008907_NAME" />
+  <key id="0115212719008908" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008908_NAME" />
+  <key id="0115212719008909" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0115212719008909_NAME" />
+  <key id="0115212719008910" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0115212719008910_NAME" />
+  <key id="0115212719008911" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0115212719008911_NAME" />
+  <key id="0116134519008818" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008818_NAME" />
+  <key id="0116134519008819" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008819_NAME" />
+  <key id="0116134519008820" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008820_NAME" />
+  <key id="0116134519008821" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008821_NAME" />
+  <key id="0116134519008822" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116134519008822_NAME" />
+  <key id="0116134519008823" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008823_NAME" />
+  <key id="0122204719009512" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0122204719009512_NAME" />
+  <key id="0116134519008824" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008824_NAME" />
+  <key id="0116134519008825" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116134519008825_NAME" />
+  <key id="0116134519008826" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008826_NAME" />
+  <key id="0116134519008827" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008827_NAME" />
+  <key id="0116134519008828" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008828_NAME" />
+  <key id="0116134519008829" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008829_NAME" />
+  <key id="0116134519008830" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116134519008830_NAME" />
+  <key id="0116134519008831" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008831_NAME" />
+  <key id="0116134519008832" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116134519008832_NAME" />
+  <key id="0116134519008833" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008833_NAME" />
+  <key id="0116134519008834" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008834_NAME" />
+  <key id="0116134519008835" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008835_NAME" />
+  <key id="0116134519008836" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008836_NAME" />
+  <key id="0116134519008837" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008837_NAME" />
+  <key id="0116152019008859" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116152019008859_NAME" />
+  <key id="0116152019008860" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116152019008860_NAME" />
+  <key id="0116134519008838" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008838_NAME" />
+  <key id="0116134519008839" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116134519008839_NAME" />
+  <key id="0116134519008840" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008840_NAME" />
+  <key id="0116134519008841" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008841_NAME" />
+  <key id="0116134519008842" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116134519008842_NAME" />
+  <key id="0116134519008843" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116134519008843_NAME" />
+  <key id="0116163619008861" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008861_NAME" />
+  <key id="0116163619008862" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008862_NAME" />
+  <key id="0116163619008863" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008863_NAME" />
+  <key id="0116163619008864" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008864_NAME" />
+  <key id="0116163619008865" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008865_NAME" />
+  <key id="0116163619008866" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008866_NAME" />
+  <key id="0116163619008867" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008867_NAME" />
+  <key id="0116163619008868" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008868_NAME" />
+  <key id="0116163619008869" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008869_NAME" />
+  <key id="0116163619008870" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008870_NAME" />
+  <key id="0116163619008871" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008871_NAME" />
+  <key id="0116163619008872" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008872_NAME" />
+  <key id="0116163619008873" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008873_NAME" />
+  <key id="0116163619008874" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008874_NAME" />
+  <key id="0116163619008875" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008875_NAME" />
+  <key id="0116163619008876" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008876_NAME" />
+  <key id="0116163619008877" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008877_NAME" />
+  <key id="0116163619008878" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008878_NAME" />
+  <key id="0116163619008879" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008879_NAME" />
+  <key id="0116163619008880" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008880_NAME" />
+  <key id="0116163619008881" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008881_NAME" />
+  <key id="0116163619008882" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0116163619008882_NAME" />
+  <key id="0116163619008883" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008883_NAME" />
+  <key id="0116163619008884" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008884_NAME" />
+  <key id="0116163619008885" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008885_NAME" />
+  <key id="0116163619008886" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008886_NAME" />
+  <key id="0116163619008887" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008887_NAME" />
+  <key id="0116163619008888" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008888_NAME" />
+  <key id="0116163619008889" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008889_NAME" />
+  <key id="0116163619008890" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008890_NAME" />
+  <key id="0116163619008891" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008891_NAME" />
+  <key id="0116163619008892" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116163619008892_NAME" />
+  <key id="0116163619008893" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116163619008893_NAME" />
+  <key id="0116134519008850" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116134519008850_NAME" />
+  <key id="0116200019008894" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116200019008894_NAME" />
+  <key id="0116200019008895" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116200019008895_NAME" />
+  <key id="0116200019008896" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116200019008896_NAME" />
+  <key id="0116200019008897" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116200019008897_NAME" />
+  <key id="0116200019008898" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008898_NAME" />
+  <key id="0116200019008899" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116200019008899_NAME" />
+  <key id="0116200019008900" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008900_NAME" />
+  <key id="0116214119008951" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116214119008951_NAME" />
+  <key id="0116200019008901" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008901_NAME" />
+  <key id="0116200019008902" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008902_NAME" />
+  <key id="0116200019008903" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008903_NAME" />
+  <key id="0116200019008904" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0116200019008904_NAME" />
+  <key id="0116200019008905" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008905_NAME" />
+  <key id="0116200019008906" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116200019008906_NAME" />
+  <key id="0116200019008907" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116200019008907_NAME" />
+  <key id="0116205019008908" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008908_NAME" />
+  <key id="0116205019008909" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008909_NAME" />
+  <key id="0116205019008910" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008910_NAME" />
+  <key id="0116214119008952" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116214119008952_NAME" />
+  <key id="0116205019008911" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008911_NAME" />
+  <key id="0116205019008912" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008912_NAME" />
+  <key id="0116205019008913" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008913_NAME" />
+  <key id="0116205019008914" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008914_NAME" />
+  <key id="0116205019008915" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008915_NAME" />
+  <key id="0116205019008916" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008916_NAME" />
+  <key id="0116205019008917" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008917_NAME" />
+  <key id="0116205019008918" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008918_NAME" />
+  <key id="0116205019008919" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008919_NAME" />
+  <key id="0116205019008920" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008920_NAME" />
+  <key id="0116205019008921" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008921_NAME" />
+  <key id="0116205019008922" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008922_NAME" />
+  <key id="0116205019008923" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008923_NAME" />
+  <key id="0116205019008924" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008924_NAME" />
+  <key id="0116205019008925" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008925_NAME" />
+  <key id="0116205019008926" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008926_NAME" />
+  <key id="0116205019008927" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008927_NAME" />
+  <key id="0116205019008928" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008928_NAME" />
+  <key id="0116205019008929" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0116205019008929_NAME" />
+  <key id="0116205019008930" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0116205019008930_NAME" />
+  <key id="0116212919008931" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0116212919008931_NAME" />
+  <key id="0117125219008980" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008980_NAME" />
+  <key id="0117125219008981" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008981_NAME" />
+  <key id="0117125219008982" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008982_NAME" />
+  <key id="0117125219008983" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008983_NAME" />
+  <key id="0117125219008984" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008984_NAME" />
+  <key id="0117125219008985" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008985_NAME" />
+  <key id="0117125219008986" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008986_NAME" />
+  <key id="0117125219008987" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008987_NAME" />
+  <key id="0117125219008988" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008988_NAME" />
+  <key id="0117125219008989" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008989_NAME" />
+  <key id="0117125219008990" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008990_NAME" />
+  <key id="0117125219008991" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008991_NAME" />
+  <key id="0117125219008992" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008992_NAME" />
+  <key id="0117125219008993" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008993_NAME" />
+  <key id="0117125219008994" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008994_NAME" />
+  <key id="0117125219008995" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008995_NAME" />
+  <key id="0117125219008996" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008996_NAME" />
+  <key id="0117125219008997" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008997_NAME" />
+  <key id="0117125219008998" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219008998_NAME" />
+  <key id="0117125219008999" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219008999_NAME" />
+  <key id="0117125219009000" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0117125219009000_NAME" />
+  <key id="0117125219009001" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009001_NAME" />
+  <key id="0117125219009002" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009002_NAME" />
+  <key id="0117130119009026" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117130119009026_NAME" />
+  <key id="0117125219009003" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009003_NAME" />
+  <key id="0117125219009004" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009004_NAME" />
+  <key id="0117125219009005" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117125219009005_NAME" />
+  <key id="0117125219009006" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219009006_NAME" />
+  <key id="0117125219009007" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117125219009007_NAME" />
+  <key id="0117125219009008" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117125219009008_NAME" />
+  <key id="0117125219009009" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009009_NAME" />
+  <key id="0117125219009010" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009010_NAME" />
+  <key id="0117130119009027" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117130119009027_NAME" />
+  <key id="0117125219009011" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009011_NAME" />
+  <key id="0117125219009012" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009012_NAME" />
+  <key id="0117125219009013" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009013_NAME" />
+  <key id="0117125219009014" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219009014_NAME" />
+  <key id="0117125219009015" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219009015_NAME" />
+  <key id="0117125219009016" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009016_NAME" />
+  <key id="0117125219009017" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219009017_NAME" />
+  <key id="0117125219009018" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009018_NAME" />
+  <key id="0117125219009019" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117125219009019_NAME" />
+  <key id="0117125219009020" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009020_NAME" />
+  <key id="0117125219009021" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117125219009021_NAME" />
+  <key id="0117125219009022" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117125219009022_NAME" />
+  <key id="0117125219009023" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117125219009023_NAME" />
+  <key id="0117125219009024" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117125219009024_NAME" />
+  <key id="0117125219009025" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117125219009025_NAME" />
+  <key id="0117140119009028" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009028_NAME" />
+  <key id="0117140119009029" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009029_NAME" />
+  <key id="0117140119009030" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009030_NAME" />
+  <key id="0117140119009031" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117140119009031_NAME" />
+  <key id="0117140119009032" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009032_NAME" />
+  <key id="0117140119009033" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009033_NAME" />
+  <key id="0117140119009034" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009034_NAME" />
+  <key id="0117140119009035" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009035_NAME" />
+  <key id="0117140119009036" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009036_NAME" />
+  <key id="0117140119009037" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117140119009037_NAME" />
+  <key id="0117140119009038" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009038_NAME" />
+  <key id="0117140119009039" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009039_NAME" />
+  <key id="0117140119009040" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117140119009040_NAME" />
+  <key id="0117140119009041" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009041_NAME" />
+  <key id="0117140119009042" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117140119009042_NAME" />
+  <key id="0117151719009043" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009043_NAME" />
+  <key id="0117151719009044" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117151719009044_NAME" />
+  <key id="0117151719009045" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009045_NAME" />
+  <key id="0117151719009046" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117151719009046_NAME" />
+  <key id="0117151719009047" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009047_NAME" />
+  <key id="0117151719009048" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009048_NAME" />
+  <key id="0117151719009049" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009049_NAME" />
+  <key id="0117151719009050" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009050_NAME" />
+  <key id="0117151719009051" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009051_NAME" />
+  <key id="0117151719009052" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117151719009052_NAME" />
+  <key id="0117151719009053" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009053_NAME" />
+  <key id="0117151719009054" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009054_NAME" />
+  <key id="0117151719009055" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117151719009055_NAME" />
+  <key id="0117151719009056" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009056_NAME" />
+  <key id="0117151719009057" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117151719009057_NAME" />
+  <key id="0117151719009058" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009058_NAME" />
+  <key id="0117151719009059" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009059_NAME" />
+  <key id="0117151719009060" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117151719009060_NAME" />
+  <key id="0117151719009061" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0117151719009061_NAME" />
+  <key id="0117154419009062" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117154419009062_NAME" />
+  <key id="0117154419009063" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117154419009063_NAME" />
+  <key id="0117154419009064" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117154419009064_NAME" />
+  <key id="0117154419009065" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117154419009065_NAME" />
+  <key id="0117154419009066" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0117154419009066_NAME" />
+  <key id="0117181919009067" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009067_NAME" />
+  <key id="0117181919009068" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117181919009068_NAME" />
+  <key id="0117181919009069" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009069_NAME" />
+  <key id="0117181919009070" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117181919009070_NAME" />
+  <key id="0117181919009071" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009071_NAME" />
+  <key id="0117181919009072" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117181919009072_NAME" />
+  <key id="0117181919009073" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117181919009073_NAME" />
+  <key id="0117181919009074" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117181919009074_NAME" />
+  <key id="0117181919009075" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117181919009075_NAME" />
+  <key id="0117181919009076" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009076_NAME" />
+  <key id="0117181919009077" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009077_NAME" />
+  <key id="0117181919009078" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009078_NAME" />
+  <key id="0117181919009079" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0117181919009079_NAME" />
+  <key id="0117181919009080" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117181919009080_NAME" />
+  <key id="0117181919009081" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009081_NAME" />
+  <key id="0117181919009082" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0117181919009082_NAME" />
+  <key id="0117181919009083" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009083_NAME" />
+  <key id="0117181919009084" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0117181919009084_NAME" />
+  <key id="0118212219009299" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009299_NAME" />
+  <key id="0118212219009300" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009300_NAME" />
+  <key id="0118212219009301" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009301_NAME" />
+  <key id="0118212219009302" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009302_NAME" />
+  <key id="0118212219009303" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009303_NAME" />
+  <key id="0118212219009304" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009304_NAME" />
+  <key id="0118212219009305" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009305_NAME" />
+  <key id="0118212219009306" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009306_NAME" />
+  <key id="0118212219009307" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009307_NAME" />
+  <key id="0118212219009308" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009308_NAME" />
+  <key id="0118212219009309" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009309_NAME" />
+  <key id="0118212219009310" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009310_NAME" />
+  <key id="0118212219009311" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009311_NAME" />
+  <key id="0118212219009312" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009312_NAME" />
+  <key id="0118212219009313" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009313_NAME" />
+  <key id="0118212219009314" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009314_NAME" />
+  <key id="0118212219009315" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009315_NAME" />
+  <key id="0118212219009316" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009316_NAME" />
+  <key id="0118212219009317" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009317_NAME" />
+  <key id="0118212219009318" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009318_NAME" />
+  <key id="0118212219009319" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009319_NAME" />
+  <key id="0118212219009320" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009320_NAME" />
+  <key id="0118212219009321" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009321_NAME" />
+  <key id="0118212219009322" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009322_NAME" />
+  <key id="0118212219009323" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009323_NAME" />
+  <key id="0118212219009324" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009324_NAME" />
+  <key id="0118212219009325" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009325_NAME" />
+  <key id="0118212219009326" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009326_NAME" />
+  <key id="0118212219009327" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009327_NAME" />
+  <key id="0118212219009328" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009328_NAME" />
+  <key id="0118212219009329" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009329_NAME" />
+  <key id="0118212219009330" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009330_NAME" />
+  <key id="0118212219009331" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009331_NAME" />
+  <key id="0118212219009332" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009332_NAME" />
+  <key id="0118212219009333" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009333_NAME" />
+  <key id="0118212219009334" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009334_NAME" />
+  <key id="0118212219009335" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009335_NAME" />
+  <key id="0118212219009336" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009336_NAME" />
+  <key id="0118212219009337" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009337_NAME" />
+  <key id="0118212219009338" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009338_NAME" />
+  <key id="0118212219009339" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009339_NAME" />
+  <key id="0118212219009340" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009340_NAME" />
+  <key id="0118212219009341" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009341_NAME" />
+  <key id="0118212219009342" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009342_NAME" />
+  <key id="0118212219009343" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009343_NAME" />
+  <key id="0118212219009344" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009344_NAME" />
+  <key id="0118212219009345" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009345_NAME" />
+  <key id="0118212219009346" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009346_NAME" />
+  <key id="0118212219009347" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009347_NAME" />
+  <key id="0118212219009348" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009348_NAME" />
+  <key id="0118212219009349" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009349_NAME" />
+  <key id="0118212219009350" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009350_NAME" />
+  <key id="0118212219009351" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009351_NAME" />
+  <key id="0118212219009352" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009352_NAME" />
+  <key id="0118212219009353" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009353_NAME" />
+  <key id="0118212219009354" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009354_NAME" />
+  <key id="0118212219009355" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009355_NAME" />
+  <key id="0118212219009356" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009356_NAME" />
+  <key id="0118212219009357" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009357_NAME" />
+  <key id="0118212219009358" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009358_NAME" />
+  <key id="0118212219009359" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009359_NAME" />
+  <key id="0118212219009360" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009360_NAME" />
+  <key id="0118212219009361" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009361_NAME" />
+  <key id="0118212219009362" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009362_NAME" />
+  <key id="0118212219009363" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009363_NAME" />
+  <key id="0118212219009364" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009364_NAME" />
+  <key id="0118212219009365" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009365_NAME" />
+  <key id="0118212219009366" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009366_NAME" />
+  <key id="0118212219009367" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009367_NAME" />
+  <key id="0118212219009368" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009368_NAME" />
+  <key id="0118212219009369" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009369_NAME" />
+  <key id="0118212219009370" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009370_NAME" />
+  <key id="0118212219009371" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009371_NAME" />
+  <key id="0118212219009372" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009372_NAME" />
+  <key id="0118212219009373" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009373_NAME" />
+  <key id="0118212219009374" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009374_NAME" />
+  <key id="0118212219009375" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009375_NAME" />
+  <key id="0118212219009376" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009376_NAME" />
+  <key id="0118212219009377" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009377_NAME" />
+  <key id="0118212219009378" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009378_NAME" />
+  <key id="0118212219009379" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009379_NAME" />
+  <key id="0118212219009380" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009380_NAME" />
+  <key id="0118212219009381" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009381_NAME" />
+  <key id="0118212219009382" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009382_NAME" />
+  <key id="0118212219009383" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009383_NAME" />
+  <key id="0118212219009384" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009384_NAME" />
+  <key id="0118212219009385" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009385_NAME" />
+  <key id="0118212219009386" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009386_NAME" />
+  <key id="0118212219009387" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009387_NAME" />
+  <key id="0118212219009388" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009388_NAME" />
+  <key id="0118212219009389" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009389_NAME" />
+  <key id="0118212219009390" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009390_NAME" />
+  <key id="0118212219009391" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009391_NAME" />
+  <key id="0118212219009392" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009392_NAME" />
+  <key id="0118212219009393" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009393_NAME" />
+  <key id="0118212219009394" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009394_NAME" />
+  <key id="0118212219009395" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009395_NAME" />
+  <key id="0118212219009396" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009396_NAME" />
+  <key id="0118212219009397" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009397_NAME" />
+  <key id="0118212219009398" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009398_NAME" />
+  <key id="0118212219009399" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009399_NAME" />
+  <key id="0118212219009400" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009400_NAME" />
+  <key id="0118212219009401" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009401_NAME" />
+  <key id="0118212219009402" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009402_NAME" />
+  <key id="0118212219009403" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009403_NAME" />
+  <key id="0118212219009404" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009404_NAME" />
+  <key id="0118212219009405" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009405_NAME" />
+  <key id="0118212219009406" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009406_NAME" />
+  <key id="0118212219009407" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009407_NAME" />
+  <key id="0118212219009408" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009408_NAME" />
+  <key id="0118212219009409" feature="" npc="샤텐" name="SCRIPTQUESTFAMECONTENTS_0118212219009409_NAME" />
+  <key id="0118212219009410" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009410_NAME" />
+  <key id="0118212219009411" feature="" npc="메이슨" name="SCRIPTQUESTFAMECONTENTS_0118212219009411_NAME" />
+  <key id="0118212219009412" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009412_NAME" />
+  <key id="0118212219009413" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009413_NAME" />
+  <key id="0118212219009414" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009414_NAME" />
+  <key id="0118212219009415" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009415_NAME" />
+  <key id="0118212219009416" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009416_NAME" />
+  <key id="0118212219009417" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009417_NAME" />
+  <key id="0118212219009418" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009418_NAME" />
+  <key id="0118212219009419" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009419_NAME" />
+  <key id="0118212219009420" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009420_NAME" />
+  <key id="0118212219009421" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009421_NAME" />
+  <key id="0118212219009422" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009422_NAME" />
+  <key id="0118212219009423" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009423_NAME" />
+  <key id="0118212219009424" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009424_NAME" />
+  <key id="0118212219009425" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009425_NAME" />
+  <key id="0118212219009426" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009426_NAME" />
+  <key id="0118212219009427" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009427_NAME" />
+  <key id="0118212219009428" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009428_NAME" />
+  <key id="0118212219009429" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009429_NAME" />
+  <key id="0118212219009430" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009430_NAME" />
+  <key id="0118212219009431" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009431_NAME" />
+  <key id="0118212219009432" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009432_NAME" />
+  <key id="0118212219009433" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009433_NAME" />
+  <key id="0126143019009537" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0126143019009537_NAME" />
+  <key id="0118212219009434" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009434_NAME" />
+  <key id="0118212219009435" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009435_NAME" />
+  <key id="0118212219009436" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009436_NAME" />
+  <key id="0118212219009437" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009437_NAME" />
+  <key id="0118212219009438" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009438_NAME" />
+  <key id="0118212219009439" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009439_NAME" />
+  <key id="0118212219009440" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009440_NAME" />
+  <key id="0118212219009441" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009441_NAME" />
+  <key id="0118212219009442" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009442_NAME" />
+  <key id="0118212219009443" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009443_NAME" />
+  <key id="0118212219009444" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009444_NAME" />
+  <key id="0118212219009445" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009445_NAME" />
+  <key id="0118212219009446" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009446_NAME" />
+  <key id="0118212219009447" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009447_NAME" />
+  <key id="0118212219009448" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009448_NAME" />
+  <key id="0118212219009449" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009449_NAME" />
+  <key id="0118212219009450" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009450_NAME" />
+  <key id="0118212219009451" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009451_NAME" />
+  <key id="0118212219009452" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009452_NAME" />
+  <key id="0118212219009453" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009453_NAME" />
+  <key id="0118212219009454" feature="" npc="네이린" name="SCRIPTQUESTFAMECONTENTS_0118212219009454_NAME" />
+  <key id="0118212219009455" feature="" npc="콘대르" name="SCRIPTQUESTFAMECONTENTS_0118212219009455_NAME" />
+  <key id="0118212219009456" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009456_NAME" />
+  <key id="0118212219009457" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009457_NAME" />
+  <key id="0118212219009458" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009458_NAME" />
+  <key id="0118212219009459" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009459_NAME" />
+  <key id="0118212219009460" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009460_NAME" />
+  <key id="0118212219009461" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009461_NAME" />
+  <key id="0118212219009462" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009462_NAME" />
+  <key id="0118212219009463" feature="" npc="블리체" name="SCRIPTQUESTFAMECONTENTS_0118212219009463_NAME" />
+  <key id="0118212219009464" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009464_NAME" />
+  <key id="0118212219009465" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009465_NAME" />
+  <key id="0118212219009466" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009466_NAME" />
+  <key id="0118212219009467" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009467_NAME" />
+  <key id="0118212219009468" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009468_NAME" />
+  <key id="0118212219009469" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009469_NAME" />
+  <key id="0118212219009470" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009470_NAME" />
+  <key id="0118212219009471" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009471_NAME" />
+  <key id="0118212219009472" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009472_NAME" />
+  <key id="0118212219009473" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009473_NAME" />
+  <key id="0118212219009474" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009474_NAME" />
+  <key id="0118212219009475" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009475_NAME" />
+  <key id="0118212219009476" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009476_NAME" />
+  <key id="0118212219009477" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009477_NAME" />
+  <key id="0118212219009478" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009478_NAME" />
+  <key id="0118212219009479" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009479_NAME" />
+  <key id="0118212219009480" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009480_NAME" />
+  <key id="0118212219009481" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009481_NAME" />
+  <key id="0118212219009482" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009482_NAME" />
+  <key id="0118212219009483" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009483_NAME" />
+  <key id="0118212219009484" feature="" npc="PC" name="SCRIPTQUESTFAMECONTENTS_0118212219009484_NAME" />
+  <key id="0118212219009485" feature="" npc="트리스탄" name="SCRIPTQUESTFAMECONTENTS_0118212219009485_NAME" />
+  <key id="0118212219009486" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0118212219009486_NAME" />
+  <key id="0118212219009487" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0118212219009487_NAME" />
+  <key id="0118212219009488" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0118212219009488_NAME" />
+  <key id="0118212219009489" feature="" npc="벨라" name="SCRIPTQUESTFAMECONTENTS_0118212219009489_NAME" />
+  <key id="0124203719009513" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009513_NAME" />
+  <key id="0124203719009514" feature="" npc="벨라" name="SCRIPTQUESTFAMECONTENTS_0124203719009514_NAME" />
+  <key id="0124203719009515" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009515_NAME" />
+  <key id="0124203719009516" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009516_NAME" />
+  <key id="0124203719009517" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009517_NAME" />
+  <key id="0124203719009518" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009518_NAME" />
+  <key id="0124203719009519" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009519_NAME" />
+  <key id="0124203719009520" feature="" npc="벨라" name="SCRIPTQUESTFAMECONTENTS_0124203719009520_NAME" />
+  <key id="0124203719009521" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009521_NAME" />
+  <key id="0124203719009522" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009522_NAME" />
+  <key id="0124203719009523" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009523_NAME" />
+  <key id="0124203719009524" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009524_NAME" />
+  <key id="0124203719009525" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009525_NAME" />
+  <key id="0124203719009526" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009526_NAME" />
+  <key id="0124203719009527" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009527_NAME" />
+  <key id="0124203719009528" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009528_NAME" />
+  <key id="0124203719009529" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009529_NAME" />
+  <key id="0124203719009530" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009530_NAME" />
+  <key id="0124203719009531" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009531_NAME" />
+  <key id="0124203719009532" feature="" npc="벨라" name="SCRIPTQUESTFAMECONTENTS_0124203719009532_NAME" />
+  <key id="0124203719009533" feature="" npc="검은 마법사" name="SCRIPTQUESTFAMECONTENTS_0124203719009533_NAME" />
+  <key id="0124203719009534" feature="" npc="벨라" name="SCRIPTQUESTFAMECONTENTS_0124203719009534_NAME" />
+  <key id="0124203719009535" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009535_NAME" />
+  <key id="0124203719009536" feature="" npc="발록" name="SCRIPTQUESTFAMECONTENTS_0124203719009536_NAME" />
+</ms2>

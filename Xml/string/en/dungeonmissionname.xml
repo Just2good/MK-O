@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="20004000" name="(Party) Defeat $npc:23090005$" feature="DungeonRank01" />
+	<key id="20004001" name="(Party) Defeat $npc:23090005$ within 10 Min" feature="DungeonRank01" />
+	<key id="80004001" name="(Party) Defeat $npc:23090005$ within 20 Min" feature="DungeonRank01" />
+	<key id="90004001" name="(Party) Defeat $npc:23090005$ within 7 Min" feature="DungeonRank01" />
+	<key id="20004002" name="Don&apos;t fall into the lava" feature="DungeonRank01" />
+	<key id="20004003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20004004" name="Don&apos;t get hit by falling rocks" feature="DungeonRank01" />
+	<key id="20004005" name="Don&apos;t get hit by the hook" feature="DungeonRank01" />
+	<key id="23004000" name="(Party) Defeat $npc:23090005$" feature="DungeonRank01" />
+	<key id="23004001" name="(Party) Defeat $npc:23090005$ within 5 Min" feature="DungeonRank01" />
+	<key id="23004002" name="(Party) Defeat $npc:23090005$ within 10 Min" feature="DungeonRank01" />
+	<key id="83004001" name="(Party) Defeat $npc:23090005$ within 5 Min" feature="DungeonRank01" />
+	<key id="83004002" name="(Party) Defeat $npc:23090005$ within 10 Min" feature="DungeonRank01" />
+	<key id="23004003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23004004" name="Don&apos;t get hit by falling rocks" feature="DungeonRank01" />
+	<key id="23004005" name="Avoid death explosions" feature="DungeonRank01" />
+	<key id="20014000" name="(Party) Defeat $npc:23000011$" feature="DungeonRank01" />
+	<key id="20014001" name="(Party) Defeat $npc:23000011$ within 13 Min" feature="DungeonRank01" />
+	<key id="80014001" name="(Party) Defeat $npc:23000011$ within 9 Min" feature="DungeonRank01" />
+	<key id="90014001" name="(Party) Defeat $npc:23000011$ within 7 Min" feature="DungeonRank01" />
+	<key id="20014002" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20014003" name="Treat Burns" feature="DungeonRank01" />
+	<key id="20014004" name="Don&apos;t get hit by the tail" feature="DungeonRank01" />
+	<key id="20014005" name="Don&apos;t get hit by the laser breath" feature="DungeonRank01" />
+	<key id="20016000" name="(Party) Defeat $npc:23000052$" feature="DungeonRank01" />
+	<key id="20016001" name="(Party) Defeat $npc:23000052$ within 13 Min" feature="DungeonRank01" />
+	<key id="80016001" name="(Party) Defeat $npc:23000052$ within 20 Min" feature="DungeonRank01" />
+	<key id="20016002" name="Don&apos;t get burned" feature="DungeonRank01" />
+	<key id="20016003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20016004" name="Don&apos;t get hit by the death laser" feature="DungeonRank01" />
+	<key id="20016005" name="Don&apos;t get hit by the flame vortex" feature="DungeonRank01" />
+	<key id="20018000" name="(Party) Defeat $npc:23000068$" feature="DungeonRank01" />
+	<key id="20018001" name="(Party) Defeat $npc:23000068$ within 13 Min" feature="DungeonRank01" />
+	<key id="80018001" name="(Party) Defeat $npc:23000068$ within 20 Min" feature="DungeonRank01" />
+	<key id="20018002" name="(Party) Defeat monster" feature="DungeonRank01" />
+	<key id="20018003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20018004" name="Don&apos;t get hit by the sword shockwave" feature="DungeonRank01" />
+	<key id="20018005" name="Don&apos;t get hit by the seal blades" feature="DungeonRank01" />
+	<key id="23018000" name="(Party) Defeat $npc:23000068$" feature="DungeonRank01" />
+	<key id="23018001" name="(Party) Defeat $npc:23000068$ within 5 Min" feature="DungeonRank01" />
+	<key id="83018001" name="(Party) Defeat $npc:23000068$ within 3 Min" feature="DungeonRank01" />
+	<key id="23018002" name="(Party) Defeat $npc:23000068$ within 10 Min" feature="DungeonRank01" />
+	<key id="83018002" name="(Party) Defeat $npc:23000068$ within 6 Min" feature="DungeonRank01" />
+	<key id="23018003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23018004" name="Don&apos;t get hit by the sword shockwave" feature="DungeonRank01" />
+	<key id="23018005" name="Don&apos;t get hit by the seal blades" feature="DungeonRank01" />
+	<key id="20019000" name="(Party) Defeat $npc:23000080$" feature="DungeonRank01" />
+	<key id="20019001" name="(Party) Defeat $npc:23000080$ within 13 Min" feature="DungeonRank01" />
+	<key id="80019001" name="(Party) Defeat $npc:23000080$ within 20 Min" feature="DungeonRank01" />
+	<key id="20019002" name="Don&apos;t get shrunken" feature="DungeonRank01" />
+	<key id="20019003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20019004" name="Don&apos;t get hit by icicles" feature="DungeonRank01" />
+	<key id="20019005" name="Don&apos;t get hit by thunder" feature="DungeonRank01" />
+	<key id="23019000" name="(Party) Defeat $npc:23000080$" feature="DungeonRank01" />
+	<key id="23019001" name="(Party) Defeat $npc:23000080$ within 5 Min" feature="DungeonRank01" />
+	<key id="23019002" name="(Party) Defeat $npc:23000080$ within 10 Min" feature="DungeonRank01" />
+	<key id="23019003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23019004" name="Don&apos;t get hit by icicles" feature="DungeonRank01" />
+	<key id="23019005" name="Don&apos;t get hit by thunder" feature="DungeonRank01" />
+	<key id="20020000" name="(Party) Defeat $npc:23000082$" feature="DungeonRank01" />
+	<key id="20020001" name="(Party) Defeat $npc:23000082$ within 13 Min" feature="DungeonRank01" />
+	<key id="80020001" name="(Party) Defeat $npc:23000082$ within 20 Min" feature="DungeonRank01" />
+	<key id="20020002" name="Don&apos;t suffer an accuracy penalty" feature="DungeonRank01" />
+	<key id="20020003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20020004" name="Don&apos;t get hit by the down strikes" feature="DungeonRank01" />
+	<key id="20020005" name="Don&apos;t get hit by soul buster" feature="DungeonRank01" />
+	<key id="23020001" name="(Party) Defeat $npc:23000082$ within 5 Min" feature="DungeonRank01" />
+	<key id="23020002" name="(Party) Defeat $npc:23000082$ within 10 Min" feature="DungeonRank01" />
+	<key id="23020003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23020004" name="Don&apos;t get hit by the down strikes" feature="DungeonRank01" />
+	<key id="23020005" name="Don&apos;t get hit by soul buster" feature="DungeonRank01" />
+	<key id="20021001" name="(Party) Defeat $npc:23000083$ within 8 Min" feature="DungeonRank01" />
+	<key id="20021002" name="Don&apos;t get trapped in an ice block" feature="DungeonRank01" />
+	<key id="20021003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20021004" name="Don&apos;t get hit by the ice wave" feature="DungeonRank01" />
+	<key id="20021005" name="Don&apos;t get hit by the crystal laser" feature="DungeonRank01" />
+	<key id="23021000" name="(Party) Defeat $npc:23000083$" feature="DungeonRank01" />
+	<key id="23021001" name="(Party) Defeat $npc:23000083$ within 7 Min" feature="DungeonRank01" />
+	<key id="23021003" name="Points deducted if crushed by tombstones" feature="DungeonRank01" />
+	<key id="23021004" name="Points deducted if trapped in ice block" feature="DungeonRank01" />
+	<key id="23021005" name="Points deducted if hit by ice shock wave" feature="DungeonRank01" />
+	<key id="23021006" name="Points deducted if hit by crystal laser" feature="DungeonRank01" />
+	<key id="20022001" name="(Party) Defeat $npc:23000064$ within 15 Min" feature="DungeonRank01" />
+	<key id="20022002" name="(Party) Defeat $npc:21500640$" feature="DungeonRank01" />
+	<key id="20022003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="20022004" name="Don&apos;t step on shadow flame" feature="DungeonRank01" />
+	<key id="20022005" name="Don&apos;t get hit by shadow breath" feature="DungeonRank01" />
+	<key id="23022000" name="(Party) Defeat $npc:23000064$" feature="DungeonRank01" />
+	<key id="23022001" name="(Party) Defeat $npc:23000064$ within 7 Min" feature="DungeonRank01" />
+	<key id="23022003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23022004" name="Don&apos;t step on shadow flame" feature="DungeonRank01" />
+	<key id="23022005" name="Don&apos;t get hit by shadow breath" feature="DungeonRank01" />
+	<key id="23006000" name="(Party) Defeat $npc:23000007$" feature="DungeonRank01" />
+	<key id="23006001" name="(Party) Defeat $npc:23000007$ within 5 Min" feature="DungeonRank01" />
+	<key id="23006002" name="(Party) Defeat $npc:23000007$ within 10 Min" feature="DungeonRank01" />
+	<key id="83006001" name="(Party) Defeat $npc:23000007$ within 3 Min" feature="DungeonRank01" />
+	<key id="83006002" name="(Party) Defeat $npc:23000007$ within 6 Min" feature="DungeonRank01" />
+	<key id="23006003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23006004" name="Don&apos;t get spirit sealed" feature="DungeonRank01" />
+	<key id="23006005" name="Don&apos;t get hit by shadow lasers" feature="DungeonRank01" />
+	<key id="23010000" name="(Party) Defeat $npc:23000015$" feature="DungeonRank01" />
+	<key id="23010001" name="(Party) Defeat $npc:23000015$ within 5 Min" feature="DungeonRank01" />
+	<key id="23010002" name="(Party) Defeat $npc:23000015$ within 10 Min" feature="DungeonRank01" />
+	<key id="83010001" name="(Party) Defeat $npc:23000015$ within 6 Min" feature="DungeonRank01" />
+	<key id="83010002" name="(Party) Defeat $npc:23000015$ within 12 Min" feature="DungeonRank01" />
+	<key id="23010003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23010004" name="Don&apos;t get hit by the belly slam" feature="DungeonRank01" />
+	<key id="23010005" name="Don&apos;t get hit by the super hook cannon" feature="DungeonRank01" />
+	<key id="23011001" name="(Party) Defeat $npc:23000077$ within 5 Min" feature="DungeonRank01" />
+	<key id="23011002" name="(Party) Defeat $npc:23000077$ within 10 Min" feature="DungeonRank01" />
+	<key id="23011003" name="Don&apos;t get knocked out" feature="DungeonRank01" />
+	<key id="23011004" name="Don&apos;t get hit by hand slams" feature="DungeonRank01" />
+	<key id="23011005" name="Don&apos;t get hit by the dimensional laser" feature="DungeonRank01" />
+</ms2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<fog color="255,215,185" near="0" far="29000" />
+	<heightfog color="255,255,255" upper="802" lower="3600" percentage="34" />
+	<clientProperty bgDay="BG_Pirates_A.dds" />
+	<minimap>
+		<frustum left="-11769.7" right="11769.7" top="7356.06" bottom="-7356.06" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1920" top="0" bottom="1200" />
+		<image left="399.95" right="1423.95" top="23" bottom="1047" name="./Data/Resource/Image/Map/Minimap/02020010.dds" icon="" />
+		<camera position="-5173.784180, -6149.164551, 6881.960449" rotation="90.000000, 45.000000, -45.000000" />
+		<edit zoomfactor="6.13005" />
+	</minimap>
+</ms2>

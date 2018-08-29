@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<guildNpc level="1" guildExpFactor="1" userExpFactor="1" guildFundFactor="1" userMesoFactor="1" GuildCoinFactor="1" feature="GuildSystem01" />
+	<guildNpc level="2" guildExpFactor="1.2" userExpFactor="1.2" guildFundFactor="1.5" userMesoFactor="1.5" GuildCoinFactor="1.5" feature="GuildSystem01" />
+</ms2>

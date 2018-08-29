@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<setting type="Dev" KR="99" JP="99" CN="99" NA="99" />
+	<setting type="Qa" KR="99" JP="99" CN="99" NA="99" />
+	<setting type="DevStage" KR="39" JP="29" CN="40" NA="31" />
+	<setting type="Stage" KR="39" JP="29" CN="40" NA="31" />
+	<setting type="Live" KR="39" JP="29" CN="40" NA="31" />
+</ms2>

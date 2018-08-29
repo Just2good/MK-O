@@ -1,0 +1,2559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<quest id="30000010">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/03000004" text="$script:0831174201000001$">
+				<distractor text="$script:0831174201000002$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000003$" />
+			<content text="$script:0831174201000004$">
+				<distractor text="$script:0831174201000005$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000006$" />
+			<content text="$script:0831174201000007$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content voiceID="ko/Npc/03000027" text="$script:0831174201000008$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content voiceID="ko/Npc/03000004" text="$script:0831174201000009$" />
+			<content text="$script:0831174201000010$">
+				<distractor text="$script:0831174201000011$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000012$" />
+		</script>
+	</quest>
+	<quest id="30000011">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/03000026" text="$script:0831174201000013$">
+				<distractor text="$script:0831174201000014$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000015$" />
+			<content text="$script:0831174201000016$" />
+			<content text="$script:0831174201000017$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content voiceID="ko/Npc/03000026" text="$script:0831174201000018$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000019$">
+				<distractor text="$script:0831174201000020$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000021$">
+				<distractor text="$script:0831174201000022$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000023$" />
+			<content text="$script:0831174201000024$">
+				<distractor text="$script:0831174201000025$" goto="303" gotoFail="" />
+			</content>
+		</script>
+		<script id="303" feature="" locale="">
+			<content text="$script:0831174201000026$" />
+		</script>
+	</quest>
+	<quest id="30000012">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000027$">
+				<distractor text="$script:0831174201000028$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000029$" />
+			<content text="$script:0831174201000030$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000031$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content voiceID="ko/Npc/03000026" text="$script:0831174201000032$">
+				<distractor text="$script:0831174201000033$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000034$">
+				<distractor text="$script:0831174201000035$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000036$" />
+			<content text="$script:0831174201000037$" />
+			<content voiceID="ko/Npc/03000005" text="$script:0831174201000038$" />
+		</script>
+	</quest>
+	<quest id="30001000">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000039$">
+				<distractor text="$script:0831174201000040$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000041$">
+				<distractor text="$script:0831174201000042$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000043$">
+				<distractor text="$script:0831174201000044$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="" locale="">
+			<content text="$script:0831174201000045$">
+				<distractor text="$script:0831174201000046$" goto="104" gotoFail="" />
+			</content>
+		</script>
+		<script id="104" feature="" locale="">
+			<content text="$script:0831174201000047$">
+				<distractor text="$script:0831174201000048$" goto="105" gotoFail="" />
+			</content>
+		</script>
+		<script id="105" feature="" locale="">
+			<content text="$script:0831174201000049$">
+				<distractor text="$script:0831174201000050$" goto="106" gotoFail="" />
+			</content>
+		</script>
+		<script id="106" feature="" locale="">
+			<content text="$script:0831174201000051$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000052$" />
+			<content text="$script:0831174201000053$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000054$" />
+			<content text="$script:0831174201000055$" />
+		</script>
+	</quest>
+	<quest id="30001001">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000056$">
+				<distractor text="$script:0831174201000057$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000058$" />
+			<content text="$script:0831174201000059$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000060$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000061$" />
+			<content text="$script:0831174201000062$" />
+		</script>
+	</quest>
+	<quest id="30001002">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000063$">
+				<distractor text="$script:0831174201000064$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000065$">
+				<distractor text="$script:0831174201000066$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000067$" />
+			<content text="$script:0831174201000068$">
+				<distractor text="$script:0831174201000069$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="" locale="">
+			<content text="$script:0831174201000070$" />
+			<content text="$script:0831174201000071$" />
+			<content text="$script:0831174201000072$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000073$" />
+			<content text="$script:0831174201000074$" />
+			<content text="$script:0831174201000075$" />
+			<content text="$script:0831174201000076$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000077$" />
+		</script>
+	</quest>
+	<quest id="30001003">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000078$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000079$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000080$">
+				<distractor text="$script:0831174201000081$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000082$">
+				<distractor text="$script:0831174201000083$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000084$" />
+		</script>
+	</quest>
+	<quest id="30001004">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/00000975" text="$script:0831174201000085$">
+				<distractor text="$script:0831174201000086$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000087$" />
+			<content text="$script:0831174201000088$" />
+			<content text="$script:0831174201000089$" />
+			<content voiceID="ko/Npc/00000976" text="$script:0831174201000090$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000091$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000092$">
+				<distractor text="$script:0831174201000093$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000094$" />
+		</script>
+	</quest>
+	<quest id="30001005">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000095$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000096$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content voiceID="ko/Npc/00000978" text="$script:0831174201000097$" />
+			<content text="$script:0831174201000098$" />
+		</script>
+	</quest>
+	<quest id="30001006">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000099$">
+				<distractor text="$script:0831174201000100$" goto="102" gotoFail="" />
+				<distractor text="$script:0831174201000101$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000102$" />
+			<content text="$script:0831174201000103$" />
+			<content text="$script:0831174201000104$" />
+			<content text="$script:0831174201000105$" />
+			<content text="$script:0831174201000106$" />
+			<content text="$script:0831174201000107$">
+				<distractor text="$script:0831174201000108$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="" locale="">
+			<content text="$script:0831174201000109$" />
+			<content text="$script:0831174201000110$">
+				<distractor text="$script:0831174201000111$" goto="104" gotoFail="" />
+			</content>
+		</script>
+		<script id="104" feature="" locale="">
+			<content text="$script:0831174201000112$" />
+			<content text="$script:0831174201000113$" />
+			<content text="$script:0831174201000114$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000115$" />
+			<content text="$script:0831174201000116$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000117$" />
+		</script>
+	</quest>
+	<quest id="30001007">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000118$">
+				<distractor text="$script:0831174201000119$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000120$">
+				<distractor text="$script:0831174201000121$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000122$" />
+			<content text="$script:0831174201000123$">
+				<distractor text="$script:0831174201000124$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="" locale="">
+			<content text="$script:0831174201000125$" />
+			<content text="$script:0831174201000126$" />
+			<content text="$script:0831174201000127$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000128$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000129$" />
+			<content text="$script:0831174201000130$" />
+		</script>
+	</quest>
+	<quest id="30001008">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000131$" />
+			<content text="$script:0831174201000132$">
+				<distractor text="$script:0831174201000133$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000134$">
+				<distractor text="$script:0831174201000135$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000136$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000137$">
+				<distractor text="$script:0831174201000138$" goto="201,202" gotoFail="203" />
+				<distractor text="$script:0831174201000139$" goto="204" gotoFail="" />
+			</content>
+		</script>
+		<script id="204" feature="" locale="">
+			<content text="$script:0831174201000140$" />
+		</script>
+		<script id="202" feature="" locale="">
+			<content text="$script:0831174201000141$" />
+		</script>
+		<script id="203" feature="" locale="">
+			<content text="$script:0831174201000142$" />
+		</script>
+		<script id="201" feature="" locale="">
+			<content openTalkReward="1" text="$script:0831174201000143$" functionID="1" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000144$" />
+			<content text="$script:0831174201000145$" />
+		</script>
+	</quest>
+	<quest id="30001009">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000146$">
+				<distractor text="$script:0831174201000147$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000148$" />
+			<content text="$script:0831174201000149$" />
+			<content text="$script:0831174201000150$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000151$" />
+			<content text="$script:0831174201000152$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000153$" />
+		</script>
+	</quest>
+	<quest id="30001010">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000154$">
+				<distractor text="$script:0831174201000155$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000156$" />
+			<content text="$script:0831174201000157$" />
+			<content text="$script:0831174201000158$" />
+			<content text="$script:0831174201000159$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000160$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000161$" />
+			<content text="$script:0831174201000162$" />
+		</script>
+	</quest>
+	<quest id="30001011">
+		<script id="100" feature="" locale="">
+			<content text="$script:0916002301000347$" />
+			<content text="$script:0916002301000348$" />
+			<content text="$script:0916002301000349$">
+				<distractor text="$script:0916002301000350$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0916002301000351$" />
+			<content text="$script:0916002301000352$" />
+			<content text="$script:0916002301000353$" />
+			<content text="$script:0916002301000354$">
+				<distractor text="$script:0916002301000355$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0916002301000356$" />
+			<content text="$script:0916002301000357$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0916002301000358$" />
+			<content text="$script:0916002301000359$" />
+			<content text="$script:0916002301000360$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0916002301000361$" />
+		</script>
+	</quest>
+	<quest id="30001012">
+		<script id="100" feature="" locale="">
+			<content text="$script:0916002301000362$" />
+			<content text="$script:0916002301000363$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0916002301000364$">
+				<distractor text="$script:0916002301000365$" goto="201" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="" locale="">
+			<content text="$script:0916002301000366$" />
+		</script>
+		<script id="202" feature="" locale="">
+			<content text="$script:0916002301000367$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0916002301000368$">
+				<distractor text="$script:0916002301000369$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0916002301000370$" />
+		</script>
+	</quest>
+	<quest id="30001013">
+		<script id="100" feature="" locale="">
+			<content text="$script:0916002301000371$" />
+			<content text="$script:0916002301000372$" />
+			<content text="$script:0916002301000373$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0916002301000374$" />
+			<content text="$script:0916002301000375$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0916002301000376$" />
+			<content text="$script:0916002301000377$" />
+		</script>
+	</quest>
+	<quest id="30000020">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000163$">
+				<distractor text="$script:0831174201000164$" goto="101" gotoFail="" />
+				<distractor text="$script:0831174201000165$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000166$">
+				<distractor text="$script:0831174201000167$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000168$" />
+			<content text="$script:0831174201000169$" />
+			<content text="$script:0831174201000170$" />
+			<content text="$script:0831174201000171$" />
+		</script>
+		<script id="103" feature="" locale="">
+			<content text="$script:0831174201000172$">
+				<distractor text="$script:0831174201000173$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000174$">
+				<distractor text="$script:0831174201000175$" goto="201,202" gotoFail="203" />
+				<distractor text="$script:0831174201000176$" goto="204" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="" locale="">
+			<content openTalkReward="1" text="$script:0831174201000177$" functionID="1" />
+		</script>
+		<script id="202" feature="" locale="">
+			<content text="$script:0831174201000178$" />
+		</script>
+		<script id="203" feature="" locale="">
+			<content text="$script:0831174201000179$" />
+		</script>
+		<script id="204" feature="" locale="">
+			<content text="$script:0831174201000180$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000181$">
+				<distractor text="$script:0831174201000182$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000183$">
+				<distractor text="$script:0831174201000184$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000185$" />
+			<content text="$script:0831174201000186$" />
+		</script>
+	</quest>
+	<quest id="30000021">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000187$">
+				<distractor text="$script:0831174201000188$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000189$">
+				<distractor text="$script:0831174201000190$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000191$" />
+			<content text="$script:0831174201000192$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000193$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000194$">
+				<distractor text="$script:0831174201000195$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000196$">
+				<distractor text="$script:0831174201000197$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000198$" />
+		</script>
+	</quest>
+	<quest id="30000022">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000199$">
+				<distractor text="$script:0831174201000200$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000201$" />
+			<content text="$script:0831174201000202$">
+				<distractor text="$script:0831174201000203$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000204$" />
+			<content text="$script:0831174201000205$" />
+			<content text="$script:0831174201000206$">
+				<distractor text="$script:0831174201000207$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="" locale="">
+			<content text="$script:0831174201000208$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000209$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000210$">
+				<distractor text="$script:0831174201000211$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000212$" />
+			<content text="$script:0831174201000213$">
+				<distractor text="$script:0831174201000214$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000215$" />
+			<content text="$script:0831174201000216$">
+				<distractor text="$script:0831174201000217$" goto="303" gotoFail="" />
+			</content>
+		</script>
+		<script id="303" feature="" locale="">
+			<content text="$script:0831174201000218$" />
+		</script>
+	</quest>
+	<quest id="30000030">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/00000838" text="$script:0831174201000219$" />
+			<content text="$script:0831174201000220$">
+				<distractor text="$script:0831174201000221$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000222$">
+				<distractor text="$script:0831174201000223$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000224$" />
+			<content text="$script:0831174201000225$" />
+			<content text="$script:0831174201000226$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content voiceID="ko/Npc/00000827" text="$script:0831174201000227$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000228$" />
+		</script>
+	</quest>
+	<quest id="30000031">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/00000824" text="$script:0831174201000229$">
+				<distractor text="$script:0831174201000230$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000231$">
+				<distractor text="$script:0831174201000232$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000233$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content voiceID="ko/Npc/00000827" text="$script:0831174201000234$">
+				<distractor text="$script:0831174201000235$" goto="201,202" gotoFail="203" />
+				<distractor text="$script:0831174201000236$" goto="204" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="" locale="">
+			<content openTalkReward="1" text="$script:0831174201000237$" functionID="1" />
+		</script>
+		<script id="202" feature="" locale="">
+			<content text="$script:0831174201000238$" />
+		</script>
+		<script id="203" feature="" locale="">
+			<content text="$script:0831174201000239$" />
+		</script>
+		<script id="204" feature="" locale="">
+			<content text="$script:0831174201000240$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000241$">
+				<distractor text="$script:0831174201000242$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000243$">
+				<distractor text="$script:0831174201000244$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0831174201000245$" />
+		</script>
+	</quest>
+	<quest id="30000032">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000246$" />
+			<content text="$script:0831174201000247$">
+				<distractor text="$script:0831174201000248$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000249$" />
+			<content text="$script:0831174201000250$" />
+			<content text="$script:0831174201000251$" />
+			<content text="$script:0831174201000252$">
+				<distractor text="$script:0831174201000253$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000254$" />
+			<content text="$script:0831174201000255$" />
+			<content voiceID="ko/Npc/00000281" text="$script:0831174201000256$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000257$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000258$" />
+			<content text="$script:0831174201000259$" />
+		</script>
+	</quest>
+	<quest id="30000040">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/00000101" text="$script:0831174201000260$">
+				<distractor text="$script:0831174201000261$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000262$" />
+			<content text="$script:0831174201000263$" />
+			<content text="$script:0831174201000264$">
+				<distractor text="$script:0831174201000265$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000266$" />
+			<content text="$script:0831174201000267$" />
+			<content text="$script:0831174201000268$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000269$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000270$" />
+			<content text="$script:0831174201000271$" />
+			<content text="$script:0831174201000272$" />
+			<content text="$script:0831174201000273$" />
+			<content text="$script:0831174201000274$" />
+		</script>
+	</quest>
+	<quest id="30000041">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000275$">
+				<distractor text="$script:0831174201000276$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000277$" />
+			<content text="$script:0831174201000278$" />
+			<content text="$script:0831174201000279$" />
+			<content text="$script:0831174201000280$" />
+			<content text="$script:0831174201000281$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000282$">
+				<distractor text="$script:0831174201000283$" goto="201,202" gotoFail="203" />
+				<distractor text="$script:0831174201000284$" goto="204" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="" locale="">
+			<content openTalkReward="1" text="$script:0831174201000285$" functionID="1" />
+		</script>
+		<script id="202" feature="" locale="">
+			<content text="$script:0831174201000286$" />
+		</script>
+		<script id="203" feature="" locale="">
+			<content text="$script:0831174201000287$" />
+		</script>
+		<script id="204" feature="" locale="">
+			<content text="$script:0831174201000288$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content voiceID="ko/Npc/00000101" text="$script:0831174201000289$">
+				<distractor text="$script:0831174201000290$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000291$" />
+		</script>
+	</quest>
+	<quest id="30000042">
+		<script id="100" feature="" locale="">
+			<content voiceID="ko/Npc/00000101" text="$script:0831174201000292$">
+				<distractor text="$script:0831174201000293$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0831174201000294$">
+				<distractor text="$script:0831174201000295$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0831174201000296$" />
+			<content text="$script:0831174201000297$" />
+			<content text="$script:0831174201000298$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000299$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0831174201000300$" />
+		</script>
+	</quest>
+	<quest id="30000043">
+		<script id="100" feature="" locale="">
+			<content text="$script:0831174201000301$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0831174201000302$">
+				<distractor text="$script:0831174201000303$" goto="201,202" gotoFail="" />
+			</content>
+		</script>
+		<script id="201" feature="" locale="">
+			<content text="$script:0831174201000304$" />
+		</script>
+		<script id="202" feature="" locale="">
+			<content text="$script:0831174201000305$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content voiceID="ko/Npc/00000101" text="$script:0831174201000306$">
+				<distractor text="$script:0831174201000307$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0831174201000308$">
+				<distractor text="$script:0831174201000309$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content voiceID="ko/Npc/00000102" text="$script:0831174201000310$">
+				<distractor text="$script:0831174201000311$" goto="303" gotoFail="" />
+			</content>
+		</script>
+		<script id="303" feature="" locale="">
+			<content text="$script:0831174201000312$" />
+			<content text="$script:0831174201000313$" />
+			<content text="$script:0831174201000314$" />
+			<content text="$script:0831174201000315$" />
+		</script>
+	</quest>
+	<quest id="30000050">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000488$" />
+			<content text="$script:1019210701000620$" />
+			<content text="$script:1019210701000621$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000838$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000489$">
+				<distractor text="$script:1019210701000622$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000623$" />
+		</script>
+	</quest>
+	<quest id="30000051">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000490$" />
+			<content text="$script:1019210701000625$" />
+			<content text="$script:1019210701000626$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000839$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000491$">
+				<distractor text="$script:1019210701000627$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000628$" />
+		</script>
+	</quest>
+	<quest id="30000052">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000492$" />
+			<content text="$script:1019210701000630$" />
+			<content text="$script:1019210701000631$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000840$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000493$">
+				<distractor text="$script:1019210701000632$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000633$" />
+		</script>
+	</quest>
+	<quest id="30000053">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000494$" />
+			<content text="$script:1019210701000635$" />
+			<content text="$script:1019210701000636$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000841$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000495$">
+				<distractor text="$script:1019210701000637$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000638$" />
+		</script>
+	</quest>
+	<quest id="30000054">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000496$" />
+			<content text="$script:1019210701000640$" />
+			<content text="$script:1019210701000641$" />
+			<content text="$script:1019210701000642$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000842$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000497$">
+				<distractor text="$script:1019210701000643$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000644$" />
+		</script>
+	</quest>
+	<quest id="30000055">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000498$" />
+			<content text="$script:1019210701000646$" />
+			<content text="$script:1019210701000647$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000843$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000499$">
+				<distractor text="$script:1019210701000648$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000649$" />
+		</script>
+	</quest>
+	<quest id="30000056">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000500$" />
+			<content text="$script:1019210701000651$" />
+			<content text="$script:1019210701000652$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000844$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000501$">
+				<distractor text="$script:1019210701000653$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000654$" />
+		</script>
+	</quest>
+	<quest id="30000057">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000502$" />
+			<content text="$script:1019210701000656$" />
+			<content text="$script:1019210701000657$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000845$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000503$">
+				<distractor text="$script:1019210701000658$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000659$" />
+		</script>
+	</quest>
+	<quest id="30000058">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000504$" />
+			<content text="$script:1019210701000661$" />
+			<content text="$script:1019210701000662$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000846$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000505$">
+				<distractor text="$script:1019210701000663$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000664$" />
+		</script>
+	</quest>
+	<quest id="30000059">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000506$" />
+			<content text="$script:1019210701000666$" />
+			<content text="$script:1019210701000667$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000847$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000507$">
+				<distractor text="$script:1019210701000668$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000669$" />
+		</script>
+	</quest>
+	<quest id="30000060">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000508$" />
+			<content text="$script:1019210701000671$" />
+			<content text="$script:1019210701000672$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022185201000848$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000509$">
+				<distractor text="$script:1019210701000673$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1019210701000674$" />
+		</script>
+	</quest>
+	<quest id="30000100">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000510$" />
+			<content text="$script:1020213401000676$" />
+			<content text="$script:1020213401000677$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000849$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000511$">
+				<distractor text="$script:1020213401000678$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000679$" />
+		</script>
+	</quest>
+	<quest id="30000101">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000512$" />
+			<content text="$script:1020213401000680$" />
+			<content text="$script:1020213401000681$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000850$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000513$">
+				<distractor text="$script:1020213401000682$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000683$" />
+		</script>
+	</quest>
+	<quest id="30000102">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000514$" />
+			<content text="$script:1020213401000684$" />
+			<content text="$script:1020213401000685$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000851$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000515$">
+				<distractor text="$script:1020213401000686$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000687$" />
+		</script>
+	</quest>
+	<quest id="30000103">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000516$" />
+			<content text="$script:1020213401000688$" />
+			<content text="$script:1020213401000689$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000852$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000517$">
+				<distractor text="$script:1020213401000690$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000691$" />
+		</script>
+	</quest>
+	<quest id="30000104">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000518$" />
+			<content text="$script:1020213401000692$" />
+			<content text="$script:1020213401000693$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000853$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000519$">
+				<distractor text="$script:1020213401000694$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000695$" />
+		</script>
+	</quest>
+	<quest id="30000105">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000520$" />
+			<content text="$script:1020213401000696$" />
+			<content text="$script:1020213401000697$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000854$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000521$">
+				<distractor text="$script:1020213401000698$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000699$" />
+		</script>
+	</quest>
+	<quest id="30000106">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000522$" />
+			<content text="$script:1020213401000700$" />
+			<content text="$script:1020213401000701$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000855$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000523$">
+				<distractor text="$script:1020213401000702$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000703$" />
+		</script>
+	</quest>
+	<quest id="30000107">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000524$" />
+			<content text="$script:1020213401000704$" />
+			<content text="$script:1020213401000705$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000856$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000525$">
+				<distractor text="$script:1020213401000706$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000707$" />
+		</script>
+	</quest>
+	<quest id="30000108">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000526$" />
+			<content text="$script:1020213401000708$" />
+			<content text="$script:1020213401000709$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000857$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000527$">
+				<distractor text="$script:1020213401000710$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000711$" />
+		</script>
+	</quest>
+	<quest id="30000109">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000528$" />
+			<content text="$script:1020213401000712$" />
+			<content text="$script:1020213401000713$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000858$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000529$">
+				<distractor text="$script:1020213401000714$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000715$" />
+		</script>
+	</quest>
+	<quest id="30000110">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000530$" />
+			<content text="$script:1020213401000716$" />
+			<content text="$script:1020213401000717$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000859$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000531$">
+				<distractor text="$script:1020213401000718$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000719$" />
+		</script>
+	</quest>
+	<quest id="30000111">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000532$" />
+			<content text="$script:1020213401000720$" />
+			<content text="$script:1020213401000721$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000860$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000533$">
+				<distractor text="$script:1020213401000722$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000723$" />
+		</script>
+	</quest>
+	<quest id="30000112">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000534$" />
+			<content text="$script:1020213401000724$" />
+			<content text="$script:1020213401000725$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000861$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000535$">
+				<distractor text="$script:1020213401000726$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000727$" />
+		</script>
+	</quest>
+	<quest id="30000113">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000536$" />
+			<content text="$script:1020213401000728$" />
+			<content text="$script:1020213401000729$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000862$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000537$">
+				<distractor text="$script:1020213401000730$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000731$" />
+		</script>
+	</quest>
+	<quest id="30000114">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000538$" />
+			<content text="$script:1020213401000732$" />
+			<content text="$script:1020213401000733$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000863$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000539$">
+				<distractor text="$script:1020213401000734$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000735$" />
+		</script>
+	</quest>
+	<quest id="30000115">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000540$" />
+			<content text="$script:1020213401000736$" />
+			<content text="$script:1020213401000737$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000864$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000541$">
+				<distractor text="$script:1020213401000738$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000739$" />
+		</script>
+	</quest>
+	<quest id="30000116">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000542$" />
+			<content text="$script:1020213401000740$" />
+			<content text="$script:1020213401000741$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000865$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000543$">
+				<distractor text="$script:1020213401000742$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000743$" />
+		</script>
+	</quest>
+	<quest id="30000117">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000544$" />
+			<content text="$script:1020213401000744$" />
+			<content text="$script:1020213401000745$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000866$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000545$">
+				<distractor text="$script:1020213401000746$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000747$" />
+		</script>
+	</quest>
+	<quest id="30000118">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000546$" />
+			<content text="$script:1020213401000748$" />
+			<content text="$script:1020213401000749$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000867$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000547$">
+				<distractor text="$script:1020213401000750$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000751$" />
+		</script>
+	</quest>
+	<quest id="30000119">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000548$" />
+			<content text="$script:1020213401000752$" />
+			<content text="$script:1020213401000753$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000868$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000549$">
+				<distractor text="$script:1020213401000754$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000755$" />
+		</script>
+	</quest>
+	<quest id="30000120">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000550$" />
+			<content text="$script:1020213401000756$" />
+			<content text="$script:1020213401000757$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000869$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000551$">
+				<distractor text="$script:1020213401000758$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000759$" />
+		</script>
+	</quest>
+	<quest id="30000121">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000552$" />
+			<content text="$script:1020213401000760$" />
+			<content text="$script:1020213401000761$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000870$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000553$">
+				<distractor text="$script:1020213401000762$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000763$" />
+		</script>
+	</quest>
+	<quest id="30000122">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000554$" />
+			<content text="$script:1020213401000764$" />
+			<content text="$script:1020213401000765$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000871$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000555$">
+				<distractor text="$script:1020213401000766$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000767$" />
+		</script>
+	</quest>
+	<quest id="30000123">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000556$" />
+			<content text="$script:1020213401000768$" />
+			<content text="$script:1020213401000769$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000872$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000557$">
+				<distractor text="$script:1020213401000770$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000771$" />
+		</script>
+	</quest>
+	<quest id="30000124">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000558$" />
+			<content text="$script:1020213401000772$" />
+			<content text="$script:1020213401000773$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000873$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000559$">
+				<distractor text="$script:1020213401000774$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000775$" />
+		</script>
+	</quest>
+	<quest id="30000125">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000560$" />
+			<content text="$script:1020213401000776$" />
+			<content text="$script:1020213401000777$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000874$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000561$">
+				<distractor text="$script:1020213401000778$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000779$" />
+		</script>
+	</quest>
+	<quest id="30000126">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000562$" />
+			<content text="$script:1020213401000780$" />
+			<content text="$script:1020213401000781$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000875$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000563$">
+				<distractor text="$script:1020213401000782$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000783$" />
+		</script>
+	</quest>
+	<quest id="30000127">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000564$" />
+			<content text="$script:1020213401000784$" />
+			<content text="$script:1020213401000785$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000876$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000565$">
+				<distractor text="$script:1020213401000786$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000787$" />
+		</script>
+	</quest>
+	<quest id="30000128">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000566$" />
+			<content text="$script:1020213401000788$" />
+			<content text="$script:1020213401000789$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000877$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000567$">
+				<distractor text="$script:1020213401000790$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000791$" />
+		</script>
+	</quest>
+	<quest id="30000129">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000568$" />
+			<content text="$script:1020213401000792$" />
+			<content text="$script:1020213401000793$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000878$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000569$">
+				<distractor text="$script:1020213401000794$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000795$" />
+		</script>
+	</quest>
+	<quest id="30000130">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000570$" />
+			<content text="$script:1020213401000796$" />
+			<content text="$script:1020213401000797$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000879$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000571$">
+				<distractor text="$script:1020213401000798$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1020213401000799$" />
+		</script>
+	</quest>
+	<quest id="30000200">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000572$" />
+			<content text="$script:1021215901000800$" />
+			<content text="$script:1021215901000801$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000880$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000573$" />
+		</script>
+	</quest>
+	<quest id="30000201">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000574$" />
+			<content text="$script:1021215901000802$" />
+			<content text="$script:1021215901000803$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000881$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000575$" />
+		</script>
+	</quest>
+	<quest id="30000202">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000576$" />
+			<content text="$script:1021215901000804$" />
+			<content text="$script:1021215901000805$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000882$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000577$" />
+		</script>
+	</quest>
+	<quest id="30000203">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000578$" />
+			<content text="$script:1021215901000806$" />
+			<content text="$script:1021215901000807$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000883$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000579$" />
+		</script>
+	</quest>
+	<quest id="30000204">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000580$" />
+			<content text="$script:1021215901000808$" />
+			<content text="$script:1021215901000809$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000884$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000581$" />
+		</script>
+	</quest>
+	<quest id="30000205">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000582$" />
+			<content text="$script:1021215901000810$" />
+			<content text="$script:1021215901000811$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000885$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000583$" />
+		</script>
+	</quest>
+	<quest id="30000206">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000584$" />
+			<content text="$script:1021215901000812$" />
+			<content text="$script:1021215901000813$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000886$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000585$" />
+		</script>
+	</quest>
+	<quest id="30000207">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000586$" />
+			<content text="$script:1021215901000814$" />
+			<content text="$script:1021215901000815$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000887$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000587$" />
+		</script>
+	</quest>
+	<quest id="30000208">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000598$" />
+			<content text="$script:1021215901000816$" />
+			<content text="$script:1021215901000817$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000888$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000599$" />
+		</script>
+	</quest>
+	<quest id="30000209">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000600$" />
+			<content text="$script:1021215901000818$" />
+			<content text="$script:1021215901000819$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000889$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000601$" />
+		</script>
+	</quest>
+	<quest id="30000210">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000602$" />
+			<content text="$script:1021215901000820$" />
+			<content text="$script:1021215901000821$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000890$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000603$" />
+		</script>
+	</quest>
+	<quest id="30000211">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000604$" />
+			<content text="$script:1021215901000822$" />
+			<content text="$script:1021215901000823$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000891$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000605$" />
+		</script>
+	</quest>
+	<quest id="30000212">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000606$" />
+			<content text="$script:1021215901000824$" />
+			<content text="$script:1021215901000825$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000892$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000607$" />
+		</script>
+	</quest>
+	<quest id="30000213">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000608$" />
+			<content text="$script:1021215901000826$" />
+			<content text="$script:1021215901000827$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000893$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000609$" />
+		</script>
+	</quest>
+	<quest id="30000214">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000610$" />
+			<content text="$script:1021215901000828$" />
+			<content text="$script:1021215901000829$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000894$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000611$" />
+		</script>
+	</quest>
+	<quest id="30000215">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000612$" />
+			<content text="$script:1021215901000830$" />
+			<content text="$script:1021215901000831$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000895$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000613$" />
+		</script>
+	</quest>
+	<quest id="30000216">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000614$" />
+			<content text="$script:1021215901000832$" />
+			<content text="$script:1021215901000833$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000896$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000615$" />
+		</script>
+	</quest>
+	<quest id="30000217">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000616$" />
+			<content text="$script:1021215901000834$" />
+			<content text="$script:1021215901000835$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000897$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000617$" />
+		</script>
+	</quest>
+	<quest id="30000218">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016221201000618$" />
+			<content text="$script:1021215901000836$" />
+			<content text="$script:1021215901000837$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1022211001000898$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016221201000619$" />
+		</script>
+	</quest>
+	<quest id="30000300">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000588$" />
+			<content text="$script:1023190701000899$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000946$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000589$">
+				<distractor text="$script:1023190701000900$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000901$" />
+		</script>
+	</quest>
+	<quest id="30000301">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000590$" />
+			<content text="$script:1023190701000902$" />
+			<content text="$script:1023190701000903$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000947$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000591$">
+				<distractor text="$script:1023190701000904$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000905$" />
+		</script>
+	</quest>
+	<quest id="30000302">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000592$" />
+			<content text="$script:1023190701000906$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000948$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000593$">
+				<distractor text="$script:1023190701000907$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000908$" />
+		</script>
+	</quest>
+	<quest id="30000303">
+		<script id="100" feature="" locale="">
+			<content text="$script:1016135801000594$" />
+			<content text="$script:1023190701000909$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000949$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1016135801000595$">
+				<distractor text="$script:1023190701000910$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000911$" />
+		</script>
+	</quest>
+	<quest id="30000304">
+		<script id="100" feature="" locale="">
+			<content text="$script:0523110101001211$" />
+			<content text="$script:0523110101001212$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0523110101001213$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0523110101001214$">
+				<distractor text="$script:0523110101001215$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0523110101001216$" />
+		</script>
+	</quest>
+	<quest id="30000305">
+		<script id="100" feature="" locale="">
+			<content text="$script:1023190701000915$" />
+			<content text="$script:1023190701000916$">
+				<distractor text="$script:1023190701000917$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:1023190701000918$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000951$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1023190701000919$">
+				<distractor text="$script:1023190701000920$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000921$" />
+		</script>
+	</quest>
+	<quest id="30000306">
+		<script id="100" feature="" locale="">
+			<content text="$script:1023190701000922$" />
+			<content text="$script:1023190701000923$">
+				<distractor text="$script:1023190701000924$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:1023190701000925$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000952$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1023190701000926$">
+				<distractor text="$script:1023190701000927$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000928$" />
+		</script>
+	</quest>
+	<quest id="30000307">
+		<script id="100" feature="" locale="">
+			<content text="$script:1023190701000929$" />
+			<content text="$script:1023190701000930$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000953$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1023190701000931$" />
+		</script>
+	</quest>
+	<quest id="30000308">
+		<script id="100" feature="" locale="">
+			<content text="$script:1023190701000932$" />
+			<content text="$script:1023190701000933$">
+				<distractor text="$script:1023190701000934$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:1023190701000935$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000954$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1023190701000936$">
+				<distractor text="$script:1023190701000937$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000938$" />
+		</script>
+	</quest>
+	<quest id="30000309">
+		<script id="100" feature="" locale="">
+			<content text="$script:1023190701000939$" />
+			<content text="$script:1023190701000940$">
+				<distractor text="$script:1023190701000941$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:1023190701000942$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:1026122901000955$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:1023190701000943$">
+				<distractor text="$script:1023190701000944$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:1023190701000945$" />
+		</script>
+	</quest>
+	<quest id="30000310">
+		<script id="100" feature="" locale="">
+			<content text="$script:0401111101000956$" />
+			<content text="$script:0401111101000957$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0401111101000959$">
+				<distractor text="$script:0401111101000960$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0401111101000961$">
+				<distractor text="$script:0401111101000962$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0401111101000963$">
+				<distractor text="$script:0401111101000964$" goto="303" gotoFail="" />
+			</content>
+		</script>
+		<script id="303" feature="" locale="">
+			<content text="$script:0401111101000965$">
+				<distractor text="$script:0401111101000966$" goto="304" gotoFail="" />
+			</content>
+		</script>
+		<script id="304" feature="" locale="">
+			<content text="$script:0401111101000967$" />
+		</script>
+	</quest>
+	<quest id="30000311">
+		<script id="100" feature="" locale="">
+			<content text="$script:0405180601001112$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0405180601001113$" />
+			<content text="$script:0405180601001114$">
+				<distractor text="$script:0405180601001115$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0405180601001116$">
+				<distractor text="$script:0405180601001117$" goto="302" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0405180601001118$">
+				<distractor text="$script:0405180601001119$" goto="303" gotoFail="" />
+			</content>
+		</script>
+		<script id="303" feature="" locale="">
+			<content text="$script:0405180601001120$">
+				<distractor text="$script:0405180601001121$" goto="304" gotoFail="" />
+			</content>
+		</script>
+		<script id="304" feature="" locale="">
+			<content text="$script:0405180601001122$">
+				<distractor text="$script:0405180601001123$" goto="305" gotoFail="" />
+			</content>
+		</script>
+		<script id="305" feature="" locale="">
+			<content text="$script:0405180601001124$" />
+		</script>
+	</quest>
+	<quest id="30000312">
+		<script id="100" feature="" locale="">
+			<content text="$script:0407114101001181$">
+				<distractor text="$script:0407114101001182$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="" locale="">
+			<content text="$script:0407114101001183$">
+				<distractor text="$script:0407114101001184$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="" locale="">
+			<content text="$script:0407114101001185$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0407114101001186$" />
+		</script>
+	</quest>
+	<quest id="30000313">
+		<script id="100" feature="" locale="">
+			<content text="$script:0412201401001200$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0412201401001201$">
+				<distractor text="$script:0412201401001202$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="" locale="">
+			<content text="$script:0412201401001203$">
+				<distractor text="$script:0412201401001204$" goto="302" gotoFail="" />
+				<distractor text="$script:0412201401001205$" goto="303" gotoFail="" />
+			</content>
+		</script>
+		<script id="302" feature="" locale="">
+			<content text="$script:0412201401001206$" />
+			<content text="$script:0412201401001207$" />
+		</script>
+		<script id="303" feature="" locale="">
+			<content text="$script:0412201401001208$">
+				<distractor text="$script:0412201401001209$" goto="304" gotoFail="" />
+			</content>
+		</script>
+		<script id="304" feature="" locale="">
+			<content text="$script:0412201401001210$" />
+		</script>
+	</quest>
+	<quest id="30000314">
+		<script id="100" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1215101001001393$" />
+			<content myTalk="1" text="$script:1215101001001394$" />
+			<content myTalk="1" text="$script:1215101001001395$" />
+			<content myTalk="1" text="$script:1215101001001396$" />
+			<content myTalk="1" text="$script:1215101001001397$" />
+			<content myTalk="1" text="$script:1215101001001398$" />
+			<content myTalk="1" text="$script:1215101001001399$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1215101001001400$">
+				<distractor text="$script:1215101001001401$" goto="301" gotoFail="" />
+			</content>
+		</script>
+		<script id="301" feature="Timaion01" locale="">
+			<content redirect="1" text="$script:1215101001001402$" />
+		</script>
+	</quest>
+	<quest id="30000315">
+		<script id="100" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1215101001001403$" />
+			<content text="$script:1215101001001404$" />
+			<content myTalk="1" text="$script:1215101001001405$" />
+			<content text="$script:1215101001001406$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1215101001001407$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1215101001001408$" />
+			<content myTalk="1" text="$script:1215101001001409$" />
+			<content text="$script:1215101001001410$" />
+			<content myTalk="1" text="$script:1215101001001411$" />
+		</script>
+	</quest>
+	<quest id="30000316">
+		<script id="100" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1126141201001261$" />
+			<content text="$script:1118185801001214$" />
+			<content text="$script:1118185801001215$" />
+			<content myTalk="1" text="$script:1228093501001422$" functionID="1" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1126141501001262$" functionID="1" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1215101001001412$" />
+			<content text="$script:1215101001001413$" />
+			<content text="$script:1215101001001414$" />
+			<content myTalk="1" text="$script:1215101001001415$" />
+			<content text="$script:1118185801001216$" />
+		</script>
+	</quest>
+	<quest id="30000317">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001217$" />
+			<content myTalk="1" text="$script:1215101001001416$" />
+			<content text="$script:1215101001001417$" />
+			<content text="$script:1215101001001418$" />
+			<content myTalk="1" text="$script:1215101001001419$" />
+			<content text="$script:1215101001001420$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1215101001001421$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1126143601001268$" />
+			<content text="$script:1228093501001423$" />
+			<content myTalk="1" text="$script:1228093501001424$" />
+			<content myTalk="1" text="$script:1228093501001425$" />
+			<content myTalk="1" text="$script:1228093501001426$" />
+		</script>
+	</quest>
+	<quest id="30000318">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001219$" />
+			<content text="$script:1228093501001427$" />
+			<content myTalk="1" text="$script:1126154301001271$" />
+			<content otherNpcTalk="11003757" text="$script:1126154301001272$" />
+			<content text="$script:1126154301001273$">
+				<distractor text="$script:1228093501001428$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1126154301001274$" />
+			<content myTalk="1" text="$script:1209142501001392$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1126154301001275$" />
+		</script>
+	</quest>
+	<quest id="30000319">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1129111401001283$" />
+			<content text="$script:1129111401001284$">
+				<distractor text="$script:1129120901001291$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1129111401001285$">
+				<distractor text="$script:1129111401001286$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1129111401001287$" />
+			<content text="$script:1129111401001288$" />
+			<content text="$script:1129111401001289$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1129111401001290$" />
+		</script>
+	</quest>
+	<quest id="30000320">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001223$">
+				<distractor text="$script:1129143001001292$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1129143001001293$">
+				<distractor text="$script:1129143001001294$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1129143001001295$">
+				<distractor text="$script:1129145301001296$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Timaion01" locale="">
+			<content text="$script:1129145301001297$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001224$" />
+		</script>
+	</quest>
+	<quest id="30000321">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001225$">
+				<distractor text="$script:1129155501001298$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1129155501001299$">
+				<distractor text="$script:1129155501001300$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1129155501001301$">
+				<distractor text="$script:1129155501001302$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Timaion01" locale="">
+			<content text="$script:1129155501001303$" />
+			<content text="$script:1129155501001304$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228102301001444$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001226$" />
+		</script>
+	</quest>
+	<quest id="30000322">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1202134501001321$" />
+			<content text="$script:1202134501001322$">
+				<distractor text="$script:1202134501001323$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202134501001324$">
+				<distractor text="$script:1202134501001325$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1202134501001326$" />
+			<content text="$script:1228093501001429$" />
+			<content text="$script:1202134501001327$" />
+			<content text="$script:1202134501001328$" />
+			<content text="$script:1202134501001329$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228102401001445$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1202134501001330$" />
+		</script>
+	</quest>
+	<quest id="30000323">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1202134501001331$" />
+			<content text="$script:1202134501001332$">
+				<distractor text="$script:1202134501001333$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202134501001334$" />
+			<content text="$script:1202134501001335$">
+				<distractor text="$script:1202134501001336$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1202134501001337$">
+				<distractor text="$script:1202134501001338$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Timaion01" locale="">
+			<content text="$script:1202134501001339$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228102801001446$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1202134501001340$" />
+		</script>
+	</quest>
+	<quest id="30000324">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1202140801001346$">
+				<distractor text="$script:1202140801001347$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202140801001348$" />
+			<content text="$script:1202140801001349$">
+				<distractor text="$script:1202140801001350$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1202143101001352$" />
+			<content myTalk="1" text="$script:1228093501001430$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1202140801001351$" />
+		</script>
+	</quest>
+	<quest id="30000325">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1228093501001431$" />
+			<content text="$script:1202150201001353$">
+				<distractor text="$script:1202150201001354$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202150201001355$" />
+			<content text="$script:1202150201001356$" />
+			<content text="$script:1202150201001357$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228102801001447$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1202150201001358$" />
+		</script>
+	</quest>
+	<quest id="30000326">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001235$">
+				<distractor text="$script:1228093501001432$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202155901001359$">
+				<distractor text="$script:1228093501001433$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1202155901001360$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228103001001448$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001236$" />
+		</script>
+	</quest>
+	<quest id="30000327">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001237$">
+				<distractor text="$script:1228093501001434$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1228093501001435$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228103001001449$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001238$" />
+		</script>
+	</quest>
+	<quest id="30000328">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001239$">
+				<distractor text="$script:1228093501001436$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202155901001361$" />
+			<content text="$script:1202155901001362$">
+				<distractor text="$script:1202155901001363$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1202155901001364$" />
+			<content text="$script:1202155901001365$">
+				<distractor text="$script:1202155901001366$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Timaion01" locale="">
+			<content text="$script:1202155901001367$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228103001001450$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001240$" />
+		</script>
+	</quest>
+	<quest id="30000329">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001241$">
+				<distractor text="$script:1202162101001368$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202162201001369$" />
+			<content text="$script:1118185801001242$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228103401001451$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1202162801001370$" />
+		</script>
+	</quest>
+	<quest id="30000330">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001243$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001244$" />
+		</script>
+	</quest>
+	<quest id="30000331">
+		<script id="100" feature="Timaion01" locale="">
+			<content text="$script:1118185801001245$">
+				<distractor text="$script:1202170001001371$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202170001001372$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228103401001452$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1118185801001246$" />
+			<content myTalk="1" text="$script:1118185801001247$" />
+		</script>
+	</quest>
+	<quest id="30000332">
+		<script id="100" feature="Timaion01" locale="">
+			<content myTalk="1" redirect="1" text="$script:1202171401001391$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001248$" />
+		</script>
+	</quest>
+	<quest id="30000333">
+		<script id="100" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1202170001001374$" />
+			<content text="$script:1202170001001375$" />
+			<content myTalk="1" text="$script:1202170001001376$" />
+			<content text="$script:1118185801001249$" />
+			<content myTalk="1" text="$script:1202170001001377$" />
+			<content text="$script:1202170001001378$" />
+			<content myTalk="1" text="$script:1202170001001379$" />
+			<content text="$script:1202170001001380$" />
+			<content text="$script:1228093501001437$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001250$" />
+		</script>
+	</quest>
+	<quest id="30000334">
+		<script id="100" feature="Timaion01" locale="">
+			<content redirect="1" text="$script:1118185801001251$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001252$" />
+		</script>
+	</quest>
+	<quest id="30000335">
+		<script id="100" feature="Timaion01" locale="">
+			<content redirect="1" text="$script:1118185801001253$" />
+			<content myTalk="1" text="$script:1202170001001381$" />
+			<content text="$script:1202170001001382$" />
+			<content myTalk="1" text="$script:1202170001001383$" />
+			<content text="$script:1202170001001384$" />
+			<content myTalk="1" text="$script:1228093501001438$" />
+			<content text="$script:1228093501001439$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content text="$script:1118185801001254$" />
+		</script>
+	</quest>
+	<quest id="30000336">
+		<script id="100" feature="Timaion01" locale="">
+			<content redirect="1" text="$script:1118185801001255$" />
+			<content text="$script:1202170001001385$">
+				<distractor text="$script:1228093501001440$" goto="101" gotoFail="" />
+			</content>
+		</script>
+		<script id="101" feature="Timaion01" locale="">
+			<content text="$script:1202170001001386$">
+				<distractor text="$script:1228093501001441$" goto="102" gotoFail="" />
+			</content>
+		</script>
+		<script id="102" feature="Timaion01" locale="">
+			<content text="$script:1202170001001387$">
+				<distractor text="$script:1228093501001442$" goto="103" gotoFail="" />
+			</content>
+		</script>
+		<script id="103" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1202170001001388$" />
+			<content text="$script:1202170001001389$">
+				<distractor text="$script:1228093501001443$" goto="104" gotoFail="" />
+			</content>
+		</script>
+		<script id="104" feature="Timaion01" locale="">
+			<content text="$script:1202170001001390$" />
+		</script>
+		<script id="200" feature="Timaion01" locale="">
+			<content text="$script:1228103401001453$" />
+		</script>
+		<script id="300" feature="Timaion01" locale="">
+			<content myTalk="1" text="$script:1118185801001256$" />
+		</script>
+	</quest>
+</ms2>

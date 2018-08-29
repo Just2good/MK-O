@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="15123101" name="Lumen Cor Set" />
+	<key id="15123102" name="Lumen Ravus Set" />
+	<key id="15123103" name="Lumen Magia Set" />
+	<key id="15123104" name="Lumen Deus Set" />
+	<key id="15123105" name="Lumen Tero Set" />
+	<key id="15123106" name="Lumen Libro Set" />
+	<key id="15123107" name="Lumen Erebus Set" />
+	<key id="15123108" name="Lumen Sica Set" />
+	<key id="15123109" name="Lumen Polus Set" />
+	<key id="16022501" name="Black Star Record Set" />
+	<key id="16042801" name="Cute Duckling Set" />
+	<key id="16042802" name="Chic Duckling Set" />
+	<key id="16042803" name="Embarrassed Duckling Set" />
+	<key id="16063001" name="Elegant Gothic Set" />
+	<key id="16063002" name="Elegant Gothic Set" />
+	<key id="16071401" name="Lumen Manus Set" />
+	<key id="16072801" name="Ifrit Fairy Set" />
+	<key id="16072802" name="Ifrit Fairy Set" />
+	<key id="16081101" name="Fantastic Ritual Set" />
+	<key id="16081102" name="Lumen Animus Set" />
+	<key id="16082501" name="Pure Wedding Set" />
+	<key id="16082502" name="Pure Wedding Set" />
+	<key id="16082503" name="Fierce Combat Set" />
+	<key id="16082504" name="Fierce Frenzy Set" />
+	<key id="16082505" name="Fierce Magic Set" />
+	<key id="16082506" name="Fierce Holy Set" />
+	<key id="16082507" name="Fierce Focus Set" />
+	<key id="16082508" name="Fierce Explosive Set" />
+	<key id="16082509" name="Fierce Chaos Set" />
+	<key id="16082510" name="Fierce Lethal Set" />
+	<key id="16082511" name="Fierce Sorcery Set" />
+	<key id="16082512" name="Fierce Melee Set" />
+	<key id="16082513" name="Fierce Ritual Set" />
+	<key id="16082514" name="Narubashan Combat Set" />
+	<key id="16082515" name="Narubashan Frenzy Set" />
+	<key id="16082516" name="Narubashan Magic Set" />
+	<key id="16082517" name="Narubashan Holy Set" />
+	<key id="16082518" name="Narubashan Focus Set" />
+	<key id="16082519" name="Narubashan Explosive Set" />
+	<key id="16082520" name="Narubashan Chaos Set" />
+	<key id="16082521" name="Narubashan Lethal Set" />
+	<key id="16082522" name="Narubashan Sorcery Set" />
+	<key id="16082523" name="Narubashan Melee Set" />
+	<key id="16082524" name="Narubashan Ritual Set" />
+	<key id="16092901" name="Excellent Diamond Set" />
+	<key id="16092902" name="Excellent Onyx Set" />
+	<key id="16092903" name="Shuabritze Family Honor Set" />
+	<key id="16102701" name="Bloody Vampire Set" />
+	<key id="16102702" name="Bloody Vampire Set" />
+	<key id="16121501" name="Merry Christmas Set" />
+	<key id="16121502" name="Merry Christmas Set" />
+	<key id="17011201" name="Wave Combat Set" />
+	<key id="17011202" name="Wave Frenzy Set" />
+	<key id="17011203" name="Wave Magic Set" />
+	<key id="17011204" name="Wave Holy Set" />
+	<key id="17011205" name="Wave Focus Set" />
+	<key id="17011206" name="Wave Explosive Set" />
+	<key id="17011207" name="Wave Chaos Set" />
+	<key id="17011208" name="Wave Lethal Set" />
+	<key id="17011209" name="Wave Sorcery Set" />
+	<key id="17011210" name="Wave Melee Set" />
+	<key id="17011211" name="Wave Ritual Set" />
+	<key id="17011212" name="Lost Kingdom Combat Set" />
+	<key id="17011213" name="Lost Kingdom Frenzy Set" />
+	<key id="17011214" name="Lost Kingdom Magic Set" />
+	<key id="17011215" name="Lost Kingdom Holy Set" />
+	<key id="17011216" name="Lost Kingdom Focus Set" />
+	<key id="17011217" name="Lost Kingdom Explosive Set" />
+	<key id="17011218" name="Lost Kingdom Chaos Set" />
+	<key id="17011219" name="Lost Kingdom Lethal Set" />
+	<key id="17011220" name="Lost Kingdom Sorcery Set" />
+	<key id="17011221" name="Lost Kingdom Melee Set" />
+	<key id="17011222" name="Lost Kingdom Ritual Set" />
+	<key id="17011223" name="Lumarigon Combat Set" />
+	<key id="17011224" name="Lumarigon Frenzy Set" />
+	<key id="17011225" name="Lumarigon Magic Set" />
+	<key id="17011226" name="Lumarigon Holy Set" />
+	<key id="17011227" name="Lumarigon Focus Set" />
+	<key id="17011228" name="Lumarigon Explosive Set" />
+	<key id="17011229" name="Lumarigon Chaos Set" />
+	<key id="17011230" name="Lumarigon Lethal Set" />
+	<key id="17011231" name="Lumarigon Sorcery Set" />
+	<key id="17011232" name="Lumarigon Melee Set" />
+	<key id="17011233" name="Lumarigon Ritual Set" />
+	<key id="17020901" name="Scarlet Heart Set" />
+	<key id="17020902" name="Scarlet Heart Set" />
+	<key id="17020903" name="Maple Alliance Set" />
+	<key id="17020904" name="Maple Alliance Set" />
+	<key id="17020905" name="Maple Alliance Set" />
+	<key id="17020906" name="Maple Alliance Set" />
+	<key id="17020907" name="Maple Alliance Set" />
+	<key id="17020908" name="Maple Alliance Set" />
+	<key id="17020909" name="Maple Alliance Set" />
+	<key id="17020910" name="Maple Alliance Set" />
+	<key id="17020911" name="Maple Alliance Set" />
+	<key id="17020912" name="Maple Alliance Set" />
+	<key id="17020913" name="Maple Alliance Set" />
+	<key id="17020914" name="Madrakan Monarch Set" />
+	<key id="17030701" name="Maple Set" />
+	<key id="17030901" name="Floria Fairy Set" />
+	<key id="17030902" name="Floria Fairy Set" />
+	<key id="17040401" name="Majestic Wing Set" />
+	<key id="17040402" name="Majestic Wing Set" />
+	<key id="17040601" name="Shiny Star Set" />
+	<key id="17040602" name="Shiny Star Set" />
+	<key id="17053101" name="Conspirator&apos;s Set" />
+	<key id="17062901" name="Reverse Knight (Lv. 50) Set" />
+	<key id="17062902" name="Reverse Berserker (Lv. 50) Set" />
+	<key id="17062903" name="Reverse Wizard (Lv. 50) Set" />
+	<key id="17062904" name="Reverse Priest (Lv. 50) Set" />
+	<key id="17062905" name="Reverse Archer (Lv. 50) Set" />
+	<key id="17062906" name="Reverse Heavy Gunner (Lv. 50) Set" />
+	<key id="17062907" name="Reverse Thief (Lv. 50) Set" />
+	<key id="17062908" name="Reverse Assassin (Lv. 50) Set" />
+	<key id="17062909" name="Reverse Runeblade (Lv. 50) Set" />
+	<key id="17062910" name="Reverse Striker (Lv. 50) Set" />
+	<key id="17062911" name="Reverse Soul Binder (Lv. 50) Set" />
+	<key id="17062912" name="Reverse Knight (Lv. 56) Set" />
+	<key id="17062913" name="Reverse Berserker (Lv. 56) Set" />
+	<key id="17062914" name="Reverse Wizard (Lv. 56) Set" />
+	<key id="17062915" name="Reverse Priest (Lv. 56) Set" />
+	<key id="17062916" name="Reverse Archer (Lv. 56) Set" />
+	<key id="17062917" name="Reverse Heavy Gunner (Lv. 56) Set" />
+	<key id="17062918" name="Reverse Thief (Lv. 56) Set" />
+	<key id="17062919" name="Reverse Assassin (Lv. 56) Set" />
+	<key id="17062920" name="Reverse Runeblade (Lv. 56) Set" />
+	<key id="17062921" name="Reverse Striker (Lv. 56) Set" />
+	<key id="17062922" name="Reverse Soul Binder (Lv. 56) Set" />
+	<key id="17081823" name="Mooncake Set" />
+	<key id="17083101" name="Pumpkin Witch Set" />
+	<key id="17083102" name="Pumpkin Witch Set" />
+	<key id="17090101" name="Aehem Hanbok Set" />
+	<key id="17090102" name="Fluffy Hanbok Set" />
+	<key id="17110801" name="Frantic Combat Set" />
+	<key id="17110802" name="Frantic Frenzy Set" />
+	<key id="17110803" name="Frantic Magic Set" />
+	<key id="17110804" name="Frantic Holy Set" />
+	<key id="17110805" name="Frantic Focus Set" />
+	<key id="17110806" name="Frantic Explosive Set" />
+	<key id="17110807" name="Frantic Chaos Set" />
+	<key id="17110808" name="Frantic Lethal Set" />
+	<key id="17110809" name="Frantic Sorcery Set" />
+	<key id="17110810" name="Frantic Melee Set" />
+	<key id="17110811" name="Frantic Ritual Set" />
+	<key id="17110812" name="Eternal Bloody Dusk Set" />
+	<key id="17110813" name="Eternal Skeleton Set" />
+	<key id="17110814" name="Eternal Ennes Set" />
+	<key id="17110815" name="Eternal Savior Set" />
+	<key id="17110816" name="Eternal Watchman Set" />
+	<key id="17110817" name="Eternal Pilot Set" />
+	<key id="17110818" name="Eternal Nimble Beat Set" />
+	<key id="17110819" name="Eternal Phantom Set" />
+	<key id="17110820" name="Eternal Void Set" />
+	<key id="17110821" name="Eternal Fighter Set" />
+	<key id="17110822" name="Eternal Soul Set" />
+	<key id="17110823" name="Reverse Knight (Lv. 50) Set" />
+	<key id="17110824" name="Reverse Berserker (Lv. 50) Set" />
+	<key id="17110825" name="Reverse Wizard (Lv. 50) Set" />
+	<key id="17110826" name="Reverse Priest (Lv. 50) Set" />
+	<key id="17110827" name="Reverse Archer (Lv. 50) Set" />
+	<key id="17110828" name="Reverse Heavy Gunner (Lv. 50) Set" />
+	<key id="17110829" name="Reverse Thief (Lv. 50) Set" />
+	<key id="17110830" name="Reverse Assassin (Lv. 50) Set" />
+	<key id="17110831" name="Reverse Runeblade (Lv. 50) Set" />
+	<key id="17110832" name="Reverse Striker (Lv. 50) Set" />
+	<key id="17110833" name="Reverse Soul Binder (Lv. 50) Set" />
+	<key id="17110834" name="Pluto Set" />
+	<key id="17110835" name="Mars Set" />
+	<key id="17110836" name="Pluto Set" />
+	<key id="17110837" name="Mars Set" />
+	<key id="17112901" name="Glowing Star Set" />
+	<key id="17112902" name="Glowing Star Set" />
+	<key id="17121101" name="Fierce Combat Set" />
+	<key id="17121102" name="Fierce Frenzy Set" />
+	<key id="17121103" name="Fierce Magic Set" />
+	<key id="17121104" name="Fierce Holy Set" />
+	<key id="17121105" name="Fierce Focus Set" />
+	<key id="17121106" name="Fierce Explosive Set" />
+	<key id="17121107" name="Fierce Chaos Set" />
+	<key id="17121108" name="Fierce Lethal Set" />
+	<key id="17121109" name="Fierce Sorcery Set" />
+	<key id="17121110" name="Fierce Melee Set" />
+	<key id="17121111" name="Fierce Ritual Set" />
+	<key id="18011801" name="Pluto Set" />
+	<key id="18011802" name="Mars Set" />
+	<key id="18011803" name="Pluto Set" />
+	<key id="18011804" name="Mars Set" />
+	<key id="18011501" name="Dreaming Butterfly Set" />
+	<key id="18011502" name="Dreaming Butterfly Set" />
+	<key id="18011805" name="Crimson Balrog&apos;s Combat Set" />
+	<key id="18011806" name="Crimson Balrog&apos;s Frenzy Set" />
+	<key id="18011807" name="Crimson Balrog&apos;s Magic Set" />
+	<key id="18011808" name="Crimson Balrog&apos;s Holy Set" />
+	<key id="18011809" name="Crimson Balrog&apos;s Focus Set" />
+	<key id="18011810" name="Crimson Balrog&apos;s Explosive Set" />
+	<key id="18011811" name="Crimson Balrog&apos;s Chaos Set" />
+	<key id="18011812" name="Crimson Balrog&apos;s Lethal Set" />
+	<key id="18011813" name="Crimson Balrog&apos;s Sorcery Set" />
+	<key id="18011814" name="Crimson Balrog&apos;s Melee Set" />
+	<key id="18011815" name="Crimson Balrog&apos;s Ritual Set" />
+	<key id="18011816" name="Crimson Balrog&apos;s Combat Set" />
+	<key id="18011817" name="Crimson Balrog&apos;s Frenzy Set" />
+	<key id="18011818" name="Crimson Balrog&apos;s Magic Set" />
+	<key id="18011819" name="Crimson Balrog&apos;s Holy Set" />
+	<key id="18011820" name="Crimson Balrog&apos;s Focus Set" />
+	<key id="18011821" name="Crimson Balrog&apos;s Explosive Set" />
+	<key id="18011822" name="Crimson Balrog&apos;s Chaos Set" />
+	<key id="18011823" name="Crimson Balrog&apos;s Lethal Set" />
+	<key id="18011824" name="Crimson Balrog&apos;s Sorcery Set" />
+	<key id="18011825" name="Crimson Balrog&apos;s Melee Set" />
+	<key id="18011826" name="Crimson Balrog&apos;s Ritual Set" />
+	<key id="18011827" name="Bright Star&apos;s Combat Set" />
+	<key id="18011828" name="Bright Star&apos;s Frenzy Set" />
+	<key id="18011829" name="Bright Star&apos;s Magic Set" />
+	<key id="18011830" name="Bright Star&apos;s Holy Set" />
+	<key id="18011831" name="Bright Star&apos;s Focus Set" />
+	<key id="18011832" name="Bright Star&apos;s Explosive Set" />
+	<key id="18011833" name="Bright Star&apos;s Chaos Set" />
+	<key id="18011834" name="Bright Star&apos;s Lethal Set" />
+	<key id="18011835" name="Bright Star&apos;s Sorcery Set" />
+	<key id="18011836" name="Bright Star&apos;s Melee Set" />
+	<key id="18011837" name="Bright Star&apos;s Ritual Set" />
+</ms2>

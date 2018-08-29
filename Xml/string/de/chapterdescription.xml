@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <chapter id="0" name="Eine Sache der Privatsphäre" isTutorial="OK" regionID="" />
+  <chapter id="1" name="Ein einfacher Auftrag" isTutorial="OK" regionID="" />
+  <chapter id="2" name="Unvorhergesehene Wahrheit" isTutorial="OK" regionID="" />
+  <chapter id="3" name="Verblasster Schatten" isTutorial="OK" regionID="" />
+  <chapter id="4" name="Spezialauftrag" isTutorial="OK" regionID="" />
+  <chapter id="5" name="Das Geheimnis des Teufelskäppchens" isTutorial="OK" regionID="" />
+  <chapter id="6" name="Ein Hoffnungsschimmer" isTutorial="OK" regionID="" />
+  <chapter id="7" name="Vom Winde verweht" isTutorial="OK" regionID="" />
+  <chapter id="8" name="Die Wahrheit kommt ans Licht" isTutorial="OK" regionID="" />
+  <chapter id="9" name="Die Rückkehr an den richtigen Ort" isTutorial="OK" regionID="" />
+  <chapter id="10" name="Die Suche nach der erstarrten Zeit" isTutorial="OK" regionID="" />
+  <chapter id="11" name="Ab in die Wüste!" isTutorial="OK" regionID="" />
+  <chapter id="12" name="Jumei in der Krise" isTutorial="OK" regionID="" />
+  <chapter id="13" name="Der Besucher aus einer anderen Welt" isTutorial="OK" regionID="" />
+  <chapter id="14" name="Die wilden Hochlande" isTutorial="OK" regionID="" />
+  <chapter id="15" name="Der Pfad des Krieges" isTutorial="OK" regionID="" />
+  <chapter id="16" name="Auf der Suche nach einem Heilmittel" isTutorial="OK" regionID="" />
+  <chapter id="17" name="Ein zartes Herz" isTutorial="OK" regionID="" />
+  <chapter id="18" name="Die Mission des Stammesfürsten" isTutorial="OK" regionID="" />
+  <chapter id="101" name="Der dickköpfige Luke" isTutorial="OK" regionID="" />
+  <chapter id="102" name="Die Waldschleicher" isTutorial="OK" regionID="" />
+  <chapter id="103" name="Der Honigdieb" isTutorial="OK" regionID="" />
+  <chapter id="104" name="Der beste Sohn der Welt" isTutorial="OK" regionID="" />
+  <chapter id="105" name="Der schelmische Bruder" isTutorial="OK" regionID="" />
+  <chapter id="106" name="Das eingefrorene Volk" isTutorial="OK" regionID="" />
+  <chapter id="107" name="Eine Enkelin in Nöten" isTutorial="OK" regionID="" />
+  <chapter id="108" name="Der Familienmensch" isTutorial="OK" regionID="" />
+  <chapter id="109" name="Der wütende Holzfäller" isTutorial="OK" regionID="" />
+  <chapter id="110" name="Jeder lebt anders" isTutorial="OK" regionID="" />
+  <chapter id="111" name="Blutbad der Taschenkrebse" isTutorial="OK" regionID="" />
+  <chapter id="112" name="Das Perlenmädchen" isTutorial="OK" regionID="" />
+  <chapter id="113" name="Der unstillbare Appetit" isTutorial="OK" regionID="" />
+  <chapter id="114" name="Gesundheit ist Geld" isTutorial="OK" regionID="" />
+  <chapter id="115" name="Das Geheimnis der Goldus-Apotheke" isTutorial="OK" regionID="" />
+  <chapter id="116" name="Katze in Not" isTutorial="OK" regionID="" />
+  <chapter id="117" name="Jeder braucht einen Helden" isTutorial="OK" regionID="" />
+  <chapter id="118" name="Gefährliche DNA" isTutorial="OK" regionID="" />
+  <chapter id="119" name="Jugendliebe" isTutorial="OK" regionID="" />
+  <chapter id="120" name="Das Geschenk für einen Freund" isTutorial="OK" regionID="" />
+  <chapter id="121" name="Ein neues Zuhause" isTutorial="OK" regionID="" />
+  <chapter id="122" name="Wiedersehen mit einem Freund" isTutorial="OK" regionID="" />
+  <chapter id="123" name="Rissige Erde" isTutorial="OK" regionID="" />
+  <chapter id="124" name="Ein wahres Glücksgefühl" isTutorial="OK" regionID="" />
+  <chapter id="125" name="Der Bandit der Aue" isTutorial="OK" regionID="" />
+  <chapter id="126" name="Letzte Chance für die Liebe" isTutorial="OK" regionID="" />
+  <chapter id="127" name="Flügel des Sturmes" isTutorial="OK" regionID="" />
+  <chapter id="128" name="Wenn der Schuh passt" isTutorial="OK" regionID="" />
+  <chapter id="129" name="Die einzig wahre Liebe" isTutorial="OK" regionID="" />
+  <chapter id="130" name="Elbon, der verlorene Kobold" isTutorial="OK" regionID="" />
+  <chapter id="131" name="Freiheit für Frösche" isTutorial="OK" regionID="" />
+  <chapter id="132" name="Warten auf eine weitere Chance" isTutorial="OK" regionID="" />
+  <chapter id="133" name="Freifliegen" isTutorial="OK" regionID="" />
+  <chapter id="134" name="Probleme auf dem Bauernhof" isTutorial="OK" regionID="" />
+  <chapter id="135" name="Marilyns Sorgen" isTutorial="OK" regionID="" />
+  <chapter id="136" name="Verhexter Jax" isTutorial="OK" regionID="" />
+  <chapter id="137" name="Liebe und Besessenheit" isTutorial="OK" regionID="" />
+  <chapter id="138" name="Die Legende des Schamanen" isTutorial="OK" regionID="" />
+  <chapter id="139" name="Die besten 1&#160;%" isTutorial="OK" regionID="" />
+  <chapter id="140" name="Die Rückkehr des Mon Petit Chouchou" isTutorial="OK" regionID="" />
+  <chapter id="141" name="Die Mauer in deinem Herzen" isTutorial="OK" regionID="" />
+  <chapter id="142" name="Die Tragödie des Einhorns" isTutorial="OK" regionID="" />
+  <chapter id="143" name="Der Geruch des Todes" isTutorial="OK" regionID="" />
+  <chapter id="144" name="Die Axt und der Baumstamm" isTutorial="OK" regionID="" />
+  <chapter id="145" name="Beschädigte Fracht" isTutorial="OK" regionID="" />
+  <chapter id="146" name="Der scharfsinnige Händler" isTutorial="OK" regionID="" />
+  <chapter id="147" name="Das Dilemma von Revolten" isTutorial="OK" regionID="" />
+  <chapter id="148" name="Recycling, Recycling" isTutorial="OK" regionID="" />
+  <chapter id="149" name="Der Wolfsherr der Schlucht" isTutorial="OK" regionID="" />
+  <chapter id="150" name="Ein tiefgründiges Geheimnis" isTutorial="OK" regionID="" />
+  <chapter id="151" name="Kopf über Wasser" isTutorial="OK" regionID="" />
+  <chapter id="152" name="Aufstand bei der Kreuzung" isTutorial="OK" regionID="" />
+  <chapter id="153" name="Chaws dunkle Vergangenheit" isTutorial="OK" regionID="" />
+  <chapter id="154" name="Liebe deinen nächsten" isTutorial="OK" regionID="" />
+  <chapter id="155" name="Wald der Nostalgie" isTutorial="OK" regionID="" />
+  <chapter id="156" name="Ein überraschender Unfall" isTutorial="OK" regionID="" />
+  <chapter id="157" name="Baphomet der Raserei: Der dunkle Geist" isTutorial="OK" regionID="" />
+  <chapter id="158" name="Ein sicherer Arbeitsplatz" isTutorial="OK" regionID="" />
+  <chapter id="159" name="Der Wutrausch der Schildkröte" isTutorial="OK" regionID="" />
+  <chapter id="160" name="Preis der Eifersucht" isTutorial="OK" regionID="" />
+  <chapter id="161" name="Madonette: Das verschwindende Mädchen" isTutorial="OK" regionID="" />
+  <chapter id="162" name="Greif: Flügel des Sturmes" isTutorial="OK" regionID="" />
+  <chapter id="163" name="Ein unstillbares Verlangen" isTutorial="OK" regionID="" />
+  <chapter id="164" name="Boss: Verschollen auf See" isTutorial="OK" regionID="" />
+  <chapter id="165" name="$npc:11001054$s großer Traum" isTutorial="OK" regionID="" />
+  <chapter id="166" name="Die Origami-Nachricht" isTutorial="OK" regionID="" />
+  <chapter id="167" name="Verschollene Aufzeichnungen" isTutorial="OK" regionID="" />
+  <chapter id="168" name="Schattenaltar" isTutorial="OK" regionID="" />
+  <chapter id="169" name="Nach Katramus" isTutorial="OK" regionID="" />
+  <chapter id="170" name="Der blaue Strudel" isTutorial="OK" regionID="" />
+  <chapter id="171" name="Boss: Der antike Schatz" isTutorial="OK" regionID="" />
+  <chapter id="172" name="Die Gefahr breitet sich aus" isTutorial="OK" regionID="" />
+  <chapter id="173" name="Schattenmythen" isTutorial="OK" regionID="" />
+  <chapter id="174" name="Auf der Suche nach dem Paradies" isTutorial="OK" regionID="" />
+  <chapter id="175" name="Die Tugend der Reue" isTutorial="OK" regionID="" />
+  <chapter id="176" name="Was Marilyn braucht" isTutorial="OK" regionID="" />
+  <chapter id="177" name="Boss: Das Geheimnis des Uhrenturms" isTutorial="OK" regionID="" />
+  <chapter id="178" name="Achtung! Giftig!" isTutorial="OK" regionID="" />
+  <chapter id="179" name="Der vergiftete Schatz" isTutorial="OK" regionID="" />
+  <chapter id="180" name="Halte den Wind auf" isTutorial="OK" regionID="" />
+  <chapter id="181" name="Boroboro wiedervereint" isTutorial="OK" regionID="" />
+  <chapter id="182" name="Meine Prinzessin" isTutorial="OK" regionID="" />
+  <chapter id="183" name="Die Rache ist mein!" isTutorial="OK" regionID="" />
+  <chapter id="184" name="Der endlose Krieg" isTutorial="OK" regionID="" />
+  <chapter id="185" name="Der stille Sturm" isTutorial="OK" regionID="" />
+  <chapter id="186" name="Unerschütterlichen Schrittes" isTutorial="OK" regionID="" />
+  <chapter id="187" name="Rurus Wunsch" isTutorial="OK" regionID="" />
+  <chapter id="188" name="Der Weg des Helden: Aufschwung" isTutorial="OK" regionID="" />
+  <chapter id="189" name="Die Bedrohung der Stadt" isTutorial="OK" regionID="" />
+  <chapter id="190" name="Der Fluch der Vayar" isTutorial="OK" regionID="" />
+  <chapter id="191" name="Der Scherge des Dämons" isTutorial="OK" regionID="" />
+  <chapter id="192" name="Leichte Lektüre" isTutorial="OK" regionID="" />
+  <chapter id="193" name="Das Geheimnis des Mondlichthauptmannes" isTutorial="OK" regionID="" />
+  <chapter id="194" name="Der Weg des Helden: Sprung ins Unbekannte" isTutorial="OK" regionID="" />
+  <chapter id="195" name="Das Licht des Waldes" isTutorial="OK" regionID="" />
+  <chapter id="196" name="Die Kraft der Erde" isTutorial="OK" regionID="" />
+  <chapter id="197" name="Der Schatten des Meeres" isTutorial="OK" regionID="" />
+  <chapter id="198" name="Der Schatten der Zeit" isTutorial="OK" regionID="" />
+  <chapter id="199" name="Pink und flauschig" isTutorial="OK" regionID="" />
+  <chapter id="200" name="Wölfe im Anmarsch!" isTutorial="OK" regionID="" />
+  <chapter id="201" name="Die Schritte zum Erfolg" isTutorial="OK" regionID="" />
+  <chapter id="202" name="Quer durch die Zeit" isTutorial="OK" regionID="" />
+  <chapter id="203" name="Der Traum der Zeitbeherrschung" isTutorial="OK" regionID="" />
+  <chapter id="204" name="Schuld und Sühne" isTutorial="OK" regionID="" />
+  <chapter id="205" name="Vielleicht irgendwo anders" isTutorial="OK" regionID="" />
+  <chapter id="206" name="Der eiskalte Riese" isTutorial="OK" regionID="" />
+  <chapter id="207" name="Geistiges Training" isTutorial="OK" regionID="" />
+  <chapter id="208" name="Die Mutprobe" isTutorial="OK" regionID="" />
+  <chapter id="209" name="Das Herz eines Schmiedes" isTutorial="OK" regionID="" />
+  <chapter id="210" name="Der Aufstand der Schweine" isTutorial="OK" regionID="" />
+  <chapter id="211" name="Der Fremdling" isTutorial="OK" regionID="" />
+  <chapter id="212" name="Mayars Maple-Feiertage" isTutorial="OK" regionID="" />
+  <chapter id="213" name="Die stille Invasion" isTutorial="OK" regionID="" />
+  <chapter id="214" name="Die Blume der Dunkelheit" isTutorial="OK" regionID="" />
+  <chapter id="215" name="Der Stängel der Dunkelheit" isTutorial="OK" regionID="" />
+  <chapter id="216" name="Endlose Herausforderungen" isTutorial="OK" regionID="" />
+  <chapter id="217" name="Der Sohn des Dämons" isTutorial="OK" regionID="" />
+  <chapter id="218" name="Finsterschoß" isTutorial="OK" regionID="" />
+  <chapter id="219" name="Der Schatz von Merkatz" isTutorial="OK" regionID="" />
+  <chapter id="220" name="Auf der Suche nach Bomar" isTutorial="OK" regionID="" />
+  <chapter id="221" name="Das Altarium des Lichts" isTutorial="OK" regionID="" />
+  <chapter id="222" name="Das Geheimnis der Läuterung" isTutorial="OK" regionID="" />
+  <chapter id="223" name="Beobachtung und Überwachung" isTutorial="OK" regionID="" />
+  <chapter id="224" name="Die Wahrheit der Rune" isTutorial="OK" regionID="" />
+  <chapter id="225" name="Ein bedeutungsvoller Weg" isTutorial="OK" regionID="" />
+  <chapter id="226" name="Die natürliche Harmonie" isTutorial="OK" regionID="" />
+  <chapter id="227" name="Die Vereinigung der Macht" isTutorial="OK" regionID="" />
+  <chapter id="228" name="Der Glaube" isTutorial="OK" regionID="" />
+  <chapter id="229" name="Die Hoffnung auf Messers Schneide" isTutorial="OK" regionID="" />
+  <chapter id="230" name="Die Sternschnuppe" isTutorial="OK" regionID="" />
+  <chapter id="231" name="Wie es ist, anders zu sein" isTutorial="OK" regionID="" />
+  <chapter id="232" name="Der Mut siegt über die Dunkelheit" isTutorial="OK" regionID="" />
+  <chapter id="233" name="Die Legende von Calibre" isTutorial="OK" regionID="" />
+  <chapter id="234" name="Auf der Suche nach der Runenmacht" isTutorial="OK" regionID="" />
+  <chapter id="235" name="Eine abscheuliche Verschwörung" isTutorial="OK" regionID="" />
+  <chapter id="236" name="Die vorherbestimmte Fährte" isTutorial="OK" regionID="" />
+  <chapter id="237" name="Kirschblütenwald" isTutorial="OK" regionID="" />
+  <chapter id="238" name="Giftiger Garten" isTutorial="OK" regionID="" />
+  <chapter id="239" name="Goldener Turm Ebene 7" isTutorial="OK" regionID="" />
+  <chapter id="240" name="Operation Hühnerrettung" isTutorial="OK" regionID="" />
+  <chapter id="241" name="Hemokan der Gefallene" isTutorial="OK" regionID="" />
+  <chapter id="242" name="Funkelpfad" isTutorial="OK" regionID="" />
+  <chapter id="243" name="Mondlichtfestung" isTutorial="OK" regionID="" />
+  <chapter id="244" name="Uhrturm von Ludibrium" isTutorial="OK" regionID="" />
+  <chapter id="245" name="Katramus" isTutorial="OK" regionID="" />
+  <chapter id="246" name="Zeithallen" isTutorial="OK" regionID="" />
+  <chapter id="9999" name=" " isTutorial="OK" regionID="" />
+</ms2>

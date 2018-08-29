@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="Beginner" />
+	<key id="10" name="Knight Job" />
+	<key id="20" name="Berserker Job" />
+	<key id="30" name="Wizard Job" />
+	<key id="40" name="Priest Job" />
+	<key id="50" name="Archer Job" />
+	<key id="60" name="Heavy Gunner Job" />
+	<key id="70" name="Thief Job" />
+	<key id="80" name="Assassin Job" />
+	<key id="999" name="GM" />
+</ms2>

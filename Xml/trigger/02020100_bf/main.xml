@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+	
+<ms2>
+
+  <state name="대기">
+		<onEnter>
+			<action name="EnableSpawnPointPC" spawnPointID="1" isEnable="0" />
+			<action name="EnableSpawnPointPC" spawnPointID="2" isEnable="0" />
+			<action name="EnableSpawnPointPC" spawnPointID="3" isEnable="0" />
+			<action name="SetUserValue" triggerID="99990002" key="Seed1start" value="0" />
+			<action name="SetUserValue" triggerID="99990003" key="Seed2start" value="0" />
+			<action name="SetUserValue" triggerID="99990004" key="Seed3start" value="0" />
+			<action name="포탈을설정한다" arg1="1" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2001" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2002" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2003" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2004" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2005" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2006" arg2="0" arg3="0" arg4="0" />
+			<action name="사다리를설정한다" arg1="2007" arg2="0" arg3="0" arg4="0" />
+			<action name="메쉬를설정한다" arg1="1001-1014" arg2="0" arg3="0" arg4="0" />
+			<action name="메쉬를설정한다" arg1="1101-1114" arg2="1" arg3="0" arg4="0" />
+			<action name="메쉬를설정한다" arg1="1201-1203" arg2="1" arg3="0" arg4="0" />
+			<action name="메쉬를설정한다" arg1="1211-1215" arg2="1" arg3="0" arg4="0" />
+			<action name="메쉬를설정한다" arg1="1301-1303" arg2="0" arg3="0" arg4="0" />
+			<action name="메쉬를설정한다" arg1="1304-1308" arg2="0" arg3="0" arg4="0" />
+			<action name="오브젝트반응설정한다" arg1="10002109" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002110" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002111" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002112" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002113" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002114" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002115" arg2="0" />
+			<action name="오브젝트반응설정한다" arg1="10002116" arg2="0" />
+			<action name="움직이는발판을설정한다" arg1="5001,5002,5003,5004,5005,5006,5007,5008,5009" arg2="0"/>
+			<action name="움직이는발판을설정한다" arg1="5011,5012,5013,5014,5015,5016,5017,5018,5019" arg2="0"/>
+			<action name="움직이는발판을설정한다" arg1="5021,5022,5023,5024,5025,5026,5027,5028,5029" arg2="0"/>
+			<action name="움직이는발판을설정한다" arg1="5031,5032,5033,5034,5035,5036,5037,5038,5039" arg2="0"/>
+		</onEnter>
+		<condition name="유저를감지했으면" arg1="901" >	
+				<transition state="시작"/>	
+		</condition>
+  </state>
+
+	<state name="시작"> 
+		<onEnter>
+			<action name="메쉬를설정한다" arg1="1101-1114" arg2="0" arg3="0" arg4="0" />
+			<action name="몬스터를생성한다" arg1="201" arg2="0"/>
+		</onEnter>
+			<condition name="몬스터가죽어있으면" arg1="201" >	
+				<transition state="씨앗체험"/>	
+		</condition>
+	</state>
+
+	<state name="씨앗체험"> 
+		<onEnter>
+			<action name="메쉬를설정한다" arg1="1007-1010" arg2="1" arg3="0" arg4="250" arg5="3" />
+			<action name="몬스터를생성한다" arg1="202,203,204,205" arg2="0"/>
+		</onEnter>
+			<condition name="몬스터가죽어있으면" arg1="202,203,204,205" >	
+				<transition state="씨앗체험_씨앗들기"/>	
+		</condition>
+	</state>
+
+	<state name="씨앗체험_씨앗들기"> 
+		<onEnter>
+			<action name="오브젝트반응설정한다" arg1="10002115" arg2="1" />
+			<action name="메쉬를설정한다" arg1="1307" arg2="1" arg3="0" arg4="0" />
+		</onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002115" arg2="0" >
+			<transition state="씨앗체험_나무심기"/>	
+		</condition>
+	</state>
+
+	<state name="씨앗체험_나무심기"> 
+		<onEnter>
+			<action name="오브젝트반응설정한다" arg1="10002116" arg2="1" />
+		</onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002116" arg2="0" >
+			<action name="메쉬를설정한다" arg1="1308" arg2="1" arg3="0" arg4="0" />
+			<transition state="씨앗체험_끝"/>	
+		</condition>
+	</state>
+
+	<state name="씨앗체험_끝"> 
+		<onEnter>
+			<action name="메쉬를설정한다" arg1="1011-1014" arg2="1" arg3="0" arg4="250" arg5="3" />
+			<action name="몬스터를생성한다" arg1="207,208,209" arg2="0"/>
+		</onEnter>
+		<condition name="몬스터가죽어있으면" arg1="207,208,209" >	
+			<transition state="사다리활성화"/>	
+		</condition>
+	</state>
+	
+	<state name="사다리활성화"> 
+		<onEnter>
+			<action name="사다리를설정한다" arg1="2001" arg2="1" arg3="1" arg4="2" />
+			<action name="사다리를설정한다" arg1="2002" arg2="1" arg3="1" arg4="4" />
+			<action name="사다리를설정한다" arg1="2003" arg2="1" arg3="1" arg4="6" />
+			<action name="사다리를설정한다" arg1="2004" arg2="1" arg3="1" arg4="8" />
+			<action name="사다리를설정한다" arg1="2005" arg2="1" arg3="1" arg4="10" />
+			<action name="사다리를설정한다" arg1="2006" arg2="1" arg3="1" arg4="12" />
+			<action name="사다리를설정한다" arg1="2007" arg2="1" arg3="1" arg4="14" />
+			<action name="몬스터를생성한다" arg1="210,211,212" arg2="0"/>
+		</onEnter>
+		<condition name="몬스터가죽어있으면" arg1="210,211,212" >	
+			<transition state="씨앗1_활성화"/>	
+		</condition>
+	</state>
+
+	<state name="씨앗1_활성화"> 
+		<onEnter>
+			<action name="EnableSpawnPointPC" spawnPointID="0" isEnable="0" />
+			<action name="EnableSpawnPointPC" spawnPointID="1" isEnable="1" />
+			<action name="SetUserValue" triggerID="99990002" key="Seed1start" value="1" />
+		</onEnter>
+		<condition name="UserValue" key="Seed1interact" value="1" >
+			<transition state="씨앗1_전투"/>
+		</condition>
+	</state>
+
+	<state name="씨앗1_전투"> 
+		<onEnter>
+			<action name="몬스터를생성한다" arg1="213,214,215,216" arg2="0"/>
+			<action name="메쉬를설정한다" arg1="1201-1203" arg2="0" arg3="0" arg4="0" />
+		</onEnter>
+		<condition name="몬스터가죽어있으면" arg1="213,214,215,216" >
+			<transition state="씨앗1_심기"/>
+		</condition>
+	</state>
+
+	<state name="씨앗1_심기">
+		<onEnter>
+			<action name="메쉬를설정한다" arg1="1001-1004" arg2="1" arg3="0" arg4="250" arg5="3" />
+			<action name="오브젝트반응설정한다" arg1="10002112" arg2="1" />
+		</onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002112" arg2="0" >
+			<transition state="씨앗2_활성화"/>	
+		</condition>
+	</state>
+
+	<state name="씨앗2_활성화"> 
+		<onEnter>
+			<action name="EnableSpawnPointPC" spawnPointID="1" isEnable="0" />
+			<action name="EnableSpawnPointPC" spawnPointID="2" isEnable="1" />
+			<action name="SetUserValue" triggerID="99990002" key="Seed1start" value="2" />
+			<action name="SetUserValue" triggerID="99990003" key="Seed2start" value="1" />
+			<action name="메쉬를설정한다" arg1="1005-1006" arg2="1" arg3="0" arg4="250" arg5="3" />
+			<action name="메쉬를설정한다" arg1="1301" arg2="1" arg3="0" arg4="0" arg5="3" />
+		</onEnter>
+		<condition name="UserValue" key="Seed2interact" value="1" >
+			<transition state="씨앗2_전투"/>
+		</condition>
+	</state>
+
+	<state name="씨앗2_전투"> 
+		<onEnter>
+			<action name="몬스터를생성한다" arg1="221,222,223,224,225,226" arg2="0"/>
+			<action name="몬스터를생성한다" arg1="111,112,113,114,115,116" arg2="0"/>
+			<action name="메쉬를설정한다" arg1="1211-1215" arg2="0" arg3="0" arg4="0" />
+			<action name="오브젝트반응설정한다" arg1="10002113" arg2="1" />
+		</onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002113" arg2="0" >
+			<transition state="발판1_활성화대기"/>
+		</condition>
+	</state>
+
+	<state name="발판1_활성화대기"> 
+		<onEnter>
+			<action name="SetUserValue" triggerID="99990003" key="Seed2start" value="2" />
+			<action name="SetUserValue" triggerID="99990004" key="Seed3start" value="1" />
+			<action name="몬스터소멸시킨다" arg1="221,222,223,224,225,226" />
+			<action name="몬스터소멸시킨다" arg1="111,112,113,114,115,116" />
+			<action name="메쉬를설정한다" arg1="1302" arg2="1" arg3="0" arg4="0" arg5="3" />
+		</onEnter>
+		<condition name="UserValue" key="Seed3interact" value="1" >
+			<transition state="발판1_활성화"/>
+		</condition>
+	</state>
+
+	<state name="발판1_활성화"> 
+		<onEnter>
+			<action name="EnableSpawnPointPC" spawnPointID="2" isEnable="0" />
+			<action name="EnableSpawnPointPC" spawnPointID="3" isEnable="1" />
+			<action name="몬스터를생성한다" arg1="229" arg2="0"/>
+			<action name="몬스터를생성한다" arg1="121,122,123,124" arg2="0"/>
+			<action name="움직이는발판을설정한다" arg1="5001,5002,5003,5004,5005,5006,5007,5008,5009" arg2="1"/>
+			<action name="움직이는발판을설정한다" arg1="5011,5012,5013,5014,5015,5016,5017,5018,5019" arg2="1"/>
+		</onEnter>
+		<condition name="몬스터가죽어있으면" arg1="229" >	
+			<transition state="발판2_활성화"/>	
+		</condition>
+	</state>
+
+	<state name="발판2_활성화">
+		<onEnter>
+			<action name="오브젝트반응설정한다" arg1="10002114" arg2="1" />
+			<action name="몬스터를생성한다" arg1="131,132,133,134" arg2="0"/>
+			<action name="몬스터를생성한다" arg1="231,232,233,234,235" arg2="0"/>
+			<action name="몬스터를생성한다" arg1="141,145,146,147,148,149,150,151,152,153" arg2="0"/>
+			<action name="움직이는발판을설정한다" arg1="5021,5022,5023,5024,5025,5026,5027,5028,5029" arg2="1"/>
+			<action name="움직이는발판을설정한다" arg1="5031,5032,5033,5034,5035,5036,5037,5038,5039" arg2="1"/>
+		</onEnter>
+		<condition name="오브젝트가반응했으면" arg1="10002114" arg2="0" >
+			<transition state="보스전"/>	
+		</condition>
+	</state>
+
+	<state name="보스전">
+		<onEnter>
+			<action name="SetUserValue" triggerID="99990004" key="Seed3start" value="2" />
+			<action name="몬스터소멸시킨다" arg1="231,232,233,234,235" />
+			<action name="몬스터소멸시킨다" arg1="111,112,113,114,115,116,117,118,119" />
+			<action name="몬스터소멸시킨다" arg1="121,122,123,124" />
+			<action name="몬스터소멸시킨다" arg1="131,132,133,134" />
+			<action name="몬스터소멸시킨다" arg1="141,145,146,147,148,149,150,151,152,153" />
+			<action name="메쉬를설정한다" arg1="1303" arg2="1" arg3="0" arg4="0" arg5="3" />
+			<action name="포탈을설정한다" arg1="1" arg2="1" arg3="1" arg4="1" />
+		</onEnter>
+	</state>
+
+</ms2>
+

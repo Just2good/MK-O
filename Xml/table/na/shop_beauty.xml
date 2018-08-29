@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<shop shopID="601" byItem="1">
+		<item id="10200103" />
+	</shop>
+	<shop shopID="602" byItem="1">
+		<item id="10200091" />
+	</shop>
+	<shop shopID="603" byItem="1">
+		<item id="10200096" />
+	</shop>
+	<shop shopID="604" byItem="1">
+		<item id="10200108" />
+	</shop>
+	<shop shopID="605" byItem="1">
+		<item id="10200101" />
+	</shop>
+	<shop shopID="606" byItem="1">
+		<item id="10200106" />
+	</shop>
+	<shop shopID="607" byItem="1">
+		<item id="10200086" />
+	</shop>
+	<shop shopID="608" byItem="1">
+		<item id="10200112" />
+	</shop>
+	<shop shopID="609" byItem="1">
+		<item id="10200116" />
+	</shop>
+	<shop shopID="610" byItem="1">
+		<item id="10200104" />
+	</shop>
+	<shop shopID="611" byItem="1">
+		<item id="10200113" />
+	</shop>
+	<shop shopID="612" byItem="1">
+		<item id="10200110" />
+	</shop>
+	<shop shopID="613" byItem="1">
+		<item id="10200105" />
+	</shop>
+	<shop shopID="614" byItem="1">
+		<item id="10200120" />
+	</shop>
+	<shop shopID="615" byItem="1">
+		<item id="10200117" />
+	</shop>
+	<shop shopID="616" byItem="1">
+		<item id="10200115" />
+	</shop>
+	<shop shopID="617" byItem="1">
+		<item id="10200125" />
+	</shop>
+	<shop shopID="618" byItem="1">
+		<item id="10200127" />
+	</shop>
+	<shop shopID="619" byItem="1">
+		<item id="10200126" />
+	</shop>
+	<shop shopID="620" byItem="1">
+		<item id="10200128" />
+	</shop>
+	<shop shopID="621" byItem="1">
+		<item id="10200137" />
+	</shop>
+	<shop shopID="622" byItem="1">
+		<item id="10200140" />
+	</shop>
+	<shop shopID="623" byItem="1">
+		<item id="10200139" />
+	</shop>
+	<shop shopID="624" byItem="1">
+		<item id="10200119" />
+	</shop>
+	<shop shopID="625" byItem="1">
+		<item id="10200105" />
+		<item id="10200143" />
+		<item id="10200112" />
+		<item id="10200114" />
+	</shop>
+	<shop shopID="626" byItem="1">
+		<item id="10200177" />
+	</shop>
+	<shop shopID="627" byItem="1">
+		<item id="10200178" />
+	</shop>
+	<shop shopID="628" byItem="1">
+		<item id="10200179" />
+	</shop>
+	<shop shopID="629" byItem="1">
+		<item id="10200180" />
+	</shop>
+	<shop shopID="630" byItem="1">
+		<item id="10200183" />
+	</shop>
+	<shop shopID="631" byItem="1">
+		<item id="10200184" />
+	</shop>
+	<shop shopID="632" byItem="1">
+		<item id="10200130" />
+	</shop>
+	<shop shopID="633" byItem="1">
+		<item id="10200132" />
+	</shop>
+	<shop shopID="634" byItem="1">
+		<item id="10200134" />
+	</shop>
+	<shop shopID="635" byItem="1">
+		<item id="10200137" />
+	</shop>
+</ms2>

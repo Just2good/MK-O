@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<colorPalette id="2">
+		<color colorSN="0" ch0="0xffaa2f2f" ch1="0xff4c85db" ch2="0xff601313" palette="0xffb3261c" stringKey="10000001" />
+		<color colorSN="1" ch0="0xfff9894d" ch1="0xffe26b34" ch2="0xff933c14" palette="0xfff0932c" stringKey="10000002" />
+		<color colorSN="2" ch0="0xfff4bd58" ch1="0xffce962d" ch2="0xffa37927" palette="0xfff6cf34" stringKey="10000003" />
+		<color colorSN="3" ch0="0xff779344" ch1="0xff4c85db" ch2="0xff20331e" palette="0xff4e774d" stringKey="10000004" />
+		<color colorSN="4" ch0="0xff4c69b5" ch1="0xff4361a8" ch2="0xff17284f" palette="0xff496fc4" stringKey="10000005" />
+		<color colorSN="5" ch0="0xff3e4975" ch1="0xff1b1a30" ch2="0xff1b1a30" palette="0xff3a436c" stringKey="10000006" />
+		<color colorSN="6" ch0="0xff8551a5" ch1="0xff4c85db" ch2="0xff352a47" palette="0xff7650b5" stringKey="10000007" />
+		<color colorSN="7" ch0="0xffef7091" ch1="0xff994252" ch2="0xff994252" palette="0xffe4768b" stringKey="10000008" />
+		<color colorSN="8" ch0="0xff7a5c4d" ch1="0xff66544a" ch2="0xff35271d" palette="0xff62321c" stringKey="10000009" />
+		<color colorSN="9" ch0="0xff3f3b33" ch1="0xff23201b" ch2="0xff14120f" palette="0xff151515" stringKey="10000010" />
+		<color colorSN="10" ch0="0xff9e533f" ch1="0xff7c2e16" ch2="0xff441f13" palette="0xff97432c" stringKey="10000011" />
+		<color colorSN="11" ch0="0xffd69364" ch1="0xff4c85db" ch2="0xffba7132" palette="0xfff3bd73" stringKey="10000012" />
+		<color colorSN="12" ch0="0xfff2e0bf" ch1="0xff4c85db" ch2="0xffa57f60" palette="0xfffde7b6" stringKey="10000013" />
+		<color colorSN="13" ch0="0xffc2d160" ch1="0xff4c85db" ch2="0xff406836" palette="0xffcfd95e" stringKey="10000014" />
+		<color colorSN="14" ch0="0xff93e2f2" ch1="0xff5999a5" ch2="0xff5999a5" palette="0xff87dbf0" stringKey="10000015" />
+		<color colorSN="15" ch0="0xff7eccf7" ch1="0xff4c85db" ch2="0xff485ea8" palette="0xff84adff" stringKey="10000016" />
+		<color colorSN="16" ch0="0xffd2baff" ch1="0xff4c85db" ch2="0xff503e9b" palette="0xffb7a5f1" stringKey="10000017" />
+		<color colorSN="17" ch0="0xffffa8cb" ch1="0xffd8619b" ch2="0xffcd566a" palette="0xffffa8cb" stringKey="10000018" />
+		<color colorSN="18" ch0="0xff848278" ch1="0xff444441" ch2="0xff444441" palette="0xffa3a3a3" stringKey="10000019" />
+		<color colorSN="19" ch0="0xffbcbcb3" ch1="0xffc3da3d" ch2="0xffb0b4ba" palette="0xfff2f2eb" stringKey="10000020" />
+	</colorPalette>
+	<colorPalette id="3">
+		<color colorSN="0" ch0="0xffb52429" ch1="0xfff7e3e3" ch2="0xff140702" palette="0xffb3261c" stringKey="10000001" />
+		<color colorSN="1" ch0="0xffdd7d22" ch1="0xffe26b34" ch2="0xff350e02" palette="0xfff0932c" stringKey="10000002" />
+		<color colorSN="2" ch0="0xffd6b304" ch1="0xfff7e3e3" ch2="0xff110000" palette="0xfff6cf34" stringKey="10000003" />
+		<color colorSN="3" ch0="0xff547f08" ch1="0xfff7e3e3" ch2="0xff080f00" palette="0xff4e774d" stringKey="10000004" />
+		<color colorSN="4" ch0="0xff4c87e4" ch1="0xff4361a8" ch2="0xff020c23" palette="0xff496fc4" stringKey="10000005" />
+		<color colorSN="5" ch0="0xff3f5587" ch1="0xff1b1a30" ch2="0xff010612" palette="0xff3a436c" stringKey="10000006" />
+		<color colorSN="6" ch0="0xff8b2596" ch1="0xfff7e3e3" ch2="0xff120423" palette="0xff7650b5" stringKey="10000007" />
+		<color colorSN="7" ch0="0xffe86d83" ch1="0xfff7e3e3" ch2="0xff0f0403" palette="0xffe4768b" stringKey="10000008" />
+		<color colorSN="8" ch0="0xff7f4834" ch1="0xff66544a" ch2="0xff190b02" palette="0xff62321c" stringKey="10000009" />
+		<color colorSN="9" ch0="0xff4f4d4d" ch1="0xfff7e3e3" ch2="0xff070707" palette="0xff151515" stringKey="10000010" />
+		<color colorSN="10" ch0="0xff7a341a" ch1="0xfff7e3e3" ch2="0xff190b02" palette="0xff97432c" stringKey="10000011" />
+		<color colorSN="11" ch0="0xffd69550" ch1="0xff4c85db" ch2="0xff622c17" palette="0xfff3bd73" stringKey="10000012" />
+		<color colorSN="12" ch0="0xffe2ca7d" ch1="0xff4c85db" ch2="0xff3e2727" palette="0xfffde7b6" stringKey="10000013" />
+		<color colorSN="13" ch0="0xff8aaf2b" ch1="0xfff7e3e3" ch2="0xff0b1601" palette="0xffcfd95e" stringKey="10000014" />
+		<color colorSN="14" ch0="0xff7ef3f8" ch1="0xff5999a5" ch2="0xff094964" palette="0xff87dbf0" stringKey="10000015" />
+		<color colorSN="15" ch0="0xff77d8f9" ch1="0xff4c85db" ch2="0xff0c2860" palette="0xff84adff" stringKey="10000016" />
+		<color colorSN="16" ch0="0xff8179aa" ch1="0xfff7e3e3" ch2="0xff130216" palette="0xffb7a5f1" stringKey="10000017" />
+		<color colorSN="17" ch0="0xfffc8fb5" ch1="0xffd8619b" ch2="0xff6d283a" palette="0xffffa8cb" stringKey="10000018" />
+		<color colorSN="18" ch0="0xff9a9692" ch1="0xff444441" ch2="0xff21201f" palette="0xffa3a3a3" stringKey="10000019" />
+		<color colorSN="19" ch0="0xffcbc5c5" ch1="0xffc3da3d" ch2="0xff353532" palette="0xfff2f2eb" stringKey="10000020" />
+	</colorPalette>
+	<colorPalette id="4">
+		<color colorSN="0" ch0="0xffaa2f2f" ch1="0xff4c85db" ch2="0xff601313" palette="0xffb3261c" stringKey="10000001" />
+		<color colorSN="1" ch0="0xfff9894d" ch1="0xffe26b34" ch2="0xff933c14" palette="0xfff0932c" stringKey="10000002" />
+		<color colorSN="2" ch0="0xfff4bd58" ch1="0xffce962d" ch2="0xffa37927" palette="0xfff6cf34" stringKey="10000003" />
+		<color colorSN="3" ch0="0xff779344" ch1="0xff4c85db" ch2="0xff20331e" palette="0xff4e774d" stringKey="10000004" />
+		<color colorSN="4" ch0="0xff4c69b5" ch1="0xff4361a8" ch2="0xff17284f" palette="0xff496fc4" stringKey="10000005" />
+		<color colorSN="5" ch0="0xff3e4975" ch1="0xff1b1a30" ch2="0xff1b1a30" palette="0xff3a436c" stringKey="10000006" />
+		<color colorSN="6" ch0="0xff8551a5" ch1="0xff4c85db" ch2="0xff352a47" palette="0xff7650b5" stringKey="10000007" />
+		<color colorSN="7" ch0="0xffef7091" ch1="0xff994252" ch2="0xff994252" palette="0xffe4768b" stringKey="10000008" />
+		<color colorSN="8" ch0="0xff7a5c4d" ch1="0xff66544a" ch2="0xff35271d" palette="0xff62321c" stringKey="10000009" />
+		<color colorSN="9" ch0="0xff3f3b33" ch1="0xff23201b" ch2="0xff14120f" palette="0xff151515" stringKey="10000010" />
+		<color colorSN="10" ch0="0xff9e533f" ch1="0xff7c2e16" ch2="0xff441f13" palette="0xff97432c" stringKey="10000011" />
+		<color colorSN="11" ch0="0xffd69364" ch1="0xff4c85db" ch2="0xffba7132" palette="0xfff3bd73" stringKey="10000012" />
+		<color colorSN="12" ch0="0xfff2e0bf" ch1="0xff4c85db" ch2="0xffa57f60" palette="0xfffde7b6" stringKey="10000013" />
+		<color colorSN="13" ch0="0xffc2d160" ch1="0xff4c85db" ch2="0xff406836" palette="0xffcfd95e" stringKey="10000014" />
+		<color colorSN="14" ch0="0xff93e2f2" ch1="0xff5999a5" ch2="0xff5999a5" palette="0xff87dbf0" stringKey="10000015" />
+		<color colorSN="15" ch0="0xff7eccf7" ch1="0xff4c85db" ch2="0xff485ea8" palette="0xff84adff" stringKey="10000016" />
+		<color colorSN="16" ch0="0xffd2baff" ch1="0xff4c85db" ch2="0xff503e9b" palette="0xffb7a5f1" stringKey="10000017" />
+		<color colorSN="17" ch0="0xffffa8cb" ch1="0xffd8619b" ch2="0xffcd566a" palette="0xffffa8cb" stringKey="10000018" />
+		<color colorSN="18" ch0="0xff848278" ch1="0xff444441" ch2="0xff444441" palette="0xffa3a3a3" stringKey="10000019" />
+		<color colorSN="19" ch0="0xffbcbcb3" ch1="0xffc3da3d" ch2="0xffb0b4ba" palette="0xfff2f2eb" stringKey="10000020" />
+	</colorPalette>
+	<colorPalette id="5">
+		<color colorSN="0" ch0="0xffaa2f2f" ch1="0xff4c85db" ch2="0xff601313" palette="0xffb3261c" stringKey="10000001" />
+		<color colorSN="1" ch0="0xfff9894d" ch1="0xffe26b34" ch2="0xff933c14" palette="0xfff0932c" stringKey="10000002" />
+		<color colorSN="2" ch0="0xfff4bd58" ch1="0xffce962d" ch2="0xffa37927" palette="0xfff6cf34" stringKey="10000003" />
+		<color colorSN="3" ch0="0xff779344" ch1="0xff4c85db" ch2="0xff20331e" palette="0xff4e774d" stringKey="10000004" />
+		<color colorSN="4" ch0="0xff4c69b5" ch1="0xff4361a8" ch2="0xff17284f" palette="0xff496fc4" stringKey="10000005" />
+		<color colorSN="5" ch0="0xff3e4975" ch1="0xff1b1a30" ch2="0xff1b1a30" palette="0xff3a436c" stringKey="10000006" />
+		<color colorSN="6" ch0="0xff8551a5" ch1="0xff4c85db" ch2="0xff352a47" palette="0xff7650b5" stringKey="10000007" />
+		<color colorSN="7" ch0="0xffef7091" ch1="0xff994252" ch2="0xff994252" palette="0xffe4768b" stringKey="10000008" />
+		<color colorSN="8" ch0="0xff7a5c4d" ch1="0xff66544a" ch2="0xff35271d" palette="0xff62321c" stringKey="10000009" />
+		<color colorSN="9" ch0="0xff3f3b33" ch1="0xff23201b" ch2="0xff14120f" palette="0xff151515" stringKey="10000010" />
+		<color colorSN="10" ch0="0xff9e533f" ch1="0xff7c2e16" ch2="0xff441f13" palette="0xff97432c" stringKey="10000011" />
+		<color colorSN="11" ch0="0xffd69364" ch1="0xff4c85db" ch2="0xffba7132" palette="0xfff3bd73" stringKey="10000012" />
+		<color colorSN="12" ch0="0xfff2e0bf" ch1="0xff4c85db" ch2="0xffa57f60" palette="0xfffde7b6" stringKey="10000013" />
+		<color colorSN="13" ch0="0xffc2d160" ch1="0xff4c85db" ch2="0xff406836" palette="0xffcfd95e" stringKey="10000014" />
+		<color colorSN="14" ch0="0xff93e2f2" ch1="0xff5999a5" ch2="0xff5999a5" palette="0xff87dbf0" stringKey="10000015" />
+		<color colorSN="15" ch0="0xff7eccf7" ch1="0xff4c85db" ch2="0xff485ea8" palette="0xff84adff" stringKey="10000016" />
+		<color colorSN="16" ch0="0xffd2baff" ch1="0xff4c85db" ch2="0xff503e9b" palette="0xffb7a5f1" stringKey="10000017" />
+		<color colorSN="17" ch0="0xffffa8cb" ch1="0xffd8619b" ch2="0xffcd566a" palette="0xffffa8cb" stringKey="10000018" />
+		<color colorSN="18" ch0="0xff848278" ch1="0xff444441" ch2="0xff444441" palette="0xffa3a3a3" stringKey="10000019" />
+		<color colorSN="19" ch0="0xffbcbcb3" ch1="0xffc3da3d" ch2="0xffb0b4ba" palette="0xfff2f2eb" stringKey="10000020" />
+	</colorPalette>
+	<colorPalette id="10">
+		<color colorSN="0" ch0="0xffaa2f2f" ch1="0xff4c85db" ch2="0xff601313" palette="0xffb3261c" stringKey="10000001" />
+		<color colorSN="1" ch0="0xfff9894d" ch1="0xffe26b34" ch2="0xff933c14" palette="0xfff0932c" stringKey="10000002" />
+		<color colorSN="2" ch0="0xfff4bd58" ch1="0xffce962d" ch2="0xffa37927" palette="0xfff6cf34" stringKey="10000003" />
+		<color colorSN="3" ch0="0xff779344" ch1="0xff4c85db" ch2="0xff20331e" palette="0xff4e774d" stringKey="10000004" />
+		<color colorSN="4" ch0="0xff4c69b5" ch1="0xff4361a8" ch2="0xff17284f" palette="0xff496fc4" stringKey="10000005" />
+		<color colorSN="5" ch0="0xff3e4975" ch1="0xff1b1a30" ch2="0xff1b1a30" palette="0xff3a436c" stringKey="10000006" />
+		<color colorSN="6" ch0="0xff8551a5" ch1="0xff4c85db" ch2="0xff352a47" palette="0xff7650b5" stringKey="10000007" />
+		<color colorSN="7" ch0="0xffef7091" ch1="0xff994252" ch2="0xff994252" palette="0xffe4768b" stringKey="10000008" />
+		<color colorSN="8" ch0="0xff7a5c4d" ch1="0xff66544a" ch2="0xff35271d" palette="0xff62321c" stringKey="10000009" />
+		<color colorSN="9" ch0="0xff3f3b33" ch1="0xff23201b" ch2="0xff14120f" palette="0xff151515" stringKey="10000010" />
+		<color colorSN="10" ch0="0xff9e533f" ch1="0xff7c2e16" ch2="0xff441f13" palette="0xff97432c" stringKey="10000011" />
+		<color colorSN="11" ch0="0xffd69364" ch1="0xff4c85db" ch2="0xffba7132" palette="0xfff3bd73" stringKey="10000012" />
+		<color colorSN="12" ch0="0xfff2e0bf" ch1="0xff4c85db" ch2="0xffa57f60" palette="0xfffde7b6" stringKey="10000013" />
+		<color colorSN="13" ch0="0xffc2d160" ch1="0xff4c85db" ch2="0xff406836" palette="0xffcfd95e" stringKey="10000014" />
+		<color colorSN="14" ch0="0xff93e2f2" ch1="0xff5999a5" ch2="0xff5999a5" palette="0xff87dbf0" stringKey="10000015" />
+		<color colorSN="15" ch0="0xff7eccf7" ch1="0xff4c85db" ch2="0xff485ea8" palette="0xff84adff" stringKey="10000016" />
+		<color colorSN="16" ch0="0xffd2baff" ch1="0xff4c85db" ch2="0xff503e9b" palette="0xffb7a5f1" stringKey="10000017" />
+		<color colorSN="17" ch0="0xffffa8cb" ch1="0xffd8619b" ch2="0xffcd566a" palette="0xffffa8cb" stringKey="10000018" />
+		<color colorSN="18" ch0="0xff848278" ch1="0xff444441" ch2="0xff444441" palette="0xffa3a3a3" stringKey="10000019" />
+		<color colorSN="19" ch0="0xffc7c7c7" ch1="0xffc3da3d" ch2="0xff828588" palette="0xfff2f2eb" stringKey="10000021" />
+	</colorPalette>
+	<colorPalette id="100000000">
+		<color colorSN="0" ch0="0xff7f4341" ch2="0xff5b3a3a" ch0_eye="0xff8c4c4a" ch2_eye="0xff1d1212" palette="0xff85413f" achieveID="21230098" achieveGrade="2" stringKey="10001000" />
+		<color colorSN="1" ch0="0xff9b673a" ch2="0xff422712" ch0_eye="0xff8c5f34" ch2_eye="0xff1d1212" palette="0xff995f31" achieveID="22210013" achieveGrade="1" stringKey="10001001" />
+		<color colorSN="2" ch0="0xff9e8038" ch2="0xff443913" ch0_eye="0xff8c6c28" ch2_eye="0xff1d1212" palette="0xff98782f" achieveID="22200012" achieveGrade="2" stringKey="10001002" />
+		<color colorSN="3" ch0="0xffa09938" ch2="0xff474113" ch0_eye="0xff8c8027" ch2_eye="0xff1d1212" palette="0xff948e2d" achieveID="22300078" achieveGrade="1" stringKey="10001003" />
+		<color colorSN="4" ch0="0xff49718a" ch2="0xff173343" ch0_eye="0xff477a9c" ch2_eye="0xff11121c" palette="0xff3e6b88" achieveID="22300081" achieveGrade="1" stringKey="10001004" />
+		<color colorSN="5" ch0="0xff5c6093" ch2="0xff1b264c" ch0_eye="0xff6575ac" ch2_eye="0xff11121c" palette="0xff515894" achieveID="22300085" achieveGrade="1" stringKey="10001005" />
+		<color colorSN="6" ch0="0xff433972" ch2="0xff1b182d" ch0_eye="0xff4d4d88" ch2_eye="0xff0c0d14" palette="0xff383068" achieveID="22300082" achieveGrade="1" stringKey="10001006" />
+		<color colorSN="7" ch0="0xffae5a59" ch2="0xff784d4d" ch0_eye="0xffb05e5d" ch2_eye="0xff2c1c1c" palette="0xffb05655" achieveID="23100003" achieveGrade="1" stringKey="10001007" />
+		<color colorSN="8" ch0="0xff7f715b" ch2="0xff9a7657" ch0_eye="0xff8a7350" ch2_eye="0xff160e0e" palette="0xff7c644a" achieveID="22210008" achieveGrade="1" stringKey="10001008" />
+		<color colorSN="9" ch0="0xffadadc9" ch2="0xff8b8c99" ch0_eye="0xff9d9cb0" ch2_eye="0xff373049" palette="0xffc3c3e4" achieveID="22100013" achieveGrade="1" stringKey="10001009" />
+		<color colorSN="10" ch0="0xffe8a7b2" ch2="0xff8c404a" ch0_eye="0xffd2959b" ch2_eye="0xff572d35" palette="0xfffcadba" achieveID="22100005" achieveGrade="2" stringKey="10001010" />
+		<color colorSN="11" ch0="0xffd3b897" ch2="0xff895f3f" ch0_eye="0xffd6b185" ch2_eye="0xff422c1f" palette="0xffe2c09a" achieveID="21230053" achieveGrade="1" stringKey="10001011" />
+		<color colorSN="12" ch0="0xffccd295" ch2="0xff86883b" ch0_eye="0xffbebc79" ch2_eye="0xff3d4026" palette="0xffdae096" achieveID="21100012" achieveGrade="1" stringKey="10001012" />
+		<color colorSN="13" ch0="0xffb9e3a1" ch2="0xff68a046" ch0_eye="0xffaee391" ch2_eye="0xff324c2c" palette="0xffc6faa8" achieveID="21100016" achieveGrade="1" stringKey="10001013" />
+		<color colorSN="14" ch0="0xffa3e0bd" ch2="0xff439e60" ch0_eye="0xff93ddb8" ch2_eye="0xff274c35" palette="0xffa7f1c6" achieveID="21100015" achieveGrade="1" stringKey="10001014" />
+		<color colorSN="15" ch0="0xffa4d1df" ch2="0xff41849b" ch0_eye="0xff96cad2" ch2_eye="0xff283f4c" palette="0xff9dd5e6" achieveID="21100010" achieveGrade="1" stringKey="10001015" />
+		<color colorSN="16" ch0="0xffeda0ff" ch2="0xff634876" ch0_eye="0xffd78cd8" ch2_eye="0xff572e67" palette="0xfffba4ff" achieveID="23100187" achieveGrade="1" stringKey="10001016" />
+		<color colorSN="17" ch0="0xffffb0a0" ch2="0xffbc7073" ch0_eye="0xffd69d8e" ch2_eye="0xff4a1b21" palette="0xffffb7a8" achieveID="23100189" achieveGrade="1" stringKey="10001017" />
+		<color colorSN="18" ch0="0xffa59476" ch2="0xffb08864" ch0_eye="0xffb09977" ch2_eye="0xff40332a" palette="0xffb7a07b" achieveID="21100010" achieveGrade="1" stringKey="10001018" />
+		<color colorSN="19" ch0="0xff8b9af2" ch2="0xff4f59a5" ch0_eye="0xff8599d6" ch2_eye="0xff2d2a4a" palette="0xff8ca1f7" achieveID="22200402" achieveGrade="4" stringKey="10001019" />
+		<color colorSN="20" ch0="0xffcb4d4b" ch2="0xff467628" ch0_eye="0xffd63f28" ch2_eye="0xff2e5013" show2color="1" achieveID="22300083" achieveGrade="1" stringKey="10001020" />
+		<color colorSN="21" ch0="0xfff9894d" ch2="0xff4d9bb9" ch0_eye="0xffed874e" ch2_eye="0xff20566f" show2color="1" achieveID="21300015" achieveGrade="1" stringKey="10001021" />
+		<color colorSN="22" ch0="0xfff4bd58" ch2="0xffd37fe4" ch0_eye="0xffefb764" ch2_eye="0xff672f70" show2color="1" achieveID="22210010" achieveGrade="1" stringKey="10001022" />
+		<color colorSN="23" ch0="0xff779344" ch2="0xff864d95" ch0_eye="0xff709643" ch2_eye="0xff4c235b" show2color="1" achieveID="22100002" achieveGrade="8" stringKey="10001023" />
+		<color colorSN="24" ch0="0xff4c69b5" ch2="0xffaa48a3" ch0_eye="0xff436dbc" ch2_eye="0xff642a5e" show2color="1" achieveID="21100017" achieveGrade="1" stringKey="10001024" />
+		<color colorSN="25" ch0="0xff3e4975" ch2="0xff67c7d0" ch0_eye="0xff58adbe" ch2_eye="0xff212b49" show2color="1" achieveID="21230047" achieveGrade="1" stringKey="10001025" />
+		<color colorSN="26" ch0="0xff8551a5" ch2="0xffb52738" ch0_eye="0xffa15ce2" ch2_eye="0xff691123" show2color="1" achieveID="21100012" achieveGrade="1" stringKey="10001026" />
+		<color colorSN="27" ch0="0xffef7091" ch2="0xff7ed0db" ch0_eye="0xffe67795" ch2_eye="0xff326875" show2color="1" achieveID="21100013" achieveGrade="1" stringKey="10001027" />
+		<color colorSN="28" ch0="0xff7a5c4d" ch2="0xff5f63a5" ch0_eye="0xff8d6755" ch2_eye="0xff46426d" show2color="1" achieveID="21100014" achieveGrade="1" stringKey="10001028" />
+		<color colorSN="29" ch0="0xff23211d" ch2="0xff74141a" ch0_eye="0xff7b191c" ch2_eye="0xff180e0f" show2color="1" achieveID="21220011" achieveGrade="1" stringKey="10001029" />
+		<color colorSN="30" ch0="0xff934d3b" ch2="0xff4b53b0" ch0_eye="0xff6662db" ch2_eye="0xff5e211e" show2color="1" achieveID="22300084" achieveGrade="1" stringKey="10001030" />
+		<color colorSN="31" ch0="0xffd69364" ch2="0xffea3e4d" ch0_eye="0xffdd9353" ch2_eye="0xffac2c34" show2color="1" achieveID="21100011" achieveGrade="1" stringKey="10001031" />
+		<color colorSN="32" ch0="0xffefd06d" ch2="0xff8ddb6d" ch0_eye="0xffcbc557" ch2_eye="0xff417431" show2color="1" achieveID="21100015" achieveGrade="1" stringKey="10001032" />
+		<color colorSN="33" ch0="0xffc2d160" ch2="0xff33749c" ch0_eye="0xffabbe68" ch2_eye="0xff22576f" show2color="1" achieveID="21100014" achieveGrade="1" stringKey="10001033" />
+		<color colorSN="34" ch0="0xff93e2f2" ch2="0xff9b64cd" ch0_eye="0xff8dc9dd" ch2_eye="0xff583e7d" show2color="1" achieveID="23400028" achieveGrade="1" stringKey="10001034" />
+		<color colorSN="35" ch0="0xff256aed" ch2="0xfffc7106" ch0_eye="0xffd6610e" ch2_eye="0xff214093" show2color="1" achieveID="21230102" achieveGrade="2" stringKey="10001035" />
+		<color colorSN="36" ch0="0xffad9bff" ch2="0xfffc6e88" ch0_eye="0xffdd6384" ch2_eye="0xff524384" show2color="1" achieveID="21230103" achieveGrade="2" stringKey="10001036" />
+		<color colorSN="37" ch0="0xffffa8cb" ch2="0xffc2db68" ch0_eye="0xffa1c05f" ch2_eye="0xffaa5b75" show2color="1" achieveID="22300047" achieveGrade="4" stringKey="10001037" />
+		<color colorSN="38" ch0="0xff848278" ch2="0xfff1a1ca" ch0_eye="0xffd48daf" ch2_eye="0xff5e5e5b" show2color="1" achieveID="21100011" achieveGrade="1" stringKey="10001038" />
+		<color colorSN="39" ch0="0xffedece7" ch2="0xff3f1cbe" ch0_eye="0xffd0cfcb" ch2_eye="0xff4d31ae" show2color="1" achieveID="21100013" achieveGrade="1" stringKey="10001039" />
+		<color colorSN="110" ch0="0xff591111" ch2="0xfff12404" ch0_eye="0xffef2d01" ch2_eye="0xff140300" show2color="1" achieveID="23100320" achieveGrade="1" stringKey="10001110" />
+		<color colorSN="111" ch0="0xffeae606" ch2="0xfff12404" ch0_eye="0xffe6d201" ch2_eye="0xffbc3201" show2color="1" achieveID="23100328" achieveGrade="1" stringKey="10001111" />
+		<color colorSN="112" ch0="0xff8edd0e" ch2="0xffd03a35" ch0_eye="0xff93db0e" ch2_eye="0xffa52a01" show2color="1" achieveID="22300097" achieveGrade="1" stringKey="10001112" />
+		<color colorSN="113" ch0="0xff8cd4b7" ch2="0xffc75551" ch0_eye="0xff84c2ab" ch2_eye="0xff9a4340" show2color="1" achieveID="22300098" achieveGrade="1" stringKey="10001113" />
+		<color colorSN="114" ch0="0xffe6cd97" ch2="0xff70bbc2" ch0_eye="0xffedcd88" ch2_eye="0xff386c72" show2color="1" achieveID="22300101" achieveGrade="1" stringKey="10001114" />
+		<color colorSN="115" ch0="0xff13c0c7" ch2="0xfff9fbfc" ch0_eye="0xffbed8dd" ch2_eye="0xff09909a" show2color="1" achieveID="23100314" achieveGrade="1" stringKey="10001115" />
+		<color colorSN="116" ch0="0xff2d20d1" ch2="0xff7fd7e4" ch0_eye="0xff84c3d3" ch2_eye="0xff19158f" show2color="1" achieveID="23100321" achieveGrade="1" stringKey="10001116" />
+		<color colorSN="117" ch0="0xffcd47b0" ch2="0xff433bb5" ch0_eye="0xffc94ac0" ch2_eye="0xff24247f" show2color="1" achieveID="23100318" achieveGrade="1" stringKey="10001117" />
+		<color colorSN="118" ch0="0xffbc94db" ch2="0xff4f7437" ch0_eye="0xffac8dd4" ch2_eye="0xff3d5926" show2color="1" achieveID="23100315" achieveGrade="1" stringKey="10001118" />
+		<color colorSN="119" ch0="0xffce487d" ch2="0xff81a750" ch0_eye="0xff86aa54" ch2_eye="0xffac3160" show2color="1" achieveID="23100317" achieveGrade="1" stringKey="10001119" />
+		<color colorSN="40" ch0="0xffed8476" ch2="0xff994e4c" ch0_eye="0xffd27168" ch2_eye="0xff491f1c" palette="0xffff9180" achieveID="22300077" achieveGrade="1" stringKey="10001040" />
+		<color colorSN="41" ch0="0xffbec044" ch2="0xff989c26" ch0_eye="0xffb7b944" ch2_eye="0xff2d310d" palette="0xffdbdd41" achieveID="22300073" achieveGrade="1" stringKey="10001041" />
+		<color colorSN="42" ch0="0xff8fa338" ch2="0xff424a15" ch0_eye="0xff96a83e" ch2_eye="0xff1d1f08" palette="0xffa2bd39" achieveID="23200006" achieveGrade="2" stringKey="10001042" />
+		<color colorSN="43" ch0="0xff419152" ch2="0xff1c322c" ch0_eye="0xff4b985c" ch2_eye="0xff12211e" palette="0xff409e52" achieveID="22210009" achieveGrade="1" stringKey="10001043" />
+		<color colorSN="44" ch0="0xff55b2b0" ch2="0xff1b4c47" ch0_eye="0xff4fb6b9" ch2_eye="0xff0d2323" palette="0xff53b6b3" achieveID="23400037" achieveGrade="1" stringKey="10001044" />
+		<color colorSN="45" ch0="0xff4785b2" ch2="0xff1b374c" ch0_eye="0xff408cb5" ch2_eye="0xff121d2f" palette="0xff3b80b0" achieveID="22300080" achieveGrade="1" stringKey="10001045" />
+		<color colorSN="46" ch0="0xff803dad" ch2="0xff381b60" ch0_eye="0xff8d4aaa" ch2_eye="0xff221030" palette="0xff9440d0" achieveID="22300074" achieveGrade="1" stringKey="10001046" />
+		<color colorSN="47" ch0="0xffad3d63" ch2="0xff601f2f" ch0_eye="0xffb54d71" ch2_eye="0xff401a30" palette="0xffbf3a66" achieveID="22300075" achieveGrade="1" stringKey="10001047" />
+		<color colorSN="48" ch0="0xff4f2a28" ch2="0xff472e2d" ch0_eye="0xff693a37" ch2_eye="0xff120c0c" palette="0xff532c2a" achieveID="21230019" achieveGrade="1" stringKey="10001048" />
+		<color colorSN="49" ch0="0xff3d3130" ch2="0xff110d0d" ch0_eye="0xff594545" ch2_eye="0xff120c0c" palette="0xff433635" achieveID="21300022" achieveGrade="1" stringKey="10001049" />
+		<color colorSN="50" ch0="0xffaa4f32" ch2="0xff5e2715" ch0_eye="0xffb75c33" ch2_eye="0xff45180d" palette="0xffc75133" achieveID="23100299" achieveGrade="1" stringKey="10001050" />
+		<color colorSN="51" ch0="0xffef9942" ch2="0xff9b7344" ch0_eye="0xffe89f40" ch2_eye="0xff553624" palette="0xffffbd48" achieveID="22100011" achieveGrade="2" stringKey="10001051" />
+		<color colorSN="52" ch0="0xffb2e801" ch2="0xff9ac02a" ch0_eye="0xffbbe816" ch2_eye="0xff355000" palette="0xffcdff19" achieveID="23100023" achieveGrade="5" stringKey="10001052" />
+		<color colorSN="53" ch0="0xff6bcb83" ch2="0xff4f9660" ch0_eye="0xff69d489" ch2_eye="0xff1d442c" palette="0xff73e890" achieveID="22210014" achieveGrade="1" stringKey="10001053" />
+		<color colorSN="54" ch0="0xff6eced4" ch2="0xff478e93" ch0_eye="0xff5ccbd2" ch2_eye="0xff1c4547" palette="0xff86ffff" achieveID="22200043" achieveGrade="1" stringKey="10001054" />
+		<color colorSN="55" ch0="0xff6b6fef" ch2="0xff3d3d8f" ch0_eye="0xff6474cd" ch2_eye="0xff20214a" palette="0xff6f75ff" achieveID="23100155" achieveGrade="2" stringKey="10001055" />
+		<color colorSN="56" ch0="0xffa76add" ch2="0xff67489b" ch0_eye="0xffa568d2" ch2_eye="0xff1b0638" palette="0xffcb79ff" achieveID="21210019" achieveGrade="2" stringKey="10001056" />
+		<color colorSN="57" ch0="0xffe46ade" ch2="0xff994799" ch0_eye="0xffd45ed6" ch2_eye="0xff4c0847" palette="0xffff73ff" achieveID="22300086" achieveGrade="1" stringKey="10001057" />
+		<color colorSN="58" ch0="0xffcb706d" ch2="0xff9a5957" ch0_eye="0xffb25d5b" ch2_eye="0xff261514" palette="0xfffd8580" achieveID="21230097" achieveGrade="2" stringKey="10001058" />
+		<color colorSN="59" ch0="0xff30303d" ch2="0xff0c0d11" ch0_eye="0xff494967" ch2_eye="0xff0c0c12" palette="0xff343443" achieveID="22300079" achieveGrade="1" stringKey="10001059" />
+		<color colorSN="60" ch0="0xffcb3e01" ch2="0xffac360e" ch0_eye="0xffea3f01" ch2_eye="0xff381200" palette="0xffff4404" achieveID="21230099" achieveGrade="2" stringKey="10001060" />
+		<color colorSN="61" ch0="0xffffa202" ch2="0xffd69421" ch0_eye="0xfff29901" ch2_eye="0xff783705" palette="0xffffc605" achieveID="21100016" achieveGrade="1" stringKey="10001061" />
+		<color colorSN="62" ch0="0xffd0d023" ch2="0xff8d8924" ch0_eye="0xffdae601" ch2_eye="0xff4b5000" palette="0xffe2f325" achieveID="22210011" achieveGrade="2" stringKey="10001062" />
+		<color colorSN="63" ch0="0xff06dd71" ch2="0xff188d5e" ch0_eye="0xff12e577" ch2_eye="0xff003a24" palette="0xff09ff83" achieveID="21220019" achieveGrade="1" stringKey="10001063" />
+		<color colorSN="64" ch0="0xff11ddd6" ch2="0xff2c9a92" ch0_eye="0xff28dfe5" ch2_eye="0xff003f3b" palette="0xff14ffff" achieveID="23100016" achieveGrade="1" stringKey="10001064" />
+		<color colorSN="65" ch0="0xff04adfc" ch2="0xff2074a5" ch0_eye="0xff20b8ef" ch2_eye="0xff002b3f" palette="0xff06c3ff" achieveID="22200002" achieveGrade="2" stringKey="10001065" />
+		<color colorSN="66" ch0="0xfff101c5" ch2="0xffa1277c" ch0_eye="0xfff301cf" ch2_eye="0xff450039" palette="0xffff06fc" achieveID="23400034" achieveGrade="2" stringKey="10001066" />
+		<color colorSN="67" ch0="0xffff56b8" ch2="0xffae4191" ch0_eye="0xfff85db2" ch2_eye="0xff5e184a" palette="0xffff55cf" achieveID="23100162" achieveGrade="1" stringKey="10001067" />
+		<color colorSN="68" ch0="0xff760202" ch2="0xff521a19" ch0_eye="0xff860b08" ch2_eye="0xff1d0202" palette="0xff880202" achieveID="21210016" achieveGrade="2" stringKey="10001068" />
+		<color colorSN="69" ch0="0xff52504c" ch2="0xff2a2827" ch0_eye="0xff6f6c6b" ch2_eye="0xff0f0f0e" palette="0xff494844" achieveID="23100159" achieveGrade="1" stringKey="10001069" />
+		<color colorSN="70" ch0="0xffdd0501" ch2="0xff911c1c" ch0_eye="0xffd90101" ch2_eye="0xff5b0a02" palette="0xfff91e1b" achieveID="23100166" achieveGrade="1" stringKey="10001070" />
+		<color colorSN="71" ch0="0xfff77e04" ch2="0xffc24d1a" ch0_eye="0xffef7a04" ch2_eye="0xff811610" palette="0xffff7a09" achieveID="23100156" achieveGrade="1" stringKey="10001071" />
+		<color colorSN="72" ch0="0xfff8d301" ch2="0xffd4871b" ch0_eye="0xfff3df06" ch2_eye="0xff673902" palette="0xffffff07" achieveID="23100167" achieveGrade="1" stringKey="10001072" />
+		<color colorSN="73" ch0="0xff2ace11" ch2="0xff588a51" ch0_eye="0xff0ce408" ch2_eye="0xff003a01" palette="0xff38ff1e" achieveID="23100264" achieveGrade="1" stringKey="10001073" />
+		<color colorSN="74" ch0="0xff014dfc" ch2="0xff28419c" ch0_eye="0xff0463fc" ch2_eye="0xff001131" palette="0xff0454ff" achieveID="23100241" achieveGrade="1" stringKey="10001074" />
+		<color colorSN="75" ch0="0xff192499" ch2="0xff1c204c" ch0_eye="0xff223dc4" ch2_eye="0xff000114" palette="0xff19229d" achieveID="23100260" achieveGrade="1" stringKey="10001075" />
+		<color colorSN="76" ch0="0xff6b02ff" ch2="0xff4b2384" ch0_eye="0xff6c04fc" ch2_eye="0xff13012a" palette="0xff7603ff" achieveID="21230046" achieveGrade="3" stringKey="10001076" />
+		<color colorSN="77" ch0="0xffff4971" ch2="0xffb9455d" ch0_eye="0xfff14867" ch2_eye="0xff5e1f34" palette="0xffff4f85" achieveID="23100245" achieveGrade="1" stringKey="10001077" />
+		<color colorSN="78" ch0="0xffea013b" ch2="0xffa52f47" ch0_eye="0xfff20141" ch2_eye="0xff60010e" palette="0xffff083e" achieveID="21100017" achieveGrade="1" stringKey="10001078" />
+		<color colorSN="79" ch0="0xffeae6de" ch2="0xffdbc7c9" ch0_eye="0xffe6e1d8" ch2_eye="0xff646260" palette="0xffffffff" achieveID="23100301" achieveGrade="1" stringKey="10001079" />
+		<color colorSN="80" ch0="0xff6b0020" ch2="0xff3d141f" ch0_eye="0xff810827" ch2_eye="0xff1c0009" palette="0xff820225" achieveID="23100161" achieveGrade="1" stringKey="10001080" />
+		<color colorSN="81" ch0="0xff603e00" ch2="0xff4c3016" ch0_eye="0xff815419" ch2_eye="0xff1e0f03" palette="0xff734501" achieveID="22100001" achieveGrade="8" stringKey="10001081" />
+		<color colorSN="82" ch0="0xff484c00" ch2="0xff353816" ch0_eye="0xff576416" ch2_eye="0xff191a0b" palette="0xff464a03" achieveID="22100012" achieveGrade="7" stringKey="10001082" />
+		<color colorSN="83" ch0="0xff297f01" ch2="0xff385524" ch0_eye="0xff2c8f1f" ch2_eye="0xff121c09" palette="0xff2d8c06" achieveID="23100157" achieveGrade="1" stringKey="10001083" />
+		<color colorSN="84" ch0="0xff01915a" ch2="0xff247057" ch0_eye="0xff018f5f" ch2_eye="0xff06171a" palette="0xff05a765" achieveID="22300076" achieveGrade="1" stringKey="10001084" />
+		<color colorSN="85" ch0="0xff00576d" ch2="0xff1b3b49" ch0_eye="0xff226f89" ch2_eye="0xff06171a" palette="0xff045e78" achieveID="23200040" achieveGrade="1" stringKey="10001085" />
+		<color colorSN="86" ch0="0xff230888" ch2="0xff22163f" ch0_eye="0xff19039a" ch2_eye="0xff070026" palette="0xff240b91" achieveID="23100160" achieveGrade="1" stringKey="10001086" />
+		<color colorSN="87" ch0="0xff580062" ch2="0xff481d4c" ch0_eye="0xff652070" ch2_eye="0xff240c26" palette="0xff5d0469" achieveID="21230101" achieveGrade="2" stringKey="10001087" />
+		<color colorSN="88" ch0="0xff6f0240" ch2="0xff4c1c30" ch0_eye="0xff7d094b" ch2_eye="0xff260414" palette="0xff76063f" achieveID="22200033" achieveGrade="3" stringKey="10001088" />
+		<color colorSN="89" ch0="0xff12100e" ch2="0xff020201" ch0_eye="0xff14100e" ch2_eye="0xff020201" palette="0xff000000" achieveID="21300014" achieveGrade="7" stringKey="10001089" />
+		<color colorSN="90" ch0="0xffc6b3ae" ch2="0xff938b89" ch0_eye="0xffc2b0ac" ch2_eye="0xff453d3a" palette="0xffd7c0bb" achieveID="23100001" achieveGrade="8" stringKey="10001090" />
+		<color colorSN="91" ch0="0xffe2cba2" ch2="0xffc98d56" ch0_eye="0xffd9c08c" ch2_eye="0xff674c33" palette="0xfffff7c0" achieveID="22200004" achieveGrade="5" stringKey="10001091" />
+		<color colorSN="92" ch0="0xffb1ceb1" ch2="0xff8c9e8c" ch0_eye="0xffb2c9b9" ch2_eye="0xff4b604e" palette="0xffb2d0b2" achieveID="22300001" achieveGrade="1" stringKey="10001092" />
+		<color colorSN="93" ch0="0xff728c74" ch2="0xff464c46" ch0_eye="0xff708a73" ch2_eye="0xff283329" palette="0xff759177" achieveID="21230034" achieveGrade="1" stringKey="10001093" />
+		<color colorSN="94" ch0="0xffadbaed" ch2="0xff405399" ch0_eye="0xffa3b6e6" ch2_eye="0xff303552" palette="0xff96acef" achieveID="23100158" achieveGrade="1" stringKey="10001094" />
+		<color colorSN="95" ch0="0xff72738c" ch2="0xff48484c" ch0_eye="0xff70728c" ch2_eye="0xff313035" palette="0xff666783" achieveID="21230100" achieveGrade="2" stringKey="10001095" />
+		<color colorSN="96" ch0="0xffa78bf2" ch2="0xff694fa5" ch0_eye="0xffaa8fe4" ch2_eye="0xff3c3150" palette="0xffba90f1" achieveID="23100268" achieveGrade="1" stringKey="10001096" />
+		<color colorSN="97" ch0="0xff827687" ch2="0xff464547" ch0_eye="0xff88758c" ch2_eye="0xff373138" palette="0xff817387" achieveID="23100163" achieveGrade="1" stringKey="10001097" />
+		<color colorSN="98" ch0="0xff847a74" ch2="0xff444341" ch0_eye="0xff867f7a" ch2_eye="0xff3a3837" palette="0xff92867f" achieveID="23100249" achieveGrade="1" stringKey="10001098" />
+		<color colorSN="99" ch0="0xff464646" ch2="0xff4c4c4c" ch0_eye="0xff675646" ch2_eye="0xff1f1814" palette="0xff504639" achieveID="23500023" achieveGrade="7" stringKey="10001099" />
+		<color colorSN="100" ch0="0xffc6aac4" ch2="0xff958b96" ch0_eye="0xffb79bb6" ch2_eye="0xff2c272c" palette="0xffe8c5e4" achieveID="22300094" achieveGrade="1" stringKey="10001100" />
+		<color colorSN="101" ch0="0xffb2af4c" ch2="0xff4a4c20" ch0_eye="0xffaeac4a" ch2_eye="0xff4c491c" palette="0xffa6a43f" achieveID="22300099" achieveGrade="1" stringKey="10001101" />
+		<color colorSN="102" ch0="0xff9acb6b" ch2="0xff5e7d42" ch0_eye="0xff8fc663" ch2_eye="0xff3a4e28" palette="0xff98cf67" achieveID="23100326" achieveGrade="1" stringKey="10001102" />
+		<color colorSN="103" ch0="0xff58b27f" ch2="0xff1a4730" ch0_eye="0xff57ac7f" ch2_eye="0xff143a2a" palette="0xff4ab176" achieveID="23100325" achieveGrade="1" stringKey="10001103" />
+		<color colorSN="104" ch0="0xffabccc9" ch2="0xff899b9a" ch0_eye="0xffa1c0bf" ch2_eye="0xff454c4b" palette="0xffc3ebe8" achieveID="23100323" achieveGrade="1" stringKey="10001104" />
+		<color colorSN="105" ch0="0xff768489" ch2="0xff45484a" ch0_eye="0xff6c797f" ch2_eye="0xff282a2b" palette="0xff839299" achieveID="22300100" achieveGrade="1" stringKey="10001105" />
+		<color colorSN="106" ch0="0xff555ab2" ch2="0xff1a1e4c" ch0_eye="0xff575ab7" ch2_eye="0xff13152a" palette="0xff4f56c0" achieveID="23100319" achieveGrade="1" stringKey="10001106" />
+		<color colorSN="107" ch0="0xffa5469d" ch2="0xff442743" ch0_eye="0xffac49aa" ch2_eye="0xff311630" palette="0xffb344ac" achieveID="22300096" achieveGrade="1" stringKey="10001107" />
+		<color colorSN="108" ch0="0xffb184e1" ch2="0xff8052a5" ch0_eye="0xffbc8ae4" ch2_eye="0xff3b2c4c" palette="0xffe0a2f8" achieveID="22300095" achieveGrade="1" stringKey="10001108" />
+		<color colorSN="109" ch0="0xff574302" ch2="0xff3a3113" ch0_eye="0xff624b1b" ch2_eye="0xff141006" palette="0xff5c4405" achieveID="23100324" achieveGrade="1" stringKey="10001109" />
+	</colorPalette>
+</ms2>

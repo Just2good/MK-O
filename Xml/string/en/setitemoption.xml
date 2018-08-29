@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="15123101" partCount="2" tooltipDescription="STR 10 증가" />
+	<key id="15123101" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123101" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123102" partCount="2" tooltipDescription="STR 10 증가" />
+	<key id="15123102" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123102" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123103" partCount="2" tooltipDescription="INT 10 증가" />
+	<key id="15123103" partCount="4" tooltipDescription="마법공격력 10 증가" />
+	<key id="15123103" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123104" partCount="2" tooltipDescription="INT 10 증가" />
+	<key id="15123104" partCount="4" tooltipDescription="마법공격력 10 증가" />
+	<key id="15123104" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123105" partCount="2" tooltipDescription="DEX 10 증가" />
+	<key id="15123105" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123105" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123106" partCount="2" tooltipDescription="DEX 10 증가" />
+	<key id="15123106" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123106" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123107" partCount="2" tooltipDescription="LUK 10 증가" />
+	<key id="15123107" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123107" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123108" partCount="2" tooltipDescription="LUK 10 증가" />
+	<key id="15123108" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123108" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123109" partCount="2" tooltipDescription="STR 10 증가" />
+	<key id="15123109" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123109" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="16022501" partCount="3" tooltipDescription="명중 4, 총 대미지 0.03% 증가" />
+	<key id="16042801" partCount="2" tooltipDescription="명중 8 증가, 급속 몸집 증가" />
+	<key id="16042802" partCount="2" tooltipDescription="총 대미지 5.5% 증가" />
+	<key id="16042803" partCount="2" tooltipDescription="일정 확률로 12초 동안 공격 속도 10% 증가" />
+	<key id="16063001" partCount="3" tooltipDescription="이동속도 1%, 물리 공격력 1, 마법 공격력 1 증가" />
+	<key id="16063001" partCount="6" tooltipDescription="명중 2, 보스 대미지 2%, 물리 공격력 2, 마법 공격력 2 증가" />
+	<key id="16063002" partCount="3" tooltipDescription="이동속도 1%, 물리 공격력 1, 마법 공격력 1 증가" />
+	<key id="16063002" partCount="6" tooltipDescription="명중 2, 보스 대미지 2%, 물리 공격력 2, 마법 공격력 2 증가" />
+	<key id="16071401" partCount="2" tooltipDescription="DEX 10 증가" />
+	<key id="16071401" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="16071401" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="17110812" partCount="3" tooltipDescription="증가" />
+	<key id="17110812" partCount="5" tooltipDescription="증가" />
+	<key id="17110813" partCount="3" tooltipDescription="증가" />
+	<key id="17110813" partCount="5" tooltipDescription="증가" />
+	<key id="17110814" partCount="3" tooltipDescription="증가" />
+	<key id="17110814" partCount="5" tooltipDescription="증가" />
+	<key id="17110815" partCount="3" tooltipDescription="증가" />
+	<key id="17110815" partCount="5" tooltipDescription="증가" />
+	<key id="17110816" partCount="3" tooltipDescription="증가" />
+	<key id="17110816" partCount="5" tooltipDescription="증가" />
+	<key id="17110817" partCount="3" tooltipDescription="증가" />
+	<key id="17110817" partCount="5" tooltipDescription="증가" />
+	<key id="17110818" partCount="3" tooltipDescription="증가" />
+	<key id="17110818" partCount="5" tooltipDescription="증가" />
+	<key id="17110819" partCount="3" tooltipDescription="증가" />
+	<key id="17110819" partCount="5" tooltipDescription="증가" />
+	<key id="17110820" partCount="3" tooltipDescription="증가" />
+	<key id="17110820" partCount="5" tooltipDescription="증가" />
+	<key id="17110821" partCount="3" tooltipDescription="증가" />
+	<key id="17110821" partCount="5" tooltipDescription="증가" />
+	<key id="17110822" partCount="3" tooltipDescription="증가" />
+	<key id="17110822" partCount="5" tooltipDescription="증가" />
+	<key id="17110823" partCount="3" tooltipDescription="증가" />
+	<key id="17110823" partCount="5" tooltipDescription="증가" />
+	<key id="17110824" partCount="3" tooltipDescription="증가" />
+	<key id="17110824" partCount="5" tooltipDescription="증가" />
+	<key id="17110825" partCount="3" tooltipDescription="증가" />
+	<key id="17110825" partCount="5" tooltipDescription="증가" />
+	<key id="17110826" partCount="3" tooltipDescription="증가" />
+	<key id="17110826" partCount="5" tooltipDescription="증가" />
+	<key id="17110827" partCount="3" tooltipDescription="증가" />
+	<key id="17110827" partCount="5" tooltipDescription="증가" />
+	<key id="17110828" partCount="3" tooltipDescription="증가" />
+	<key id="17110828" partCount="5" tooltipDescription="증가" />
+	<key id="17110829" partCount="3" tooltipDescription="증가" />
+	<key id="17110829" partCount="5" tooltipDescription="증가" />
+	<key id="17110830" partCount="3" tooltipDescription="증가" />
+	<key id="17110830" partCount="5" tooltipDescription="증가" />
+	<key id="17110831" partCount="3" tooltipDescription="증가" />
+	<key id="17110831" partCount="5" tooltipDescription="증가" />
+	<key id="17110832" partCount="3" tooltipDescription="증가" />
+	<key id="17110832" partCount="5" tooltipDescription="증가" />
+	<key id="17110833" partCount="3" tooltipDescription="증가" />
+	<key id="17110833" partCount="5" tooltipDescription="증가" />
+	<key id="17110834" partCount="3" tooltipDescription="증가" />
+	<key id="17110835" partCount="3" tooltipDescription="증가" />
+	<key id="17110836" partCount="2" tooltipDescription="증가" />
+	<key id="17110837" partCount="2" tooltipDescription="증가" />
+	<key id="17121101" partCount="2" tooltipDescription="증가" />
+	<key id="17121101" partCount="4" tooltipDescription="증가" />
+	<key id="17121102" partCount="2" tooltipDescription="증가" />
+	<key id="17121102" partCount="4" tooltipDescription="증가" />
+	<key id="17121103" partCount="2" tooltipDescription="증가" />
+	<key id="17121103" partCount="4" tooltipDescription="증가" />
+	<key id="17121104" partCount="2" tooltipDescription="증가" />
+	<key id="17121104" partCount="4" tooltipDescription="증가" />
+	<key id="17121105" partCount="2" tooltipDescription="증가" />
+	<key id="17121105" partCount="4" tooltipDescription="증가" />
+	<key id="17121106" partCount="2" tooltipDescription="증가" />
+	<key id="17121106" partCount="4" tooltipDescription="증가" />
+	<key id="17121107" partCount="2" tooltipDescription="증가" />
+	<key id="17121107" partCount="4" tooltipDescription="증가" />
+	<key id="17121108" partCount="2" tooltipDescription="증가" />
+	<key id="17121108" partCount="4" tooltipDescription="증가" />
+	<key id="17121109" partCount="2" tooltipDescription="증가" />
+	<key id="17121109" partCount="4" tooltipDescription="증가" />
+	<key id="17121110" partCount="2" tooltipDescription="증가" />
+	<key id="17121110" partCount="4" tooltipDescription="증가" />
+	<key id="17121111" partCount="2" tooltipDescription="증가" />
+	<key id="17121111" partCount="4" tooltipDescription="증가" />
+	<key id="18011801" partCount="3" tooltipDescription="증가" />
+	<key id="18011802" partCount="3" tooltipDescription="증가" />
+	<key id="18011803" partCount="2" tooltipDescription="증가" />
+	<key id="18011804" partCount="2" tooltipDescription="증가" />
+	<key id="18011805" partCount="2" tooltipDescription="증가" />
+	<key id="18011805" partCount="4" tooltipDescription="증가" />
+	<key id="18011805" partCount="5" tooltipDescription="증가" />
+	<key id="18011806" partCount="2" tooltipDescription="증가" />
+	<key id="18011806" partCount="4" tooltipDescription="증가" />
+	<key id="18011806" partCount="5" tooltipDescription="증가" />
+	<key id="18011807" partCount="2" tooltipDescription="증가" />
+	<key id="18011807" partCount="4" tooltipDescription="증가" />
+	<key id="18011807" partCount="5" tooltipDescription="증가" />
+	<key id="18011808" partCount="2" tooltipDescription="증가" />
+	<key id="18011808" partCount="4" tooltipDescription="증가" />
+	<key id="18011808" partCount="5" tooltipDescription="증가" />
+	<key id="18011809" partCount="2" tooltipDescription="증가" />
+	<key id="18011809" partCount="4" tooltipDescription="증가" />
+	<key id="18011809" partCount="5" tooltipDescription="증가" />
+	<key id="18011810" partCount="2" tooltipDescription="증가" />
+	<key id="18011810" partCount="4" tooltipDescription="증가" />
+	<key id="18011810" partCount="5" tooltipDescription="증가" />
+	<key id="18011811" partCount="2" tooltipDescription="증가" />
+	<key id="18011811" partCount="4" tooltipDescription="증가" />
+	<key id="18011811" partCount="5" tooltipDescription="증가" />
+	<key id="18011812" partCount="2" tooltipDescription="증가" />
+	<key id="18011812" partCount="4" tooltipDescription="증가" />
+	<key id="18011812" partCount="5" tooltipDescription="증가" />
+	<key id="18011813" partCount="2" tooltipDescription="증가" />
+	<key id="18011813" partCount="4" tooltipDescription="증가" />
+	<key id="18011813" partCount="5" tooltipDescription="증가" />
+	<key id="18011814" partCount="2" tooltipDescription="증가" />
+	<key id="18011814" partCount="4" tooltipDescription="증가" />
+	<key id="18011814" partCount="5" tooltipDescription="증가" />
+	<key id="18011815" partCount="2" tooltipDescription="증가" />
+	<key id="18011815" partCount="4" tooltipDescription="증가" />
+	<key id="18011815" partCount="5" tooltipDescription="증가" />
+	<key id="18011816" partCount="2" tooltipDescription="증가" />
+	<key id="18011816" partCount="4" tooltipDescription="증가" />
+	<key id="18011816" partCount="5" tooltipDescription="증가" />
+	<key id="18011817" partCount="2" tooltipDescription="증가" />
+	<key id="18011817" partCount="4" tooltipDescription="증가" />
+	<key id="18011817" partCount="5" tooltipDescription="증가" />
+	<key id="18011818" partCount="2" tooltipDescription="증가" />
+	<key id="18011818" partCount="4" tooltipDescription="증가" />
+	<key id="18011818" partCount="5" tooltipDescription="증가" />
+	<key id="18011819" partCount="2" tooltipDescription="증가" />
+	<key id="18011819" partCount="4" tooltipDescription="증가" />
+	<key id="18011819" partCount="5" tooltipDescription="증가" />
+	<key id="18011820" partCount="2" tooltipDescription="증가" />
+	<key id="18011820" partCount="4" tooltipDescription="증가" />
+	<key id="18011820" partCount="5" tooltipDescription="증가" />
+	<key id="18011821" partCount="2" tooltipDescription="증가" />
+	<key id="18011821" partCount="4" tooltipDescription="증가" />
+	<key id="18011821" partCount="5" tooltipDescription="증가" />
+	<key id="18011822" partCount="2" tooltipDescription="증가" />
+	<key id="18011822" partCount="4" tooltipDescription="증가" />
+	<key id="18011822" partCount="5" tooltipDescription="증가" />
+	<key id="18011823" partCount="2" tooltipDescription="증가" />
+	<key id="18011823" partCount="4" tooltipDescription="증가" />
+	<key id="18011823" partCount="5" tooltipDescription="증가" />
+	<key id="18011824" partCount="2" tooltipDescription="증가" />
+	<key id="18011824" partCount="4" tooltipDescription="증가" />
+	<key id="18011824" partCount="5" tooltipDescription="증가" />
+	<key id="18011825" partCount="2" tooltipDescription="증가" />
+	<key id="18011825" partCount="4" tooltipDescription="증가" />
+	<key id="18011825" partCount="5" tooltipDescription="증가" />
+	<key id="18011826" partCount="2" tooltipDescription="증가" />
+	<key id="18011826" partCount="4" tooltipDescription="증가" />
+	<key id="18011826" partCount="5" tooltipDescription="증가" />
+	<key id="18011827" partCount="2" tooltipDescription="증가" />
+	<key id="18011827" partCount="4" tooltipDescription="증가" />
+	<key id="18011828" partCount="2" tooltipDescription="증가" />
+	<key id="18011828" partCount="4" tooltipDescription="증가" />
+	<key id="18011829" partCount="2" tooltipDescription="증가" />
+	<key id="18011829" partCount="4" tooltipDescription="증가" />
+	<key id="18011830" partCount="2" tooltipDescription="증가" />
+	<key id="18011830" partCount="4" tooltipDescription="증가" />
+	<key id="18011831" partCount="2" tooltipDescription="증가" />
+	<key id="18011831" partCount="4" tooltipDescription="증가" />
+	<key id="18011832" partCount="2" tooltipDescription="증가" />
+	<key id="18011832" partCount="4" tooltipDescription="증가" />
+	<key id="18011833" partCount="2" tooltipDescription="증가" />
+	<key id="18011833" partCount="4" tooltipDescription="증가" />
+	<key id="18011834" partCount="2" tooltipDescription="증가" />
+	<key id="18011834" partCount="4" tooltipDescription="증가" />
+	<key id="18011835" partCount="2" tooltipDescription="증가" />
+	<key id="18011835" partCount="4" tooltipDescription="증가" />
+	<key id="18011836" partCount="2" tooltipDescription="증가" />
+	<key id="18011836" partCount="4" tooltipDescription="증가" />
+	<key id="18011837" partCount="2" tooltipDescription="증가" />
+	<key id="18011837" partCount="4" tooltipDescription="증가" />
+</ms2>

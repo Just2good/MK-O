@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <chapter id="3000" name="Auf ein Wort mit Santiago" isTutorial="" regionID="" />
+  <chapter id="3001" name="Eine beispiellose Szene" isTutorial="" regionID="" />
+  <chapter id="3002" name="Entflogener Ballon" isTutorial="" regionID="" />
+  <chapter id="3003" name="Getränkebestellung" isTutorial="" regionID="" />
+  <chapter id="3004" name="Der gefallene Wagen" isTutorial="" regionID="" />
+  <chapter id="3005" name="Die Folgen des Erdbebens" isTutorial="" regionID="" />
+  <chapter id="3006" name="Die Angst bleibt" isTutorial="" regionID="" />
+  <chapter id="3007" name="Vor dem Bankett" isTutorial="" regionID="" />
+  <chapter id="3008" name="Bücherrückgabe" isTutorial="" regionID="" />
+  <chapter id="3009" name="Ich kann meine Beine nicht bewegen" isTutorial="" regionID="" />
+  <chapter id="3010" name="Die Geschichte von der traurigen Schnecke" isTutorial="" regionID="" />
+  <chapter id="3011" name="Gewinner verlieren keine Zeit" isTutorial="" regionID="" />
+  <chapter id="3012" name="Wo einst Gras wuchs" isTutorial="" regionID="" />
+  <chapter id="3013" name="Ein Gefallen für Ebby" isTutorial="" regionID="" />
+  <chapter id="3014" name="Nicht vorrätig" isTutorial="" regionID="" />
+  <chapter id="3015" name="Der durstige Parkaufseher" isTutorial="" regionID="" />
+  <chapter id="3016" name="Das Geschäft stockt" isTutorial="" regionID="" />
+  <chapter id="3017" name="Albträume werden wahr" isTutorial="" regionID="" />
+  <chapter id="3018" name="Aufräumarbeiten" isTutorial="" regionID="" />
+  <chapter id="3019" name="Funkel, Funkel" isTutorial="" regionID="" />
+  <chapter id="3020" name="Die Gewässer des Lebens" isTutorial="" regionID="" />
+  <chapter id="3021" name="Der Klang des anbrechenden Morgens" isTutorial="" regionID="" />
+  <chapter id="3022" name="Das Dilemma eines Einzelgängers" isTutorial="" regionID="" />
+  <chapter id="3023" name="Wie man im Regen trocken bleibt" isTutorial="" regionID="" />
+  <chapter id="3024" name="Eine erinnerungswürdige Wette" isTutorial="" regionID="" />
+  <chapter id="3025" name="Die Ernte will beschützt werden" isTutorial="" regionID="" />
+  <chapter id="3026" name="Über dem Regenbogen" isTutorial="" regionID="" />
+  <chapter id="3027" name="Gerüchte des Verrats" isTutorial="" regionID="" />
+  <chapter id="3028" name="Die Erweiterung von Cathys Markt" isTutorial="" regionID="" />
+  <chapter id="3029" name="Zuhause am Meer" isTutorial="" regionID="" />
+  <chapter id="3030" name="Auf ewig jung sein" isTutorial="" regionID="" />
+  <chapter id="3031" name="Eine lächerliche Bitte" isTutorial="" regionID="" />
+  <chapter id="3032" name="Nach dem Verrat kommt die Wut" isTutorial="" regionID="" />
+  <chapter id="3033" name="Das Ende des Piratenlebens" isTutorial="" regionID="" />
+  <chapter id="3034" name="Seine einzige Geheimmission" isTutorial="" regionID="" />
+  <chapter id="3035" name="Sündenböcke" isTutorial="" regionID="" />
+  <chapter id="3036" name="Der Ruf des Dämons" isTutorial="" regionID="" />
+  <chapter id="3037" name="Wie man sicher Bäume fällt" isTutorial="" regionID="" />
+  <chapter id="3038" name="Die Kakophonie" isTutorial="" regionID="" />
+  <chapter id="3039" name="Das traumlose Traumland" isTutorial="" regionID="" />
+  <chapter id="3040" name="Ein unerwünschtes Geschenk" isTutorial="" regionID="" />
+  <chapter id="3041" name="Verzerrungen in der Raumzeit" isTutorial="" regionID="" />
+  <chapter id="3042" name="Vorbereitungen für den Auftritt" isTutorial="" regionID="" />
+  <chapter id="3043" name="Das wunderbare Paradies" isTutorial="" regionID="" />
+  <chapter id="3044" name="Traum oder Realität?" isTutorial="" regionID="" />
+  <chapter id="3045" name="Ein gefährlicher Weggefährte" isTutorial="" regionID="" />
+  <chapter id="3046" name="Entwicklungsprobleme" isTutorial="" regionID="" />
+  <chapter id="3047" name="Der Held der Kuko" isTutorial="" regionID="" />
+  <chapter id="3048" name="Im Andenken eines Helden" isTutorial="" regionID="" />
+  <chapter id="3049" name="Die verborgene Identität" isTutorial="" regionID="" />
+  <chapter id="3050" name="Das Trainingsgelände" isTutorial="" regionID="" />
+  <chapter id="3051" name="Das Ärgernis" isTutorial="" regionID="" />
+  <chapter id="3052" name="Wie man über die Runden kommt" isTutorial="" regionID="" />
+  <chapter id="3053" name="Brunnen der Verzweiflung" isTutorial="" regionID="" />
+  <chapter id="3054" name="So dreist wie noch nie" isTutorial="" regionID="" />
+  <chapter id="3055" name="Hennen in der Krise" isTutorial="" regionID="" />
+  <chapter id="3056" name="Das harte Leben der Hennen" isTutorial="" regionID="" />
+  <chapter id="3057" name="Hallo und auf Wiedersehn" isTutorial="" regionID="" />
+  <chapter id="3058" name="Welke Wälder" isTutorial="" regionID="" />
+  <chapter id="3059" name="Der Wert des kulturellen Erbes" isTutorial="" regionID="" />
+  <chapter id="3060" name="Ob du’s glaubst oder nicht" isTutorial="" regionID="" />
+  <chapter id="3061" name="Die Philosophie einer Waffensammlers" isTutorial="" regionID="" />
+  <chapter id="3062" name="Der Gefallen von $npcName:11001181$" isTutorial="" regionID="" />
+  <chapter id="3063" name="Die Angelweltmeisterschaft" isTutorial="" regionID="" />
+  <chapter id="3064" name="Auch ein Dorf braucht Schutz" isTutorial="" regionID="" />
+  <chapter id="3065" name="Kammerjäger" isTutorial="" regionID="" />
+  <chapter id="3066" name="Die neue Familie der $map:02010022$" isTutorial="" regionID="" />
+  <chapter id="3067" name="Jeder hat etwas zu erzählen" isTutorial="" regionID="" />
+  <chapter id="3068" name="Weiche Knie" isTutorial="" regionID="" />
+  <chapter id="3069" name="Hohes Risiko, große Belohnung" isTutorial="" regionID="" />
+  <chapter id="3070" name="Träume für die Wüstenentwicklung" isTutorial="" regionID="" />
+  <chapter id="3071" name="Eine merkwürdige Person an einem merkwürdigen Ort" isTutorial="" regionID="" />
+  <chapter id="3072" name="Das Leben ist ein Abenteuer" isTutorial="" regionID="" />
+  <chapter id="3073" name="Die irdischen Freuden" isTutorial="" regionID="" />
+  <chapter id="3074" name="Die Geburt eines Action-Helden" isTutorial="" regionID="" />
+  <chapter id="3075" name="Eine schicksalshafte Begegnung" isTutorial="" regionID="" />
+  <chapter id="3076" name="Vorsicht ist die Mutter der Porzellankiste" isTutorial="" regionID="" />
+  <chapter id="3077" name="Erst denken, dann reden" isTutorial="" regionID="" />
+  <chapter id="3078" name="Was man nicht alles für Liebe tut" isTutorial="" regionID="" />
+  <chapter id="3079" name="Ein Kind in Not" isTutorial="" regionID="" />
+  <chapter id="3080" name="Geheimbefehle" isTutorial="" regionID="" />
+  <chapter id="3081" name="Beliebtheit" isTutorial="" regionID="" />
+  <chapter id="3082" name="After the Levee Was Canceled..." isTutorial="" regionID="" feature="Striker" />
+  <chapter id="3083" name="Darkstar and Dark Wind" isTutorial="" regionID="" feature="Striker" />
+  <chapter id="3084" name="The Truth Behind the Rumor..." isTutorial="" regionID="" feature="Striker" />
+  <chapter id="3085" name="BeyondLink" isTutorial="" regionID="" feature="Striker" />
+  <chapter id="3086" name="Ende einer langen Reise" isTutorial="" regionID="" feature="DoubleImpactStory" />
+  <chapter id="3087" name="Selbsterkenntnis" isTutorial="" regionID="" feature="DoubleImpactStory" />
+  <chapter id="3088" name="Von der Angst beherrscht" isTutorial="" regionID="" />
+  <chapter id="3089" name="Die Nachtwanderer" isTutorial="" regionID="" feature="JobIntro" />
+  <chapter id="3090" name="Wächterpriesterin" isTutorial="" regionID="" feature="JobIntro" />
+  <chapter id="3091" name="Ein echtes Vorbild" isTutorial="" regionID="" feature="JobIntro" />
+  <chapter id="3092" name="Ein gutes Herz" isTutorial="" regionID="" feature="JobIntro" />
+  <chapter id="3093" name="CHAPTERDESCRIPTION_3093_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3094" name="CHAPTERDESCRIPTION_3094_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3095" name="CHAPTERDESCRIPTION_3095_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3096" name="CHAPTERDESCRIPTION_3096_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3097" name="CHAPTERDESCRIPTION_3097_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3098" name="CHAPTERDESCRIPTION_3098_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3099" name="CHAPTERDESCRIPTION_3099_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3100" name="CHAPTERDESCRIPTION_3100_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3101" name="CHAPTERDESCRIPTION_3101_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3102" name="CHAPTERDESCRIPTION_3102_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3103" name="CHAPTERDESCRIPTION_3103_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3104" name="CHAPTERDESCRIPTION_3104_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3105" name="CHAPTERDESCRIPTION_3105_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3106" name="CHAPTERDESCRIPTION_3106_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3107" name="CHAPTERDESCRIPTION_3107_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="3108" name="CHAPTERDESCRIPTION_3108_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+</ms2>

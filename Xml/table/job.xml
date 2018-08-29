@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<job code="001" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH">
+		<startInvenItem>
+			<item itemID="13000001" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="13000001" grade="1" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10000001" uiPosition="0, 0" maxLevel="22" quickSlotPriority="1" />
+			<skill main="10000011" uiPosition="1, 0" maxLevel="22" quickSlotPriority="2" />
+			<skill main="10000041" uiPosition="3, 0" quickSlotPriority="5" />
+			<skill main="10000021" uiPosition="0, 2" maxLevel="22" quickSlotPriority="4" />
+			<skill main="10000031" uiPosition="1, 2" maxLevel="22" quickSlotPriority="3" />
+			<skill main="10000051" uiPosition="2, 2" maxLevel="22" quickSlotPriority="6" />
+			<skill main="10000061" uiPosition="3, 2" maxLevel="22" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+		</learn>
+		<learn level="2">
+			<skill id="10000001" />
+			<skill id="10000011" />
+			<skill id="10000041" />
+		</learn>
+	</job>
+	<job code="010" characterBGM="152" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH">
+		<characterVoice value="ko/Normal/Female/94100005" locale="" />
+		<startInvenItem>
+			<item itemID="13200220" grade="1" count="1" />
+			<item itemID="14100190" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="13200029" grade="1" />
+			<item itemID="14100023" grade="1" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10100061" sub="10100062" uiPosition="2, 0" quickSlotPriority="4" />
+			<skill main="10100091" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10100001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10100011" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10100151" uiPosition="2, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10100021" uiPosition="0, 2" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10100051" uiPosition="3, 2" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10100131" uiPosition="1, 2" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10100041" uiPosition="3, 3" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10100071" uiPosition="1, 3" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10100141" uiPosition="0, 3" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10100121" uiPosition="2, 4" maxLevel="10" />
+			<skill main="10100081" uiPosition="3, 4" maxLevel="10" quickSlotPriority="12" />
+			<skill main="10100031" uiPosition="0, 4" maxLevel="10" quickSlotPriority="13" />
+			<skill main="10100101" uiPosition="3, 5" maxLevel="10" quickSlotPriority="14" />
+			<skill main="10100111" uiPosition="0, 5" maxLevel="10" />
+			<skill main="10100161" sub="10100162" uiPosition="2, 5" maxLevel="10" quickSlotPriority="15" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10100001" />
+			<skill id="10100011" />
+			<skill id="10100091" />
+			<skill id="10100061" />
+		</learn>
+	</job>
+	<job code="020" characterBGM="156" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
+		<characterVoice value="ko/Normal/Male/90110005" locale="" />
+		<characterVoice value="ko/Normal/Female/91110005" locale="NA" />
+		<startInvenItem>
+			<item itemID="15000224" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="15000027" grade="1" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10200031" uiPosition="2, 0" />
+			<skill main="10200091" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10200001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10200011" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10200041" uiPosition="1, 2" maxLevel="10" quickSlotPriority="4" />
+			<skill main="10200051" uiPosition="2, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10200121" uiPosition="3, 2" maxLevel="10" />
+			<skill main="10200021" uiPosition="0, 2" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10200071" uiPosition="1, 3" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10200081" uiPosition="2, 3" maxLevel="10" />
+			<skill main="10200061" sub="10200062" uiPosition="3, 3" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10200141" sub="10200142" uiPosition="2, 4" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10200101" uiPosition="2, 5" maxLevel="10" />
+			<skill main="10200111" uiPosition="3, 4" maxLevel="10" />
+			<skill main="10200131" uiPosition="0, 5" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10200151" uiPosition="1, 4" maxLevel="10" />
+			<skill main="10200161" uiPosition="3, 5" maxLevel="10" quickSlotPriority="11" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10200001" />
+			<skill id="10200011" />
+			<skill id="10200031" />
+			<skill id="10200091" />
+		</learn>
+	</job>
+	<job code="030" characterBGM="150" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
+		<characterVoice value="ko/Normal/Female/91120005" locale="" />
+		<startInvenItem>
+			<item itemID="15200223" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="15200024" grade="1" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10300081" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10300061" uiPosition="2, 0" />
+			<skill main="10300001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10300041" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10300021" uiPosition="0, 2" maxLevel="10" quickSlotPriority="4" />
+			<skill main="10300051" uiPosition="1, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10300031" uiPosition="2, 2" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10300131" uiPosition="3, 2" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10300011" uiPosition="0, 3" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10300141" uiPosition="1, 3" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10300071" uiPosition="2, 3" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10300091" sub="10300093" uiPosition="3, 4" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10300101" uiPosition="0, 4" maxLevel="10" />
+			<skill main="10300111" uiPosition="1, 4" maxLevel="10" />
+			<skill main="10300121" uiPosition="2, 5" maxLevel="10" />
+			<skill main="10300151" uiPosition="3, 5" maxLevel="10" />
+			<skill main="10300161" uiPosition="0, 5" maxLevel="10" quickSlotPriority="12" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10300001" />
+			<skill id="10300041" />
+			<skill id="10300081" />
+			<skill id="10300061" />
+		</learn>
+	</job>
+	<job code="040" characterBGM="153" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH">
+		<characterVoice value="ko/Normal/Male/90130005" locale="" />
+		<characterVoice value="ko/Normal/Female/91130005" locale="NA" />
+		<startInvenItem>
+			<item itemID="13300219" grade="1" count="1" />
+			<item itemID="14000181" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="13300026" grade="1" slotHint="RH" />
+			<item itemID="14000021" grade="1" slotHint="LH" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10400111" uiPosition="2, 0" />
+			<skill main="10400151" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10400001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10400011" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10400071" uiPosition="1, 2" maxLevel="10" quickSlotPriority="3" />
+			<skill main="10400021" uiPosition="3, 2" maxLevel="10" />
+			<skill main="10400081" uiPosition="2, 2" maxLevel="10" quickSlotPriority="4" />
+			<skill main="10400041" uiPosition="0, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10400101" uiPosition="1, 3" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10400091" uiPosition="2, 3" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10400031" uiPosition="0, 3" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10400061" uiPosition="1, 4" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10400051" uiPosition="2, 4" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10400141" uiPosition="3, 4" maxLevel="10" />
+			<skill main="10400121" uiPosition="1, 5" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10400131" uiPosition="2, 5" maxLevel="10" />
+			<skill main="10400161" uiPosition="3, 5" maxLevel="10" quickSlotPriority="12" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10400001" />
+			<skill id="10400011" />
+			<skill id="10400151" />
+			<skill id="10400111" />
+		</learn>
+	</job>
+	<job code="050" characterBGM="154" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
+		<characterVoice value="ko/Normal/Male/90140005" locale="" />
+		<characterVoice value="ko/Normal/Female/91140005" locale="NA" />
+		<startInvenItem>
+			<item itemID="15100216" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="15100025" grade="1" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10500111" uiPosition="2, 0" />
+			<skill main="10500151" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10500001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10500011" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10500041" uiPosition="1, 2" maxLevel="10" quickSlotPriority="4" />
+			<skill main="10500071" uiPosition="2, 2" maxLevel="10" />
+			<skill main="10500021" uiPosition="0, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10500121" uiPosition="3, 2" maxLevel="10" />
+			<skill main="10500031" uiPosition="1, 3" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10500101" uiPosition="0, 3" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10500081" uiPosition="2, 3" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10500131" uiPosition="1, 4" maxLevel="10" />
+			<skill main="10500061" sub="10500063" uiPosition="3, 4" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10500051" uiPosition="1, 5" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10500091" uiPosition="2, 4" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10500141" sub="10500144" uiPosition="0, 5" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10500161" uiPosition="3, 5" maxLevel="10" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10500001" />
+			<skill id="10500011" />
+			<skill id="10500151" />
+			<skill id="10500111" />
+		</learn>
+	</job>
+	<job code="060" characterBGM="151" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="RH,LH">
+		<characterVoice value="ko/Normal/Male/90150005" locale="" />
+		<characterVoice value="ko/Normal/Female/91150005" locale="NA" />
+		<startInvenItem>
+			<item itemID="15300199" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="15300022" grade="1" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10600081" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10600071" uiPosition="2, 0" quickSlotPriority="4" />
+			<skill main="10600001" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10600101" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10600011" uiPosition="2, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10600061" uiPosition="1, 2" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10600051" uiPosition="3, 2" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10600021" uiPosition="0, 2" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10600031" uiPosition="2, 3" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10600041" sub="10600044" uiPosition="1, 3" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10600131" uiPosition="3, 3" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10600111" uiPosition="0, 4" maxLevel="10" />
+			<skill main="10600121" uiPosition="2, 4" maxLevel="10" quickSlotPriority="12" />
+			<skill main="10600151" uiPosition="1, 4" maxLevel="10" />
+			<skill main="10600091" uiPosition="3, 5" maxLevel="10" quickSlotPriority="13" />
+			<skill main="10600141" uiPosition="2, 5" maxLevel="10" />
+			<skill main="10600161" uiPosition="1, 5" maxLevel="10" />
+		</skills>
+		<learn level="1">
+			<skill id="20000011" />
+			<skill id="20000001" />
+			<skill id="10600101" />
+			<skill id="10600001" />
+			<skill id="10600071" />
+			<skill id="10600081" />
+		</learn>
+	</job>
+	<job code="070" characterBGM="155" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="OH">
+		<characterVoice value="ko/Normal/Male/90160005" locale="" />
+		<characterVoice value="ko/Normal/Female/91160005" locale="NA" />
+		<startInvenItem>
+			<item itemID="13100225" grade="1" count="1" />
+			<item itemID="13100225" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="13100030" grade="1" slotHint="RH" />
+			<item itemID="13100030" grade="1" slotHint="LH" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10700061" uiPosition="2, 0" />
+			<skill main="10700041" sub="10700042" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10700001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10700011" sub="10700016" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10700051" sub="10700052" uiPosition="2, 2" maxLevel="10" quickSlotPriority="4" />
+			<skill main="10700121" uiPosition="3, 2" maxLevel="10" />
+			<skill main="10700111" uiPosition="0, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10700141" uiPosition="1, 2" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10700021" sub="10700022" uiPosition="3, 3" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10700131" uiPosition="2, 3" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10700031" sub="10700032" uiPosition="1, 3" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10700091" sub="10700092" uiPosition="0, 4" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10700081" uiPosition="3, 4" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10700101" uiPosition="1, 4" maxLevel="10" />
+			<skill main="10700151" uiPosition="0, 5" maxLevel="10" />
+			<skill main="10700071" uiPosition="3, 5" maxLevel="10" />
+			<skill main="10700161" sub="10700162" uiPosition="2, 5" maxLevel="10" quickSlotPriority="12" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10700001" />
+			<skill id="10700011" />
+			<skill id="10700061" />
+			<skill id="10700041" />
+		</learn>
+	</job>
+	<job code="080" characterBGM="149" startField="52000065" tutorialSaveID="" tutorialSkipField="02000001,21" tutorialSkipItem="13000062" tutorialClearOpenTaxis="02000062" tutorialClearOpenMaps="02000062,02000114,02000115,02000116,02000117,02000118" defaultWeaponSlot="OH">
+		<characterVoice value="ko/Normal/Female/91170005" locale="" />
+		<startInvenItem>
+			<item itemID="13400218" grade="1" count="1" />
+			<item itemID="13400218" grade="1" count="1" />
+		</startInvenItem>
+		<reward>
+			<item itemID="13400024" grade="1" slotHint="RH" />
+			<item itemID="13400024" grade="1" slotHint="LH" />
+		</reward>
+		<skills>
+			<skill main="20000001" />
+			<skill main="20000011" />
+			<skill main="10800071" uiPosition="3, 0" quickSlotPriority="3" />
+			<skill main="10800081" uiPosition="2, 0" quickSlotPriority="4" />
+			<skill main="10800001" uiPosition="0, 0" maxLevel="10" quickSlotPriority="1" />
+			<skill main="10800021" uiPosition="0, 1" maxLevel="10" quickSlotPriority="2" />
+			<skill main="10800011" uiPosition="1, 2" maxLevel="10" quickSlotPriority="5" />
+			<skill main="10800051" sub="10800052" uiPosition="2, 2" maxLevel="10" quickSlotPriority="6" />
+			<skill main="10800041" uiPosition="3, 2" maxLevel="10" quickSlotPriority="7" />
+			<skill main="10800121" uiPosition="0, 2" maxLevel="10" quickSlotPriority="8" />
+			<skill main="10800031" uiPosition="1, 3" maxLevel="10" quickSlotPriority="9" />
+			<skill main="10800091" uiPosition="2, 3" maxLevel="10" />
+			<skill main="10800101" uiPosition="0, 3" maxLevel="10" quickSlotPriority="10" />
+			<skill main="10800141" uiPosition="1, 4" maxLevel="10" quickSlotPriority="11" />
+			<skill main="10800131" uiPosition="2, 4" maxLevel="10" quickSlotPriority="12" />
+			<skill main="10800061" uiPosition="3, 4" maxLevel="10" quickSlotPriority="13" />
+			<skill main="10800111" uiPosition="0, 5" maxLevel="10" />
+			<skill main="10800151" uiPosition="1, 5" maxLevel="10" />
+			<skill main="10800161" sub="10800163" uiPosition="3, 5" maxLevel="10" quickSlotPriority="14" />
+		</skills>
+		<learn level="1">
+			<skill id="20000001" />
+			<skill id="20000011" />
+			<skill id="10800001" />
+			<skill id="10800021" />
+			<skill id="10800071" />
+			<skill id="10800081" />
+		</learn>
+	</job>
+</ms2>

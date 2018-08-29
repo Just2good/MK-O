@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<select id="0" feature="FameContents" locale="">
+		<content voiceID="ko/Npc/00002052" text="$script:1113181007009241$" />
+	</select>
+	<script randomPick="1" id="20" feature="FameContents" locale="">
+		<content text="$script:1127231007009326$">
+			<distractor text="$script:1127231007009327$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="FameContents" locale="">
+		<content text="$script:1127231007009328$" />
+		<content text="$script:1127231007009329$" />
+		<content text="$script:1127231007009330$" />
+		<content text="$script:1127231007009331$" />
+		<content text="$script:1127231007009332$" />
+		<content text="$script:1127231007009333$" />
+		<content text="$script:1127231007009334$" />
+	</script>
+</ms2>

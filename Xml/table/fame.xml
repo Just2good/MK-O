@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<fame alliance="DarkWind" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="DarkWind" grade="2" requirePoint="10000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="DarkWind" grade="3" requirePoint="30000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="DarkWind" grade="4" requirePoint="60000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="DarkWind" grade="5" requirePoint="120000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="LumiKnight" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="LumiKnight" grade="2" requirePoint="10000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="LumiKnight" grade="3" requirePoint="30000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="LumiKnight" grade="4" requirePoint="60000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="LumiKnight" grade="5" requirePoint="120000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="GreenHood" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="GreenHood" grade="2" requirePoint="10000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="GreenHood" grade="3" requirePoint="30000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="GreenHood" grade="4" requirePoint="60000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="GreenHood" grade="5" requirePoint="120000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="TriaRoyalGuard" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="TriaRoyalGuard" grade="2" requirePoint="10000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="TriaRoyalGuard" grade="3" requirePoint="30000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="TriaRoyalGuard" grade="4" requirePoint="60000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="TriaRoyalGuard" grade="5" requirePoint="120000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="MapleUnion" grade="1" requirePoint="0" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="MapleUnion" grade="2" requirePoint="10000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="MapleUnion" grade="3" requirePoint="30000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="MapleUnion" grade="4" requirePoint="60000" additionalEffectID="" additionalEffectLevel="" feature="" />
+	<fame alliance="MapleUnion" grade="5" requirePoint="120000" additionalEffectID="" additionalEffectLevel="" feature="" />
+</ms2>

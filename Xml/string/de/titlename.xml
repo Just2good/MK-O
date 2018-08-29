@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="0" name="Kein Titel" />
+  <key id="1" name="{0}" feature="Club" />
+  <key id="2" name="{0}" feature="Club" />
+  <key id="3" name="{0}" feature="Club" />
+  <key id="10000001" name="Unerfahrener Ritter" />
+  <key id="10000002" name="Unerfahrener Berserker" />
+  <key id="10000003" name="Unerfahrener Magier" />
+  <key id="10000004" name="Unerfahrener Priester" />
+  <key id="10000005" name="Unerfahrener Bogenschütze" />
+  <key id="10000006" name="Unerfahrener Kanonier" />
+  <key id="10000007" name="Unerfahrener Dieb" />
+  <key id="10000008" name="Unerfahrener Assassine" />
+  <key id="10000009" name="Meisterhafter Ritter" />
+  <key id="10000010" name="Meisterhafter Berserker" />
+  <key id="10000011" name="Meisterhafter Magier" />
+  <key id="10000012" name="Meisterhafter Priester" />
+  <key id="10000013" name="Meisterhafter Bogenschütze" />
+  <key id="10000014" name="Meisterhafter Kanonier" />
+  <key id="10000015" name="Meisterdieb" />
+  <key id="10000016" name="Meisterhafter Assassine" />
+  <key id="10000017" name="Mit eisernem Willen" />
+  <key id="10000018" name="Mörder" />
+  <key id="10000019" name="Bärenstark" />
+  <key id="10000020" name="Vernichter" />
+  <key id="10000021" name="Der rote Bezwinger" />
+  <key id="10000022" name="Der purpurne Bezwinger" />
+  <key id="10000023" name="Dorftrottel" />
+  <key id="10000024" name="Unermüdlicher Kämpfer" />
+  <key id="10000025" name="Marathonläufer" />
+  <key id="10000026" name="Aquatischer" />
+  <key id="10000027" name="Wandkriecher" />
+  <key id="10000028" name="Hartschaliger" />
+  <key id="10000029" name="Gefallener Engel" />
+  <key id="10000030" name="Wanderer" />
+  <key id="10000031" name="Vielflieger" />
+  <key id="10000032" name="Schweißfuß" />
+  <key id="10000033" name="Spritzer" />
+  <key id="10000034" name="Unterseeisch" />
+  <key id="10000035" name="Schweißhand" />
+  <key id="10000036" name="Bergsteiger" />
+  <key id="10000037" name="Tief durchatmen" />
+  <key id="10000038" name="Knochenkneter" />
+  <key id="10000039" name="Flummi" />
+  <key id="10000040" name="Erschöpft" />
+  <key id="10000041" name="Flugkrank" />
+  <key id="10000042" name="Vogelhasser" />
+  <key id="10000043" name="Herumliegen" />
+  <key id="10000044" name="Passagier" />
+  <key id="10000045" name="Muskelmann" />
+  <key id="10000046" name="Forscher" />
+  <key id="10000047" name="Beobachter" />
+  <key id="10000048" name="Schatzjäger" />
+  <key id="10000049" name="Goldener Jäger" />
+  <key id="10000050" name="Ungebetener Gast" />
+  <key id="10000051" name="Alikar-Tourist" />
+  <key id="10000052" name="Maple-Wächter" />
+  <key id="10000053" name="Ausbrechermeister" />
+  <key id="10000054" name="Starter" />
+  <key id="10000055" name="Straßenlaterneer" />
+  <key id="10000056" name="Weltbürger" />
+  <key id="10000057" name="Leichtsinnig" />
+  <key id="10000058" name="Heiße Sohle" />
+  <key id="10000059" name="Mega-giftig" />
+  <key id="10000060" name="Schattiger" />
+  <key id="10000061" name="Weiser" />
+  <key id="10000062" name="Romantisch" />
+  <key id="10000063" name="Kumbawatta" />
+  <key id="10000064" name="Gärtner" />
+  <key id="10000065" name="Wandkletterer" />
+  <key id="10000066" name="Maplenarr" />
+  <key id="10000067" name="Engagiert" />
+  <key id="10000068" name="Gierschlund" />
+  <key id="10000069" name="Zerstörer" />
+  <key id="10000070" name="Säuberer" />
+  <key id="10000071" name="Sorgfältig" />
+  <key id="10000072" name="Unsterblich" />
+  <key id="10000073" name="Retter" />
+  <key id="10000074" name="Greifer" />
+  <key id="10000075" name="Bungee-Jumper" />
+  <key id="10000076" name="Flügellos" />
+  <key id="10000077" name="Gildenstolz" />
+  <key id="10000078" name="Talerloser" />
+  <key id="10000079" name="Schnäppchenjäger" />
+  <key id="10000080" name="Geld wie Heu" />
+  <key id="10000081" name="Schmied" />
+  <key id="10000082" name="Andenkensammler" />
+  <key id="10000083" name="Mobilsammler" />
+  <key id="10000084" name="Vorreiter" />
+  <key id="10000085" name="Falle gefällig?" />
+  <key id="10000086" name="Überlebenskünstler" />
+  <key id="10000087" name="Springbreaker" />
+  <key id="10000088" name="Kontrollfreak" />
+  <key id="10000089" name="Top-Leichtathlet" />
+  <key id="10000090" name="Fahranfänger" />
+  <key id="10000091" name="Radfahrer" />
+  <key id="10000092" name="Schnellläufer" />
+  <key id="10000093" name="Pionier" />
+  <key id="10000094" name="Kasper" />
+  <key id="10000095" name="Rhytmusreiter" />
+  <key id="10000096" name="Unerbittlicher" />
+  <key id="10000097" name="Nutzlos" />
+  <key id="10000098" name="Entfesselt" />
+  <key id="10000099" name="Anfänger" />
+  <key id="10000100" name="Unaufhaltsam" />
+  <key id="10000101" name="Kriegsfürst" />
+  <key id="10000102" name="Furchtlos" />
+  <key id="10000103" name="Gemeinsamer Feind" />
+  <key id="10000104" name="Weinerlicher" />
+  <key id="10000105" name="Friedlich" />
+  <key id="10000106" name="Sternensucher" />
+  <key id="10000107" name="Rachgierig" />
+  <key id="10000108" name="Reuevoll" />
+  <key id="10000109" name="Unangefochten" />
+  <key id="10000110" name="Verloren" />
+  <key id="10000111" name="Wählerischer" />
+  <key id="10000112" name="Beschwörer" />
+  <key id="10000113" name="Praktisch" />
+  <key id="10000114" name="Liebeskrank" />
+  <key id="10000115" name="Verwüster" />
+  <key id="10000116" name="Aufgeräumter" />
+  <key id="10000117" name="Detektiv" />
+  <key id="10000118" name="Anhänglicher" />
+  <key id="10000119" name="Actionheld" />
+  <key id="10000120" name="Cool" />
+  <key id="10000121" name="Großer Investor" />
+  <key id="10000122" name="Extravaganter" />
+  <key id="10000123" name="Kandidat der ersten Saison" />
+  <key id="10000124" name="Vielfraß" />
+  <key id="10000125" name="Gesundheitsfanatiker" />
+  <key id="10000126" name="Fruchtiger" />
+  <key id="10000127" name="Grillmeister" />
+  <key id="10000128" name="Wettstreiter" />
+  <key id="10000129" name="Cheerleader-Kapitän" />
+  <key id="10000130" name="Loyalist" />
+  <key id="10000131" name="Grausam" />
+  <key id="10000132" name="Weltstar" />
+  <key id="10000133" name="Einsiedler" />
+  <key id="10000134" name="Großer Held" />
+  <key id="10000135" name="Rhytmisch" />
+  <key id="10000136" name="Entschuldigender" />
+  <key id="10000137" name="Munterer" />
+  <key id="10000138" name="Gierschlund" />
+  <key id="10000139" name="Rücksitzfahrer" />
+  <key id="10000140" name="Partner" />
+  <key id="10000141" name="Ein guter Freund" />
+  <key id="10000142" name="Fürsorglich" />
+  <key id="10000143" name="Erforscher" />
+  <key id="10000144" name="Der Fantastische" />
+  <key id="10000145" name="Der Hirte" />
+  <key id="10000146" name="Gehörnt" />
+  <key id="10000147" name="Mondheller Schatten" />
+  <key id="10000148" name="Beobachter" />
+  <key id="10000149" name="Erfahren" />
+  <key id="10000150" name="Wahrer Gelehrter" />
+  <key id="10000151" name="Selbsternannter Held" />
+  <key id="10000152" name="Wahrer Champion" />
+  <key id="10000153" name="Stardesigner" />
+  <key id="10000154" name="Endlich ein Held" />
+  <key id="10000155" name="Zertrümmerer" />
+  <key id="10000156" name="Sanitäter" />
+  <key id="10000157" name="Irrer Hirte" />
+  <key id="10000158" name="Meisterarchitekt" />
+  <key id="10000159" name="Beliebt" />
+  <key id="10000160" name="Zeitreisender" />
+  <key id="10000161" name="Komplizierter" />
+  <key id="10000162" name="Kämpfer" />
+  <key id="10000163" name="Gärtner" />
+  <key id="10000164" name="Mutig" />
+  <key id="10000165" name="Schatzeroberer" />
+  <key id="10000166" name="Hartnäckiger Plünderer" />
+  <key id="10000167" name="Meister des Hinterhalts" />
+  <key id="10000168" name="Heimkehrer" />
+  <key id="10000169" name="Ewiger" />
+  <key id="10000170" name="Trophäensammler" />
+  <key id="10000171" name="Trophäenfreak" />
+  <key id="10000172" name="Trophäenmeister" />
+  <key id="10000173" name="Aufrichtig" />
+  <key id="10000174" name="Überarbeiteter" />
+  <key id="10000175" name="Verzaubernd" />
+  <key id="10000176" name="Startklarer" />
+  <key id="10000177" name="Schutzengel" />
+  <key id="10000178" name="Neugierig" />
+  <key id="10000179" name="Erkenntnissuchender" />
+  <key id="10000180" name="Hirnverbrannt" />
+  <key id="10000181" name="Gut informiert" />
+  <key id="10000182" name="Pfiffig" />
+  <key id="10000183" name="Wandelndes Lexikon" />
+  <key id="10000184" name="Quizmaster" />
+  <key id="10000185" name="Ehrenamtlicher Journalist" />
+  <key id="10000186" name="Wie aufregend!" />
+  <key id="10000187" name="Atemberaubend" />
+  <key id="10000188" name="Raufbold" />
+  <key id="10000189" name="Geißel der Dunkelheit" />
+  <key id="10000190" name="Krieger des Lichts" />
+  <key id="10000191" name="Amateurangler" />
+  <key id="10000192" name="Profiangler" />
+  <key id="10000193" name="Angelexperte" />
+  <key id="10000194" name="Angelprofi" />
+  <key id="10000195" name="Virtuose" />
+  <key id="10000196" name="Angelchampion" />
+  <key id="10000197" name="Musiker" />
+  <key id="10000198" name="Maestro" />
+  <key id="10000199" name="Freigeist" />
+  <key id="10000200" name="Gitarrist" />
+  <key id="10000201" name="Süßer" />
+  <key id="10000202" name="Klavierspieler" />
+  <key id="10000203" name="Flip-Flopper" />
+  <key id="10000204" name="Fanatischer Angler" />
+  <key id="10000205" name="Begeisterter Angler" />
+  <key id="10000206" name="Milletian" />
+  <key id="10000207" name="Runenkind" />
+  <key id="10000208" name="Hardcore-Mapler" />
+  <key id="10000209" name="Kartfahrer" />
+  <key id="10000210" name="Windiger" />
+  <key id="10000211" name="Blitzartig" />
+  <key id="10000212" name="Der Bezwinger des Bösen" />
+  <key id="10000213" name="Herzensbrecher" />
+  <key id="10000214" name="Klarinettenspieler" />
+  <key id="10000215" name="Strähniger" />
+  <key id="10000216" name="Harfenspieler" />
+  <key id="10000217" name="Boom Boom Pow" />
+  <key id="10000218" name="Perkussionist" />
+  <key id="10000219" name="Zinger" />
+  <key id="10000220" name="Melodischer Schock" />
+  <key id="10000221" name="Kühn" />
+  <key id="10000222" name="Bassist" />
+  <key id="10000223" name="Ba-dum" />
+  <key id="10000224" name="Leidenschaftlicher Schlagzeuger" />
+  <key id="10000225" name="Bauer" />
+  <key id="10000226" name="Warmherzig" />
+  <key id="10000227" name="Unsichtbar" />
+  <key id="10000228" name="Scharfsinnig" />
+  <key id="10000229" name="Zögerlich" />
+  <key id="10000230" name="Träge" />
+  <key id="10000231" name="Launisch" />
+  <key id="10000232" name="Reporter" />
+  <key id="10000233" name="Draufgänger" feature="PvPRankingDuelMode" />
+  <key id="10000234" name="Champion" feature="PvPRankingDuelMode" />
+  <key id="10000235" name="Großmeister" feature="PvPRankingDuelMode" />
+  <key id="10000236" name="Ungestüm" />
+  <key id="10000237" name="Geiger" />
+  <key id="10000238" name="Bewundernswert" />
+  <key id="10000239" name="Cellist" />
+  <key id="10000240" name="Unschuldig" />
+  <key id="10000241" name="Panflötist" />
+  <key id="10000242" name="Pionier" />
+  <key id="10000243" name="Besonders" />
+  <key id="10000244" name="Lieblingsschüler" />
+  <key id="10000245" name="Sternenlicht-Erkunder" />
+  <key id="10000246" name="Maplegrafischer Stern" />
+  <key id="10000247" name="Schluckspecht" />
+  <key id="10000248" name="Gildenarbeiter" />
+  <key id="10000249" name="Funkelnd" />
+  <key id="10000250" name="Stern" />
+  <key id="10000251" name="Natursucher" />
+  <key id="10000252" name="Meisterdesigner" />
+  <key id="10000253" name="Meisterabenteurer" />
+  <key id="10000254" name="Gefühlvoll" />
+  <key id="10000255" name="Saxophonist" />
+  <key id="10000256" name="Redselig" />
+  <key id="10000257" name="Posaunist" />
+  <key id="10000258" name="Rockstar" />
+  <key id="10000259" name="Trompeter" />
+  <key id="10000260" name="Schattenexpeditionsmitglied" feature="ShadowExpedition" />
+  <key id="10000261" name="Pfadfinder" feature="ShrineOfGuidance" />
+  <key id="10000262" name="Helle" />
+  <key id="10000263" name="Okarinaspieler" />
+  <key id="10000264" name="Stabil" />
+  <key id="10000265" name="Akustikbassist" />
+  <key id="10000266" name="Beidhändig" />
+  <key id="10000267" name="Vibrafonist" />
+  <key id="10000268" name="Unbeschwert" />
+  <key id="10000269" name="E-Pianist" />
+  <key id="10000270" name="Beliebt" />
+  <key id="10000271" name="Zupfbassist" />
+  <key id="10000272" name="Falscher" />
+  <key id="10000273" name="Steeldrummer" />
+  <key id="10000274" name="Unerfahrener Bergarbeiter" />
+  <key id="10000275" name="Erfahrener Bergarbeiter" />
+  <key id="10000276" name="Fachkundiger Bergarbeiter" />
+  <key id="10000277" name="Meisterhafter Bergarbeiter" />
+  <key id="10000278" name="Unerfahrener Hirte" />
+  <key id="10000279" name="Erfahrener Hirte" />
+  <key id="10000280" name="Fachkundiger Hirte" />
+  <key id="10000281" name="Meisterhafter Hirte" />
+  <key id="10000282" name="Unerfahrener Schmied" />
+  <key id="10000283" name="Erfahrener Schmied" />
+  <key id="10000284" name="Fachkundiger Schmied" />
+  <key id="10000285" name="Meisterhafter Schmied" />
+  <key id="10000286" name="Unerfahrener Künstler" />
+  <key id="10000287" name="Erfahrener Künstler" />
+  <key id="10000288" name="Fachkundiger Künstler" />
+  <key id="10000289" name="Meisterhafter Künstler" />
+  <key id="10000290" name="Endlos" />
+  <key id="10000291" name="Stubenhocker" />
+  <key id="10000292" name="Agoraphobisch" />
+  <key id="10000293" name="Junggeselle" />
+  <key id="10000294" name="Einzugspartygast" />
+  <key id="10000295" name="Möglicher Mitbewohner" />
+  <key id="10000296" name="Meister der Abenteuer" />
+  <key id="10000297" name="Melodisch" />
+  <key id="10000298" name="Oboist" />
+  <key id="10000299" name="Zupfer" />
+  <key id="10000300" name="Pizzicatomeister" />
+  <key id="10000301" name="Detailliert" />
+  <key id="10000302" name="Cembalist" />
+  <key id="10000303" name="Unerfahrener Sammler" />
+  <key id="10000304" name="Erfahrener Sammler" />
+  <key id="10000305" name="Fachkundiger Sammler" />
+  <key id="10000306" name="Meisterhafter Sammler" />
+  <key id="10000307" name="Unerfahrener Bauer" />
+  <key id="10000308" name="Erfahrener Bauer" />
+  <key id="10000309" name="Fachkundiger Bauer" />
+  <key id="10000310" name="Meisterhafter Bauer" />
+  <key id="10000311" name="Unerfahrener Alchemist" />
+  <key id="10000312" name="Erfahrener Alchemist" />
+  <key id="10000313" name="Fachkundiger Alchemist" />
+  <key id="10000314" name="Meisterhafter Alchemist" />
+  <key id="10000315" name="Unerfahrener Koch" />
+  <key id="10000316" name="Erfahrener Koch" />
+  <key id="10000317" name="Fachkundiger Koch" />
+  <key id="10000318" name="Meisterhafter Koch" />
+  <key id="10000319" name="Frostbezwinger" feature="SnowKingdom" />
+  <key id="10000320" name="Gefallen" feature="SnowKingdom" />
+  <key id="10000321" name="Mysteriöser" feature="PirateOcean" />
+  <key id="10000326" name="Mit einer Klappe" feature="DarkCastle" />
+  <key id="10000327" name="Angsthase" feature="DarkCastle" />
+  <key id="10000328" name="Rächer" feature="DarkCastle" />
+  <key id="10000329" name="Schätzchen" />
+  <key id="10000330" name="Quizmaster" />
+  <key id="10000331" name="Zakum-Bezwinger" feature="Zakum01" />
+  <key id="10000336" name="Held" />
+  <key id="10000337" name="Superheld" />
+  <key id="10000338" name="Erster Ritter" />
+  <key id="10000339" name="Später Ritter" />
+  <key id="10000341" name="Nächster Merin" />
+  <key id="10000342" name="Monsterfänger" feature="PetBattle" />
+  <key id="10000343" name="Trainerveteran" feature="Develop" />
+  <key id="10000344" name="Trainerexperte" feature="Develop" />
+  <key id="10000345" name="Monsterbändiger" feature="PetBattle" />
+  <key id="10000350" name="Pinkfarbenes Wunder" feature="PinkBean01" />
+  <key id="10000351" name="Ding-Donger" />
+  <key id="10000352" name="Xylophonist" />
+  <key id="10000353" name="Körnerich" />
+  <key id="10000354" name="Harmonica Master" />
+  <key id="10000356" name="Vereinigter" />
+  <key id="10000357" name="Nr. 1" />
+  <key id="10000358" name="Magier Nr. 1" />
+  <key id="10000359" name="Assassine Nr. 1" />
+  <key id="10000360" name="Gottheit" />
+  <key id="10000361" name="Kumpel" />
+  <key id="10000362" name="Stellvertreter" />
+  <key id="10000363" name="Captain" />
+  <key id="10000365" name="Begehrlicher" />
+  <key id="10000367" name="Warmblütiger" feature="GuildRaid01" />
+  <key id="10000368" name="Super Climber" feature="GuildRaid01" />
+  <key id="10000369" name="Bullfighter" feature="GuildRaid01" />
+  <key id="10000370" name="Fleischmeister" feature="GuildRaid01" />
+  <key id="10000371" name="Tuter" />
+  <key id="10000372" name="Pilzmarkmeister" />
+  <key id="10000373" name="Single-Player" feature="GuildRaid01" />
+  <key id="10000374" name="Tycoon" feature="GuildRaid01" />
+  <key id="10000375" name="Strict" feature="GuildRaid01" />
+  <key id="10000376" name="Factory Owner" feature="GuildRaid01" />
+  <key id="10000377" name="Seven Colored" feature="GuildRaid01" />
+  <key id="10000378" name="10 to 1 Legend" feature="GuildRaid01" />
+  <key id="10000379" name="Astraler" feature="ItemMerge" />
+  <key id="10000380" name="Transzendenter" feature="ItemMerge" />
+  <key id="10000381" name="Jenseits des Glaubens" feature="ItemMerge" />
+  <key id="10000382" name="Springer" />
+  <key id="10000383" name="Platzhirsch " />
+  <key id="10000384" name="BOSS" />
+  <key id="10000385" name="Traumschiff" />
+  <key id="10000386" name="Nationaler" />
+  <key id="10000387" name="Mapler" />
+  <key id="10000388" name="-xXxBESTERxASSASSINExXx-" />
+  <key id="10000389" name="1st" />
+  <key id="10000390" name="Assassin" />
+  <key id="10000393" name="Instructor" feature="Mentoring" />
+  <key id="10000395" name="Besessen" feature="PetRemake01" />
+  <key id="10000396" name="Sweet and Salty" />
+  <key id="10000397" name="Balrog-Beschützer" />
+  <key id="10000398" name="Infernog-Beschützer" />
+  <key id="10000399" name="Fixer" feature="FameContents" />
+  <key id="10000400" name="Rising" feature="FameContents" />
+  <key id="10000401" name="Trusted" feature="FameContents" />
+  <key id="10000402" name="Fresh Hero" feature="FameContents" />
+  <key id="10000403" name="Legendary" feature="FameContents02" />
+  <key id="10000404" name="Unapproachable" feature="FameContents02" />
+  <key id="10000405" name="Alliance Commander" feature="FameContents" />
+  <key id="10000406" name="Shield of Tria" feature="FameContents" />
+  <key id="10000407" name="Dark Winder" feature="FameContents" />
+  <key id="10000408" name="Green Hood's Arrow" feature="FameContents" />
+  <key id="10000409" name="Honorary Temple Knight" feature="FameContents" />
+  <key id="10000410" name="Sky Fortress Officer" feature="FameContents" />
+  <key id="10000411" name="Condor Special Forces" feature="FameContents" />
+  <key id="10000412" name="Schatten's Baby Kitten" feature="FameContents" />
+  <key id="10000413" name="Nairin's Troubleshooter" feature="FameContents" />
+  <key id="10000414" name="Mason's Guardian" feature="FameContents" />
+  <key id="10000415" name="D-class Specialist" feature="FameContents" />
+  <key id="10000416" name="C-class Responder" feature="FameContents" />
+  <key id="10000417" name="B-class Operator" feature="FameContents" />
+  <key id="10000418" name="A-class Enforcer" feature="FameContents" />
+  <key id="10000419" name="S-class Tactician" feature="FameContents" />
+  <key id="10000420" name="Field Ops Commander" feature="FameContents" />
+  <key id="10000421" name="Generous" feature="FameContents" />
+  <key id="10000422" name="Alliance Guardian" feature="FameContents" />
+  <key id="10000423" name="Harbinger of Spring" />
+  <key id="10000426" name="New Captain" feature="FameChallengeDungeon" />
+  <key id="10000427" name="New Guard Leader" feature="FameChallengeDungeon" />
+  <key id="10000428" name="Online Hero" feature="FameChallengeDungeon" />
+  <key id="10000429" name="Destined" feature="FameChallengeDungeon" />
+  <key id="10000430" name="Shadow Wind" feature="FameChallengeDungeon" />
+  <key id="10000432" name="Fleet Ace" feature="FameChallengeDungeon" />
+  <key id="10000433" name="Darkest Shadow" feature="FameChallengeDungeon" />
+  <key id="10000434" name="Acknowledged" feature="FameChallengeDungeon" />
+  <key id="10000435" name="Heart Cheat" feature="FameChallengeDungeon" />
+  <key id="10000436" name="Jingle Jangler" feature="FameChallengeDungeon" />
+  <key id="10000437" name="Sweet" />
+  <key id="10000441" name="Schattenbarde" feature="Season1" />
+  <key id="10000442" name="Blütenbauer" />
+  <key id="10000443" name="Ewiger Mapler" />
+  <key id="10000444" name="Fankunst-Aussteller" />
+  <key id="10000446" name="Boxer" feature="SurvivalContents01" />
+  <key id="10000447" name="Pazifist" feature="SurvivalContents01" />
+  <key id="10000448" name="$item:20000733$-Freak" feature="SurvivalContents01" />
+  <key id="10000449" name="$item:20000737$-Freak" feature="SurvivalContents01" />
+  <key id="10000450" name="$item:20000902$-Freak" feature="SurvivalContents01" />
+  <key id="10000451" name="$item:20000743$-Freak" feature="SurvivalContents01" />
+  <key id="10000452" name="$item:20000906$-Freak" feature="SurvivalContents01" />
+  <key id="10000453" name="$item:20000897$-Freak" feature="SurvivalContents01" />
+  <key id="10000454" name="$item:20000898$-Freak" feature="SurvivalContents01" />
+  <key id="10000455" name="$item:20000899$-Freak" feature="SurvivalContents01" />
+  <key id="10000456" name="Blindes Glück" feature="SurvivalContents01" />
+  <key id="10000457" name="Waffenmeister" feature="SurvivalContents01" />
+  <key id="10000458" name="Königlicher Tyrann" feature="SurvivalContents01" />
+  <key id="10000459" name="Handlanger des Pilzkönigs" feature="SurvivalContents01" />
+  <key id="10000460" name="Flötenspieler" />
+  <key id="10000461" name="Flötenprofi" />
+  <key id="10000462" name="Celestaspieler" />
+  <key id="10000463" name="Celestaprofi" />
+  <key id="10000464" name="Sporensicher" feature="WorldChampionMushroom" />
+  <key id="10000465" name="TITLENAME_10000465_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000466" name="Schleim-Freund" />
+  <key id="10000467" name="Regenbogenhirte" />
+  <key id="10000468" name="TITLENAME_10000468_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000469" name="Baumknutscher" locale="NA" />
+  <key id="10000470" name="Katzenflüsterer" locale="NA" />
+  <key id="10000471" name="Grünschnabel" locale="NA" />
+  <key id="10000472" name="Straßenverkäufer für Lebensmittel" locale="NA" />
+  <key id="10000473" name="Lieferant" locale="NA" />
+  <key id="10000474" name="Schuhliebhaber" locale="NA" />
+  <key id="10000478" name="TITLENAME_10000478_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000479" name="TITLENAME_10000479_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000480" name="TITLENAME_10000480_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000481" name="Feldbiologe" feature="Fishing" locale="NA" />
+  <key id="10000482" name="Verrückter Angler" feature="Fishing" locale="NA" />
+  <key id="10000483" name="Violetter Zauberer" feature="PetBattle" locale="NA" />
+  <key id="10000484" name="Schläfrig" feature="PetBattle" locale="NA" />
+  <key id="10000485" name="TITLENAME_10000485_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000486" name="TITLENAME_10000486_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000487" name="TITLENAME_10000487_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000488" name="TITLENAME_10000488_NAME:[F]ChronicleDungeon60_01" feature="ChronicleDungeon60_01" />
+  <key id="10000490" name="TITLENAME_10000490_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000491" name="TITLENAME_10000491_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000492" name="TITLENAME_10000492_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000493" name="TITLENAME_10000493_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000494" name="TITLENAME_10000494_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000495" name="TITLENAME_10000495_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000496" name="TITLENAME_10000496_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000497" name="TITLENAME_10000497_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000498" name="TITLENAME_10000498_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000499" name="TITLENAME_10000499_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000500" name="TITLENAME_10000500_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10000501" name="TITLENAME_10000501_NAME" />
+  <key id="10000502" name="TITLENAME_10000502_NAME" />
+  <key id="10000503" name="Insignie des Gründers" />
+  <key id="10000508" name="Überlebender" feature="SurvivalContents03" />
+  <key id="10000509" name="Letzter Überlebender" feature="SurvivalContents03" />
+  <key id="10000515" name="Barrikadenläufer" feature="SurvivalContents03" />
+  <key id="10000516" name="Kampfheiler" feature="SurvivalContents03" />
+  <key id="10000517" name="Pflegeaufwendig" feature="SurvivalContents03" />
+  <key id="10000518" name="Ehrengast" feature="SurvivalContents03" />
+  <key id="10000519" name="Waffenhändler" feature="SurvivalContents03" />
+  <key id="10000520" name="Tourist" feature="SurvivalContents03" />
+  <key id="10000521" name="Quasselstrippe" feature="SurvivalContents03" />
+  <key id="10000522" name="Schleimgeißel" feature="SurvivalContents03" />
+  <key id="10000523" name="Schlafloser" feature="SurvivalContents03" />
+  <key id="10000524" name="Explosionsliebhaber" feature="SurvivalContents03" />
+  <key id="10000525" name="Badekapitän" feature="SurvivalContents03" />
+  <key id="10000526" name="Usurpator" feature="SurvivalContents03" />
+  <key id="10000527" name="Kletterkundiger" feature="SurvivalContents03" />
+  <key id="10000533" name="Überzuckerung" feature="SurvivalContents03" />
+  <key id="10000534" name="Geborener Überlebenskünstler" feature="SurvivalContents03" />
+  <key id="10000535" name="Taktiker" feature="SurvivalContents03" />
+  <key id="10000536" name="Menschenjäger" feature="SurvivalContents03" />
+</ms2>

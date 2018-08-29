@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+
+  
+  <effect type="vibrate" startDelay="0.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="0.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="0.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="0.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  
+  
+  
+  
+  
+  <effect type="vibrate" startDelay="1.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="1.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="1.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="1.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  
+  
+  
+  
+  <effect type="vibrate" startDelay="2.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="2.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="2.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="2.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+
+
+  
+  <effect type="vibrate" startDelay="3.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="3.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="3.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="3.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+
+
+
+
+  
+  <effect type="vibrate" startDelay="4.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="4.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="4.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="4.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>  
+
+
+
+  
+  <effect type="vibrate" startDelay="5.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="5.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="5.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="5.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>  
+
+
+  
+  <effect type="vibrate" startDelay="6.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="6.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="6.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="6.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>    
+  
+  
+  
+
+  
+  <effect type="vibrate" startDelay="7.0" duration="1.9" freq="15" amp="10" dampingTime="1.2" damping="0.5"></effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="7.02" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="7.42" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/DevilHugeBlue/Eff_DevilHugeBlue_Attack_02_G_DownHPRecoveryItem.nif" startDelay="7.82" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="2.8" />
+  </effect>      
+</ms2>

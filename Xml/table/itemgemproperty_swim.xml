@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<swim id="70600002" kf="B" idleEffect="CH/Swim/Eff_Duckboat_SwimIdle.xml" runEffect="CH/Swim/Eff_Duckboat_SwimRun.xml" dashEffect="CH/Swim/Eff_Duckboat_SwimDash.xml" />
+	<swim id="70600001" kf="B" idleEffect="CH/Swim/Eff_Flamingo_SwimIdle.xml" runEffect="CH/Swim/Eff_Flamingo_SwimRun.xml" dashEffect="CH/Swim/Eff_Flamingo_SwimDash.xml" />
+	<swim id="70600003" kf="B" idleEffect="CH/Swim/Eff_Puppyboat_SwimIdle.xml" runEffect="CH/Swim/Eff_Puppyboat_SwimRun.xml" dashEffect="CH/Swim/Eff_Puppyboat_SwimDash.xml" />
+	<swim id="70600004" kf="B" idleEffect="CH/Swim/Eff_Dragon_SwimIdle.xml" runEffect="CH/Swim/Eff_Dragon_SwimRun.xml" dashEffect="CH/Swim/Eff_Dragon_SwimDash.xml" />
+	<swim id="70600005" kf="B" idleEffect="CH/Swim/Eff_Panda_SwimIdle.xml" runEffect="CH/Swim/Eff_Panda_SwimRun.xml" dashEffect="CH/Swim/Eff_Panda_SwimDash.xml" />
+	<swim id="70600006" kf="D" idleEffect="CH/Swim/Eff_Fish_SwimIdle.xml" runEffect="CH/Swim/Eff_Fish_SwimRun.xml" dashEffect="CH/Swim/Eff_Fish_SwimDash.xml" />
+	<swim id="70600007" kf="E" idleEffect="CH/Swim/Eff_Watermelon_SwimIdle.xml" runEffect="CH/Swim/Eff_Watermelon_SwimRun.xml" dashEffect="CH/Swim/Eff_Watermelon_SwimDash.xml" />
+	<swim id="70600008" kf="B" idleEffect="CH/Swim/Eff_Unicorn_SwimIdle.xml" runEffect="CH/Swim/Eff_Unicorn_SwimRun.xml" dashEffect="CH/Swim/Eff_Unicorn_SwimDash.xml" />
+	<swim id="70600010" kf="F" idleEffect="CH/Swim/Eff_LazyMushroom_SwimIdle.xml" runEffect="CH/Swim/Eff_LazyMushroom_SwimRun.xml" dashEffect="CH/Swim/Eff_LazyMushroom_SwimDash.xml" />
+	<swim id="70600011" kf="F" idleEffect="CH/Swim/Eff_GhostMushroom_SwimIdle.xml" runEffect="CH/Swim/Eff_GhostMushroom_SwimRun.xml" dashEffect="CH/Swim/Eff_GhostMushroom_SwimDash.xml" />
+</ms2>

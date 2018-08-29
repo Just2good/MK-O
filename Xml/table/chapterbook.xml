@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<chapterbook id="1" prologue="60100000" epilogue="60100075" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="2" prologue="50001550" epilogue="50001581" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="3" prologue="50001582" epilogue="50001611" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="2" />
+		<reward rewardType="SkillPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="4" prologue="10003073" epilogue="10003107" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="5" prologue="50001621" epilogue="50001668" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+		<reward rewardType="skillPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="6" prologue="50001670" epilogue="50001745" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="7" prologue="40002662" epilogue="40002689" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="2" />
+		<reward rewardType="skillPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="8" prologue="10002782" epilogue="10002815" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+	</chapterbook>
+	<chapterbook id="11" prologue="60100080" epilogue="60100245" feature="QuestChapter00">
+		<reward rewardType="statPoint" rewardValue="1" />
+		<reward rewardType="skillPoint" rewardValue="1" />
+	</chapterbook>
+</ms2>

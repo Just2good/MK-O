@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<menuSet type="game">
+		<menu id="CharacterGroup" col="0" row="0">
+			<child id="Pet" feature="PetBase" />
+			<child id="AttendGift" filterType="attendGift" />
+			<child id="CashAttend" filterType="cashAttend" />
+			<child id="AdventureLevel" feature="AdventureLevel" />
+			<child id="CompactKey" />
+			<child id="Skill" />
+			<child id="Inventory" />
+			<child id="Character" />
+		</menu>
+		<menu id="ContentsGroup" col="1" row="0">
+			<child id="LevelUpPackage" filterType="eventID" filterValue="110001" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="680001" locale="KR" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="681001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700005" locale="KR" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="NA" />
+			<child id="StampEvent" filterType="eventID" filterValue="490006" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="KR" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="CN" />
+			<child id="StampEvent" filterType="eventID" filterValue="490005" locale="CN" />
+			<child id="StampEvent" filterType="eventID" filterValue="490006" locale="CN" />
+			<child id="StampEvent" filterType="eventID" filterValue="490007" locale="CN" />
+			<child id="Dictionary" feature="GameDictionary" />
+			<child id="IndividualBattle" feature="PvPRankingDuelMode" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
+			<child id="Arcade" />
+			<child id="Achieve" />
+			<child id="DungeonSearch" />
+			<child id="EpicRestart" filterType="eventID" filterValue="320002" />
+			<child id="DailyMission" feature="DailyMission" />
+			<child id="Quest" />
+			<child id="WorldMap" />
+		</menu>
+		<menu id="GameGroup" col="2" row="0">
+			<child id="BeautyItem" />
+			<child id="BeautySkin" />
+			<child id="BeautyHair" />
+			<child id="LearningQuest" />
+			<child id="LevelUp" />
+			<child id="BlackMarket" />
+			<child id="Mastery" />
+		</menu>
+		<menu id="CommunityGroup" col="3" row="0">
+			<child id="LiveBroadCast" locale="CN" />
+			<child id="Ranking" feature="InGameRank" locale="KR" />
+			<child id="Ranking" feature="InGameRank" locale="NA" />
+			<child id="Club" feature="Club" />
+			<child id="PartySearch" />
+			<child id="Guild" />
+			<child id="Mail" />
+			<child id="Commuty" />
+		</menu>
+		<menu col="4" id="Home" row="0" />
+		<menu col="5" id="Option" row="0" />
+		<menu col="5" id="Design" row="1" />
+		<menu col="4" id="MeratMarket" feature="MeratMarket" row="2" />
+		<menu col="4" id="MeratMarket" feature="MeratMarket" locale="NA" row="1" />
+		<menu col="5" id="MeratCharge" row="2" locale="NA" />
+		<menu col="5" id="Ranking" locale="CN" row="3" />
+	</menuSet>
+	<menuSet type="gamePad" feature="GamePad">
+		<menu id="GamePad_SystemGroup" col="0" row="0">
+			<child id="CharacterSelect" />
+			<child id="GameExit" />
+			<child id="Option" />
+		</menu>
+		<menu id="GamePad_CharacterGroup" col="1" row="0">
+			<child id="Pet" feature="PetBase" />
+			<child id="AttendGift" filterType="attendGift" />
+			<child id="AdventureLevel" feature="AdventureLevel" />
+			<child id="CompactKey" />
+			<child id="Skill" />
+			<child id="Inventory" />
+			<child id="Character" />
+		</menu>
+		<menu id="GamePad_ContentsGroup" col="2" row="0">
+			<child id="LevelUpPackage" filterType="eventID" filterValue="110001" locale="KR" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="680001" locale="KR" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="681001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700005" locale="KR" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="NA" />
+			<child id="StampEvent" filterType="eventID" filterValue="490006" locale="KR" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="KR" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="CN" />
+			<child id="Dictionary" feature="GameDictionary" />
+			<child id="IndividualBattle" feature="PvPRankingDuelMode" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="KR" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
+			<child id="Arcade" />
+			<child id="Achieve" />
+			<child id="DungeonSearch" />
+			<child id="DailyMission" feature="DailyMission" />
+			<child id="Quest" />
+			<child id="WorldMap" />
+		</menu>
+		<menu col="3" id="GamePad_GameGroup" row="0">
+			<child id="Home" />
+			<child id="Design" />
+			<child id="BeautyItem" />
+			<child id="BeautySkin" />
+			<child id="BeautyHair" />
+			<child id="LearningQuest" />
+			<child id="LevelUp" />
+			<child id="BlackMarket" />
+			<child id="Mastery" />
+		</menu>
+		<menu id="GamePad_CommunityGroup" col="4" row="0">
+			<child id="LiveBroadCast" locale="CN" />
+			<child id="Ranking" feature="InGameRank" />
+			<child id="Club" feature="Club" />
+			<child id="PartySearch" />
+			<child id="Guild" />
+			<child id="Mail" />
+			<child id="Commuty" />
+		</menu>
+		<menu id="GamePad_MarketGroup" col="5" feature="MeratMarket" row="0">
+			<child id="MeratCharge" locale="NA" />
+			<child id="MeratMarket" feature="MeratMarket" />
+		</menu>
+	</menuSet>
+	<menuSet type="mushkingRoyal" feature="SurvivalContents03">
+		<menu id="CharacterGroup" col="0" row="0">
+			<child id="Pet" feature="PetBase" onlyRPG="1" />
+			<child id="AttendGift" filterType="attendGift" onlyRPG="1" />
+			<child id="CashAttend" filterType="cashAttend" onlyRPG="1" />
+			<child id="AdventureLevel" feature="AdventureLevel" onlyRPG="1" />
+			<child id="CompactKey" onlyRPG="1" />
+			<child id="Skill" onlyRPG="1" />
+			<child id="Inventory" />
+			<child id="Character" />
+		</menu>
+		<menu id="ContentsGroup" col="1" row="0">
+			<child id="LevelUpPackage" filterType="eventID" filterValue="110001" onlyRPG="1" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="680001" locale="KR" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="681001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700005" locale="KR" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="NA" onlyRPG="1" />
+			<child id="StampEvent" filterType="eventID" filterValue="490006" onlyRPG="1" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="KR" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="CN" />
+			<child id="StampEvent" filterType="eventID" filterValue="490005" locale="CN" />
+			<child id="StampEvent" filterType="eventID" filterValue="490006" locale="CN" />
+			<child id="StampEvent" filterType="eventID" filterValue="490007" locale="CN" />
+			<child id="CoupleDanceEvent" filterType="eventID" filterValue="920107" locale="KR" />
+			<child id="Dictionary" feature="GameDictionary" onlyRPG="1" />
+			<child id="IndividualBattle" feature="PvPRankingDuelMode" onlyRPG="1" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
+			<child id="Arcade" onlyRPG="1" />
+			<child id="Achieve" />
+			<child id="DungeonSearch" onlyRPG="1" />
+			<child id="EpicRestart" filterType="eventID" filterValue="320002" onlyRPG="1" />
+			<child id="DailyMission" feature="DailyMission" onlyRPG="1" />
+			<child id="Quest" onlyRPG="1" />
+			<child id="WorldMap" onlyRPG="1" />
+		</menu>
+		<menu id="GameGroup" col="2" row="0">
+			<child id="BeautyItem" />
+			<child id="BeautySkin" />
+			<child id="BeautyHair" />
+			<child id="LearningQuest" onlyRPG="1" />
+			<child id="LevelUp" onlyRPG="1" />
+			<child id="BlackMarket" onlyRPG="1" />
+			<child id="Mastery" onlyRPG="1" />
+		</menu>
+		<menu id="CommunityGroup" col="3" row="0">
+			<child id="LiveBroadCast" locale="CN" />
+			<child id="Ranking" feature="InGameRank" />
+			<child id="Club" feature="Club" />
+			<child id="PartySearch" onlyRPG="1" />
+			<child id="Guild" />
+			<child id="Mail" />
+			<child id="Commuty" />
+		</menu>
+		<menu col="4" id="Design" row="0" />
+		<menu col="5" id="Option" row="0" />
+		<menu col="5" id="MeratMarket" feature="MeratMarket" locale="NA" row="1" />
+		<menu id="MushkingRoyal" row="2" col="1" feature="SurvivalContents03" />
+		<menu col="5" id="MeratCharge" row="2" locale="NA" />
+	</menuSet>
+	<menuSet type="mushkingRoyalPad" feature="SurvivalContents03">
+		<menu id="GamePad_SystemGroup" col="0" row="0">
+			<child id="CharacterSelect" />
+			<child id="GameExit" />
+			<child id="Option" />
+		</menu>
+		<menu id="GamePad_CharacterGroup" col="1" row="0">
+			<child id="Pet" feature="PetBase" onlyRPG="1" />
+			<child id="AttendGift" filterType="attendGift" onlyRPG="1" />
+			<child id="AdventureLevel" feature="AdventureLevel" onlyRPG="1" />
+			<child id="CompactKey" onlyRPG="1" />
+			<child id="Skill" onlyRPG="1" />
+			<child id="Inventory" />
+			<child id="Character" />
+		</menu>
+		<menu id="GamePad_ContentsGroup" col="2" row="0">
+			<child id="LevelUpPackage" filterType="eventID" filterValue="110001" locale="KR" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="680001" locale="KR" />
+			<child id="GalleryEvent" filterType="eventID" filterValue="681001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="CN" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700005" locale="KR" />
+			<child id="TimeRunEvent" filterType="eventID" filterValue="700001" locale="NA" onlyRPG="1" />
+			<child id="StampEvent" filterType="eventID" filterValue="490006" locale="KR" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="KR" />
+			<child id="Rps" filterType="eventID" filterValue="900100" locale="CN" />
+			<child id="CoupleDanceEvent" filterType="eventID" filterValue="920107" locale="KR" />
+			<child id="Dictionary" feature="GameDictionary" onlyRPG="1" />
+			<child id="IndividualBattle" feature="PvPRankingDuelMode" onlyRPG="1" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="KR" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="NA" />
+			<child id="SurvivalMap" feature="SurvivalContents01" locale="CN" />
+			<child id="Arcade" onlyRPG="1" />
+			<child id="Achieve" />
+			<child id="DungeonSearch" onlyRPG="1" />
+			<child id="DailyMission" feature="DailyMission" onlyRPG="1" />
+			<child id="Quest" onlyRPG="1" />
+			<child id="WorldMap" onlyRPG="1" />
+		</menu>
+		<menu col="3" id="GamePad_GameGroup" row="0">
+			<child id="Design" />
+			<child id="BeautyItem" />
+			<child id="BeautySkin" />
+			<child id="BeautyHair" />
+			<child id="LearningQuest" onlyRPG="1" />
+			<child id="LevelUp" onlyRPG="1" />
+			<child id="BlackMarket" onlyRPG="1" />
+			<child id="Mastery" onlyRPG="1" />
+		</menu>
+		<menu id="GamePad_CommunityGroup" col="4" row="0">
+			<child id="LiveBroadCast" locale="CN" />
+			<child id="Ranking" feature="InGameRank" />
+			<child id="Club" feature="Club" />
+			<child id="PartySearch" onlyRPG="1" />
+			<child id="Guild" />
+			<child id="Mail" />
+			<child id="Commuty" />
+		</menu>
+		<menu id="GamePad_MarketGroup" col="5" feature="MeratMarket" row="0">
+			<child id="MeratMarket" feature="MeratMarket" />
+			<child id="MeratCharge" locale="NA" />
+		</menu>
+		<menu id="MushkingRoyal" row="0" col="6" feature="SurvivalContents03" />
+	</menuSet>
+</ms2>

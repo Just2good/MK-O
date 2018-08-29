@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<basic friendly="1" stringTag="" />
+	<slots>
+		<slot name="HR">
+			<asset name="Data/Resource/Model/Item/0/02/10200221_F_FreeConcept008_A.nif" selfnode="HR" targetnode="HR" attachnode="" pony="0" zalign="0" replace="1" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="0">
+				<physx action="" />
+			</asset>
+			<asset name="urn:gamebryo-animation:urn:gamebryo-animation:urn:gamebryo-animation:urn:gamebryo-animation:urn:10200221_F_FreeConcept008_P2" selfnode="Point01" targetnode="Bip01 Head" attachnode="" pony="1" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="180">
+				<custom icon="./Data/Resource/Image/Item/icon/customize/position/10200221_1.png" position="46.47,0.67,-22.73" rotation="-33.77,-47.15,-162.30" />
+				<custom icon="./Data/Resource/Image/Item/icon/customize/position/10200221_2.png" position="38.85,-1.24,-25.15" rotation="-50.90,-59.42,-128.32" />
+				<custom icon="./Data/Resource/Image/Item/icon/customize/position/10200221_3.png" position="26.37,-1.84,-25.17" rotation="-121.19,-63.76,-64.76"/>
+				<jointangle name="UConstraint01" soft="0.10" posz="-90.00" zero="0.00" negz="0.00"/>
+				<jointangle name="UConstraint02" soft="0.30" posz="-90.00" zero="-90.00" negz="0.00"/>
+				<jointangle name="UConstraint03" soft="0.20" posz="-81.00" zero="-90.00" negz="0.00"/>
+				<physx action="" />
+			</asset>
+			<asset name="urn:gamebryo-animation:urn:gamebryo-animation:urn:gamebryo-animation:urn:gamebryo-animation:urn:10200221_F_FreeConcept008_P" selfnode="Point01" targetnode="Bip01 Head" attachnode="" pony="1" zalign="0" replace="0" earfold="0" ani="0" emotionhide="0" gender="2" capscale="1" weapon="0" placeable="180">
+				<custom icon="" position="45.67,0.66,22.72" rotation="160.18,-45.01,21.09" />
+				<custom icon="" position="38.59,-4.20,26.08" rotation="-133.07,-59.76,-45.49" />
+				<custom icon="" position="25.79,-4.27,26.12" rotation="-80.09,-68.52,-94.15"/>
+				<jointangle name="UConstraint01" soft="0.10" posz="-90.00" zero="0.00" negz="0.00"/>
+				<jointangle name="UConstraint02" soft="0.30" posz="-90.00" zero="-90.00" negz="0.00"/>
+				<jointangle name="UConstraint03" soft="0.20" posz="-81.00" zero="-90.00" negz="0.00"/>
+				<physx action="" />
+			</asset>
+			<scale value="1.000000" min="0.8" max="1" reverse="0" />
+			<decal />
+		</slot>
+	</slots>
+	<customize colorPalette="2" color="1" colordetail="1" ch0="1" ch1="0" ch2="1" defaultColorIndex="-1">
+		<HR scale="1" pony="1" />
+		<FD translation="0" rotation="0" scale="0" />
+		<CP xrotation="0" yrotation="0" zrotation="0" scale="0" attach="0">
+			<transform position="58.023682, 1.242188, -0.052364" rotation="1.392804, -1.386483, -1.408631" scale="1" />
+		</CP>
+	</customize>
+</ms2>

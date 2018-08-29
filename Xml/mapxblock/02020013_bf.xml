@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<fog color="142,108,125" near="0" far="9000" />
+	<heightfog color="175,150,210" upper="1200" lower="301" percentage="100" />
+	<clientProperty bgDay="BG_Perion_C.dds" />
+	<minimap>
+		<frustum left="-10197.7" right="10197.7" top="6373.54" bottom="-6373.54" near="10" far="100000" ortho="true" />
+		<screen left="0" right="1680" top="0" bottom="1050" />
+		<image left="372.95" right="1396.95" top="9" bottom="1033" name="./Data/Resource/Image/Map/Minimap/02020013.dds" icon="" />
+		<camera position="-6191.642090, -7922.411133, 14902.082031" rotation="90.000000, 45.000000, -45.000000" />
+		<edit zoomfactor="6.07004" />
+	</minimap>
+</ms2>

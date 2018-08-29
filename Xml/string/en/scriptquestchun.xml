@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0105153412001487" feature="" npc="트리스탄" name="The $item:30000419$ of $npcName:23190005[gender:0]$ himself... There&apos;s definitely something ominous about this blood." />
+	<key id="0105153412001488" feature="" npc="트리스탄" name="After touching it for just a moment, I felt my vitality drain away. They say that $npcName:23190005[gender:0]$ devoured the life force of anything that came near him..." />
+	<key id="0105153412001489" feature="" npc="트리스탄" name="This isn&apos;t exactly something you should keep in your pocket. I will be returning to the $map:2000173$ for now. Find me when you get there and we can discuss this in greater detail." />
+	<key id="0105153412001490" feature="" npc="트리스탄" name="This isn&apos;t exactly something you should keep in your pocket. I will be returning to the $map:2000173$ for now. Find me when you get there and we can discuss this in greater detail." />
+	<key id="0105153412001491" feature="" npc="트리스탄" name="So, tell me. Did you notice anything strange about the $item:30000419$?" />
+	<key id="0105153412001492" feature="" npc="pc" name='Define &quot;strange.&quot;' />
+	<key id="0105153412001493" feature="" npc="트리스탄" name="Did you feel any weakness? Sudden bouts of despair? Terror at the horrors that will doubtless befall you?" />
+	<key id="0105153412001494" feature="" npc="pc" name="Well, &lt;i&gt;now&lt;/i&gt; I do!" />
+	<key id="0105153412001495" feature="" npc="트리스탄" name="Just as I expected! When I saw the $item:30000419$, I felt indescribable dread in the very pit of my stomach. But there&apos;s something more to it. Something beneath the evil..." />
+	<key id="0105153412001496" feature="" npc="pc" name="Can you be a little more precise?" />
+	<key id="0105153412001497" feature="" npc="트리스탄" name="I wish I could. All I can tell you is that this $item:30000419$ isn&apos;t normal." />
+	<key id="0105153412001498" feature="" npc="트리스탄" name="This is all beyond my area of expertise, you see. I can speculate, if you really want me to, but if you want answers, then... I&apos;m going to have to refer you to someone else." />
+	<key id="0105153412001499" feature="" npc="pc" name="Who should I ask for advice?" />
+	<key id="0105153412001500" feature="" npc="트리스탄" name="I haven&apos;t met him personally, but there&apos;s one of the fairfolk who&apos;s made a name for himself in the field of life magic. I believe he may be able to solve the mysteries of this $item:30000419$." />
+	<key id="0105153412001501" feature="" npc="pc" name="Where can I find that fairfolk?" />
+	<key id="0105153412001502" feature="" npc="트리스탄" name="$map:2000023$ is a place of wise men and sages. I&apos;m certain you will be able to find $npcName:11001210[gender:0]$ there." />
+	<key id="0105153412001503" feature="" npc="트리스탄" name="I thought you&apos;d be in more of a hurry to see $npcName:11001210[gender:0]$. I wouldn&apos;t hold onto that blood any longer than you have to." />
+	<key id="0105153412001504" feature="" npc="리라이프" name="I sense a vile presence. What have you brought me?" />
+	<key id="0105153412001505" feature="" npc="pc" name="(Show him the $item:30000419$.)" />
+	<key id="0105153412001506" feature="" npc="리라이프" name="$item:30000419$...? Is this the evil presence I detected?" />
+	<key id="0105153412001507" feature="" npc="pc" name="This is the blood of $npcName:23190005[gender:0]$." />
+	<key id="0105153412001508" feature="" npc="리라이프" name="Incredible... All life must return to nature. That is the law of mortality that binds us all. But somehow this blood exists in defiance of that law..." />
+	<key id="0105153412001509" feature="" npc="리라이프" name="Eternal life that rejects the laws of mortality...? No. No, there&apos;s something very wrong with this..." />
+	<key id="0105153412001510" feature="" npc="pc" name="You don&apos;t say." />
+	<key id="0105153412001511" feature="" npc="리라이프" name="I am beginning to understand. The $item:30000419$ is infused with the life force of many different creatures. Somehow, that&apos;s allowing it to resist the laws of nature and mortality." />
+	<key id="0105153412001512" feature="" npc="리라이프" name="But that&apos;s not all. There is also an intense malice in the very core of the blood. Enough malice to shatter a normal human mind." />
+	<key id="0105153412001513" feature="" npc="리라이프" name="But there&apos;s... there&apos;s something else, buried even deeper. It&apos;s barely perceptible, but it&apos;s powerful. Frighteningly powerful..." />
+	<key id="0105153412001514" feature="" npc="리라이프" name="May I hold onto this for a moment? The power at the very core of the blood is powerful, but I sense no evil in it. If I can purify this blood of its malice, we may be able to learn the nature of this power." />
+	<key id="0105153412001515" feature="" npc="리라이프" name="May I hold onto this for a moment? The power at the very core of the blood is powerful, but I sense no evil in it. If I can purify this blood of its malice, we may be able to learn the nature of this power." />
+	<key id="0105153412001516" feature="" npc="리라이프" name="May I attempt to purify the $item:30000420$?" />
+	<key id="0105153412001517" feature="" npc="pc" name="(Hand the $item:30000420$ to him.)" />
+	<key id="0105153412001518" feature="" npc="리라이프" name="It is said that $npcName:23190005[gender:0]$ never stops beating. I can certainly see why. The $item:30000420$ within this blood is what powers it..." />
+	<key id="0105153412001519" feature="" npc="pc" name="So the source of his power... isn&apos;t evil?" />
+	<key id="0105153412001520" feature="" npc="리라이프" name="That&apos;s right. Even in this small particle of $item:30000420$, I see a wonder I&apos;ve never before encountered." />
+	<key id="0105153412001521" feature="" npc="리라이프" name="If one were to gather enough of these fragments, to merge them into a complete form... Well, anything could happen. You may have the $item:30000420$ now." />
+	<key id="0105153412001522" feature="" npc="리라이프" name="One concern I should warn you about. This $item:30000420$ is but a fragment. But were you to perfect it, it would become a whirling source of endless magic. It would be powerful, yes, but it would break the laws of nature. Would that make it good... or evil?" />
+	<key id="0105153412001523" feature="" npc="pc" name="What matters is how it&apos;s used." />
+	<key id="0105153412001524" feature="" npc="리라이프" name="Hmm... When a new life is born, an old life returns to the earth. This is the balance of nature. Something like $item:30000420$, which only creates power and never consumes it... That would be like a world of birth without death. Such a thing cannot be sustained." />
+	<key id="0105153412001525" feature="" npc="리라이프" name="Excess leads to imbalance. An ever-expanding power may be useful at first, but it could well go out of control and consume us all." />
+	<key id="0105153412001526" feature="" npc="pc" name="So there&apos;s no way to safely use it?" />
+	<key id="0105153412001527" feature="" npc="리라이프" name="I don&apos;t think... Wait. Yes, perhaps Harcha could do it..." />
+	<key id="0105153412001528" feature="" npc="pc" name="Harcha who?" />
+	<key id="0105153412001529" feature="" npc="리라이프" name="He is a blacksmith at $map:2000203$. A friend of mine. I met him while I was researching the possibility of life regeneration through mineral... That is neither here nor there. His family has a special smithing technique that is of particular interest to us. " />
+	<key id="0105153412001530" feature="" npc="pc" name="I&apos;m listening." />
+	<key id="0105153412001531" feature="" npc="리라이프" name="He said he was studying to use this technique to imbue a weapon with potent magic. Magic more powerful than anything the enchanters of the day had. The secret was balance... His ancestors had a method of balancing powerful magic so that it wouldn&apos;t run rampant." />
+	<key id="0105153412001532" feature="" npc="pc" name="We could use that balance to control this power!" />
+	<key id="0105153412001533" feature="" npc="리라이프" name="Presumably we could, but he hadn&apos;t yet perfected the technique when I last spoke to him. It seems there was a certain mineral that he couldn&apos;t find anywhere." />
+	<key id="0105153412001534" feature="" npc="리라이프" name="That was some time ago. Maybe he&apos;s figured it out by now. Either way, I believe Harcha is your best bet at turning the $item:30000420$ to a useful purpose. Why don&apos;t you seek him out at $map:2000203$?" />
+	<key id="0105153412001535" feature="" npc="리라이프" name="I believe Harcha is your best bet at turning the $item:30000420$ to a useful purpose. Why don&apos;t you seek him out at $map:2000203$?" />
+	<key id="0105153412001536" feature="" npc="베르챠" name="Sorry. I don&apos;t do custom orders." />
+	<key id="0105153412001537" feature="" npc="pc" name="Do you know where I can find Harcha?" />
+	<key id="0105153412001538" feature="" npc="베르챠" name="Do I? Harcha was my great-granddad!" />
+	<key id="0105153412001539" feature="" npc="베르챠" name="I wonder why someone&apos;d send you to find Harcha. It&apos;s been decades since he quit smithing..." />
+	<key id="0105153412001540" feature="" npc="pc" name="Did he ever figure out how to balance magic in a weapon?" />
+	<key id="0105153412001541" feature="" npc="베르챠" name="Not many people knew about his research. He had theories, but the old man never did manage to make such a weapon. I&apos;ve got some ideas of my own, and I even have some leads..." />
+	<key id="0105153412001542" feature="" npc="pc" name="Such as...?" />
+	<key id="0105153412001543" feature="" npc="베르챠" name="There&apos;s a mineral called $item:30000421$ that&apos;s supposedly sops up unstable magic like a sponge. I hear they use it to clean curses off the land and such. " />
+	<key id="0105153412001544" feature="" npc="베르챠" name="If I had some of that, I bet I could finish my great-grandad&apos;s work." />
+	<key id="0105153412001545" feature="" npc="베르챠" name="Problem is, you can&apos;t get it anywhere in Victoria Island. There just aren&apos;t any deposits here. And even if I did have it, $item:30000421$ is just the stabilizing agent. Without a source of power to stabilize, it&apos;s not much good." />
+	<key id="0105153412001546" feature="" npc="pc" name="(Show him the infinite essence.)" />
+	<key id="0105153412001547" feature="" npc="베르챠" name="Wh-what is that...?" />
+	<key id="0105153412001548" feature="" npc="pc" name="It&apos;s the purified blood of $npcName:23190005[gender:0]$." />
+	<key id="0105153412001549" feature="" npc="베르챠" name="$npcName:23190005[gender:0]$?! W-wow! Yes, this&apos;ll... this&apos;ll do the trick!" />
+	<key id="0105153412001550" feature="" npc="베르챠" name="Wherever you got that, we need more. And the $item:30000421$, too. I need enough of both to refine and recombine into a stable form... No... No, it couldn&apos;t work, could it?" />
+	<key id="0105153412001551" feature="" npc="pc" name="What&apos;s the problem?" />
+	<key id="0105153412001552" feature="" npc="베르챠" name="Huh? Oh, right. So, I have good news... and twice as much bad news. What do you want first?" />
+	<key id="0105153412001553" feature="" npc="pc" name="Good news first." />
+	<key id="0105153412001554" feature="" npc="pc" name="Let&apos;s get the bad news out of the way." />
+	<key id="0105153412001555" feature="" npc="베르챠" name="The good news is that the power of the $item:30000420$ should be compatible with $item:30000421$. Together, they&apos;ll make a weapon unlike anything Maple World has ever seen." />
+	<key id="0105153412001556" feature="" npc="pc" name="And the bad news?" />
+	<key id="0105153412001557" feature="" npc="pc" name="What&apos;s our next step?" />
+	<key id="0105153412001558" feature="" npc="베르챠" name="First, the $item:30000420$ you brought me is impressive... but it&apos;s just one fragment. We&apos;ll need more if we want to show its true power." />
+	<key id="0105153412001559" feature="" npc="베르챠" name="Second, remember how I said you can&apos;t get $item:30000421$ anywhere in Victoria Island? Without that ore, we&apos;re dead in the water. Unless the Allicari brought some with them from across the sea, but what are the odds of that?" />
+	<key id="0105153412001560" feature="" npc="베르챠" name="Is it possible they did bring some? No, no, I&apos;m just getting my hopes up at this point. There&apos;s no way we&apos;ll get our hands on any $item:30000421$..." />
+	<key id="0105153412001561" feature="" npc="pc" name="What&apos;s the good news?" />
+	<key id="0105153412001562" feature="" npc="pc" name="What&apos;s our next step?" />
+	<key id="0105153412001563" feature="" npc="베르챠" name="I&apos;m glad your eager, but don&apos;t get your hopes up! First, I need more $itemPlural:30000420$. There&apos;s no point in doing this in half-steps. We want a weapon that will go down in legend." />
+	<key id="0105153412001564" feature="" npc="베르챠" name="Then, we need to get our hands on $item:30000421$ somehow. The Allicari merchants in $map:2000064$ might have some, but that&apos;s a long shot. " />
+	<key id="0105153412001565" feature="" npc="베르챠" name="If, against all odds, you can get the materials I need, I&apos;ll take care of the rest." />
+	<key id="0105153412001566" feature="" npc="베르챠" name="Once again, I need two materials. First, I need more $itemPlural:30000420$. There&apos;s no point in doing this in half-steps. We want a weapon that will go down in legend." />
+	<key id="0105153412001567" feature="" npc="베르챠" name="Then, we need to get our hands on $item:30000421$ somehow. The Allicari merchants in $map:2000064$ might have some, but that&apos;s a long shot." />
+	<key id="0105153412001568" feature="" npc="베르챠" name="If, against all odds, you can get the materials I need, I&apos;ll take care of the rest." />
+	<key id="0105153412001569" feature="" npc="베르챠" name="You actually did it! Well... Luckily for you, I already prepared a weapon mold. Give me some time to synthesize the materials you brought me..." />
+	<key id="0105153412001570" feature="" npc="pc" name="(Wait several moments.)" />
+	<key id="0105153412001571" feature="" npc="베르챠" name='&lt;font color=&quot;#909090&quot;&gt;($npcName:11001211[gender:0]$ is deep in concentration.)&lt;/font&gt;' />
+	<key id="0105153412001572" feature="" npc="pc" name="(Wait several more moments.)" />
+	<key id="0105153412001573" feature="" npc="베르챠" name='&lt;font color=&quot;#909090&quot;&gt;(He&apos;s concentrating harder than you&apos;ve ever seen anyone concentrate before. It&apos;s making you a little uncomfortable.)&lt;/font&gt;' />
+	<key id="0105153412001574" feature="" npc="pc" name="(Wait a whole heap of moments.)" />
+	<key id="0105153412001575" feature="" npc="베르챠" name="N-no... I infused the weapon with the $itemPlural:30000420$ and $item:30000421$, but something went wrong. Some sort of dark magic flared up from within the essences. I&apos;m sorry..." />
+	<key id="0105153412001576" feature="" npc="pc" name="The weapon&apos;s a bust, then?" />
+	<key id="0105153412001577" feature="" npc="베르챠" name="It&apos;s as powerful as they come, but it&apos;s basically cursed. It&apos;s not safe to use in this state." />
+	<key id="0105153412001578" feature="" npc="베르챠" name="I&apos;ve shamed my great-granddad. No matter what it takes, I swear I&apos;ll find a way to make this weapon usable!" />
+	<key id="0105153412001579" feature="" npc="올슨" name="SCRIPTQUESTCHUN_0105153412001579_NAME" />
+	<key id="0105153412001580" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001580_NAME" />
+	<key id="0105153412001581" feature="" npc="올슨" name="SCRIPTQUESTCHUN_0105153412001581_NAME" />
+	<key id="0105153412001582" feature="" npc="올슨" name="SCRIPTQUESTCHUN_0105153412001582_NAME" />
+	<key id="0105153412001583" feature="" npc="올슨" name="SCRIPTQUESTCHUN_0105153412001583_NAME" />
+	<key id="0105153412001584" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001584_NAME" />
+	<key id="0105153412001585" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001585_NAME" />
+	<key id="0105153412001586" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001586_NAME" />
+	<key id="0105153412001587" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001587_NAME" />
+	<key id="0105153412001588" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001588_NAME" />
+	<key id="0105153412001589" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001589_NAME" />
+	<key id="0105153412001590" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001590_NAME" />
+	<key id="0105153412001591" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001591_NAME" />
+	<key id="0105153412001592" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001592_NAME" />
+	<key id="0105153412001593" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001593_NAME" />
+	<key id="0105153412001594" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001594_NAME" />
+	<key id="0105153412001595" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001595_NAME" />
+	<key id="0105153412001596" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001596_NAME" />
+	<key id="0105153412001597" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001597_NAME" />
+	<key id="0105153412001598" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001598_NAME" />
+	<key id="0105153412001599" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001599_NAME" />
+	<key id="0105153412001600" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001600_NAME" />
+	<key id="0105153412001601" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001601_NAME" />
+	<key id="0105153412001602" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001602_NAME" />
+	<key id="0105153412001603" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001603_NAME" />
+	<key id="0105153412001604" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001604_NAME" />
+	<key id="0105153412001605" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001605_NAME" />
+	<key id="0105153412001606" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001606_NAME" />
+	<key id="0105153412001607" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001607_NAME" />
+	<key id="0105153412001608" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001608_NAME" />
+	<key id="0105153412001609" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001609_NAME" />
+	<key id="0105153412001610" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001610_NAME" />
+	<key id="0105153412001611" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001611_NAME" />
+	<key id="0105153412001612" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001612_NAME" />
+	<key id="0105153412001613" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001613_NAME" />
+	<key id="0105153412001614" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001614_NAME" />
+	<key id="0105153412001615" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001615_NAME" />
+	<key id="0105153412001616" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001616_NAME" />
+	<key id="0105153412001617" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001617_NAME" />
+	<key id="0105153412001618" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001618_NAME" />
+	<key id="0105153412001619" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001619_NAME" />
+	<key id="0105153412001620" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001620_NAME" />
+	<key id="0105153412001621" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001621_NAME" />
+	<key id="0105153412001622" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001622_NAME" />
+	<key id="0105153412001623" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001623_NAME" />
+	<key id="0105153412001624" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001624_NAME" />
+	<key id="0105153412001625" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001625_NAME" />
+	<key id="0105153412001626" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001626_NAME" />
+	<key id="0105153412001627" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001627_NAME" />
+	<key id="0105153412001628" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001628_NAME" />
+	<key id="0105153412001629" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001629_NAME" />
+	<key id="0105153412001630" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001630_NAME" />
+	<key id="0105153412001631" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001631_NAME" />
+	<key id="0105153412001632" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001632_NAME" />
+	<key id="0105153412001633" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001633_NAME" />
+	<key id="0105153412001634" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001634_NAME" />
+	<key id="0105153412001635" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001635_NAME" />
+	<key id="0105153412001636" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001636_NAME" />
+	<key id="0105153412001637" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001637_NAME" />
+	<key id="0105153412001638" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001638_NAME" />
+	<key id="0105153412001639" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001639_NAME" />
+	<key id="0105153412001640" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001640_NAME" />
+	<key id="0105153412001641" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001641_NAME" />
+	<key id="0105153412001642" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001642_NAME" />
+	<key id="0105153412001643" feature="" npc="클랜드" name="SCRIPTQUESTCHUN_0105153412001643_NAME" />
+	<key id="0105153412001644" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001644_NAME" />
+	<key id="0105153412001645" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001645_NAME" />
+	<key id="0105153412001646" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001646_NAME" />
+	<key id="0105153412001647" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001647_NAME" />
+	<key id="0105153412001648" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001648_NAME" />
+	<key id="0105153412001649" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001649_NAME" />
+	<key id="0105153412001650" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001650_NAME" />
+	<key id="0105153412001651" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001651_NAME" />
+	<key id="0105153412001652" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001652_NAME" />
+	<key id="0105153412001653" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001653_NAME" />
+	<key id="0105153412001654" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001654_NAME" />
+	<key id="0105153412001655" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001655_NAME" />
+	<key id="0105153412001656" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001656_NAME" />
+	<key id="0105153412001657" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001657_NAME" />
+	<key id="0105153412001658" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001658_NAME" />
+	<key id="0105153412001659" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001659_NAME" />
+	<key id="0105153412001660" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001660_NAME" />
+	<key id="0105153412001661" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001661_NAME" />
+	<key id="0105153412001662" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001662_NAME" />
+	<key id="0105153412001663" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001663_NAME" />
+	<key id="0105153412001664" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001664_NAME" />
+	<key id="0105153412001665" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001665_NAME" />
+	<key id="0105153412001666" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001666_NAME" />
+	<key id="0105153412001667" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001667_NAME" />
+	<key id="0105153412001668" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001668_NAME" />
+	<key id="0105153412001669" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001669_NAME" />
+	<key id="0105153412001670" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001670_NAME" />
+	<key id="0105153412001671" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001671_NAME" />
+	<key id="0105153412001672" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001672_NAME" />
+	<key id="0105153412001673" feature="" npc="루카치" name="SCRIPTQUESTCHUN_0105153412001673_NAME" />
+	<key id="0105153412001674" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001674_NAME" />
+	<key id="0105153412001675" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001675_NAME" />
+	<key id="0105153412001676" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001676_NAME" />
+	<key id="0105153412001677" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001677_NAME" />
+	<key id="0105153412001678" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001678_NAME" />
+	<key id="0105153412001679" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001679_NAME" />
+	<key id="0105153412001680" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001680_NAME" />
+	<key id="0105153412001681" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001681_NAME" />
+	<key id="0105153412001682" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001682_NAME" />
+	<key id="0105153412001683" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001683_NAME" />
+	<key id="0105153412001684" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001684_NAME" />
+	<key id="0105153412001685" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001685_NAME" />
+	<key id="0105153412001686" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001686_NAME" />
+	<key id="0105153412001687" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001687_NAME" />
+	<key id="0105153412001688" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001688_NAME" />
+	<key id="0105153412001689" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001689_NAME" />
+	<key id="0105153412001690" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001690_NAME" />
+	<key id="0105153412001691" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001691_NAME" />
+	<key id="0105153412001692" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001692_NAME" />
+	<key id="0105153412001693" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001693_NAME" />
+	<key id="0105153412001694" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001694_NAME" />
+	<key id="0105153412001695" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001695_NAME" />
+	<key id="0105153412001696" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001696_NAME" />
+	<key id="0105153412001697" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001697_NAME" />
+	<key id="0105153412001698" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001698_NAME" />
+	<key id="0105153412001699" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001699_NAME" />
+	<key id="0105153412001700" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001700_NAME" />
+	<key id="0105153412001701" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001701_NAME" />
+	<key id="0105153412001702" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001702_NAME" />
+	<key id="0105153412001703" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001703_NAME" />
+	<key id="0105153412001704" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001704_NAME" />
+	<key id="0105153412001705" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001705_NAME" />
+	<key id="0105153412001706" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001706_NAME" />
+	<key id="0105153412001707" feature="" npc="리퍼트" name="SCRIPTQUESTCHUN_0105153412001707_NAME" />
+	<key id="0105153412001708" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001708_NAME" />
+	<key id="0105153412001709" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001709_NAME" />
+	<key id="0105153412001710" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001710_NAME" />
+	<key id="0105153412001711" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001711_NAME" />
+	<key id="0105153412001712" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001712_NAME" />
+	<key id="0105153412001713" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001713_NAME" />
+	<key id="0105153412001714" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001714_NAME" />
+	<key id="0105153412001715" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001715_NAME" />
+	<key id="0105153412001716" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001716_NAME" />
+	<key id="0105153412001717" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001717_NAME" />
+	<key id="0105153412001718" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001718_NAME" />
+	<key id="0105153412001719" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001719_NAME" />
+	<key id="0105153412001720" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001720_NAME" />
+	<key id="0105153412001721" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001721_NAME" />
+	<key id="0105153412001722" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001722_NAME" />
+	<key id="0105153412001723" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001723_NAME" />
+	<key id="0105153412001724" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001724_NAME" />
+	<key id="0105153412001725" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001725_NAME" />
+	<key id="0105153412001726" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001726_NAME" />
+	<key id="0105153412001727" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001727_NAME" />
+	<key id="0105153412001728" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001728_NAME" />
+	<key id="0105153412001729" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001729_NAME" />
+	<key id="0105153412001730" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001730_NAME" />
+	<key id="0105153412001731" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001731_NAME" />
+	<key id="0105153412001732" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001732_NAME" />
+	<key id="0105153412001733" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001733_NAME" />
+	<key id="0105153412001734" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001734_NAME" />
+	<key id="0105153412001735" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001735_NAME" />
+	<key id="0105153412001736" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001736_NAME" />
+	<key id="0105153412001737" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001737_NAME" />
+	<key id="0105153412001738" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001738_NAME" />
+	<key id="0105153412001739" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001739_NAME" />
+	<key id="0105153412001740" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001740_NAME" />
+	<key id="0105153412001741" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001741_NAME" />
+	<key id="0105153412001742" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001742_NAME" />
+	<key id="0105153412001743" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001743_NAME" />
+	<key id="0105153412001744" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001744_NAME" />
+	<key id="0105153412001745" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001745_NAME" />
+	<key id="0105153412001746" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001746_NAME" />
+	<key id="0105153412001747" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001747_NAME" />
+	<key id="0105153412001748" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001748_NAME" />
+	<key id="0105153412001749" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001749_NAME" />
+	<key id="0105153412001750" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001750_NAME" />
+	<key id="0105153412001751" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001751_NAME" />
+	<key id="0105153412001752" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001752_NAME" />
+	<key id="0105153412001753" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001753_NAME" />
+	<key id="0105153412001754" feature="" npc="죄수번호 170123" name="SCRIPTQUESTCHUN_0105153412001754_NAME" />
+	<key id="0105153412001755" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001755_NAME" />
+	<key id="0105153412001756" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001756_NAME" />
+	<key id="0105153412001757" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001757_NAME" />
+	<key id="0105153412001758" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001758_NAME" />
+	<key id="0105153412001759" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001759_NAME" />
+	<key id="0105153412001760" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001760_NAME" />
+	<key id="0105153412001761" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001761_NAME" />
+	<key id="0105153412001762" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001762_NAME" />
+	<key id="0105153412001763" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001763_NAME" />
+	<key id="0105153412001764" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001764_NAME" />
+	<key id="0105153412001765" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001765_NAME" />
+	<key id="0105153412001766" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001766_NAME" />
+	<key id="0105153412001767" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001767_NAME" />
+	<key id="0105153412001768" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001768_NAME" />
+	<key id="0105153412001769" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001769_NAME" />
+	<key id="0105153412001770" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001770_NAME" />
+	<key id="0105153412001771" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001771_NAME" />
+	<key id="0105153412001772" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001772_NAME" />
+	<key id="0105153412001773" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001773_NAME" />
+	<key id="0105153412001774" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001774_NAME" />
+	<key id="0105153412001775" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001775_NAME" />
+	<key id="0105153412001776" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001776_NAME" />
+	<key id="0105153412001777" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001777_NAME" />
+	<key id="0105153412001778" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001778_NAME" />
+	<key id="0105153412001779" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001779_NAME" />
+	<key id="0105153412001780" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001780_NAME" />
+	<key id="0105153412001781" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001781_NAME" />
+	<key id="0105153412001782" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001782_NAME" />
+	<key id="0105153412001783" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001783_NAME" />
+	<key id="0105153412001784" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001784_NAME" />
+	<key id="0105153412001785" feature="" npc="앤" name="SCRIPTQUESTCHUN_0105153412001785_NAME" />
+	<key id="0105153412001786" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001786_NAME" />
+	<key id="0105153412001787" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001787_NAME" />
+	<key id="0105153412001788" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001788_NAME" />
+	<key id="0105153412001789" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001789_NAME" />
+	<key id="0105153412001790" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001790_NAME" />
+	<key id="0105153412001791" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001791_NAME" />
+	<key id="0105153412001792" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001792_NAME" />
+	<key id="0105153412001793" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001793_NAME" />
+	<key id="0105153412001794" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001794_NAME" />
+	<key id="0105153412001795" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001795_NAME" />
+	<key id="0105153412001796" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001796_NAME" />
+	<key id="0105153412001797" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001797_NAME" />
+	<key id="0105153412001798" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001798_NAME" />
+	<key id="0105153412001799" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001799_NAME" />
+	<key id="0105153412001800" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001800_NAME" />
+	<key id="0105153412001801" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001801_NAME" />
+	<key id="0105153412001802" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001802_NAME" />
+	<key id="0105153412001803" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001803_NAME" />
+	<key id="0105153412001804" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001804_NAME" />
+	<key id="0105153412001805" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001805_NAME" />
+	<key id="0105153412001806" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001806_NAME" />
+	<key id="0105153412001807" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001807_NAME" />
+	<key id="0105153412001808" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001808_NAME" />
+	<key id="0105153412001809" feature="" npc="추격대원" name="SCRIPTQUESTCHUN_0105153412001809_NAME" />
+	<key id="0105153412001810" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001810_NAME" />
+	<key id="0105153412001811" feature="" npc="추격대원" name="SCRIPTQUESTCHUN_0105153412001811_NAME" />
+	<key id="0105153412001812" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001812_NAME" />
+	<key id="0105153412001813" feature="" npc="추격대원" name="SCRIPTQUESTCHUN_0105153412001813_NAME" />
+	<key id="0105153412001814" feature="" npc="추격대원" name="SCRIPTQUESTCHUN_0105153412001814_NAME" />
+	<key id="0105153412001815" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001815_NAME" />
+	<key id="0105153412001816" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001816_NAME" />
+	<key id="0105153412001817" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001817_NAME" />
+	<key id="0105153412001818" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001818_NAME" />
+	<key id="0105153412001819" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001819_NAME" />
+	<key id="0105153412001820" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001820_NAME" />
+	<key id="0105153412001821" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001821_NAME" />
+	<key id="0105153412001822" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001822_NAME" />
+	<key id="0105153412001823" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001823_NAME" />
+	<key id="0105153412001824" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001824_NAME" />
+	<key id="0105153412001825" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001825_NAME" />
+	<key id="0105153412001826" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001826_NAME" />
+	<key id="0105153412001827" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001827_NAME" />
+	<key id="0105153412001828" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001828_NAME" />
+	<key id="0105153412001829" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001829_NAME" />
+	<key id="0105153412001830" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001830_NAME" />
+	<key id="0105153412001831" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001831_NAME" />
+	<key id="0105153412001832" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001832_NAME" />
+	<key id="0105153412001833" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001833_NAME" />
+	<key id="0105153412001834" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001834_NAME" />
+	<key id="0105153412001835" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001835_NAME" />
+	<key id="0105153412001836" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001836_NAME" />
+	<key id="0105153412001837" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001837_NAME" />
+	<key id="0105153412001838" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001838_NAME" />
+	<key id="0105153412001839" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001839_NAME" />
+	<key id="0105153412001840" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001840_NAME" />
+	<key id="0105153412001841" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001841_NAME" />
+	<key id="0105153412001842" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001842_NAME" />
+	<key id="0105153412001843" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001843_NAME" />
+	<key id="0105153412001844" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001844_NAME" />
+	<key id="0105153412001845" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001845_NAME" />
+	<key id="0105153412001846" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001846_NAME" />
+	<key id="0105153412001847" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001847_NAME" />
+	<key id="0105153412001848" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001848_NAME" />
+	<key id="0105153412001849" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001849_NAME" />
+	<key id="0105153412001850" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001850_NAME" />
+	<key id="0105153412001851" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001851_NAME" />
+	<key id="0105153412001852" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001852_NAME" />
+	<key id="0105153412001853" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001853_NAME" />
+	<key id="0105153412001854" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001854_NAME" />
+	<key id="0105153412001855" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001855_NAME" />
+	<key id="0105153412001856" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001856_NAME" />
+	<key id="0105153412001857" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001857_NAME" />
+	<key id="0105153412001858" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001858_NAME" />
+	<key id="0105153412001859" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001859_NAME" />
+	<key id="0105153412001860" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001860_NAME" />
+	<key id="0105153412001861" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001861_NAME" />
+	<key id="0105153412001862" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001862_NAME" />
+	<key id="0105153412001863" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001863_NAME" />
+	<key id="0105153412001864" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001864_NAME" />
+	<key id="0105153412001865" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001865_NAME" />
+	<key id="0105153412001866" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001866_NAME" />
+	<key id="0105153412001867" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001867_NAME" />
+	<key id="0105153412001868" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001868_NAME" />
+	<key id="0105153412001869" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001869_NAME" />
+	<key id="0105153412001870" feature="" npc="유페리아" name="SCRIPTQUESTCHUN_0105153412001870_NAME" />
+	<key id="0105153412001871" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001871_NAME" />
+	<key id="0105153412001872" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001872_NAME" />
+	<key id="0105153412001873" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001873_NAME" />
+	<key id="0105153412001874" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001874_NAME" />
+	<key id="0105153412001875" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001875_NAME" />
+	<key id="0105153412001876" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001876_NAME" />
+	<key id="0105153412001877" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001877_NAME" />
+	<key id="0105153412001878" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001878_NAME" />
+	<key id="0105153412001879" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001879_NAME" />
+	<key id="0105153412001880" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001880_NAME" />
+	<key id="0105153412001881" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001881_NAME" />
+	<key id="0105153412001882" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001882_NAME" />
+	<key id="0105153412001883" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001883_NAME" />
+	<key id="0105153412001884" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001884_NAME" />
+	<key id="0105153412001885" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001885_NAME" />
+	<key id="0105153412001886" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001886_NAME" />
+	<key id="0105153412001887" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001887_NAME" />
+	<key id="0105153412001888" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001888_NAME" />
+	<key id="0105153412001889" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001889_NAME" />
+	<key id="0105153412001890" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001890_NAME" />
+	<key id="0105153412001891" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001891_NAME" />
+	<key id="0105153412001892" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001892_NAME" />
+	<key id="0105153412001893" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001893_NAME" />
+	<key id="0105153412001894" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001894_NAME" />
+	<key id="0105153412001895" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001895_NAME" />
+	<key id="0105153412001896" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001896_NAME" />
+	<key id="0105153412001897" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001897_NAME" />
+	<key id="0105153412001898" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001898_NAME" />
+	<key id="0105153412001899" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001899_NAME" />
+	<key id="0105153412001900" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001900_NAME" />
+	<key id="0105153412001901" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001901_NAME" />
+	<key id="0105153412001902" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001902_NAME" />
+	<key id="0105153412001903" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001903_NAME" />
+	<key id="0105153412001904" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001904_NAME" />
+	<key id="0105153412001905" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001905_NAME" />
+	<key id="0105153412001906" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001906_NAME" />
+	<key id="0105153412001907" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001907_NAME" />
+	<key id="0105153412001908" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001908_NAME" />
+	<key id="0105153412001909" feature="" npc="이슈라" name="SCRIPTQUESTCHUN_0105153412001909_NAME" />
+	<key id="0105153412001910" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001910_NAME" />
+	<key id="0105153412001911" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001911_NAME" />
+	<key id="0105153412001912" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001912_NAME" />
+	<key id="0105153412001913" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001913_NAME" />
+	<key id="0105153412001914" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001914_NAME" />
+	<key id="0105153412001915" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001915_NAME" />
+	<key id="0105153412001916" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001916_NAME" />
+	<key id="0105153412001917" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001917_NAME" />
+	<key id="0105153412001918" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001918_NAME" />
+	<key id="0105153412001919" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001919_NAME" />
+	<key id="0105153412001920" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001920_NAME" />
+	<key id="0105153412001921" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001921_NAME" />
+	<key id="0105153412001922" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001922_NAME" />
+	<key id="0105153412001923" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001923_NAME" />
+	<key id="0105153412001924" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001924_NAME" />
+	<key id="0105153412001925" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001925_NAME" />
+	<key id="0105153412001926" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001926_NAME" />
+	<key id="0105153412001927" feature="" npc="브란코" name="SCRIPTQUESTCHUN_0105153412001927_NAME" />
+	<key id="0105153412001928" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001928_NAME" />
+	<key id="0105153412001929" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001929_NAME" />
+	<key id="0105153412001930" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001930_NAME" />
+	<key id="0105153412001931" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001931_NAME" />
+	<key id="0105153412001932" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001932_NAME" />
+	<key id="0105153412001933" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001933_NAME" />
+	<key id="0105153412001934" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001934_NAME" />
+	<key id="0105153412001935" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001935_NAME" />
+	<key id="0105153412001936" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001936_NAME" />
+	<key id="0105153412001937" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001937_NAME" />
+	<key id="0105153412001938" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001938_NAME" />
+	<key id="0105153412001939" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001939_NAME" />
+	<key id="0105153412001940" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001940_NAME" />
+	<key id="0105153412001941" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001941_NAME" />
+	<key id="0105153412001942" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001942_NAME" />
+	<key id="0105153412001943" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001943_NAME" />
+	<key id="0105153412001944" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001944_NAME" />
+	<key id="0105153412001945" feature="" npc="라카포니" name="SCRIPTQUESTCHUN_0105153412001945_NAME" />
+	<key id="0105153412001946" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001946_NAME" />
+	<key id="0105153412001947" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001947_NAME" />
+	<key id="0105153412001948" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001948_NAME" />
+	<key id="0105153412001949" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001949_NAME" />
+	<key id="0105153412001950" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001950_NAME" />
+	<key id="0105153412001951" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001951_NAME" />
+	<key id="0105153412001952" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001952_NAME" />
+	<key id="0105153412001953" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001953_NAME" />
+	<key id="0105153412001954" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001954_NAME" />
+	<key id="0105153412001955" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001955_NAME" />
+	<key id="0105153412001956" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001956_NAME" />
+	<key id="0105153412001957" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001957_NAME" />
+	<key id="0105153412001958" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001958_NAME" />
+	<key id="0105153412001959" feature="" npc="뚜치엘라" name="SCRIPTQUESTCHUN_0105153412001959_NAME" />
+	<key id="0105153412001960" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001960_NAME" />
+	<key id="0105153412001961" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001961_NAME" />
+	<key id="0105153412001962" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001962_NAME" />
+	<key id="0105153412001963" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001963_NAME" />
+	<key id="0105153412001964" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001964_NAME" />
+	<key id="0105153412001965" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001965_NAME" />
+	<key id="0105153412001966" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001966_NAME" />
+	<key id="0105153412001967" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001967_NAME" />
+	<key id="0105153412001968" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001968_NAME" />
+	<key id="0105153412001969" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001969_NAME" />
+	<key id="0105153412001970" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001970_NAME" />
+	<key id="0105153412001971" feature="" npc="보마르" name="SCRIPTQUESTCHUN_0105153412001971_NAME" />
+	<key id="0105153412001972" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001972_NAME" />
+	<key id="0105153412001973" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001973_NAME" />
+	<key id="0105153412001974" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001974_NAME" />
+	<key id="0105153412001975" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001975_NAME" />
+	<key id="0105153412001976" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001976_NAME" />
+	<key id="0105153412001977" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001977_NAME" />
+	<key id="0105153412001978" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001978_NAME" />
+	<key id="0105153412001979" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001979_NAME" />
+	<key id="0105153412001980" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001980_NAME" />
+	<key id="0105153412001981" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001981_NAME" />
+	<key id="0105153412001982" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001982_NAME" />
+	<key id="0105153412001983" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001983_NAME" />
+	<key id="0105153412001984" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001984_NAME" />
+	<key id="0105153412001985" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001985_NAME" />
+	<key id="0105153412001986" feature="" npc="거스트" name="SCRIPTQUESTCHUN_0105153412001986_NAME" />
+	<key id="0105153412001987" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001987_NAME" />
+	<key id="0105153412001988" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001988_NAME" />
+	<key id="0105153412001989" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001989_NAME" />
+	<key id="0105153412001990" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001990_NAME" />
+	<key id="0105153412001991" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001991_NAME" />
+	<key id="0105153412001992" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001992_NAME" />
+	<key id="0105153412001993" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001993_NAME" />
+	<key id="0105153412001994" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001994_NAME" />
+	<key id="0105153412001995" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001995_NAME" />
+	<key id="0105153412001996" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001996_NAME" />
+	<key id="0105153412001997" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001997_NAME" />
+	<key id="0105153412001998" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412001998_NAME" />
+	<key id="0105153412001999" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412001999_NAME" />
+	<key id="0105153412002000" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002000_NAME" />
+	<key id="0105153412002001" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002001_NAME" />
+	<key id="0105153412002002" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002002_NAME" />
+	<key id="0105153412002003" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002003_NAME" />
+	<key id="0105153412002004" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002004_NAME" />
+	<key id="0105153412002005" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002005_NAME" />
+	<key id="0105153412002006" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002006_NAME" />
+	<key id="0105153412002007" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002007_NAME" />
+	<key id="0105153412002008" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002008_NAME" />
+	<key id="0105153412002009" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002009_NAME" />
+	<key id="0105153412002010" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002010_NAME" />
+	<key id="0105153412002011" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002011_NAME" />
+	<key id="0105153412002012" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002012_NAME" />
+	<key id="0105153412002013" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002013_NAME" />
+	<key id="0105153412002014" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002014_NAME" />
+	<key id="0105153412002015" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002015_NAME" />
+	<key id="0105153412002016" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002016_NAME" />
+	<key id="0105153412002017" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002017_NAME" />
+	<key id="0105153412002018" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002018_NAME" />
+	<key id="0105153412002019" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002019_NAME" />
+	<key id="0105153412002020" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002020_NAME" />
+	<key id="0105153412002021" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002021_NAME" />
+	<key id="0105153412002022" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002022_NAME" />
+	<key id="0105153412002023" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002023_NAME" />
+	<key id="0105153412002024" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002024_NAME" />
+	<key id="0105153412002025" feature="" npc="욜" name="SCRIPTQUESTCHUN_0105153412002025_NAME" />
+	<key id="0105153412002026" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002026_NAME" />
+	<key id="0105153412002027" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002027_NAME" />
+	<key id="0105153412002028" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002028_NAME" />
+	<key id="0105153412002029" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002029_NAME" />
+	<key id="0105153412002030" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002030_NAME" />
+	<key id="0105153412002031" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002031_NAME" />
+	<key id="0105153412002032" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002032_NAME" />
+	<key id="0105153412002033" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002033_NAME" />
+	<key id="0105153412002034" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002034_NAME" />
+	<key id="0105153412002035" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002035_NAME" />
+	<key id="0105153412002036" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002036_NAME" />
+	<key id="0105153412002037" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002037_NAME" />
+	<key id="0105153412002038" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002038_NAME" />
+	<key id="0105153412002039" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002039_NAME" />
+	<key id="0105153412002040" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002040_NAME" />
+	<key id="0105153412002041" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002041_NAME" />
+	<key id="0105153412002042" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002042_NAME" />
+	<key id="0105153412002043" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002043_NAME" />
+	<key id="0105153412002044" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002044_NAME" />
+	<key id="0105153412002045" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002045_NAME" />
+	<key id="0105153412002046" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002046_NAME" />
+	<key id="0105153412002047" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002047_NAME" />
+	<key id="0105153412002048" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002048_NAME" />
+	<key id="0105153412002049" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002049_NAME" />
+	<key id="0105153412002050" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002050_NAME" />
+	<key id="0105153412002051" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002051_NAME" />
+	<key id="0105153412002052" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002052_NAME" />
+	<key id="0105153412002053" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002053_NAME" />
+	<key id="0105153412002054" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002054_NAME" />
+	<key id="0105153412002055" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002055_NAME" />
+	<key id="0105153412002056" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002056_NAME" />
+	<key id="0105153412002057" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002057_NAME" />
+	<key id="0105153412002058" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002058_NAME" />
+	<key id="0105153412002059" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002059_NAME" />
+	<key id="0105153412002060" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002060_NAME" />
+	<key id="0105153412002061" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002061_NAME" />
+	<key id="0105153412002062" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002062_NAME" />
+	<key id="0105153412002063" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002063_NAME" />
+	<key id="0105153412002064" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002064_NAME" />
+	<key id="0105153412002065" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002065_NAME" />
+	<key id="0105153412002066" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002066_NAME" />
+	<key id="0105153412002067" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002067_NAME" />
+	<key id="0105153412002068" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002068_NAME" />
+	<key id="0105153412002069" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002069_NAME" />
+	<key id="0105153412002070" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002070_NAME" />
+	<key id="0105153412002071" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002071_NAME" />
+	<key id="0105153412002072" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002072_NAME" />
+	<key id="0105153412002073" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002073_NAME" />
+	<key id="0105153412002074" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002074_NAME" />
+	<key id="0105153412002075" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002075_NAME" />
+	<key id="0105153412002076" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002076_NAME" />
+	<key id="0105153412002077" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002077_NAME" />
+	<key id="0105153412002078" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002078_NAME" />
+	<key id="0105153412002079" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002079_NAME" />
+	<key id="0105153412002080" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002080_NAME" />
+	<key id="0105153412002081" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002081_NAME" />
+	<key id="0105153412002082" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002082_NAME" />
+	<key id="0105153412002083" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002083_NAME" />
+	<key id="0105153412002084" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002084_NAME" />
+	<key id="0105153412002085" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002085_NAME" />
+	<key id="0105153412002086" feature="" npc="하란" name="SCRIPTQUESTCHUN_0105153412002086_NAME" />
+	<key id="0105153412002087" feature="" npc="야디" name="SCRIPTQUESTCHUN_0105153412002087_NAME" />
+	<key id="0105153412002088" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002088_NAME" />
+	<key id="0105153412002089" feature="" npc="야디" name="SCRIPTQUESTCHUN_0105153412002089_NAME" />
+	<key id="0105153412002090" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002090_NAME" />
+	<key id="0105153412002091" feature="" npc="야디" name="SCRIPTQUESTCHUN_0105153412002091_NAME" />
+	<key id="0105153412002092" feature="" npc="야디" name="SCRIPTQUESTCHUN_0105153412002092_NAME" />
+	<key id="0105153412002093" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002093_NAME" />
+	<key id="0105153412002094" feature="" npc="야디" name="SCRIPTQUESTCHUN_0105153412002094_NAME" />
+	<key id="0105153412002095" feature="" npc="야디" name="SCRIPTQUESTCHUN_0105153412002095_NAME" />
+	<key id="0105153412002096" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002096_NAME" />
+	<key id="0105153412002097" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002097_NAME" />
+	<key id="0105153412002098" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002098_NAME" />
+	<key id="0105153412002099" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002099_NAME" />
+	<key id="0105153412002100" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002100_NAME" />
+	<key id="0105153412002101" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002101_NAME" />
+	<key id="0105153412002102" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002102_NAME" />
+	<key id="0105153412002103" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002103_NAME" />
+	<key id="0105153412002104" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002104_NAME" />
+	<key id="0105153412002105" feature="" npc="pc" name="SCRIPTQUESTCHUN_0105153412002105_NAME" />
+	<key id="0105153412002106" feature="" npc="나빌라" name="SCRIPTQUESTCHUN_0105153412002106_NAME" />
+	<key id="1108174312002107" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1108174312002107_NAME" />
+	<key id="1118030012002149" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1118030012002149_NAME" />
+	<key id="1108174312002108" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1108174312002108_NAME" />
+	<key id="1108174312002109" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1108174312002109_NAME" />
+	<key id="1108174312002110" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1108174312002110_NAME" />
+	<key id="1118030012002150" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002150_NAME" />
+	<key id="1118030012002151" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1118030012002151_NAME" />
+	<key id="1118030012002152" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1118030012002152_NAME" />
+	<key id="1108174312002111" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1108174312002111_NAME" />
+	<key id="1108174312002112" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002112_NAME" />
+	<key id="1118030012002153" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002153_NAME" />
+	<key id="1118030012002154" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1118030012002154_NAME" />
+	<key id="1118030012002155" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002155_NAME" />
+	<key id="1118030012002156" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1118030012002156_NAME" />
+	<key id="1108174312002113" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002113_NAME" />
+	<key id="1118030012002157" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002157_NAME" />
+	<key id="1118030012002158" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1118030012002158_NAME" />
+	<key id="1108174312002114" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002114_NAME" />
+	<key id="1108174312002115" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002115_NAME" />
+	<key id="1108174312002116" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002116_NAME" />
+	<key id="1108174312002117" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002117_NAME" />
+	<key id="1108174312002118" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002118_NAME" />
+	<key id="1108174312002119" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002119_NAME" />
+	<key id="1108174312002120" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002120_NAME" />
+	<key id="1108174312002121" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1108174312002121_NAME" />
+	<key id="1118030012002159" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1118030012002159_NAME" />
+	<key id="1118030012002160" feature="" npc="페스카" name="SCRIPTQUESTCHUN_1118030012002160_NAME" />
+	<key id="1118030012002161" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1118030012002161_NAME" />
+	<key id="1118030012002162" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002162_NAME" />
+	<key id="1118030012002163" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1118030012002163_NAME" />
+	<key id="1118030012002164" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002164_NAME" />
+	<key id="1118030012002165" feature="" npc="슈테판" name="SCRIPTQUESTCHUN_1118030012002165_NAME" />
+	<key id="1108174312002122" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002122_NAME" />
+	<key id="1108174312002123" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002123_NAME" />
+	<key id="1108174312002124" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002124_NAME" />
+	<key id="1108174312002125" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002125_NAME" />
+	<key id="1118030012002166" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002166_NAME" />
+	<key id="1118030012002167" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002167_NAME" />
+	<key id="1118030012002168" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002168_NAME" />
+	<key id="1118030012002169" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002169_NAME" />
+	<key id="1118030012002170" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002170_NAME" />
+	<key id="1118030012002171" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002171_NAME" />
+	<key id="1118030012002172" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002172_NAME" />
+	<key id="1118030012002173" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002173_NAME" />
+	<key id="1118030012002174" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002174_NAME" />
+	<key id="1108174312002126" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002126_NAME" />
+	<key id="1108174312002127" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002127_NAME" />
+	<key id="1108174312002128" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002128_NAME" />
+	<key id="1118030012002175" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002175_NAME" />
+	<key id="1118030012002176" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002176_NAME" />
+	<key id="1118030012002177" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002177_NAME" />
+	<key id="1108174312002129" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002129_NAME" />
+	<key id="1108174312002130" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002130_NAME" />
+	<key id="1118030012002178" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002178_NAME" />
+	<key id="1118030012002179" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002179_NAME" />
+	<key id="1108174312002131" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002131_NAME" />
+	<key id="1118030012002180" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002180_NAME" />
+	<key id="1118030012002181" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002181_NAME" />
+	<key id="1118030012002182" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002182_NAME" />
+	<key id="1118030012002183" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002183_NAME" />
+	<key id="1118030012002184" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002184_NAME" />
+	<key id="1118030012002185" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002185_NAME" />
+	<key id="1118030012002186" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002186_NAME" />
+	<key id="1118030012002187" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002187_NAME" />
+	<key id="1118030012002188" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002188_NAME" />
+	<key id="1118030012002189" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1118030012002189_NAME" />
+	<key id="1108174312002132" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002132_NAME" />
+	<key id="1108174312002133" feature="" npc="어흥이" name="SCRIPTQUESTCHUN_1108174312002133_NAME" />
+	<key id="1108174312002134" feature="" npc="우야코" name="SCRIPTQUESTCHUN_1108174312002134_NAME" />
+	<key id="1108174312002135" feature="" npc="우야코" name="SCRIPTQUESTCHUN_1108174312002135_NAME" />
+	<key id="1108174312002136" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002136_NAME" />
+	<key id="1108174312002137" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002137_NAME" />
+	<key id="1118030012002190" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002190_NAME" />
+	<key id="1118030012002191" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002191_NAME" />
+	<key id="1108174312002138" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002138_NAME" />
+	<key id="1108174312002139" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002139_NAME" />
+	<key id="1108174312002140" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002140_NAME" />
+	<key id="1118030012002192" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002192_NAME" />
+	<key id="0102162112002202" feature="" npc="pc" name="SCRIPTQUESTCHUN_0102162112002202_NAME" />
+	<key id="1118030012002193" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002193_NAME" />
+	<key id="0102162112002203" feature="" npc="민트" name="SCRIPTQUESTCHUN_0102162112002203_NAME" />
+	<key id="1108174312002141" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002141_NAME" />
+	<key id="1108174312002142" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002142_NAME" />
+	<key id="1108174312002143" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002143_NAME" />
+	<key id="1118030012002194" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002194_NAME" />
+	<key id="1108174312002144" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002144_NAME" />
+	<key id="1108174312002145" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002145_NAME" />
+	<key id="1108174312002146" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002146_NAME" />
+	<key id="1118030012002195" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002195_NAME" />
+	<key id="1118030012002196" feature="" npc="pc" name="SCRIPTQUESTCHUN_1118030012002196_NAME" />
+	<key id="1118030012002197" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002197_NAME" />
+	<key id="1118030012002198" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002198_NAME" />
+	<key id="1118030012002199" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002199_NAME" />
+	<key id="1118030012002200" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002200_NAME" />
+	<key id="1118030012002201" feature="" npc="민트" name="SCRIPTQUESTCHUN_1118030012002201_NAME" />
+	<key id="1108174312002147" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002147_NAME" />
+	<key id="1108174312002148" feature="" npc="민트" name="SCRIPTQUESTCHUN_1108174312002148_NAME" />
+	<key id="0316110312002293" feature="" npc="마르코" name="Just go into the $map:52000116$ behind me to sign up as a caravan guard. It&apos;s a great way to do some good, maybe get your name out there." />
+	<key id="0316110312002294" feature="" npc="마르코" name="To tell you the truth, this is my first mission as a member of the guard. I&apos;m lucky I got to see a pretty town like this on my first trip out of the capital." />
+	<key id="0316110312002295" feature="" npc="넬프" name="Let me just add your name to the list... and there we go. You&apos;re all signed up for the caravan escort." />
+	<key id="0419160212002462" feature="" npc="넬프" name="We&apos;re just waiting for one last guard." />
+	<key id="0313165412002204" feature="" npc="넬프" name="This last guard is apparently still a cadet. What was his name again? $npcName:11003164[gender:0]$, I believe." />
+	<key id="0313165412002205" feature="" npc="pc" name="A cadet...?" />
+	<key id="0313165412002206" feature="" npc="넬프" name="Indeed. Even though he&apos;s inexperienced, he comes highly recommended by $npc:11003165[gender:0]$. He must be a great talent, indeed." />
+	<key id="0313165412002207" feature="" npc="pc" name="When will I get to meet him?" />
+	<key id="0313165412002208" feature="" npc="넬프" name="Oh, it shouldn&apos;t be long now." />
+	<key id="0313165412002209" feature="" npc="넬프" name="From what I hear, $npc:11003165[gender:0]$ promised to make him an official member of the guard if $npcName:11003164[gender:0]$ successfully completes this mission." />
+	<key id="0313165412002210" feature="" npc="조디" name="Ahem! Sorry for being late. $npc:11003164[gender:0]$, reporting for duty!" />
+	<key id="0419160212002463" feature="" npc="조디" name="It looks like you and me are going to be guarding this caravan. A real pleasure!" />
+	<key id="0313165412002211" feature="" npc="조디" name="All we gotta do is guard the caravan through the $map:63000041$. Simple, right?" />
+	<key id="0313165412002212" feature="" npc="pc" name="Do you know the way to the $map:63000041$?" />
+	<key id="0313165412002213" feature="" npc="조디" name="Sure! Just head to the northwest side of $map:02000062$. You can&apos;t miss it." />
+	<key id="0313165412002214" feature="" npc="조디" name="Out of everyone in my class, I&apos;m the only cadet left. That sure doesn&apos;t seem fair to me..." />
+	<key id="0313165412002215" feature="" npc="프레이" name="Finally awake, are we? Your injuries weren&apos;t too severe, but you were out for a long time." />
+	<key id="0315125612002216" feature="" npc="프레이" name="When you&apos;re done sleeping in, I need you to come with me to the $map:52000033$. The empress is waiting for you." />
+	<key id="0315125612002219" feature="" npc="프레이" name="You will mind your manners in front of Her Imperial Majesty." />
+	<key id="0315125612002220" feature="" npc="프레이" name="The security of the empire depends on the success of your investigation." />
+	<key id="0315125612002221" feature="" npc="pc" name="Then I&apos;d better do a good job." />
+	<key id="0315125612002222" feature="" npc="프레이" name="We understand each other. Excellent." />
+	<key id="0315125612002223" feature="" npc="프레이" name="Begin by speaking with $npcName:11003163[gender:0]$ at the $map:52000117$. Hardly a thing happens in the kingdom without his knowing of it. At least, when it comes to caravan routes and trade schedules." />
+	<key id="0419160212002464" feature="" npc="프레이" name="A friend will be waiting for you at the $map:52000117$. I&apos;m sure you&apos;ll find his help indispensable." />
+	<key id="0315125612002225" feature="" npc="프레이" name="Did you get lost? I understand. The city can be overwhelming for a newcomer. To get to the $map:52000117$, head southwest from the palace." />
+	<key id="0315125612002226" feature="" npc="조디" name="I think $npcName:11000492[gender:0]$ is off getting lunch. It must be nice to have a personal janitor come and clean for you..." />
+	<key id="0315125612002227" feature="" npc="pc" name="Personal janitor?" />
+	<key id="0315125612002228" feature="" npc="조디" name="Yeah. A masked fella dressed in all black. Had blades on his hands and everything." />
+	<key id="0315125612002229" feature="" npc="pc" name="That $npcName:11003167[gender:0]$ is obviously up to no good!" />
+	<key id="0315125612002230" feature="" npc="조디" name="&lt;font size=&apos;40&apos;&gt;&lt;b&gt;What? Really?!&lt;/b&gt;&lt;/font&gt;" />
+	<key id="0315125612002231" feature="" npc="조디" name="If he isn&apos;t here, and he isn&apos;t at his office, then that means $npcName:11000492[gender:0]$ is missing..." />
+	<key id="0519172912002490" feature="" npc="pc" name="Let&apos;s go after this $npcName:11003167[gender:0]$." />
+	<key id="0519172912002491" feature="" npc="조디" name='Gosh, that&apos;s a great idea! Maybe we&apos;ll find $npcName:11000492[gender:0]$ if we follow him. But, uh... Where&apos;d he go?&#x0A;&lt;font color=&quot;#909090&quot;&gt;(Start by searching north of $map:02000001$.)&lt;/font&gt;' />
+	<key id="0315125612002232" feature="" npc="조디" name="This isn&apos;t adding up. Sure, the masked guy &lt;i&gt;looked&lt;/i&gt; shady, but he was just so nice!" />
+	<key id="0315125612002233" feature="" npc="레타" name="How may I help you?" />
+	<key id="0612140812002501" feature="" npc="pc" name="Did you see a $npcName:11003167[gender:0]$ pass through here?" />
+	<key id="0519172912002492" feature="" npc="레타" name="Of course I saw him! You don&apos;t meet a creepy $npcName:11003167[gender:0]$ every day, you know." />
+	<key id="0612140812002502" feature="" npc="레타" name="I didn&apos;t let that guy out of my sight. He headed towards the $map:02000083$." />
+	<key id="0612140812002504" feature="" npc="레타" name="The $map:02000083$ is just that way. You know, &lt;i&gt;that&lt;/i&gt; way." />
+	<key id="0612140812002505" feature="" npc="엠마" name="Did you see a creep in a mask go by here?" />
+	<key id="0612140812002506" feature="" npc="엠마" name="I didn&apos;t see &lt;i&gt;a&lt;/i&gt; $npcName:11003167[gender:0]$. I saw a whole bunch! They&apos;re swarming all over the $map:02000121$!" />
+	<key id="0519172912002493" feature="" npc="엠마" name="There&apos;s more than one masked man?" />
+	<key id="0315125612002234" feature="" npc="엠마" name="Yes, and they&apos;re all jerks! I&apos;m just trying to make a living here, and them tearing up the $map:02000121$ every week isn&apos;t making my life any easier. You&apos;ve got to help me!" />
+	<key id="0315125612002235" feature="" npc="엠마" name="You look like you know how to fight! Please, you&apos;ve got to make them go away. For good, if you can!" />
+	<key id="0315125612002236" feature="" npc="엠마" name="While you were in the shop, a bunch of masked hoodlums took your friend!" />
+	<key id="0419160212002465" feature="" npc="pc" name="I don&apos;t have any—Wait, you mean $npcName:11003344[gender:0]$?" />
+	<key id="0419160212002466" feature="" npc="엠마" name="Yes! That dopey guard!" />
+	<key id="0315125612002237" feature="" npc="엠마" name="While you were off fighting masked figures, your guard friend was asking the masked figures about &lt;i&gt;you&lt;/i&gt;." />
+	<key id="0419160212002467" feature="" npc="pc" name="Where did they go?" />
+	<key id="0419160212002468" feature="" npc="엠마" name="They were headed for $map:52000119$. I&apos;m sure of it!" />
+	<key id="0315125612002238" feature="" npc="엠마" name="They didn&apos;t feel like answering questions, so they dragged him off to their lair. We may never see him again..." />
+	<key id="0315125612002239" feature="" npc="랄프" name="N-not so fast, friend! It was all a big joke. I-in fact, the &lt;i&gt;real&lt;/i&gt; reason I brought your friend here was... was to help your investigation!" />
+	<key id="0519172912002494" feature="" npc="pc" name="How do you know about that?" />
+	<key id="0519172912002495" feature="" npc="랄프" name="Nothing happens in the $map:02000083$ without me knowing about it. Nothing. So, let&apos;s all keep our cool." />
+	<key id="0419160312002462" feature="" npc="랄프" name="You&apos;re after a $npcName:11003167[gender:0]$, right?" />
+	<key id="0419160312002463" feature="" npc="랄프" name="Now, I don&apos;t know where he is, but I know how we can find him. All you gotta do is trust me." />
+	<key id="0419160312002464" feature="" npc="pc" name="I&apos;d rather just hand you over to the guard." />
+	<key id="0419160312002465" feature="" npc="pc" name="(Clench your fists.)" />
+	<key id="0315125612002243" feature="" npc="랄프" name="Let&apos;s not be so hasty! With my network, we&apos;ll track down your mystery man in no time. But if you turn me in, you get nothing." />
+	<key id="0315125612002244" feature="" npc="pc" name="Okay. We&apos;ll try it your way." />
+	<key id="0315125612002245" feature="" npc="랄프" name="H-hey now... I don&apos;t know what you&apos;re planning, but can&apos;t we talk this through, all civilized-like? I&apos;ll get you this mystery man on a silver platter. Promise." />
+	<key id="0315125612002246" feature="" npc="pc" name="(Unclench your fists.)" />
+	<key id="0315125612002247" feature="" npc="랄프" name="Phew. You had me going there for a minute. Now, you head on down to the $map:2000084$. My man $npcName:11000396[gender:0]$ will do good by you." />
+	<key id="0315125612002248" feature="" npc="랄프" name="&lt;font size=&apos;20&apos;&gt;Little twerp. Next time, I&apos;ll...&lt;/font&gt; H-hey, you&apos;re still here? Haha! I was just gonna say, next time I&apos;ll... welcome you with a friendly handshake!" />
+	<key id="0315125612002249" feature="" npc="이반" name="$npcName:11000173[gender:0]$ sends his regards." />
+	<key id="0419160312002466" feature="" npc="이반" name="$npcName:11000173[gender:0]$ sent ya? Get outta here! I don&apos;t got time for the likes of you!" />
+	<key id="0315125612002250" feature="" npc="이반" name='I&apos;ll, um, I&apos;ll give you some space.&#x0A;&lt;font color=&quot;#909090&quot;&gt;(You should ask around and see what $npc:11000396[gender:0]$&apos;s deal is.)' />
+	<key id="0315125612002251" feature="" npc="이반" name="..." />
+	<key id="0413165212002455" feature="" npc="코노" name="What is it?" />
+	<key id="0413165212002456" feature="" npc="pc" name="Do you know someone named $npcName:11000396[gender:0]$?" />
+	<key id="0413165212002457" feature="" npc="코노" name="Sure. He used to do odd jobs for me. But ever since he crossed $npcName:11003241[gender:0]$, he hasn&apos;t been much good for anything." />
+	<key id="0413165212002458" feature="" npc="코노" name="Poor guy&apos;s been starving in the streets ever since..." />
+	<key id="0519172912002496" feature="" npc="pc" name="I think $npcName:11000173[gender:0]$ and I need to have a little chat." />
+	<key id="0315125612002252" feature="" npc="코노" name="Wait up! I know how we can help $npcName:11000396[gender:0]$." />
+	<key id="0315125612002253" feature="" npc="pc" name="Tell me about it, O Great Raccoon." />
+	<key id="0315125612002254" feature="" npc="코노" name="It&apos;s really simple. It just requires some muscle..." />
+	<key id="0315125612002255" feature="" npc="코노" name="All you have to do is pick up $npcName:11000396[gender:0]$&apos;s old job." />
+	<key id="0315125612002256" feature="" npc="pc" name="And that will help him?" />
+	<key id="0315125612002257" feature="" npc="코노" name="Sure it will! Let&apos;s get started. Head up from here and you&apos;ll find some tires. Bring me some." />
+	<key id="0315125612002258" feature="" npc="코노" name="You aren&apos;t quitting already, are you?" />
+	<key id="0315125612002259" feature="" npc="코노" name="You&apos;re pretty quick. Have you ever thought about moving tires for a living?" />
+	<key id="0315125612002260" feature="" npc="코노" name="Now, for your second task! There are $itemPlural:30000120$ all over the place. Gather them up. &lt;font size=&apos;20&apos;&gt;And one more thing. Come closer, please...&lt;/font&gt;" />
+	<key id="0315125612002261" feature="" npc="pc" name="(Lean in closer.)" />
+	<key id="0315125612002262" feature="" npc="코노" name="&lt;font size=&apos;20&apos;&gt;Drive $npcName:11000173[gender:0]$&apos;s men away from here. Those guys are giving $npcName:11000396[gender:0]$ a hard time.&lt;/font&gt;" />
+	<key id="0315125612002263" feature="" npc="코노" name="Keep that second request between us, will you?" />
+	<key id="0315125612002264" feature="" npc="코노" name="You&apos;re pretty good! While you were taking care of business, I put in a few good words on your behalf with $npcName:11000396[gender:0]$." />
+	<key id="0315125612002265" feature="" npc="코노" name="I got a feeling $npcName:11000396[gender:0]$ will be happy to talk to you now." />
+	<key id="0315125612002266" feature="" npc="코노" name="Do you happen to have any brothers or sisters? I could use a few more workers like you." />
+	<key id="0315125612002267" feature="" npc="이반" name="$npcName:11000171[gender:0]$ says you did a lot to help me..." />
+	<key id="0519172912002497" feature="" npc="이반" name="I&apos;m real sorry about before. I thought you were another one of &lt;i&gt;his&lt;/i&gt; thugs." />
+	<key id="0315125612002268" feature="" npc="이반" name="How can I make it up to you?" />
+	<key id="0315125612002269" feature="" npc="pc" name="I&apos;m looking for a masked figure." />
+	<key id="0315125612002270" feature="" npc="이반" name='Sorry. Only masks I&apos;ve seen are the thugs around here.&#x0A;&lt;font color=&quot;#909090&quot;&gt;(It seems that $npcName:11000173[gender:0]$ has been wasting your time...)&lt;/font&gt;' />
+	<key id="0315125612002271" feature="" npc="이반" name="I guess there&apos;s no way I can repay you. So I&apos;ll do the only thing I can—I&apos;ll live my life to the fullest!" />
+	<key id="0315125612002272" feature="" npc="랄프" name="M-mercy! Show mercy, or you&apos;ll never find $npcName:11000492[gender:0]$!" />
+	<key id="0315125612002273" feature="" npc="pc" name="You know where $npcName:11000492[gender:0]$ is?!" />
+	<key id="0315125612002274" feature="" npc="랄프" name="Yes! Yes, so you can&apos;t hurt me. Understand?" />
+	<key id="0315125612002275" feature="" npc="랄프" name="My men spotted $npcName:11000492[gender:0]$ in the $map:02000043$. Said he was headed towards $map:52000037$." />
+	<key id="0315125612002276" feature="" npc="pc" name="That sounds bad. I better hurry!" />
+	<key id="0315125612002277" feature="" npc="랄프" name="Hold your horses! I already made travel arrangements for you. On account of how we&apos;re such good friends." />
+	<key id="0315125612002278" feature="" npc="랄프" name="What? You don&apos;t want to go to $map:52000037$ no more? Or are you too good to use one of my portals?" />
+	<key id="0315125612002279" feature="" npc="쓰러진 넬프" name='&lt;font color=&quot;#909090&quot;&gt;(You were too late. He hasn&apos;t been here long...)&lt;/font&gt;' />
+	<key id="0315125612002280" feature="" npc="쓰러진 넬프" name='&lt;font color=&quot;#909090&quot;&gt;(Whoever did this should still be in the cave. Search the area for clues.)&lt;/font&gt;' />
+	<key id="0315125612002281" feature="" npc="쓰러진 넬프" name='&lt;font color=&quot;#909090&quot;&gt;(Whoever did this should still be in the cave. Search the area for clues.)&lt;/font&gt;' />
+	<key id="0315125612002282" feature="" npc="랄프" name="Whaddaya mean, you were too late?!" />
+	<key id="0315125612002283" feature="" npc="랄프" name='&lt;font color=&quot;#909090&quot;&gt;(You show him the notebook.)&lt;/font&gt;&#x0A;Even if I knew what that was, why do I gotta answer to you?' />
+	<key id="0315125612002284" feature="" npc="pc" name="In that case, I&apos;m sure the guard will love to hear about you." />
+	<key id="0315125612002285" feature="" npc="pc" name="(Clench your fists threateningly.)" />
+	<key id="0315125612002286" feature="" npc="랄프" name="Sorry, $male:buddy,female:lady$. You ain&apos;t leaving here alive!" />
+	<key id="0315125612002287" feature="" npc="pc" name="Not this again..." />
+	<key id="0315125612002288" feature="" npc="랄프" name="Take your best shot! Whatever you do to me, you&apos;ll get ten times over!" />
+	<key id="0315125612002289" feature="" npc="pc" name="Not this again..." />
+	<key id="0315125612002290" feature="" npc="랄프" name="It&apos;ll be different this time. We&apos;ll crush you flat! Flat as a pancake! Or I&apos;ll step down as boss!" />
+	<key id="0315125612002291" feature="" npc="랄프" name="If we don&apos;t beat you this time, I&apos;ll quit my job as the boss!" />
+	<key id="0315125612002292" feature="" npc="랄프" name="Fine. I give up. You&apos;re the boss now." />
+	<key id="0421171812002467" feature="" npc="pc" name="About this notepad..." />
+	<key id="0421171812002468" feature="" npc="랄프" name="Yeah, yeah. I&apos;m getting to that." />
+	<key id="0330111912002296" feature="" npc="랄프" name="See this symbol on the cover? That&apos;s the crest of the Barrota Trading Company. We don&apos;t do business with them. If you wanna learn more, you better head over to $map:02000139$." />
+	<key id="0330111912002297" feature="" npc="랄프" name="Good luck and good riddance." />
+	<key id="0330111912002298" feature="" npc="솔베이" name="I can tell that you&apos;re eager to do business." />
+	<key id="0421171812002469" feature="" npc="pc" name="Do you recognize this notebook?" />
+	<key id="0421171812002470" feature="" npc="솔베이" name="That&apos;s not just any company crest. That&apos;s the president&apos;s personal crest!" />
+	<key id="0330111912002299" feature="" npc="솔베이" name="Why don&apos;t you speak to President $npcName:11000526$ yourself? He&apos;s in the $map:2000226$. Just take the elevator in the $map:2000225$ behind me." />
+	<key id="0330111912002300" feature="" npc="솔베이" name="The elevator in the $map:2000225$ will take you right to the $map:2000226$." />
+	<key id="0330111912002301" feature="" npc="솔베이" name="The president&apos;s office was ransacked...?" />
+	<key id="0421171812002471" feature="" npc="솔베이" name="I suppose that explains why no one&apos;s seen him in a while." />
+	<key id="0330111912002302" feature="" npc="솔베이" name="Did you manage to find any clues, at least?" />
+	<key id="0330111912002303" feature="" npc="pc" name="I found $item:30000773$. Does that count?" />
+	<key id="0330111912002304" feature="" npc="솔베이" name="What on earth was $npcName:11001262[gender:0]$&apos;s business card doing there...? He operates the $map:52000020$, just south of here." />
+	<key id="0330111912002305" feature="" npc="솔베이" name="I have no idea what could have happened to the chief..." />
+	<key id="0330111912002306" feature="" npc="리퍼트" name="That was a close call. Thanks for the help..." />
+	<key id="0330111912002307" feature="" npc="리퍼트" name="&lt;b&gt;Not!&lt;/b&gt; Thanks to you, those thugs are going to hit me twice as hard next time." />
+	<key id="0330111912002308" feature="" npc="pc" name="What was your business card doing in the president&apos;s office?" />
+	<key id="0330111912002309" feature="" npc="리퍼트" name="What&apos;s it to you? I&apos;m not going to start flapping my gums just because some rowdy roustabout thinks $male:he&apos;s,female:she&apos;s$ a detective." />
+	<key id="0330111912002310" feature="" npc="리퍼트" name="That was just the first wave, friend-o. Blackstar will be back, and when they are, it&apos;s curtains for me!" />
+	<key id="0330111912002311" feature="" npc="pc" name="Stay behind me. I&apos;ll take care of the mob." />
+	<key id="0330111912002312" feature="" npc="리퍼트" name="Hmm... All right. You keep me breathing, and I&apos;ll tell you what you want to know. Deal?" />
+	<key id="0330111912002313" feature="" npc="리퍼트" name="H-help me!" />
+	<key id="0330111912002314" feature="" npc="리퍼트" name="You held up your end of the bargain, all right. After the cost of cleaning up the mess you made here, your reward is... one piece of grade A intel!" />
+	<key id="0330111912002315" feature="" npc="pc" name="How is the masked figure connected to Barrota?" />
+	<key id="0330111912002316" feature="" npc="리퍼트" name="Ooh, tough luck, Scout. The answer to that question is grade S, easy. It&apos;s a shame, but I just can&apos;t give that kind of intel away for free." />
+	<key id="0330111912002317" feature="" npc="pc" name="Well, what &lt;i&gt;can&lt;/i&gt; you tell me?" />
+	<key id="0330111912002318" feature="" npc="리퍼트" name="Look, it just isn&apos;t possible. Information doesn&apos;t grow on trees. If you want the real primo intel, you&apos;ve got to cough up the mesos!" />
+	<key id="0411150212002452" feature="" npc="리퍼트" name="I can point you in the right direction. That&apos;s worth something, right?" />
+	<key id="0330111912002319" feature="" npc="리퍼트" name="Go to the $map:02000153$ in $map:02000100$. There&apos;s information brokers, and then there&apos;s those guys. Maybe you can convince them to cough up some secrets." />
+	<key id="0330111912002320" feature="" npc="리퍼트" name="Consider this a little taste. Next time you&apos;re here, don&apos;t forget to bring your wallet. " />
+	<key id="0330111912002321" feature="" npc="에반" name="Look, uh, the boss is out right now. Is this important?" />
+	<key id="0330111912002322" feature="" npc="pc" name="Yes. Yes, it is." />
+	<key id="0330111912002323" feature="" npc="에반" name="I really shouldn&apos;t tell you this, but if it&apos;s that important... Go to Eve&apos;s house. The boss spends most of his time there these days." />
+	<key id="0330111912002324" feature="" npc="에반" name="Eve&apos;s place is the second house on $map:02000147$. Just head southwest from here." />
+	<key id="0330111912002325" feature="" npc="에반" name="Those two better not be fighting again..." />
+	<key id="0330111912002326" feature="" npc="카트반" name="You there! You make it a habit of barging into people&apos;s homes?" />
+	<key id="0330111912002327" feature="" npc="pc" name="(Tell him about Nelph and the caravan attack.)" />
+	<key id="0330111912002328" feature="" npc="카트반" name="I&apos;m impressed. Even my spies only knew some of that. Interesting..." />
+	<key id="0411150212002453" feature="" npc="카트반" name="All right. Let&apos;s discuss this back at headquarters." />
+	<key id="0330111912002329" feature="" npc="카트반" name="Come with me to $map:52000073$. We can go over the details there." />
+	<key id="0330111912002330" feature="" npc="카트반" name="Who told you I was here? Does one of my men have a loose tongue?" />
+	<key id="0330111912002331" feature="" npc="카트반" name="Allow me to properly introduce myself. I am $npcName:11000044[gender:0]$, captain of Dark Wind. What brings you to my city?" />
+	<key id="0330111912002332" feature="" npc="pc" name="I thought $npcName:11003219[gender:0]$ was the captain of Dark Wind." />
+	<key id="0330111912002333" feature="" npc="카트반" name="Brash &lt;i&gt;and&lt;/i&gt; knowledgeable. A dangerous combination." />
+	<key id="0411150212002454" feature="" npc="카트반" name="The leader of Dark Wind was $npcName:11003219[gender:0]$, as you say. But... he is no longer with us." />
+	<key id="0330111912002334" feature="" npc="카트반" name="$npcName:11003219[gender:0]$ was murdered by his right-hand man, $npcName:11000064[gender:0]$. It came as a shock to all of us." />
+	<key id="0330111912002335" feature="" npc="카트반" name="We can&apos;t let $npcName:11000064[gender:0]$ get away. He&apos;s a disgrace to the Dark Wind name... and a danger to $npcName:11003219[gender:0]$&apos;s daughter, $npcName:11000069[gender:1]$." />
+	<key id="0330111912002336" feature="" npc="카트반" name="$npcName:11000064[gender:0]$ must pay for his crimes. No matter what!" />
+	<key id="0330111912002337" feature="" npc="pc" name="I completely believe your plausible and well-told story." />
+	<key id="0330111912002338" feature="" npc="카트반" name="Now that I think of it... $npcName:11000064[gender:0]$ may well be this $npcName:11003167[gender:0]$ you&apos;re after." />
+	<key id="0330111912002339" feature="" npc="카트반" name="It seems our goals have aligned. Let us work together." />
+	<key id="0330111912002340" feature="" npc="카트반" name="It seems you have a guest. Go ahead and speak with him. I will wait." />
+	<key id="0330111912002341" feature="" npc="카트반" name="$npcName:11000064[gender:0]$ and the $npcName:11003167[gender:0]$ have both shown that they are remorseless killers. It only makes sense that they would be one and the same." />
+	<key id="0330111912002342" feature="" npc="조디" name="Bad news, $MyPCName$. $npcName:11000492[gender:0]$&apos;s body... It&apos;s gone!" />
+	<key id="0330111912002343" feature="" npc="조디" name="You&apos;ve gotta come back to $map:52000037$ with me!" />
+	<key id="0330111912002344" feature="" npc="조디" name="I can&apos;t go back there alone. $map:52000037$ is... It&apos;s just not a nice place, okay?" />
+	<key id="0330111912002345" feature="" npc="고호" name="$npc:11000751[gender:1]$ is in danger!" />
+	<key id="0330111912002346" feature="" npc="고호" name="Evil monsters attacked our home on $map:02000290$! If we don&apos;t do something, they&apos;ll ravage the kingdom and destroy the princess!" />
+	<key id="0519172912002498" feature="" npc="pc" name="Leave this to me." />
+	<key id="0519172912002499" feature="" npc="고호" name="Please! You must hurry!" />
+	<key id="0330111912002347" feature="" npc="고호" name='If you&apos;re as strong as that $male:other $guy... Please, you&apos;re our only hope!&#x0A;&lt;font color=&quot;#909090&quot;&gt;(That $male:other $guy? Who could he mean?)&lt;/font&gt;' />
+	<key id="0330111912002348" feature="" npc="고호" name="Thank goodness we met you! The princess and the whole kingdom are safe. You &lt;i&gt;are&lt;/i&gt; just like that guy!" />
+	<key id="0330111912002349" feature="" npc="pc" name="Yeah, that guy is my personal hero. Who are we talking about?" />
+	<key id="0330111912002350" feature="" npc="고호" name="The blond-haired human! He helped me when I got in trouble on the $map:02000017$." />
+	<key id="0330111912002351" feature="" npc="고호" name="I asked him who he was, but he wouldn&apos;t say. I guess he has to clear his name first. That&apos;s why he was going back to... back to wherever his name wasn&apos;t cleared!" />
+	<key id="0426092012002477" feature="" npc="고호" name='&lt;font color=&quot;#909090&quot;&gt;(Surely he isn&apos;t foolish enough to return to $map:02000100$... is he?)&lt;/font&gt;' />
+	<key id="0330111912002352" feature="" npc="조디" name="What are you two talking about? Blond guy?" />
+	<key id="0330111912002353" feature="" npc="pc" name="He might be the $npcName:11003167[gender:0]$." />
+	<key id="0330111912002354" feature="" npc="조디" name="Yikes, that sounds serious! You go back to $map:02000153$. I&apos;ll stay here and... and look for the missing body..." />
+	<key id="0330111912002355" feature="" npc="조디" name="P-please, go before I lose my nerve!" />
+	<key id="0330111912002356" feature="" npc="에반" name="I gotta be honest with you, $MyPCName$. Your timing isn&apos;t super great. The boss is out. Again." />
+	<key id="0330111912002357" feature="" npc="에반" name="He didn&apos;t tell us where he was headed, but smart money says he&apos;s back at $npcName:11000069[gender:1]$&apos;s house." />
+	<key id="0330111912002358" feature="" npc="에반" name="I don&apos;t get it. What&apos;s so great about $npcName:11000069[gender:1]$&apos;s house?" />
+	<key id="0330111912002359" feature="" npc="이브" name="$npcName:11000044[gender:0]$ hasn&apos;t been by today. Sorry to disappoint you." />
+	<key id="0330111912002360" feature="" npc="이브" name="I wouldn&apos;t put my faith in $npcName:11000044[gender:0]$ if I were you. The $npcName:11000064[gender:0]$ I know would never hurt my father." />
+	<key id="0330111912002361" feature="" npc="이브" name="This has to be a misunderstanding. $npcName:11000064[gender:0]$ would never send lackeys to do his dirty work." />
+	<key id="0330111912002362" feature="" npc="카트반" name="I knew this would happen! $npcName:11000064[gender:0]$&apos;s set his sights on $npcName:21900089[gender:1]$!" />
+	<key id="0330111912002363" feature="" npc="카트반" name="Until we put that traitor in the ground, none of us are safe! For now, let&apos;s head back to $map:52000073$." />
+	<key id="0330111912002364" feature="" npc="카트반" name="I... lost my temper. Let&apos;s return to $map:52000073$ so we can sort this out." />
+	<key id="0330111912002365" feature="" npc="카트반" name="So, what did you learn in $map:52000037$?" />
+	<key id="0330111912002366" feature="" npc="pc" name="(Tell him what happened.)" />
+	<key id="0330111912002367" feature="" npc="카트반" name="It all adds up. $npcName:11000064[gender:0]$ murdered $npcName:11003219[gender:0]$, and now he&apos;s returned to finish the job. $npcName:11000069[gender:1]$ isn&apos;t safe." />
+	<key id="0426092012002478" feature="" npc="카트반" name="$npcName:11000069[gender:1]$ is like a sister to me. If anything happened to her..." />
+	<key id="0330111912002368" feature="" npc="에반" name="Sorry to butt in, but I just got a report about a $npc:11000064[gender:0]$ sighting in $map:02000167$. Seems a lady by the name of $npc:11001116[gender:1]$ spotted him. You should see what she has to say." />
+	<key id="0330111912002369" feature="" npc="에반" name="Did $npcName:11000064[gender:0]$ really kill $npcName:11003219[gender:0]$? That question&apos;s way above my pay grade, but something doesn&apos;t add up..." />
+	<key id="0330111912002370" feature="" npc="바엘" name="Hmmm... You don&apos;t &lt;i&gt;look&lt;/i&gt; like a Dark Wind agent..." />
+	<key id="0426092012002479" feature="" npc="바엘" name="Well, I guess it doesn&apos;t matter to me what uniform you guys decide to wear. You&apos;re here about my report?" />
+	<key id="0330111912002371" feature="" npc="바엘" name="The Masked Man went into the $map:2000328$. It wasn&apos;t always like this, you know. I bet he&apos;s the one who messed up the garden&apos;s biz!" />
+	<key id="0330111912002372" feature="" npc="바엘" name="It used to be such a pretty garden. Curse that masked villain!" />
+	<key id="0330111912002373" feature="" npc="바엘" name="That wasn&apos;t your man, was it? Who would&apos;ve thought a creeper in a mask would turn out to be one of the good guys... But will the garden be okay?" />
+	<key id="0330111912002374" feature="" npc="pc" name="The garden will be just fine." />
+	<key id="0330111912002375" feature="" npc="바엘" name="Really? That&apos;s great to hear! Thanks a lot, $male:Mister,female:Miss$ Dark Wind person." />
+	<key id="0330111912002376" feature="" npc="바엘" name="I feel really bad I made you come all the way out here for nothing. Well, bye!" />
+	<key id="0519172912002500" feature="" npc="pc" name="I guess I&apos;ll head back to $map:52000055$." />
+	<key id="0414084812002459" feature="" npc="바엘" name="Wait! Before you go, I heard a weird rumor. There was someone creeping around the $map:02000148$ like a real creeper!" />
+	<key id="0414084812002460" feature="" npc="pc" name="Where did you hear this?" />
+	<key id="0414084812002461" feature="" npc="바엘" name="$npcName:11000543[gender:0]$ told me. You should go check it out!" />
+	<key id="0330111912002377" feature="" npc="바엘" name="I wonder what he looks like under the mask... What if he&apos;s a famous pop star in disguise? What if he&apos;s really &lt;i&gt;$npcName:11000763[gender:0]$&lt;/i&gt;?!" />
+	<key id="0330111912002378" feature="" npc="웨인" name="Hmph. You aren&apos;t dressed for hard labor. So what are you doing here?" />
+	<key id="0330111912002379" feature="" npc="웨인" name="I didn&apos;t actually see the guy you&apos;re looking for. I heard about it from $npcName:11000533[gender:0]$. Go hassle him instead, why don&apos;t you?" />
+	<key id="0330111912002380" feature="" npc="웨인" name="This heat is killing me..." />
+	<key id="0330111912002381" feature="" npc="컴튼" name="Yeah, I saw the blond guy everyone&apos;s looking for." />
+	<key id="0426111012002480" feature="" npc="pc" name="Where did he go?" />
+	<key id="0426111012002481" feature="" npc="컴튼" name="That depends. What&apos;s it worth to you?" />
+	<key id="0330111912002382" feature="" npc="컴튼" name="Now, don&apos;t get the wrong idea. It&apos;s not that I mind working hard for a living. But these conditions... There are some things I just can&apos;t do on my own." />
+	<key id="0330111912002383" feature="" npc="pc" name="And you want me to do something about it." />
+	<key id="0330111912002384" feature="" npc="컴튼" name="Get rid of all the wild monsters roaming around here. And while you&apos;re at it, knock the rust off the old oil pipes." />
+	<key id="0330111912002385" feature="" npc="컴튼" name="You do this for me, and I&apos;ll tell you where to find the guy you&apos;re after." />
+	<key id="0330111912002386" feature="" npc="컴튼" name="This&apos;s gotta be the worst job I ever took. I should&apos;ve known, with a name like $map:02000148$..." />
+	<key id="0330111912002387" feature="" npc="컴튼" name="You take care of those problems for me?" />
+	<key id="0421171812002472" feature="" npc="pc" name="Sure did. It can&apos;t be easy, working out here." />
+	<key id="0421171812002473" feature="" npc="컴튼" name="Don&apos;t I know it! The suits&apos;ll never understand what they put us through. But thanks to you, it&apos;s a little more bearable now." />
+	<key id="0330111912002388" feature="" npc="컴튼" name="I saw the blond guy head for $map:02000139$. If you&apos;re lucky, he could still be there." />
+	<key id="0426133412002482" feature="" npc="컴튼" name="Even if he isn&apos;t, I bet somebody else saw him. He kind of stands out." />
+	<key id="0330111912002389" feature="" npc="컴튼" name="Thanks for the help." />
+	<key id="0330111912002390" feature="" npc="제타" name="Well? Spit it out." />
+	<key id="0330111912002391" feature="" npc="pc" name="Did a blond guy come through here?" />
+	<key id="0330111912002392" feature="" npc="제타" name="Oh, yeah. &lt;i&gt;Yeah.&lt;/i&gt; I saw a guy, all right. Did you say blond? Yeah, a blond guy." />
+	<key id="0330111912002393" feature="" npc="제타" name="He&apos;s in the $map:2000193$ up above us. You better hurry! Or he&apos;ll get away!" />
+	<key id="0330111912002394" feature="" npc="제타" name="Quick now! You don&apos;t want that blond guy to get away, do you?" />
+	<key id="0330111912002395" feature="" npc="마크" name="I&apos;m $npcName:11003206[gender:0]$, by the way." />
+	<key id="0330111912002396" feature="" npc="마크" name="Those guys ought to leave me alone, now that they know a $male:guy,female:gal$ like you is prowling around." />
+	<key id="0330111912002397" feature="" npc="pc" name="I don&apos;t suppose you saw any &lt;i&gt;other&lt;/i&gt; blond guys here...?" />
+	<key id="0330111912002398" feature="" npc="마크" name="You mean, you were here looking for someone else? Why&apos;d you think there&apos;d be someone like that in this old warehouse?" />
+	<key id="0330111912002399" feature="" npc="마크" name="So my brother sent you, after all..." />
+	<key id="0330111912002400" feature="" npc="제타" name="I figured it was a long shot, but you did it. You saved my brother." />
+	<key id="0330111912002401" feature="" npc="제타" name="I thought my brother was done for. Thanks a lot!" />
+	<key id="0427125712002483" feature="" npc="pc" name="You used me." />
+	<key id="0427125712002484" feature="" npc="제타" name="I had no choice! I&apos;m no match for those thugs. But you looked strong enough, and I was right!" />
+	<key id="0427125712002485" feature="" npc="pc" name="And now I&apos;ve lost the trail. Great." />
+	<key id="0427125712002486" feature="" npc="제타" name="Maybe not. I really did see a blond guy, just like you said. Real tall, kinda handsome." />
+	<key id="0427125712002487" feature="" npc="제타" name="Talk to $npcName:11000867[gender:0]$ in the center of $map:02000138$. If anyone saw where your blond buddy went, he did." />
+	<key id="0330111912002402" feature="" npc="제타" name="I&apos;ll find a way to pay you back for this. Thanks again!" />
+	<key id="0330111912002403" feature="" npc="프루셀" name="Hmm. Something tells me you aren&apos;t here to buy fruit." />
+	<key id="0330111912002404" feature="" npc="pc" name="Did a blond man pass through here?" />
+	<key id="0330111912002405" feature="" npc="프루셀" name="Yes, I saw someone like that. He left one heck of an impression, too." />
+	<key id="0421171812002474" feature="" npc="프루셀" name="Can&apos;t say I remember where he went, though..." />
+	<key id="0330111912002406" feature="" npc="프루셀" name="I really wish I could help you, $male:sir,female:ma&apos;am$, but I just can&apos;t seem to remember anything with all these hoodlums roaming about..." />
+	<key id="0330111912002407" feature="" npc="pc" name="I&apos;ll take care of the hoodlums if it&apos;ll jog your memory." />
+	<key id="0330111912002408" feature="" npc="프루셀" name="Well, now that you mention it, that just might do the trick. You take care of my little problem, and I&apos;m sure the memories will pop right back up." />
+	<key id="0330111912002409" feature="" npc="프루셀" name="How&apos;s a man supposed to concentrated with all this racket?" />
+	<key id="0330111912002410" feature="" npc="프루셀" name="Dang this rickety memory of mine... Heh heh..." />
+	<key id="0510172212002488" feature="" npc="pc" name="I took care of your problem." />
+	<key id="0510172212002489" feature="" npc="프루셀" name="What a coincidence! My memory is just now returning to me. Now, about this blond fella you&apos;re after..." />
+	<key id="0330111912002411" feature="" npc="프루셀" name="I saw him duck into $map:52000126$. Seems to me he&apos;s going through rough times. The man looked half-starved..." />
+	<key id="0330111912002412" feature="" npc="프루셀" name="You sure I can&apos;t interest you in some fresh fruit for the road? Guaranteed 70% bug-free!" />
+	<key id="0330111912002413" feature="" npc="이름 없는 부랑자" name="I don&apos;t know a danged thing!" />
+	<key id="0330111912002414" feature="" npc="이름 없는 부랑자" name="Please, just leave me alone!" />
+	<key id="0330111912002415" feature="" npc="pc" name="Relax. I&apos;m looking for a blond man. Tall, handsome..." />
+	<key id="0330111912002416" feature="" npc="이름 없는 부랑자" name="I have no idea who you&apos;re talking about. Now leave me be!" />
+	<key id="0330111912002417" feature="" npc="이름 없는 부랑자" name="Why won&apos;t you leave me alone...?" />
+	<key id="0330111912002418" feature="" npc="pc" name="Have you always lived out on the streets?" />
+	<key id="0330111912002419" feature="" npc="이름 없는 부랑자" name="N-none of your business! Get outta here. Leave me alone!" />
+	<key id="0330111912002420" feature="" npc="제타" name="$npcName:11003206[gender:0]$ and I found the blond guy you&apos;re after. I figured that was the best way to pay you back for saving my brother." />
+	<key id="0330111912002421" feature="" npc="제타" name="He&apos;s staying in an $map:52000046$. It&apos;s not far from here. You better hurry before he gives you the slip again!" />
+	<key id="0330111912002422" feature="" npc="제타" name="It&apos;s been nice knowing you." />
+	<key id="0330111912002423" feature="" npc="레논" name="So, you think I killed the captain..." />
+	<key id="0330111912002424" feature="" npc="레논" name="I can&apos;t turn myself in to Dark Wind until I can clear my name. I didn&apos;t kill Winn Stilton." />
+	<key id="0330111912002425" feature="" npc="pc" name="Maybe not, but you still have to come with me." />
+	<key id="0330111912002426" feature="" npc="레논" name="So... You don&apos;t believe me..." />
+	<key id="0330111912002427" feature="" npc="레논" name="Sorry, but I&apos;m not going anywhere with you." />
+	<key id="0330111912002428" feature="" npc="조디" name="That was too close, $MyPCName$. If it weren&apos;t for $npcName:11003210[gender:0]$, I never would have found you." />
+	<key id="0330111912002429" feature="" npc="pc" name="What happened? Where&apos;s $npcName:11003215[gender:0]$?" />
+	<key id="0330111912002430" feature="" npc="조디" name="You were the only one there when I found you. I guess $npcName:11003215[gender:0]$ is long gone..." />
+	<key id="0330111912002431" feature="" npc="조디" name="I guess we&apos;d better let $npcName:11000044[gender:0]$ know what happened..." />
+	<key id="0330111912002432" feature="" npc="조디" name="When I thought we lost you, I... I never felt like that before, $MyPCName$. You&apos;ve got to be more careful. I don&apos;t know what I&apos;d do if I couldn&apos;t see you again!" />
+	<key id="0330111912002433" feature="" npc="조디" name="You&apos;re my hero! And the truth is, I l...look up to you!" />
+	<key id="0330111912002434" feature="" npc="카트반" name="So, $npcName:11003215[gender:0]$ got away. It can&apos;t be helped, I suppose..." />
+	<key id="0330111912002435" feature="" npc="카트반" name="This isn&apos;t over yet. Let&apos;s head downstairs and figure out our next steps." />
+	<key id="0330111912002436" feature="" npc="카트반" name="I should&apos;ve sent more men out to join in the search. Every second we waste is another second that $npcName:11000069[gender:1]$&apos;s life is in danger..." />
+	<key id="0330111912002437" feature="" npc="카트반" name="Now, shall we begin?" />
+	<key id="0330111912002438" feature="" npc="카트반" name="First we have to... Hold on. What&apos;s all this racket?" />
+	<key id="0330111912002439" feature="" npc="카트반" name="Quickly! To the city&apos;s defense!" />
+	<key id="0330111912002440" feature="" npc="카트반" name="Without you, $map:02000100$ may well have fallen today. Thank you." />
+	<key id="0330111912002441" feature="" npc="pc" name="Just doing my duty, Sir." />
+	<key id="0330111912002442" feature="" npc="카트반" name="Spare me the humility. You did good work out there. Unfortunately, I&apos;m going to be too busy cleaning up $map:02000100$ to help track down $npcName:11003215[gender:0]$ for a while..." />
+	<key id="0330111912002443" feature="" npc="카트반" name="You and your friend should return to $map:02000001$. Let them know what happened here... and what happened to Winn Stilton." />
+	<key id="0421171812002475" feature="" npc="카트반" name="I&apos;m sorry that I can&apos;t do more to help." />
+	<key id="0330111912002444" feature="" npc="조디" name="It&apos;ll be good to sleep in my own bunk again. Ready to go back to $map:02000001$?" />
+	<key id="0330111912002445" feature="" npc="pc" name="Let&apos;s go." />
+	<key id="0330111912002446" feature="" npc="조디" name="Yay! To Tria we go!" />
+	<key id="0330111912002447" feature="" npc="조디" name="I don&apos;t know if I&apos;m cut out for field work! I thought being a guard had more standing around and... you know... guarding..." />
+	<key id="0330111912002448" feature="" npc="프레이" name="First Winn Stilton, and then $map:02000100$... Shock after shock." />
+	<key id="0421171812002476" feature="" npc="프레이" name="This is a dire matter, indeed. The empress should hear it from your lips." />
+	<key id="0330111912002449" feature="" npc="에레브" name="I understand that you have quite the tale for me." />
+	<key id="0330111912002450" feature="" npc="에레브" name="Winn Stilton... dead...?" />
+	<key id="0330111912002451" feature="" npc="프레이" name="We just got word from $map:02000076$. They&apos;re being attacked by dark creatures. This is $map:02000100$ all over again!" />
+	<key id="0416153812003076" feature="" npc="도날드" name="Hi, $MyPCName$, I&apos;m $npc:11003870[gender:0]$, from Berg Island. We&apos;ve finished reviewing your application, and your 50,000,000 meso payment has been processed. I&apos;ve got your authorization forms right here, and I&apos;m happy to welcome to the Berg Mining Collective." />
+	<key id="0416153812003077" feature="" npc="도날드" name="Um... I think there&apos;s been a mix-up. I didn&apos;t sign up for anything." />
+	<key id="0416153812003078" feature="" npc="도날드" name="Hahaha. Very funny. In any case, after a year-long vetting process, and a substantial investment, I&apos;m sure you&apos;re quite eager to begin taking advantage of your exclusive access to one of the world&apos;s richest, and most varied mineral deposits ever discovered." />
+	<key id="0416153812003079" feature="" npc="도날드" name="But, I didn&apos;t pay for any of that..." />
+	<key id="0416153812003080" feature="" npc="도날드" name="Uhh... You &lt;b&gt;are&lt;/b&gt; $MyPCName$, are you not...? It&apos;s unlikely our accountants transposed an identification number, but I&apos;d be mortified to mistakenly hand over access to hundreds of millions of mesos worth of minerals to someone who wasn&apos;t a member of the collective..." />
+	<key id="0416153812003081" feature="" npc="도날드" name="H-hundreds... of millions...? Why yes, I  &lt;i&gt;am&lt;/i&gt; $MyPCName$, and I&apos;m ready to visit Blergh Island right away." />
+	<key id="0416153812003082" feature="" npc="도날드" name="Oh, excellent! For a moment I thought one of our employees had made a terrible, career-ending mistake. Anywho, come meet me at $map:02000424$ and I&apos;ll get you all set up!" />
+	<key id="0416153812003083" feature="" npc="도날드" name="Go and meet $npc:11000454[gender:0]$ in $map:02000062$. He&apos;ll arrange your voyage." />
+	<key id="0416153812003084" feature="" npc="도날드" name='&lt;font color=&quot;#909090&quot;&gt;(Is this really happening? You should go to $map:02000062$ for now.)&lt;/font&gt;' />
+	<key id="0416153812003085" feature="" npc="도날드" name="Nice day for some weather, huh?" />
+	<key id="0416153812003086" feature="" npc="테오" name="So there I was in a world of trouble. Me in a leaky lifeboat bailing fast as I could, against the stormy fury of the sea...  I&apos;ve had smoother journeys." />
+	<key id="0416153812003087" feature="" npc="테오" name="Speaking of... You know, I almost married a mermaid once! I think I dodged a bullet there, but sometimes I think of those poor mermaids who missed out." />
+	<key id="0416153812003088" feature="" npc="테오" name='&lt;font color=&quot;#909090&quot;&gt;(Across the room, $npcName:11000453$ rolls her eyes in disbelief.)&lt;/font&gt;' />
+	<key id="0416153812003089" feature="" npc="테오" name="And? And? What happened next?" />
+	<key id="0416153812003090" feature="" npc="테오" name="Oh, you know, cultural differences. We were from different worlds, after all!" />
+	<key id="0416153812003091" feature="" npc="테오" name="No...  The boat! What happened with the boat?" />
+	<key id="0416153812003092" feature="" npc="테오" name="Sorry to interrupt..." />
+	<key id="0416153812003093" feature="" npc="테오" name="Oh, ahoy there. Did you need something?" />
+	<key id="0416153812003094" feature="" npc="테오" name="I&apos;m just looking for a ride to $map:02000424$." />
+	<key id="0416153812003095" feature="" npc="테오" name="Ohh, I bet you&apos;re the one $npcName:11003870[gender:0]$ was talking about! The lucky new member of the Berg Mining Collective!" />
+	<key id="0416153812003096" feature="" npc="테오" name="I&apos;ve already set everything up with $npc:11000981[gender:0]$ over in $map:02000062$&apos;s southern quay. He&apos;ll book your passage to $map:02000424$." />
+	<key id="0416153812003097" feature="" npc="테오" name="Mister, please finish your story!" />
+	<key id="0416153812003098" feature="" npc="테오" name="Ahaha, right! Where was I? I guess I&apos;ll start over..." />
+	<key id="0416153812003099" feature="" npc="테오" name="NO! Um, you stopped at the part where you arrived on $map:02000424$!" />
+	<key id="0416153812003100" feature="" npc="테오" name="Well then! So there I was lying on the shores of $map:02000424$, barely breathing, and without a ship to my name." />
+	<key id="0416153812003101" feature="" npc="테오" name="Stranded on that island, all I could do was wait. But as $map:02000062$&apos;s greatest fisherman, I at least wouldn&apos;t have to worry about going hungry." />
+	<key id="0416153812003102" feature="" npc="테오" name='&lt;font color=&quot;#909090&quot;&gt;($npcName:11000455$ seems a little skeptical, but otherwise enraptured.)&lt;/font&gt;' />
+	<key id="0416153812003103" feature="" npc="테오" name="Oh!" />
+	<key id="0416153812003104" feature="" npc="테오" name="In between wild bouts of fishing, I explored the secrets of $map:02000424$. Turns out... it&apos;s full of rocks! And not just any rocks, but minerals as far as the eye can see!" />
+	<key id="0416153812003105" feature="" npc="테오" name="Yes, I conquered $map:02000424$ all on my own, thanks to my perseverance and wit! If only I&apos;d been the first to stake a claim, I&apos;d be rich." />
+	<key id="0416153812003106" feature="" npc="테오" name="You really are amazing!" />
+	<key id="0416153812003107" feature="" npc="테오" name="Ahaha! If I had a meso for every time I heard that..." />
+	<key id="0416153812003108" feature="" npc="크리스토퍼" name="$npc:11000454[gender:0]$ sent me here." />
+	<key id="0416153812003109" feature="" npc="크리스토퍼" name="Oh, you&apos;re the mining enthusiast $npc:11000454[gender:0]$ talked about. Well, it sounds like no one could appreciate $map:02000424$ like you." />
+	<key id="0416153812003110" feature="" npc="크리스토퍼" name="You&apos;ll need to take a Berg Mining Collective boat to $map:02000424$. I&apos;ll handle all the paperwork, I&apos;ve got a few copies I half filled out earlier." />
+	<key id="0416153812003111" feature="" npc="크리스토퍼" name="That boat&apos;ll take you straight to $map:02000424$, no stops or layovers. Then you can find $npcName:11003870[gender:0]$, who I&apos;m sure you can&apos;t wait to meet." />
+	<key id="0416153812003112" feature="" npc="크리스토퍼" name="Fortunately, the seas are calm today. Safe voyage!" />
+	<key id="0416153812003113" feature="" npc="크리스토퍼" name="Fortunately, the seas are calm today. Safe voyage!" />
+	<key id="0416153812003114" feature="" npc="도날드" name="Welcome to $map:02000424$. This island belongs to the Berg Mining Collective, and now you can count yourself a proud member. As long as you don&apos;t go over your daily allotment, you can mine as much as you like." />
+	<key id="0416153812003115" feature="" npc="도날드" name="You&apos;re lucky the weather is clear and the sea is calm. Boat rides can be perilous." />
+	<key id="0416153812003116" feature="" npc="도날드" name="After $map:02000424$ was purchased by the Berg Mining Collective, a geological survey revealed it to be one of the most mineral-diverse places on the planet." />
+	<key id="0416153812003117" feature="" npc="도날드" name="And now you, and a handful of other carefully selected individuals, can share in the profit." />
+	<key id="0416153812003118" feature="" npc="도날드" name="Anytime you need to mine some precious rocks, this is the place to do it." />
+	<key id="0416153812003119" feature="" npc="도날드" name="What makes this island so special is that there are veins of just about every ore and mineral found in Maple World right here. It&apos;s like an everything bagel, but with rocks!" />
+	<key id="0416153812003120" feature="" npc="도날드" name="Hey, since you&apos;re here... You think you could help me out?" />
+	<key id="0416153812003121" feature="" npc="도날드" name="? " />
+	<key id="0416153812003122" feature="" npc="도날드" name="It&apos;s just a small favor. Literally, it&apos;s a small object I want you to deliver. Since my job here is as the island&apos;s caretaker, it would be weird if I did it myself. So... here." />
+	<key id="0416153812003123" feature="" npc="도날드" name='&lt;font color=&quot;#909090&quot;&gt;How is that weird...?&lt;/font&gt;' />
+	<key id="0416153812003124" feature="" npc="도날드" name="Deliver this $item:30001128$ to a $npcTitle:11003871$ named $npcName:11003871[gender:0]$&lt;/font&gt;. If you head up those steps and follow the path, you&apos;ll run into him sooner or later." />
+	<key id="0416153812003125" feature="" npc="도날드" name="I know you just got here, but to be fair this is a GREAT way to learn the lay of the land!" />
+	<key id="0416153812003126" feature="" npc="도날드" name="Deliver this $item:30001128$ to a $npcTitle:11003871$ named $npcName:11003871[gender:0]$&lt;/font&gt;. If you head up those steps and follow the path, you&apos;ll run into him sooner or later." />
+	<key id="0416153812003127" feature="" npc="마이톤" name="Hm? Can I help you?" />
+	<key id="0416153812003128" feature="" npc="마이톤" name='&lt;font color=&quot;#909090&quot;&gt;(You hand the $item:30001128$ to $npc:11003871[gender:0]$.)&lt;/font&gt;' />
+	<key id="0416153812003129" feature="" npc="마이톤" name="Why are you giving this to me? Where is $npcName:11003870[gender:0]$?" />
+	<key id="0416153812003130" feature="" npc="마이톤" name="..." />
+	<key id="0416153812003131" feature="" npc="마이톤" name="This isn&apos;t even what I asked for. I bet $npcName:11003870[gender:0]$ couldn&apos;t get the right item and sent you so he wouldn&apos;t have to deal with it. You poor sap." />
+	<key id="0416153812003132" feature="" npc="마이톤" name="Well, it&apos;s not your fault. Thanks for trying, anyway. Maybe I can find something to do with this $item:30001128$." />
+	<key id="0416153812003133" feature="" npc="마이톤" name="Welp, I guess I&apos;ll head back to $npcName:11003870[gender:0]$ now..." />
+	<key id="0416153812003134" feature="" npc="마이톤" name="Oh, hang on! Can you help me with something since you&apos;re here?" />
+	<key id="0416153812003135" feature="" npc="pc" name="Ooh, I&apos;d love to but I&apos;m pretty busy..." />
+	<key id="0416153812003136" feature="" npc="pc" name="Ooh, I&apos;d love to..." />
+	<key id="0416153812003137" feature="" npc="마이톤" name="Oh, okay. That&apos;s fine. Yeah, no problem, I&apos;ll just keep working while my daughter grows up without her father, and my wife grows more distant by the day. " />
+	<key id="0416153812003138" feature="" npc="마이톤" name="Really, it&apos;s no trouble at all. Gives me more time to figure out what I&apos;ll tell my daughter when she&apos;s grown and asks what her dad has been doing with his life." />
+	<key id="0416153812003139" feature="" npc="마이톤" name="That&apos;s just being a father for you. Yep, I don&apos;t need any help or anything, really. You go about your urgent business. I&apos;m sure it&apos;s very important. Very. Important." />
+	<key id="0416153812003140" feature="" npc="마이톤" name="..." />
+	<key id="0416153812003141" feature="" npc="pc" name="Ooh, I&apos;d love to..." />
+	<key id="0416153812003142" feature="" npc="마이톤" name="Oh, really? Thanks!" />
+	<key id="0416153812003143" feature="" npc="마이톤" name="Gather up the minerals you find around here and take them to $npcName:11003872[gender:0]$." />
+	<key id="0416153812003144" feature="" npc="마이톤" name="Thanks for helping!" />
+	<key id="0416153812003145" feature="" npc="마이톤" name="Gather up the minerals you find around here and take them to $npcName:11003872[gender:0]$." />
+	<key id="0416153812003146" feature="" npc="베드" name="Who are you, and why are you bringing me minerals? Are you licensed to be moving those around?" />
+	<key id="0416153812003147" feature="" npc="베드" name="I&apos;m doing a favor for $npc:11003871[gender:0]$." />
+	<key id="0416153812003148" feature="" npc="베드" name="Oh, $npc:11003871[gender:0]$ asked you to do it! I&apos;m not surprised he&apos;s trying to pawn his work off like that... Anyway, thanks." />
+	<key id="0416153812003149" feature="" npc="베드" name="So hey, if you&apos;re here in $map:02000424$, that must mean you&apos;re in good with the collective. You must be trustworthy. Diligent." />
+	<key id="0416153812003150" feature="" npc="베드" name="If that&apos;s the case, I look forward to seeing you around here." />
+	<key id="0416153812003151" feature="" npc="베드" name="Uh, yeah! Totally the case. Let&apos;s be buddies!" />
+	<key id="0416153812003152" feature="" npc="베드" name="Well said! It&apos;s been a pleasure... buddy!" />
+	<key id="0416153812003153" feature="" npc="베드" name='&lt;font color=&quot;#909090&quot;&gt;I&apos;d better head back to $npcName:11003870[gender:0]$...&lt;/font&gt;' />
+	<key id="0416153812003154" feature="" npc="베드" name="Fine folks like you are always welcome!" />
+	<key id="0416153812003155" feature="" npc="도날드" name="Yikes, you look exhausted. How&apos;s $map:02000424$ treating you?" />
+	<key id="0416153812003156" feature="" npc="도날드" name="Oh, it&apos;s great. Lots of rocks, and lots of people who... need things." />
+	<key id="0416153812003157" feature="" npc="도날드" name="Ha! Yeah, I heard you&apos;ve been running all over the island. The collective definitely picked you for a reason." />
+	<key id="0416153812003158" feature="" npc="도날드" name="Well you&apos;re certainly welcome anytime! I&apos;m convinced, and that&apos;s good enough for anyone." />
+	<key id="0416153812003159" feature="" npc="도날드" name="Come visit $map:02000424$ any time!" />
+	<key id="0416153812003160" feature="" npc="앤" name="Hello, how are you?" />
+	<key id="0416153812003161" feature="" npc="앤" name="Although most know me as $npcName:11000005[gender:1]$, the Head Librarian of $map:02000031$, I&apos;m also a member of the Alkimi Guild!" />
+	<key id="0416153812003162" feature="" npc="앤" name="I&apos;ve contacted you because the guild has been looking for you. Don&apos;t worry, that&apos;s a good thing!" />
+	<key id="0416153812003163" feature="" npc="앤" name="The guild has recognized your incredible talent for foraging, $MyPCName$, and so they would like to invite you to $map:02000425$." />
+	<key id="0416153812003164" feature="" npc="앤" name="Go to $map:02000069$ in $map:02000062$ and speak to a $npcTitle:11003876$ named $npcName:11003876[gender:1]$. She will arrange your voyage to $map:02000425$." />
+	<key id="0416153812003165" feature="" npc="앤" name="That&apos;s all! I think they wanted me to tell you in person so you wouldn&apos;t think the offer was junk mail." />
+	<key id="0416153812003166" feature="" npc="앤" name='&lt;font color=&quot;#909090&quot;&gt;(You should go to $map:02000062$ and meet $npc:11003876[gender:1]$ at $map:02000069$.)&lt;/font&gt;' />
+	<key id="0416153812003167" feature="" npc="앤" name="...I really wish books didn&apos;t get so dusty." />
+	<key id="0416153812003168" feature="" npc="로아나" name="Oh hey, you&apos;re here! $MyPCName$ right?" />
+	<key id="0416153812003169" feature="" npc="로아나" name="That&apos;s me. So who are these Alkimi Guild people, and why do they want me to come to their island?" />
+	<key id="0416153812003170" feature="" npc="로아나" name="You don&apos;t know? The Alkimi Guild is super into alchemy. I thought they invited you because you&apos;re some kind of herb-gathering hotshot?" />
+	<key id="0416153812003171" feature="" npc="로아나" name="Not just anybody can charter a boat to $map:02000425$, y&apos;know. It&apos;s a real honor to be invited!" />
+	<key id="0416153812003172" feature="" npc="로아나" name="And it&apos;s supposed to be so beautiful there. &lt;b&gt;I&apos;m so jealous you get to go!&lt;/b&gt;" />
+	<key id="0416153812003173" feature="" npc="로아나" name="In any case, I think they&apos;re expecting me to help you arrange a ship to get there.  I don&apos;t mind, of course. I&apos;m at home around ships!" />
+	<key id="0416153812003174" feature="" npc="로아나" name="Time&apos;s wasting, $MyPCName$! To the boat!" />
+	<key id="0416153812003175" feature="" npc="로아나" name="We&apos;re burning daylight! Hustle!" />
+	<key id="0416153812003176" feature="" npc="로아나" name="Alright, we&apos;ll be launching from here for $map:02000425$. Just give us a second to get the ship ship-shape!" />
+	<key id="0416153812003177" feature="" npc="로아나" name="..." />
+	<key id="0416153812003178" feature="" npc="로아나" name="You all set? We&apos;re ready to set sail!" />
+	<key id="0416153812003179" feature="" npc="로아나" name="You can take the ship to $map:02000425$ whenever you want!" />
+	<key id="0416153812003180" feature="" npc="로아나" name="Farewell! And bring back some pictures or something!" />
+	<key id="0416153812003181" feature="" npc="로아나" name="I want to see that beautiful $map:02000425$ scenery!" />
+	<key id="0416153812003182" feature="" npc="로아나" name="Farewell! And bring back some pictures or something! I want to see that beautiful scenery of $map:02000425$!" />
+	<key id="0416153812003183" feature="" npc="마니" name="Hello, and welcome to $map:02000425$." />
+	<key id="0416153812003184" feature="" npc="마니" name="I&apos;m $npcName:11003878[gender:1]$, the caretaker of $map:02000425$. I hope the journey here was no trouble for you." />
+	<key id="0416153812003185" feature="" npc="마니" name="This island belongs to the Alkimi Guild, and is used as an herb sanctuary. We maintain the peace and integrity of this place by limiting who may visit." />
+	<key id="0416153812003186" feature="" npc="마니" name="You were chosen, $MyPCName$, because of your extraordinary talent and appreciation for handling such herbs." />
+	<key id="0416153812003187" feature="" npc="마니" name="Oh, goodness, I just remembered. I was supposed to dispatch lunch to our $npcTitle:11003879$, $npcName:11003879[gender:0]$, but I&apos;m afraid I lost track of the time." />
+	<key id="0416153812003188" feature="" npc="마니" name='Perhaps we can help each other, then? If you &lt;font color=&quot;#ffd200&quot;&gt;deliver the packed lunch&lt;/font&gt;, you can tour the island while correcting my terrible oversight.' />
+	<key id="0416153812003189" feature="" npc="마니" name="This sounds a lot like busywork..." />
+	<key id="0416153812003190" feature="" npc="마니" name="Oh, dear! I would never dream of wasting your time! Let me assure you, I never ask random tasks of my associates. Ever! What favors I ask always have a clear purpose." />
+	<key id="0416153812003191" feature="" npc="마니" name="So then, please deliver this packed lunch to $npcName:11003879[gender:0]$&lt;/font&gt;. I would be forever grateful!" />
+	<key id="0416153812003192" feature="" npc="마니" name='Please deliver &lt;font color=&quot;#ffd200&quot;&gt;$item:30001130$&lt;/font&gt; to &lt;font color=&quot;#ffd200&quot;&gt;$npc:11003879[gender:0]$&lt;/font&gt;. I would be forever grateful!' />
+	<key id="0416153812003193" feature="" npc="안토니우스" name="How may I help you?" />
+	<key id="0416153812003194" feature="" npc="안토니우스" name="Hey, I&apos;ve got this packed lunch for a guy named $npcName:11003879[gender:0]$?" />
+	<key id="0416153812003195" feature="" npc="안토니우스" name="Sigh... $npcName:11003878[gender:1]$ forgot about our lunches again, didn&apos;t she?" />
+	<key id="0416153812003196" feature="" npc="안토니우스" name="Thank you. I was getting hungry and losing faith in ever seeing this lunch. What&apos;s your name?" />
+	<key id="0416153812003197" feature="" npc="안토니우스" name="I&apos;m $MyPCName$." />
+	<key id="0416153812003198" feature="" npc="안토니우스" name="$MyPCName$. Nice." />
+	<key id="0416153812003199" feature="" npc="안토니우스" name="$MyPCName$. You&apos;ve obviously got a good heart. Mind doing me a favor?" />
+	<key id="0416153812003200" feature="" npc="안토니우스" name='Since I&apos;m on my lunch break, could you pull the &lt;font color=&quot;#ffd200&quot;&gt;weeds&lt;/font&gt; around here while I eat?' />
+	<key id="0416153812003201" feature="" npc="안토니우스" name="Couldn&apos;t you just do it after lunch?" />
+	<key id="0416153812003202" feature="" npc="안토니우스" name="I could. If I wolf it down as quick as I can." />
+	<key id="0416153812003203" feature="" npc="안토니우스" name="But you saw this lunch, right? Surely you can appreciate its delectable flavors and aromas. I want to savor it while I can." />
+	<key id="0416153812003204" feature="" npc="안토니우스" name="Fine, fine, just stop talking. You&apos;re making me hungry." />
+	<key id="0416153812003205" feature="" npc="안토니우스" name="I really appreciate this. I never get to enjoy my lunches!" />
+	<key id="0416153812003206" feature="" npc="안토니우스" name="Om nom..." />
+	<key id="0416153812003207" feature="" npc="안토니우스" name="$npc:11003879[gender:0]$ is really going at that lunch..." />
+	<key id="0416153812003208" feature="" npc="안토니우스" name="Looks like you&apos;ve finished your lunch." />
+	<key id="0416153812003209" feature="" npc="안토니우스" name="Mm, worth every bite! I can&apos;t thank you enough for giving me the time to relax for once." />
+	<key id="0416153812003210" feature="" npc="안토니우스" name="Here, I&apos;ve wiped the lunch box clean. Please return it to $npcName:11003878[gender:1]$ for me." />
+	<key id="0416153812003211" feature="" npc="안토니우스" name='&lt;font color=&quot;#909090&quot;&gt;(Looks like you&apos;re going back to $npc:11003878[gender:1]$.)&lt;/font&gt;' />
+	<key id="0416153812003212" feature="" npc="안토니우스" name="You&apos;re a real hero, my friend! Have a safe trip back!" />
+	<key id="0416153812003213" feature="" npc="안토니우스" name="I&apos;m stuffed. It&apos;s been too long since I really enjoyed a meal." />
+	<key id="0416153812003214" feature="" npc="마니" name='&lt;font color=&quot;#909090&quot;&gt;(You return the empty lunch box to $npc:11003878[gender:1]$.)&lt;/font&gt;' />
+	<key id="0416153812003215" feature="" npc="마니" name="So, what do you think of $map:02000425$?" />
+	<key id="0416153812003216" feature="" npc="마니" name="It&apos;s a very beautiful island." />
+	<key id="0416153812003217" feature="" npc="마니" name="It is. Very beautiful indeed." />
+	<key id="0416153812003218" feature="" npc="마니" name="I saw you pulling weeds for $npcName:11003879[gender:0]$. I didn&apos;t expect you to be so gracious with your time. I see we chose well in inviting you to come here. Consider yourself welcome to avail yourself to the bounties of the island at any time!" />
+	<key id="0416153812003219" feature="" npc="마니" name="This isn&apos;t much, but you deserve something for your trouble. Hope you enjoy it." />
+</ms2>

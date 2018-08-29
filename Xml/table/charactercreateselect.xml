@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<group name="data">
+		<list jobCode="1" movie="Common/jobPreview_00.usm" descKey="2" feature="" />
+		<list jobCode="10" movie="Common/jobPreview_10.usm" descKey="11" feature="" />
+		<list jobCode="20" movie="Common/jobPreview_20.usm" descKey="21" feature="" />
+		<list jobCode="30" movie="Common/jobPreview_30.usm" descKey="31" feature="" />
+		<list jobCode="40" movie="Common/jobPreview_40.usm" descKey="41" feature="" />
+		<list jobCode="50" movie="Common/jobPreview_50.usm" descKey="51" feature="" />
+		<list jobCode="60" movie="Common/jobPreview_60.usm" descKey="61" feature="" />
+		<list jobCode="70" movie="Common/jobPreview_70.usm" descKey="71" feature="" />
+		<list jobCode="80" movie="Common/jobPreview_80.usm" descKey="81" feature="" />
+	</group>
+	<group name="display">
+		<list order="10, 20, 30, 40, 50, 60, 70, 80" disableJobCode="" selectJobCode="10" feature="Season1" />
+	</group>
+	<group name="display" locale="CN">
+		<list order="10, 20, 30, 40, 50, 60, 70, 80" disableJobCode="" selectJobCode="10" feature="Season1" />
+	</group>
+	<group name="display" locale="NA">
+		<list order="10, 20, 30, 40, 50, 60, 70, 80" disableJobCode="" selectJobCode="10" feature="Season1" />
+	</group>
+</ms2>

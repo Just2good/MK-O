@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<effect id="70900001" Effect="CH/EffectBadge/Eff_EffectBadge_PioneerLight_A01.xml" feature="AdventureLevel" />
+	<effect id="70900002" Effect="CH/EffectBadge/Eff_EffectBadge_GameMeister_A01.xml" feature="AdventureLevel" />
+</ms2>

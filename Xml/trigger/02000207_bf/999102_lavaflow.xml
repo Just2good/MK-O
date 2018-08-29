@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2> 
+ 
+	<state name="전투체크">
+			<condition name="몬스터가전투상태면" arg1="2001">
+					<transition state="대기" />			
+			</condition>					
+	</state>  
+
+	<state name="대기">
+		<onEnter> 
+			<action name="이펙트를설정한다" arg1="600" arg2="0" />	
+		</onEnter>			
+				<condition name="UserValue" key="LavaflowHigh" value="1"> <!-- 자쿰 팔이 제거될 때 LavaflowHigh 혹은 LavaflowLow 신호를 보내서 이 부분 작동하게 됨-->
+					<transition state="3칸분기" />
+				</condition>			
+				<condition name="UserValue" key="LavaflowLow" value="1"> <!-- 자쿰 팔이 제거될 때 LavaflowHigh 혹은 LavaflowLow 신호를 보내서 이 부분 작동하게 됨-->
+					<transition state="2칸분기" />
+				</condition>	
+					
+				
+				<condition name="UserValue" key="BattleEnd2" value="1"> <!-- BattleEnd2 변수는 보스 생성쪽 트리거 설정 xml 에서 보스가 죽을 경우 BattleEnd2 = 1 설정되어서 넘어오는 것임 -->
+					<transition state="종료" />
+				</condition>					
+	</state>     	
+	
+	
+	<state name="3칸분기">  <!--  팔이 파괴될 때 용암이 올라오는데, 팔이 연속으로 파괴 될 때 용암이 올라오고 성우 음성 겹치고 용암이 2연속 바로 올라오는 것이 어색해서 겹치지 않게 쿨타임 설정은 몬스터AI 하였음-->
+		<onEnter>	
+			<action name="SetUserValue" triggerID="999102" key="LavaflowHigh" value="0"/>			
+			<action name="이펙트를설정한다" arg1="600" arg2="1" />			
+			<action name="몬스터를생성한다" arg1="1001" arg2="0" />				
+			<action name="NPC를이동시킨다" arg1="1001" arg2="MS2PatrolData_1001A" /> <!--  MS2PatrolData_1001A  이것이 용암 2층까지 올라오게 하는 설정값-->
+		</onEnter>						
+				<condition name="랜덤조건" arg1="52">  <!--  용암이 2층까지 올라오는 확률은 약간 더 높게 설정-->
+					<transition state="3칸이동" />
+				</condition>		
+				<condition name="랜덤조건" arg1="48">
+					<transition state="리턴" />
+				</condition>				
+				<condition name="UserValue" key="BattleEnd2" value="1">
+					<transition state="종료" />
+				</condition>					
+	</state>
+
+	<state name="3칸이동">
+		<onEnter>	
+			<action name="NPC를이동시킨다" arg1="1001" arg2="MS2PatrolData_1001A" />
+		</onEnter>						
+				<condition name="WaitTick" waitTick="28000" >
+					<transition state="리턴" />
+				</condition>
+				<condition name="UserValue" key="BattleEnd2" value="1">
+					<transition state="종료" />
+				</condition>					
+	</state>			
+
+	<state name="2칸분기">
+		<onEnter>	
+			<action name="SetUserValue" triggerID="999102" key="LavaflowLow" value="0"/>				
+			<action name="이펙트를설정한다" arg1="600" arg2="1" />			
+			<action name="몬스터를생성한다" arg1="1001" arg2="0" />					
+			<action name="NPC를이동시킨다" arg1="1001" arg2="MS2PatrolData_1001A" /> <!--  MS2PatrolData_1001B  이것이 용암 1층까지 올라오게 하는 설정값-->
+		</onEnter>						
+				<condition name="랜덤조건" arg1="99">   <!--  용암이 1층까지 올라오는 확률은 엄청 높게 설정-->
+					<transition state="2칸이동" />
+				</condition>		
+				<condition name="랜덤조건" arg1="1">
+					<transition state="리턴" />
+				</condition>	
+				<condition name="UserValue" key="BattleEnd2" value="1">
+					<transition state="종료" />
+				</condition>					
+	</state>		
+	
+	<state name="2칸이동">
+		<onEnter>				
+			<action name="NPC를이동시킨다" arg1="1001" arg2="MS2PatrolData_1001A" />
+		</onEnter>						
+				<condition name="WaitTick" waitTick="20000" >
+					<transition state="리턴" />
+				</condition>
+				<condition name="UserValue" key="BattleEnd2" value="1">
+					<transition state="종료" />
+				</condition>					
+	</state>	
+	
+	<state name="리턴">  <!-- 자쿰팔 파괴에 의해 용암이 올라온 경우를 제거하는 부분임-->
+		<onEnter>	
+			<action name="NPC를이동시킨다" arg1="1001" arg2="MS2PatrolData_1001C" />
+		</onEnter>		
+				<condition name="WaitTick" waitTick="5000" >
+					<action name="몬스터소멸시킨다" arg1="1001" />				
+					<transition state="대기" />
+				</condition>
+	</state>
+	
+	
+
+	
+
+
+	
+    <state name="종료">
+		<onEnter>	
+			<action name="몬스터소멸시킨다" arg1="1001" />				
+		</onEnter>		
+    </state>	
+	
+</ms2>

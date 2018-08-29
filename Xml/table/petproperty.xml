@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<pets code="60000001" collectGroupId="900" isCollectPreview="0" npcID="60000001" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000002" collectGroupId="900" isCollectPreview="0" npcID="60000002" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000003" collectGroupId="900" isCollectPreview="0" npcID="60000003" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000004" collectGroupId="900" isCollectPreview="0" npcID="60000004" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000005" collectGroupId="900" isCollectPreview="0" npcID="60000005" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000006" collectGroupId="900" isCollectPreview="0" npcID="60000006" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000007" collectGroupId="900" isCollectPreview="0" npcID="60000007" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000008" collectGroupId="900" isCollectPreview="0" npcID="60000008" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000009" collectGroupId="900" isCollectPreview="0" npcID="60000009" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000010" collectGroupId="900" isCollectPreview="0" npcID="60000010" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000011" collectGroupId="900" isCollectPreview="0" npcID="60000011" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000012" collectGroupId="900" isCollectPreview="0" npcID="60000012" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000013" collectGroupId="900" isCollectPreview="0" npcID="60000013" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000014" collectGroupId="900" isCollectPreview="0" npcID="60000014" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000015" collectGroupId="900" isCollectPreview="0" npcID="60000015" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000016" collectGroupId="900" isCollectPreview="0" npcID="60000016" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000017" collectGroupId="900" isCollectPreview="0" npcID="60000017" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000018" collectGroupId="900" isCollectPreview="0" npcID="60000018" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000019" collectGroupId="900" isCollectPreview="0" npcID="60000019" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000020" collectGroupId="900" isCollectPreview="0" npcID="60000020" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000021" collectGroupId="900" isCollectPreview="0" npcID="60000021" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000022" collectGroupId="900" isCollectPreview="0" npcID="60000022" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000023" collectGroupId="900" isCollectPreview="0" npcID="60000023" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000024" collectGroupId="900" isCollectPreview="0" npcID="60000024" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000025" collectGroupId="900" isCollectPreview="0" npcID="60000025" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000026" collectGroupId="900" isCollectPreview="0" npcID="60000026" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000027" collectGroupId="900" isCollectPreview="0" npcID="60000027" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000028" collectGroupId="900" isCollectPreview="0" npcID="60000028" constantOptionFactor="1" slotNum="28" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000029" collectGroupId="900" isCollectPreview="0" npcID="60000029" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000030" collectGroupId="900" isCollectPreview="0" npcID="60000030" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000031" collectGroupId="900" isCollectPreview="0" npcID="60000031" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000032" collectGroupId="900" isCollectPreview="0" npcID="60000032" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000033" collectGroupId="900" isCollectPreview="0" npcID="60000033" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000034" collectGroupId="900" isCollectPreview="0" npcID="60000034" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000035" collectGroupId="900" isCollectPreview="0" npcID="60000035" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000036" collectGroupId="900" isCollectPreview="0" npcID="60000036" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000037" collectGroupId="900" isCollectPreview="0" npcID="60000037" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000041" collectGroupId="900" isCollectPreview="0" npcID="60000041" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000042" collectGroupId="900" isCollectPreview="0" npcID="60000042" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000043" collectGroupId="900" isCollectPreview="0" npcID="60000043" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000044" collectGroupId="900" isCollectPreview="0" npcID="60000044" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000045" collectGroupId="900" isCollectPreview="0" npcID="60000045" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000046" collectGroupId="900" isCollectPreview="0" npcID="60000046" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000047" collectGroupId="900" isCollectPreview="0" npcID="60000047" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000048" collectGroupId="900" isCollectPreview="0" npcID="60000048" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000049" collectGroupId="900" isCollectPreview="0" npcID="60000049" constantOptionFactor="1" slotNum="14" nameTagOffsetY="50" warpDistance="1200" traceDistance="300">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000002" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000002" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000005" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000005" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000007" type="1" collectGroupId="4" isCollectPreview="1" tamingGroupID="1" npcID="61000007" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000009" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000009" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000016" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000016" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000018" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000018" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000019" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000019" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000026" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000026" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000029" type="1" collectGroupId="7" isCollectPreview="1" tamingGroupID="1" npcID="61000029" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="60" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000033" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000033" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000041" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000041" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="100" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000046" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000046" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000047" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000047" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000057" type="1" collectGroupId="" isCollectPreview="0" npcID="61000057" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000059" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000059" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000067" type="1" collectGroupId="10" isCollectPreview="1" tamingGroupID="1" npcID="61000067" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000077" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000077" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000079" type="1" collectGroupId="100" isCollectPreview="1" npcID="61000079" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000084" type="1" collectGroupId="12" isCollectPreview="1" tamingGroupID="1" npcID="61000084" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="68" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000096" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000096" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000097" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000097" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000098" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000098" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000099" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000099" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000100" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000100" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="75" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000152" type="1" collectGroupId="900" isCollectPreview="0" tamingGroupID="1" npcID="61000152" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100010" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100010" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100020" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100020" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="65" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100030" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100030" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100040" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100040" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="30" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100050" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100050" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100060" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100060" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100090" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100090" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61200001" type="1" collectGroupId="900" isCollectPreview="0" npcID="61200001" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="SurvivalContents01">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000011" type="1" collectGroupId="100" isCollectPreview="1" npcID="62000011" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="KR">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000013" type="1" collectGroupId="100" isCollectPreview="1" npcID="62000013" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="KR">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000002" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000002" itemIDs="61000002,61000002,61000002,61000002,61000002,61020002" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000005" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000005" itemIDs="61000005,61000005,61000005,61000005,61000005,61020005" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000007" type="1" collectGroupId="4" isCollectPreview="1" tamingGroupID="1" npcID="61000007" itemIDs="61000007,61000007,61000007,61000007,61000007,61020007" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000009" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000009" itemIDs="61000009,61000009,61000009,61000009,61000009,61020009" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000016" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000016" itemIDs="61000016,61000016,61000016,61000016,61000016,61020016" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000018" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000018" itemIDs="61000018,61000018,61000018,61000018,61000018,61020018" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000019" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000019" itemIDs="61000019,61000019,61000019,61000019,61000019,61020019" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000026" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000026" itemIDs="61000026,61000026,61000026,61000026,61000026,61020026" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000029" type="1" collectGroupId="7" isCollectPreview="1" tamingGroupID="1" npcID="61000029" itemIDs="61000029,61000029,61000029,61000029,61000029,61020029" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="60" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000033" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000033" itemIDs="61000033,61000033,61000033,61000033,61000033,61020033" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000041" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000041" itemIDs="61000041,61000041,61000041,61000041,61000041,61020041" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="100" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000046" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000046" itemIDs="61000046,61000046,61000046,61000046,61000046,61020046" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000047" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000047" itemIDs="61000047,61000047,61000047,61000047,61000047,61020047" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000057" type="1" collectGroupId="" isCollectPreview="0" npcID="61000057" itemIDs="61000057,61000057,61000057,61000057,61000057,61020057" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000059" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000059" itemIDs="61000059,61000059,61000059,61000059,61000059,61020059" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000067" type="1" collectGroupId="10" isCollectPreview="1" tamingGroupID="1" npcID="61000067" itemIDs="61000067,61000067,61000067,61000067,61000067,61020067" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000077" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000077" itemIDs="61000077,61000077,61000077,61000077,61000077,61020077" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000079" type="1" collectGroupId="100" isCollectPreview="1" npcID="61000079" itemIDs="61000079,61000079,61000079,61000079,61000079,61020079" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000084" type="1" collectGroupId="12" isCollectPreview="1" tamingGroupID="1" npcID="61000084" itemIDs="61000084,61000084,61000084,61000084,61000084,61020084" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="68" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000096" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000096" itemIDs="61000096,61000096,61000096,61000096,61000096,61020096" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000097" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000097" itemIDs="61000097,61000097,61000097,61000097,61000097,61020097" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000098" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000098" itemIDs="61000098,61000098,61000098,61000098,61000098,61020098" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000099" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000099" itemIDs="61000099,61000099,61000099,61000099,61000099,61020099" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000100" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000100" itemIDs="61000100,61000100,61000100,61000100,61000100,61020100" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="75" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000152" type="1" collectGroupId="900" isCollectPreview="0" tamingGroupID="1" npcID="61000152" itemIDs="61000152,61000152,61000152,61000152,61000152,61020152" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100010" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100010" itemIDs="61100010,61100010,61100010,61100010,61100010,61120010" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100020" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100020" itemIDs="61100020,61100020,61100020,61100020,61100020,61120020" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="65" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100030" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100030" itemIDs="61100030,61100030,61100030,61100030,61100030,61120030" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100040" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100040" itemIDs="61100040,61100040,61100040,61100040,61100040,61120040" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="30" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100050" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100050" itemIDs="61100050,61100050,61100050,61100050,61100050,61120050" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100060" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100060" itemIDs="61100060,61100060,61100060,61100060,61100060,61120060" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100090" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100090" itemIDs="61100090,61100090,61100090,61100090,61100090,61120090" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61200001" type="1" collectGroupId="900" isCollectPreview="0" npcID="61200001" itemIDs="61200001,61200001,61200001,61200001,61200001,61220001" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="SurvivalContents01" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000011" type="1" collectGroupId="100" isCollectPreview="1" npcID="62000011" itemIDs="62000011,62000011,62000011,62000011,62000011,62020011" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000013" type="1" collectGroupId="100" isCollectPreview="1" npcID="62000013" itemIDs="62000013,62000013,62000013,62000013,62000013,62020013" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62900001" type="0" collectGroupId="900" isCollectPreview="0" npcID="62900001" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200" feature="PetBase">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62900002" type="1" collectGroupId="100" isCollectPreview="1" npcID="62900002" itemIDs="62900002,62900002,62900002,62900002,62900002,62920002" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="CN">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000002" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000002" itemIDs="61000002,61000002,61000002,61000002,61000002,61020002" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000005" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000005" itemIDs="61000005,61000005,61000005,61000005,61000005,61020005" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000007" type="1" collectGroupId="4" isCollectPreview="1" tamingGroupID="1" npcID="61000007" itemIDs="61000007,61000007,61000007,61000007,61000007,61020007" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000009" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000009" itemIDs="61000009,61000009,61000009,61000009,61000009,61020009" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000016" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000016" itemIDs="61000016,61000016,61000016,61000016,61000016,61020016" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000018" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000018" itemIDs="61000018,61000018,61000018,61000018,61000018,61020018" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000019" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000019" itemIDs="61000019,61000019,61000019,61000019,61000019,61020019" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000026" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000026" itemIDs="61000026,61000026,61000026,61000026,61000026,61020026" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000029" type="1" collectGroupId="7" isCollectPreview="1" tamingGroupID="1" npcID="61000029" itemIDs="61000029,61000029,61000029,61000029,61000029,61020029" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="60" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000033" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000033" itemIDs="61000033,61000033,61000033,61000033,61000033,61020033" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000041" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000041" itemIDs="61000041,61000041,61000041,61000041,61000041,61020041" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="100" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000046" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000046" itemIDs="61000046,61000046,61000046,61000046,61000046,61020046" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000047" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000047" itemIDs="61000047,61000047,61000047,61000047,61000047,61020047" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000059" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000059" itemIDs="61000059,61000059,61000059,61000059,61000059,61020059" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000067" type="1" collectGroupId="10" isCollectPreview="1" tamingGroupID="1" npcID="61000067" itemIDs="61000067,61000067,61000067,61000067,61000067,61020067" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetList_Taming" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000077" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000077" itemIDs="61000077,61000077,61000077,61000077,61000077,61020077" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000079" type="1" collectGroupId="100" isCollectPreview="1" npcID="61000079" itemIDs="61000079,61000079,61000079,61000079,61000079,61020079" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000084" type="1" collectGroupId="12" isCollectPreview="1" tamingGroupID="1" npcID="61000084" itemIDs="61000084,61000084,61000084,61000084,61000084,61020084" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="68" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000096" type="1" collectGroupId="3" isCollectPreview="1" tamingGroupID="1" npcID="61000096" itemIDs="61000096,61000096,61000096,61000096,61000096,61020096" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000097" type="1" collectGroupId="2" isCollectPreview="1" tamingGroupID="1" npcID="61000097" itemIDs="61000097,61000097,61000097,61000097,61000097,61020097" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000098" type="1" collectGroupId="6" isCollectPreview="1" tamingGroupID="1" npcID="61000098" itemIDs="61000098,61000098,61000098,61000098,61000098,61020098" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="85" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000099" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000099" itemIDs="61000099,61000099,61000099,61000099,61000099,61020099" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000100" type="1" collectGroupId="8" isCollectPreview="1" tamingGroupID="1" npcID="61000100" itemIDs="61000100,61000100,61000100,61000100,61000100,61020100" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="75" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61000152" type="1" collectGroupId="900" isCollectPreview="0" tamingGroupID="1" npcID="61000152" itemIDs="61000152,61000152,61000152,61000152,61000152,61020152" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100010" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100010" itemIDs="61100010,61100010,61100010,61100010,61100010,61120010" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="70" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100020" type="1" collectGroupId="100" isCollectPreview="0" npcID="61100020" itemIDs="61100020,61100020,61100020,61100020,61100020,61120020" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="65" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100030" type="1" collectGroupId="100" isCollectPreview="0" npcID="61100030" itemIDs="61100030,61100030,61100030,61100030,61100030,61120030" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="0" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100040" type="1" collectGroupId="100" isCollectPreview="0" npcID="61100040" itemIDs="61100040,61100040,61100040,61100040,61100040,61120040" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="30" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100050" type="1" collectGroupId="100" isCollectPreview="1" npcID="61100050" itemIDs="61100050,61100050,61100050,61100050,61100050,61120050" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100060" type="1" collectGroupId="100" isCollectPreview="0" npcID="61100060" itemIDs="61100060,61100060,61100060,61100060,61100060,61120060" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61100090" type="1" collectGroupId="100" isCollectPreview="0" npcID="61100090" itemIDs="61100090,61100090,61100090,61100090,61100090,61120090" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetUpdate01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="61200001" type="1" collectGroupId="900" isCollectPreview="0" npcID="61200001" itemIDs="61000153,61000153,61000153,61000153,61000153,61000153" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="SurvivalContents01" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000011" type="1" collectGroupId="100" isCollectPreview="0" npcID="62000011" itemIDs="62000011,62000011,62000011,62000011,62000011,62020011" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62000013" type="1" collectGroupId="100" isCollectPreview="0" npcID="62000013" itemIDs="62000013,62000013,62000013,62000013,62000013,62020013" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="62900002" type="1" collectGroupId="100" isCollectPreview="0" npcID="62900002" itemIDs="62900002,62900002,62900002,62900002,62900002,62920002" optionLevel="50" constantOptionFactor="1" tamingAiPresets="default" slotNum="0" nameTagOffsetY="78" warpDistance="3000" traceDistance="300" battleTraceDistance="5000" feature="PetBattle" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000013" collectGroupId="900" isCollectPreview="1" npcID="60000013" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000014" collectGroupId="900" isCollectPreview="1" npcID="60000014" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000016" collectGroupId="900" isCollectPreview="1" npcID="60000016" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+	<pets code="60000031" collectGroupId="900" isCollectPreview="1" npcID="60000031" constantOptionFactor="1" slotNum="14" warpDistance="1200" traceDistance="200" locale="NA">
+		<skill id="0" level="0" />
+	</pets>
+</ms2>

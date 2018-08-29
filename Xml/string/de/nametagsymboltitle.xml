@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="0" name="Keine Insignien" feature="Season1" />
+  <key id="11" name="Veteran" feature="Season1" />
+  <key id="1" name="Kraftverzauberer" feature="Season1" />
+  <key id="2" name="Stardesigner" feature="Season1" />
+  <key id="3" name="Wahrer Champion" feature="Season1" />
+  <key id="4" name="Meisterarchitekt" feature="Season1" />
+  <key id="5" name="Trophäenfreak" feature="Season1" />
+  <key id="6" name="Angelchampion" feature="Fishing" />
+  <key id="7" name="Maestro" feature="MusicInstrument" />
+  <key id="8" name="NAMETAGSYMBOLTITLE_8_NAME:[F]Balrogitem3rd" feature="Balrogitem3rd" />
+  <key id="12" name="Premium-Service" feature="VIP" />
+  <key id="15" name="Zakum-Bezwinger" feature="Zakum01" />
+  <key id="19" name="NAMETAGSYMBOLTITLE_19_NAME:[F]ItemMerge" feature="ItemMerge" />
+  <key id="20" name="NAMETAGSYMBOLTITLE_20_NAME:[F]ItemMerge" feature="ItemMerge" />
+  <key id="21" name="NAMETAGSYMBOLTITLE_21_NAME:[F]ItemMerge" feature="ItemMerge" />
+  <key id="22" name="Krieger des Lichts" />
+  <key id="24" name="The One Who Returned" feature="Mentoring" />
+  <key id="26" name="NAMETAGSYMBOLTITLE_26_NAME:[F]FameContents" feature="FameContents" />
+  <key id="27" name="Golden Flame Butterfly" feature="LunaYear2018" />
+  <key id="28" name="Pilzkönig Royale" feature="SurvivalContents01" />
+  <key id="29" name="Wahrer Abenteurer" feature="AdventureLevel" />
+  <key id="30" name="NAMETAGSYMBOLTITLE_30_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="33" name="Insignie des Gründers" locale="NA" />
+  <key id="34" name="Pilzkönig-Meister" feature="SurvivalContents03" locale="NA" />
+</ms2>

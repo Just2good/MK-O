@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<v level="1" area="4" price="0" value="" />
+	<v level="2" area="5" price="1000" value="" />
+	<v level="3" area="6" price="2000" value="" />
+	<v level="4" area="7" price="3000" value="" />
+	<v level="5" area="8" price="5000" value="" />
+	<v level="6" area="9" price="7000" value="" />
+	<v level="7" area="10" price="10000" value="" />
+	<v level="8" area="11" price="20000" value="" />
+	<v level="9" area="12" price="30000" value="" />
+	<v level="10" area="13" price="50000" value="21100051,1" />
+	<v level="11" area="14" price="70000" value="21100051,1" />
+	<v level="12" area="15" price="100000" value="21100051,1" />
+	<v level="13" area="16" price="200000" value="21100051,2" />
+	<v level="14" area="17" price="300000" value="21100051,2" />
+	<v level="15" area="18" price="500000" value="21100051,2" />
+	<v level="16" area="19" price="700000" value="21100051,3" />
+	<v level="17" area="20" price="1000000" value="21100051,3" />
+	<v level="18" area="21" price="1200000" value="21100051,3" />
+	<v level="19" area="22" price="1300000" value="21100051,4" />
+	<v level="20" area="23" price="1500000" value="21100051,4" />
+	<v level="21" area="24" price="1700000" value="21100051,4" />
+	<v level="22" area="25" price="2000000" value="21100051,5" />
+</ms2>

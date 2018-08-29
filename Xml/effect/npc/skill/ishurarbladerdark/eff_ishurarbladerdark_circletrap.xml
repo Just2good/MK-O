@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <!-- 마법진 활성화 전 2초전에 예시 바닥 이펙트 -->
+  <effect type="nif" filePath="NPC/Skill/StatueHuman/Eff_StatueHuman_Lightning_Ready.nif" startDelay="0.0" duration="2.1" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.45" />
+  </effect>
+  
+  <!-- 마법진 활성화 바닥 이펙트 -->
+  <!-- 바닥폭발 반지름 250-->
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Cast.nif" startDelay="2.0" duration="45.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.7" />
+  </effect>
+  <!-- 바닥폭발 최대 15초까지 유지할수도-->
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="2.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="3.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="4.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="5.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="6.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="7.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="8.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="9.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="10.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="11.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="12.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="13.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <effect type="nif" filePath="NPC/Skill/RobotCircleCoreBlue/Eff_RobotCircleCoreBlue_Air_Attack_03_A_Bottom_Explode.nif" startDelay="14.0" duration="2.0" viewDistance="0">
+    <attachInfo attachToNode="false" applyNodeTransform="true" parentNode="Scene Root" onGround="true" />
+    <transform translate="0.0, 0.0, 0.0" rotation="0.0, 0.0, 0.0" scale="1.6" />
+  </effect>
+  <!-- viewDistance="0"   이거 넣으면 거리가 아무리 멀어도 이펙트 무조건 출력하기 -->
+  <effect type="soundEvent" group="MS2Sound/Sound/Mob" event="06100638" startDelay="0.0" doNotStop="true">
+    <attachInfo attachToNode="false" applyNodeTransform="false" parentNode="Scene Root" />
+  </effect>
+</ms2>

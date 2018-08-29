@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<quest id="80020001">
+		<script id="100" feature="" locale="">
+			<content text="$script:0628212818002889$" />
+			<content text="$script:0628212818002890$" />
+			<content text="$script:0628212818002891$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0628212818002892$" />
+		</script>
+	</quest>
+	<quest id="80020002">
+		<script id="100" feature="" locale="">
+			<content text="$script:0628212818002893$" />
+		</script>
+		<script id="200" feature="" locale="">
+			<content text="$script:0628212818002894$" />
+		</script>
+		<script id="300" feature="" locale="">
+			<content text="$script:0628212818002895$" />
+		</script>
+	</quest>
+</ms2>

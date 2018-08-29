@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="0628212818002889" feature="" npc="루비" name="$MyPCName$, $MyPCName$! Have you heard of Rainbow Slimes? Err... They&apos;re sort of like regular slimes, but rainbow-colored, and with wings! And they&apos;re soooo cute!" />
+	<key id="0628212818002890" feature="" npc="루비" name="I&apos;m asking because I found a lost slime in need of a good home. It may look kind of plain right now, but it will grow into its radiant rainbow hue! $MyPCName$, do you think you&apos;d be willing to look after it?" />
+	<key id="0628212818002891" feature="" npc="루비" name="There&apos;s one teensy-weensy catch, and that&apos;s that rainbow slimes are sort of picky eaters. But don&apos;t fret! You can get up to 5 $itemPlural:20301497$ per day just by hanging out in Maple World! Oh, and if you play with someone else&apos;s Rainbow Slime, they&apos;ll share up to 3 additional feed with you!" />
+	<key id="0628212818002892" feature="" npc="루비" name="Here&apos;s a $item:50400282$. Place it in your home and raise your very own slime! Just remember to feed it and give it lots of hugs!" />
+	<key id="0628212818002893" feature="" npc="루비" name="Just place that $item:50400282$ I gave you in your home. The slimes all start out green, but as you fill it with love and lots of delicious $itemPlural:20301497$, it will turn into a beautiful rainbow color!" />
+	<key id="0628212818002894" feature="" npc="루비" name="$npcPlural:50400282$ are so squishy and adorable. Place that $item:50400282$ in your home so you can give yours a squeeze!" />
+	<key id="0628212818002895" feature="" npc="루비" name="Here&apos;s some delicious, nutritious $itemPlural:20301497$. Give it to your hungry $npc:50400282$ so the poor thing doesn&apos;t starve!" />
+</ms2>

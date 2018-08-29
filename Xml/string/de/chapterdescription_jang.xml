@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <chapter id="1000" name="Das Leben des Jeremy" isTutorial="" regionID="" />
+  <chapter id="1001" name="Kobras im Wutrausch" isTutorial="" regionID="" />
+  <chapter id="1002" name="Manus Zeitkapsel" isTutorial="" regionID="" />
+  <chapter id="1003" name="Walko und seine Freunde" isTutorial="" regionID="" />
+  <chapter id="1004" name="Das Geständnis eines Unruhestifters" isTutorial="" regionID="" />
+  <chapter id="1005" name="Schweißausbruch" isTutorial="" regionID="" />
+  <chapter id="1006" name="Verwöhnt mit Krabbenfleisch" isTutorial="" regionID="" />
+  <chapter id="1007" name="Auch Schweinchen träumen" isTutorial="" regionID="" />
+  <chapter id="1008" name="Katzenhochzeit" isTutorial="" regionID="" />
+  <chapter id="1009" name="Für die Umwelt" isTutorial="" regionID="" />
+  <chapter id="1010" name="Unorthodoxe Forschung" isTutorial="" regionID="" />
+  <chapter id="1011" name="Eine Botschaft an die Sterne" isTutorial="" regionID="" />
+  <chapter id="1012" name="Die Kletterer" isTutorial="" regionID="" />
+  <chapter id="1013" name="Medizin ist auf dem Weg" isTutorial="" regionID="" />
+  <chapter id="1014" name="Die Falle schnappt zu" isTutorial="" regionID="" />
+  <chapter id="1015" name="Baum sucht Freund" isTutorial="" regionID="" />
+  <chapter id="1016" name="Paparazzi" isTutorial="" regionID="" />
+  <chapter id="1017" name="Das schwere Geschäft mit Ballons" isTutorial="" regionID="" />
+  <chapter id="1018" name="Der vermisste Onkel" isTutorial="" regionID="" />
+  <chapter id="1019" name="Im Namen der Kunst" isTutorial="" regionID="" />
+  <chapter id="1020" name="Bis zum Wadenkrampf" isTutorial="" regionID="" />
+  <chapter id="1021" name="Wie man den Markt beherrscht" isTutorial="" regionID="" />
+  <chapter id="1022" name="Die Stellung halten" isTutorial="" regionID="" />
+  <chapter id="1023" name="Spinnenalbtraum" isTutorial="" regionID="" />
+  <chapter id="1024" name="Könige von Kerningstadt" isTutorial="" regionID="" />
+  <chapter id="1025" name="Das Chaos liebende Monster" isTutorial="" regionID="" />
+  <chapter id="1026" name="Tanz der Kakteen" isTutorial="" regionID="" />
+  <chapter id="1027" name="Regen, Regen und nochmals Regen" isTutorial="" regionID="" />
+  <chapter id="1028" name="Wer oder was ist TELI?" isTutorial="" regionID="" />
+  <chapter id="1029" name="Die Macht der Lava" isTutorial="" regionID="" />
+  <chapter id="1030" name="Höhlenforschung" isTutorial="" regionID="" />
+  <chapter id="1031" name="Attrappe" isTutorial="" regionID="" />
+  <chapter id="1032" name="Die Familie Kio" isTutorial="" regionID="" />
+  <chapter id="1033" name="Abscheuliche Experimente" isTutorial="" regionID="" />
+  <chapter id="1034" name="Flammen der Rache" isTutorial="" regionID="" />
+  <chapter id="1035" name="Störung der Privatsphäre" isTutorial="" regionID="" />
+  <chapter id="1036" name="Die Vollmondnacht" isTutorial="" regionID="" />
+  <chapter id="1037" name="Der Sohn des Ältesten" isTutorial="" regionID="" />
+  <chapter id="1038" name="Schleier der Stille" isTutorial="" regionID="" />
+  <chapter id="1039" name="Bericht eines Helden" isTutorial="" regionID="" />
+  <chapter id="1040" name="Codename: S-NX1390" isTutorial="" regionID="" />
+  <chapter id="1041" name="Gefährliche Forschung" isTutorial="" regionID="" />
+  <chapter id="1042" name="Das Pulverfass" isTutorial="" regionID="" />
+  <chapter id="1043" name="Der letzte Versuch" isTutorial="" regionID="" />
+  <chapter id="1044" name="Mutterinstinkte" isTutorial="" regionID="" />
+  <chapter id="1045" name="Eine traurige Vorahnung" isTutorial="" regionID="" />
+  <chapter id="1046" name="Ernten, was andere säen" isTutorial="" regionID="" />
+  <chapter id="1047" name="Ein unheilvoller Traum" isTutorial="" regionID="" />
+  <chapter id="1048" name="Spurlos verschwunden" isTutorial="" regionID="" />
+  <chapter id="1049" name="Schwere Zeiten" isTutorial="" regionID="" />
+  <chapter id="1050" name="Die Belagerung" isTutorial="" regionID="" />
+  <chapter id="1051" name="Der Maestro" isTutorial="" regionID="" />
+  <chapter id="1052" name="Eine Glaubensfrage" isTutorial="" regionID="" />
+  <chapter id="1053" name="Vaterliebe" isTutorial="" regionID="" />
+  <chapter id="1054" name="Der Meister" isTutorial="" regionID="" />
+  <chapter id="1055" name="777 Tage des Gebets" isTutorial="" regionID="" />
+  <chapter id="1056" name="Das Alter ist auch nur eine Zahl" isTutorial="" regionID="" />
+  <chapter id="1057" name="Die Probleme eines Zeitreisenden" isTutorial="" regionID="" />
+  <chapter id="1058" name="Ohne Fleiß kein Preis" isTutorial="" regionID="" />
+  <chapter id="1059" name="Die Geburtssteine" isTutorial="" regionID="" />
+  <chapter id="1060" name="Das Ende der Isolation" isTutorial="" regionID="" />
+  <chapter id="1061" name="Der einsame Soldat" isTutorial="" regionID="" />
+  <chapter id="1062" name="Panikattacke" isTutorial="" regionID="" />
+  <chapter id="1063" name="Geheime Geheimnisse" isTutorial="" regionID="" />
+  <chapter id="1064" name="Aus Mangel an Schönheit" isTutorial="" regionID="" />
+  <chapter id="1065" name="Der Hüter des Waldes" isTutorial="" regionID="" />
+  <chapter id="1066" name="Neuer Besitzer" isTutorial="" regionID="" />
+  <chapter id="1067" name="Schlechte Angewohnheiten" isTutorial="" regionID="" />
+  <chapter id="1068" name="Alicia im Wunderland" isTutorial="" regionID="" />
+  <chapter id="1069" name="Ein schlechter Kompromiss" isTutorial="" regionID="" />
+  <chapter id="1070" name="Eine sternenerfüllte Nacht" isTutorial="" regionID="" />
+  <chapter id="1071" name="Fortsetzung folgt" isTutorial="" regionID="" />
+  <chapter id="1072" name="Heimweh" isTutorial="" regionID="" />
+  <chapter id="1073" name="Traue deinem Bauchgefühl" isTutorial="" regionID="" />
+  <chapter id="1074" name="Direkt unter unserer Nase" isTutorial="" regionID="" />
+  <chapter id="1075" name="Aus reiner Neugier" isTutorial="" regionID="" />
+  <chapter id="1076" name="Ein harscher Winter" isTutorial="" regionID="" />
+  <chapter id="1077" name="Ein gefährlicher Ort" isTutorial="" regionID="" />
+  <chapter id="1078" name="Immer die gleiche Geschichte " isTutorial="" regionID="" />
+  <chapter id="1079" name="Ohne Reue" isTutorial="" regionID="" />
+  <chapter id="1080" name="Ein Käferproblem" isTutorial="" regionID="" />
+  <chapter id="1081" name="Ein nie endender Kreislauf" isTutorial="" regionID="" />
+  <chapter id="1082" name="Ein gefährlicher Anfang" isTutorial="" regionID="" />
+  <chapter id="1083" name="Finde den verlorenen Bruder" isTutorial="" regionID="" />
+  <chapter id="1084" name="Verdachtsfälle" isTutorial="" regionID="" />
+  <chapter id="1085" name="Fortsetzung folgt" isTutorial="" regionID="" />
+  <chapter id="1086" name="Der Zeitenfänger" isTutorial="" regionID="" />
+  <chapter id="1087" name="Auf der Jagd nach zwei Kaninchen" isTutorial="" regionID="" />
+  <chapter id="1088" name="Eine besondere Begnadigung" isTutorial="" regionID="" />
+  <chapter id="1089" name="Aus Hoffnung wird Verzweiflung" isTutorial="" regionID="" />
+  <chapter id="1090" name="Das verschollene Altarium" isTutorial="" regionID="" />
+  <chapter id="1091" name="Sicherheit geht vor" isTutorial="" regionID="" />
+  <chapter id="1092" name="Ohne Gewissen" isTutorial="" regionID="" />
+  <chapter id="1093" name="Janusköpfig" isTutorial="" regionID="" />
+  <chapter id="1094" name="Das Geheimnis des ewigen Eises" isTutorial="" regionID="" />
+  <chapter id="1095" name="Abgeschottet" isTutorial="" regionID="" />
+  <chapter id="1096" name="Eine wohlverdiente Ruhepause" isTutorial="" regionID="" />
+  <chapter id="1097" name="Ein gefährliches Hobby" isTutorial="" regionID="" />
+  <chapter id="1098" name="Die Welt der Vorstellung" isTutorial="" regionID="" />
+  <chapter id="1099" name="Tobende Banditen" isTutorial="" regionID="" />
+  <chapter id="1100" name="Auge um Auge, Zahn um Zahn" isTutorial="" regionID="" />
+  <chapter id="1101" name="Das gestohlene Porträt" isTutorial="" regionID="" />
+  <chapter id="1102" name="Die anstrengende Shoppingtour" isTutorial="" regionID="" />
+  <chapter id="1103" name="Beschützer des freien Handels" isTutorial="" regionID="" />
+  <chapter id="1104" name="Lord Judis" isTutorial="" regionID="" />
+  <chapter id="1105" name="Tägliche Bezahlung garantiert!" isTutorial="" regionID="" />
+  <chapter id="1106" name="Nervenzusammenbruch" isTutorial="" regionID="" />
+  <chapter id="1108" name="Kilcos kann helfen" isTutorial="" regionID="" />
+  <chapter id="1110" name="Versteckspiel" isTutorial="" regionID="" />
+  <chapter id="1112" name="Zum Schutz der Bahn" isTutorial="" regionID="" />
+  <chapter id="1113" name="Auf dem Heimweg" isTutorial="" regionID="" />
+  <chapter id="1114" name="Der Traum eines Mannes " isTutorial="" regionID="" />
+  <chapter id="1115" name="Vor allem Autos" isTutorial="" regionID="" />
+  <chapter id="1117" name="Was für ein Knüller!" isTutorial="" regionID="" />
+  <chapter id="1118" name="Manipulierungsverdacht" isTutorial="" regionID="" />
+  <chapter id="1119" name="Handschuhe des Ruhmes" isTutorial="" regionID="" />
+  <chapter id="1120" name="Ein Haken hier, ein Stoß da" isTutorial="" regionID="" />
+  <chapter id="1121" name="Das geheimnisvolle Verschwinden" isTutorial="" regionID="" />
+  <chapter id="1122" name="Echo eines Phantoms" isTutorial="" regionID="" />
+  <chapter id="1123" name="Die Irrfahrt der Schwarzbahn" isTutorial="" regionID="" />
+  <chapter id="1124" name="Der unbekannte Angreifer" isTutorial="" regionID="" />
+  <chapter id="1125" name="Die Wahrheit des Schattens" isTutorial="" regionID="" />
+  <chapter id="1126" name="Die Waffe eines Affen" isTutorial="" regionID="" />
+  <chapter id="1127" name="Die alles entscheidende Jagd" isTutorial="" regionID="" />
+  <chapter id="1128" name="Hermanns Plan" isTutorial="" regionID="" />
+  <chapter id="1129" name="Brennende Sehnsucht" isTutorial="" regionID="" />
+  <chapter id="1130" name="Der Gegenangriff" isTutorial="" regionID="" />
+  <chapter id="1131" name="Das faule Genie" isTutorial="" regionID="" />
+  <chapter id="1132" name="Das Blatt wendet sich" isTutorial="" regionID="" />
+  <chapter id="1133" name="Die letzte Mission" isTutorial="" regionID="" />
+  <chapter id="1134" name="Der Weg des Kämpfers" isTutorial="" regionID="" />
+  <chapter id="1135" name="CHAPTERDESCRIPTION_1135_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="1136" name="CHAPTERDESCRIPTION_1136_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="1137" name="CHAPTERDESCRIPTION_1137_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="1138" name="CHAPTERDESCRIPTION_1138_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="1139" name="CHAPTERDESCRIPTION_1139_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="1140" name="CHAPTERDESCRIPTION_1140_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+  <chapter id="1141" name="CHAPTERDESCRIPTION_1141_NAME:[F]LapentaFrontierQuest" isTutorial="" regionID="" feature="LapentaFrontierQuest" />
+</ms2>

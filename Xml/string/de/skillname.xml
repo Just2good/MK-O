@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="00000001" name="Angriff" />
+  <key id="00000011" name="Sprungangriff" />
+  <key id="00100001" name="Keulenangriff" />
+  <key id="00100002" name="Doppelter Keulenangriff" />
+  <key id="00100011" name="Keulensprungangriff" />
+  <key id="00200001" name="Schwertangriff mit Haupthand" />
+  <key id="00200002" name="Doppelter Schwertangriff mit Haupthand" />
+  <key id="00200003" name="Dreifacher Schwertangriff mit Haupthand" />
+  <key id="00200011" name="Schwertsprungangriff mit Haupthand" />
+  <key id="00300001" name="Beidhändiger Schwertangriff" />
+  <key id="00300002" name="Doppelter beidhändiger Schwertangriff" />
+  <key id="00300003" name="Dreifacher beidhändiger Schwertangriff" />
+  <key id="00300011" name="Beidhändiger Schwertsprungangriff" />
+  <key id="00400001" name="Stabangriff" />
+  <key id="00400011" name="Stabsprungangriff" />
+  <key id="00500001" name="Zepterangriff" />
+  <key id="00500011" name="Zeptersprungangriff" />
+  <key id="00600001" name="Bogenangriff" />
+  <key id="00600011" name="Bogensprungangriff" />
+  <key id="00700001" name="Kanonenangriff" />
+  <key id="00700002" name="Kanonenangriff (Diffuseffekt)" />
+  <key id="00700011" name="Kanonensprungangriff" />
+  <key id="00700012" name="Kanonensprungangriff (Diffuseffekt)" />
+  <key id="00800001" name="Dolchangriff" />
+  <key id="00800002" name="Doppelter Dolchangriff" />
+  <key id="00800011" name="Dolchsprungangriff" />
+  <key id="00800021" name="Doppeldolchangriff" />
+  <key id="00800022" name="Doppelter Doppeldolchangriff" />
+  <key id="00800023" name="Dreifacher Doppeldolchangriff" />
+  <key id="00800024" name="Vierfacher Doppeldolchangriff" />
+  <key id="00800031" name="Doppeldolchsprungangriff" />
+  <key id="00900001" name="Wurfwaffenangriff" />
+  <key id="00900011" name="Wurfwaffensprungangriff" />
+  <key id="00900021" name="Doppelwurfwaffenangriff" />
+  <key id="00900022" name="Doppelter Doppelwurfwaffenangriff" />
+  <key id="00900031" name="Sprungangriff mit Doppelwurfwaffen" />
+  <key id="01000001" name="Klingenangriff" />
+  <key id="01000002" name="Doppelter Klingenangriff" />
+  <key id="01000003" name="Feuerklingenangriff" />
+  <key id="01000004" name="Doppelter Feuerklingenangriff" />
+  <key id="01000005" name="Eisklingenangriff" />
+  <key id="01000006" name="Doppelter Eisklingenangriff" />
+  <key id="01000007" name="Elektroklingenangriff" />
+  <key id="01000008" name="Doppelter Elektroklingenangriff" />
+  <key id="01000011" name="Klingensprungangriff" />
+  <key id="01000012" name="Sprungangriff mit Feuerklingen" />
+  <key id="01000013" name="Sprungangriff mit Eisklingen" />
+  <key id="01000014" name="Sprungangriff mit Elektroklingen" />
+  <key id="01100001" name="Knuckles Attack" feature="Striker" />
+  <key id="01100002" name="Knuckles Attack 2-hit" feature="Striker" />
+  <key id="01100003" name="Knuckles Attack 3-hit" feature="Striker" />
+  <key id="01100004" name="Knuckles Attack 4-hit" feature="Striker" />
+  <key id="01100011" name="Knuckles Jump Attack" feature="Striker" />
+  <key id="01200001" name="Orb Attack" feature="SoulBinder" />
+  <key id="01200002" name="Orb Attack Tier 2" feature="SoulBinder" />
+  <key id="01200003" name="Orb Attack Tier 3" feature="SoulBinder" />
+  <key id="01200004" name="Orb Attack Tier 4" feature="SoulBinder" />
+  <key id="01200005" name="Orb Attack Tier 5" feature="SoulBinder" />
+  <key id="01200011" name="Orb Jump Attack" feature="SoulBinder" />
+  <key id="01200012" name="Orb Jump Attack Tier 2" feature="SoulBinder" />
+  <key id="01200013" name="Orb Jump Attack Tier 3" feature="SoulBinder" />
+  <key id="01200014" name="Orb Jump Attack Tier 4" feature="SoulBinder" />
+  <key id="01200015" name="Orb Jump Attack Tier 5" feature="SoulBinder" />
+  <key id="10000001" name="Hammerschlag" />
+  <key id="10000011" name="Krafthieb" />
+  <key id="10000012" name="Doppelter Krafthieb" />
+  <key id="10000013" name="Dreifacher Krafthieb" />
+  <key id="10000021" name="Schneckenwurf" />
+  <key id="10000022" name="Schneckenwurf (Diffuseffekt)" />
+  <key id="10000031" name="Kopfstoß" />
+  <key id="10000041" name="Vorwärtsrolle" />
+  <key id="10000042" name="Vorwärtskettenrolle" />
+  <key id="10000051" name="Zweiter Wind" />
+  <key id="10000061" name="Vielseitigkeit" />
+  <key id="10100001" name="Kreuzschnitt" />
+  <key id="10100011" name="Tornadoschlitzer" />
+  <key id="10100021" name="Göttlicher Schlag" />
+  <key id="10100031" name="Bohrstoß" />
+  <key id="10100041" name="Kriegshorn" />
+  <key id="10100051" name="Schildwall" />
+  <key id="10100052" name="Schildwall (Diffuseffekt)" />
+  <key id="10100061" name="Eiserne Abwehr" />
+  <key id="10100062" name="Eiserne Abwehr abbrechen" />
+  <key id="10100071" name="Schildwurf" />
+  <key id="10100081" name="Bollwerk" />
+  <key id="10100082" name="Bollwerk (Diffuseffekt)" />
+  <key id="10100091" name="Schildramme" />
+  <key id="10100101" name="Beschützer des Glaubens" />
+  <key id="10100102" name="Verfechter des Glaubens (Diffuseffekt)" />
+  <key id="10100111" name="Langschwertbeherrschung" />
+  <key id="10100121" name="Schildbeherrschung" />
+  <key id="10100131" name="Taifunschlitzer" />
+  <key id="10100141" name="Stachelschauer" />
+  <key id="10100142" name="Doppelter Stachelschauer" />
+  <key id="10100151" name="Eiserner Schild" />
+  <key id="10100161" name="Schildverstärkung" />
+  <key id="10100171" name="SKILLNAME_10100171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100172" name="SKILLNAME_10100172_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100173" name="SKILLNAME_10100173_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100181" name="SKILLNAME_10100181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100191" name="SKILLNAME_10100191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100192" name="SKILLNAME_10100192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100201" name="SKILLNAME_10100201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100211" name="SKILLNAME_10100211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100212" name="SKILLNAME_10100212_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100221" name="SKILLNAME_10100221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100231" name="SKILLNAME_10100231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100233" name="SKILLNAME_10100233_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100241" name="SKILLNAME_10100241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10100251" name="SKILLNAME_10100251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200001" name="Rasender Schlitzer" />
+  <key id="10200002" name="Rasender Doppelschlitzer" />
+  <key id="10200003" name="Rasender Dreifachschlitzer" />
+  <key id="10200004" name="Rasender Vierfachschlitzer" />
+  <key id="10200005" name="Rasender Fünffachschlitzer" />
+  <key id="10200011" name="Todeswirbel" />
+  <key id="10200012" name="Doppelter Todeswirbel" />
+  <key id="10200013" name="Dreifacher Todeswirbel" />
+  <key id="10200014" name="Vierfacher Todeswirbel" />
+  <key id="10200015" name="Fünffacher Todeswirbel" />
+  <key id="10200021" name="Erdbrecher" />
+  <key id="10200031" name="Dunkelaura" />
+  <key id="10200041" name="Leerenschlitzer" />
+  <key id="10200042" name="Doppelter Leerenschlitzer" />
+  <key id="10200051" name="Blutrausch" />
+  <key id="10200061" name="Einschüchterung" />
+  <key id="10200062" name="Verbesserte Einschüchterung" />
+  <key id="10200063" name="Lähmende Einschüchterung" />
+  <key id="10200071" name="Dunkelbrecher" />
+  <key id="10200072" name="Dunkelbrecher (Diffuseffekt)" />
+  <key id="10200081" name="Adrenalinrausch" />
+  <key id="10200082" name="Adrenalinrausch&#160;2" />
+  <key id="10200083" name="Adrenalinrausch&#160;3" />
+  <key id="10200091" name="X-Schlitzer" />
+  <key id="10200101" name="Übernatürliche Ausdauer" />
+  <key id="10200111" name="Klaffende Wunden" />
+  <key id="10200112" name="Aktivierung: Klaffende Wunden" />
+  <key id="10200121" name="Großschwertbeherrschung" />
+  <key id="10200131" name="Dunkle Macht" />
+  <key id="10200141" name="Blutzoll" />
+  <key id="10200151" name="Kriegerischer Instinkt" />
+  <key id="10200161" name="Erdbeben" />
+  <key id="10200162" name="Erdbebenklatscher" />
+  <key id="10200171" name="SKILLNAME_10200171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200172" name="SKILLNAME_10200172_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200181" name="SKILLNAME_10200181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200182" name="SKILLNAME_10200182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200183" name="SKILLNAME_10200183_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200184" name="SKILLNAME_10200184_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200191" name="SKILLNAME_10200191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200201" name="SKILLNAME_10200201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200202" name="SKILLNAME_10200202_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200203" name="SKILLNAME_10200203_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200204" name="SKILLNAME_10200204_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200205" name="SKILLNAME_10200205_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200206" name="SKILLNAME_10200206_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200207" name="SKILLNAME_10200207_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200211" name="SKILLNAME_10200211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200221" name="SKILLNAME_10200221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200231" name="SKILLNAME_10200231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200232" name="SKILLNAME_10200232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200233" name="SKILLNAME_10200233_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200234" name="SKILLNAME_10200234_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200241" name="SKILLNAME_10200241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200251" name="SKILLNAME_10200251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200252" name="SKILLNAME_10200252_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200253" name="SKILLNAME_10200253_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200254" name="SKILLNAME_10200254_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200255" name="SKILLNAME_10200255_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200256" name="SKILLNAME_10200256_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10200257" name="SKILLNAME_10200257_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300001" name="Phantomklaue" />
+  <key id="10300011" name="Feuertornado" />
+  <key id="10300012" name="Feuertornado (Diffuseffekt)" />
+  <key id="10300021" name="Flammenwelle" />
+  <key id="10300031" name="Kettenblitz" />
+  <key id="10300041" name="Arkanstoß" />
+  <key id="10300042" name="Arkanstoß (Diffuseffekt)" />
+  <key id="10300051" name="Eisspeer" />
+  <key id="10300052" name="Eisspeer (Diffuseffekt)" />
+  <key id="10300061" name="Manabrunnen" />
+  <key id="10300071" name="Donnerkeil" />
+  <key id="10300081" name="Teleportieren" />
+  <key id="10300091" name="Fokussiegel" />
+  <key id="10300092" name="Fokussiegel (Diffuseffekt)" />
+  <key id="10300101" name="Pyromantie" />
+  <key id="10300111" name="Kryomantie" />
+  <key id="10300121" name="Elektromantie" />
+  <key id="10300131" name="Magierüstung" />
+  <key id="10300132" name="Aktivierung: Magierüstung" />
+  <key id="10300141" name="Eissturm" />
+  <key id="10300142" name="Eissturm (Diffuseffekt)" />
+  <key id="10300151" name="Elementarmeister" />
+  <key id="10300161" name="Manaklaue" />
+  <key id="10300171" name="SKILLNAME_10300171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300181" name="SKILLNAME_10300181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300182" name="SKILLNAME_10300182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300183" name="SKILLNAME_10300183_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300191" name="SKILLNAME_10300191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300192" name="SKILLNAME_10300192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300193" name="SKILLNAME_10300193_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300194" name="SKILLNAME_10300194_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300195" name="SKILLNAME_10300195_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300196" name="SKILLNAME_10300196_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300197" name="SKILLNAME_10300197_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300198" name="SKILLNAME_10300198_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300199" name="SKILLNAME_10300199_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300201" name="SKILLNAME_10300201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300202" name="SKILLNAME_10300202_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300203" name="SKILLNAME_10300203_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300204" name="SKILLNAME_10300204_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300211" name="SKILLNAME_10300211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300212" name="SKILLNAME_10300212_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300213" name="SKILLNAME_10300213_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300214" name="SKILLNAME_10300214_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300215" name="SKILLNAME_10300215_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300221" name="SKILLNAME_10300221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300222" name="SKILLNAME_10300222_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300223" name="SKILLNAME_10300223_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300224" name="SKILLNAME_10300224_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300231" name="SKILLNAME_10300231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300232" name="SKILLNAME_10300232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300233" name="SKILLNAME_10300233_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300234" name="SKILLNAME_10300234_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300235" name="SKILLNAME_10300235_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300241" name="SKILLNAME_10300241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300251" name="SKILLNAME_10300251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300252" name="SKILLNAME_10300252_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300253" name="SKILLNAME_10300253_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300254" name="SKILLNAME_10300254_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10300255" name="SKILLNAME_10300255_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400001" name="Himmlisches Licht" />
+  <key id="10400002" name="Grelles Licht" feature="JobChange_01" />
+  <key id="10400003" name="SKILLNAME_10400003_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400011" name="Heiliger Stoß" />
+  <key id="10400012" name="Heiliger Stoß (Diffuseffekt)" />
+  <key id="10400013" name="Heiliger Stoß EX" />
+  <key id="10400014" name="Heiliger Stoß EX (Diffuseffekt)" />
+  <key id="10400021" name="Zepterbeherrschung" />
+  <key id="10400022" name="Engelsstrahlen EX" />
+  <key id="10400031" name="Heiliges Relikt" />
+  <key id="10400032" name="Heiliges Relikt (Diffuseffekt)" />
+  <key id="10400041" name="Schild des Archonten" />
+  <key id="10400042" name="Schild des Archonten (Diffuseffekt)" />
+  <key id="10400051" name="Heiliges Zeichen" />
+  <key id="10400052" name="Heiliges Zeichen (Diffuseffekt)" />
+  <key id="10400061" name="Altarium" />
+  <key id="10400071" name="Heilendes Gebet" />
+  <key id="10400072" name="SKILLNAME_10400072_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400081" name="Himmelswächter" />
+  <key id="10400091" name="Segen des Himmels" />
+  <key id="10400092" name="Himmelswächter wegschicken" />
+  <key id="10400101" name="Peitschende Welle" />
+  <key id="10400102" name="Peitschende Welle EX" />
+  <key id="10400111" name="Fester Glaube" />
+  <key id="10400121" name="Zerschmetternde Aura" />
+  <key id="10400131" name="Jünger" />
+  <key id="10400141" name="Heilungsbeherrschung" />
+  <key id="10400151" name="Himmlische Flügel" />
+  <key id="10400161" name="Engelsstrahlen" />
+  <key id="10400171" name="SKILLNAME_10400171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400181" name="SKILLNAME_10400181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400191" name="SKILLNAME_10400191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400193" name="SKILLNAME_10400193_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400211" name="SKILLNAME_10400211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400221" name="SKILLNAME_10400221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400231" name="SKILLNAME_10400231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400241" name="SKILLNAME_10400241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400251" name="SKILLNAME_10400251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10400261" name="SKILLNAME_10400261_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500001" name="Pfeilregen" />
+  <key id="10500002" name="Luft-Pfeilregen" />
+  <key id="10500011" name="Pfeiltrommelfeuer" />
+  <key id="10500012" name="Pfeiltrommelfeuer&#160;2" />
+  <key id="10500013" name="Pfeiltrommelfeuer&#160;3" />
+  <key id="10500021" name="Schnellschuss" />
+  <key id="10500022" name="Doppelter Schnellschuss" />
+  <key id="10500031" name="Eispfeil" />
+  <key id="10500041" name="Ausweichsalve" />
+  <key id="10500051" name="Bogenschwung" />
+  <key id="10500061" name="Argusaugen" />
+  <key id="10500064" name="SKILLNAME_10500064_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500065" name="SKILLNAME_10500065_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500066" name="SKILLNAME_10500066_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500071" name="Bronzeadler" />
+  <key id="10500072" name="Aktivierung: Bronzeadler" />
+  <key id="10500081" name="Adlerklaue" />
+  <key id="10500091" name="Adlerkönigin" />
+  <key id="10500092" name="Aktivierung: Adlerkönigin" />
+  <key id="10500101" name="Pfeilsturm" />
+  <key id="10500102" name="Pfeilsturm Stufe&#160;2" />
+  <key id="10500103" name="Pfeilsturm (Diffuseffekt)" />
+  <key id="10500104" name="Pfeilsturm (Diffuseffekt 2)" />
+  <key id="10500105" name="Pfeilsturm (Diffuseffekt 3)" />
+  <key id="10500106" name="Pfeilsturm (Diffuseffekt 4)" />
+  <key id="10500111" name="Scharfschütze" />
+  <key id="10500121" name="Konditionierung" />
+  <key id="10500131" name="Agiler Bogenschütze" />
+  <key id="10500141" name="Schraubenzieherschuss" />
+  <key id="10500144" name="Schraubenzieherschuss" />
+  <key id="10500142" name="Schraubenzieherschuss Stufe&#160;2" />
+  <key id="10500143" name="Schraubenzieherschuss Stufe&#160;3" />
+  <key id="10500151" name="Adlerflug" />
+  <key id="10500152" name="SKILLNAME_10500152_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500161" name="Präzisionsschütze" />
+  <key id="10500171" name="SKILLNAME_10500171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500172" name="SKILLNAME_10500172_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500173" name="SKILLNAME_10500173_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500174" name="SKILLNAME_10500174_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500181" name="SKILLNAME_10500181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500191" name="SKILLNAME_10500191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500192" name="SKILLNAME_10500192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500193" name="SKILLNAME_10500193_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500201" name="SKILLNAME_10500201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500211" name="SKILLNAME_10500211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500212" name="SKILLNAME_10500212_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500221" name="SKILLNAME_10500221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500222" name="SKILLNAME_10500222_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500231" name="SKILLNAME_10500231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500232" name="SKILLNAME_10500232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500233" name="SKILLNAME_10500233_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500241" name="SKILLNAME_10500241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500242" name="SKILLNAME_10500242_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500243" name="SKILLNAME_10500243_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10500251" name="SKILLNAME_10500251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600001" name="Gatlingsalve" />
+  <key id="10600002" name="Doppelte Gatlingsalve" />
+  <key id="10600003" name="Dreifache Gatlingsalve" />
+  <key id="10600011" name="Raketenwerfer" />
+  <key id="10600012" name="Raketenwerfer (Diffuseffekt)" />
+  <key id="10600013" name="Raketenwerfer (Diffuseffekt 2)" />
+  <key id="10600021" name="Anvisieren" />
+  <key id="10600031" name="Zielsuchraketen" />
+  <key id="10600041" name="Elektrostoß" />
+  <key id="10600042" name="Elektrostoß Stufe&#160;2" />
+  <key id="10600043" name="Elektrostoß Stufe&#160;3" />
+  <key id="10600044" name="Schnellfeuerelektrostoß" />
+  <key id="10600051" name="Betäubungsgranaten" />
+  <key id="10600052" name="Betäubungsgranaten (Diffuseffekt)" />
+  <key id="10600061" name="Magnetbombe" />
+  <key id="10600062" name="Magnetbombe (Diffuseffekt)" />
+  <key id="10600071" name="Nachladen" />
+  <key id="10600081" name="Düsenstiefel" />
+  <key id="10600091" name="Verbandskasten" />
+  <key id="10600092" name="Verbandskasten (Diffuseffekt)" />
+  <key id="10600101" name="Kugelstreuung" />
+  <key id="10600102" name="Doppelte Kugelstreuung" />
+  <key id="10600111" name="Weiterentwickelte Kugeln" />
+  <key id="10600121" name="M-Bombe" />
+  <key id="10600122" name="M-Bombe (Diffuseffekt)" />
+  <key id="10600123" name="M-Bombe (Diffuseffekt 2)" />
+  <key id="10600131" name="Suborbitales Bombardement" />
+  <key id="10600132" name="Suborbitales Bombardement (Diffuseffekt)" />
+  <key id="10600133" name="Aktivierung: Suborbitales Bombardement (Diffuseffekt)" />
+  <key id="10600134" name="Zusätzliche Aktivierung: Suborbitales Bombardement" />
+  <key id="10600141" name="Weiterentwickelte Raketen" />
+  <key id="10600151" name="Weiterentwickelte Pulswaffen" />
+  <key id="10600161" name="Sprengladungssatz" />
+  <key id="10600171" name="SKILLNAME_10600171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600172" name="SKILLNAME_10600172_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600181" name="SKILLNAME_10600181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600191" name="SKILLNAME_10600191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600192" name="SKILLNAME_10600192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600201" name="SKILLNAME_10600201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600202" name="SKILLNAME_10600202_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600203" name="SKILLNAME_10600203_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600204" name="SKILLNAME_10600204_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600211" name="SKILLNAME_10600211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600212" name="SKILLNAME_10600212_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600221" name="SKILLNAME_10600221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600222" name="SKILLNAME_10600222_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600223" name="SKILLNAME_10600223_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600231" name="SKILLNAME_10600231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600232" name="SKILLNAME_10600232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600233" name="SKILLNAME_10600233_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600241" name="SKILLNAME_10600241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10600251" name="SKILLNAME_10600251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700001" name="Doppelschlitzer" />
+  <key id="10700002" name="Aktivierung: Doppelschlitzer" />
+  <key id="10700011" name="Giftschnitt" />
+  <key id="10700012" name="Doppelter Giftschnitt" />
+  <key id="10700013" name="Dreifacher Giftschnitt" />
+  <key id="10700014" name="Vierfacher Giftschnitt" />
+  <key id="10700015" name="Fünffacher Giftschnitt" />
+  <key id="10700016" name="Giftschnitt EX" />
+  <key id="10700017" name="Doppelter Giftschnitt EX" />
+  <key id="10700018" name="Dreifacher Giftschnitt EX" />
+  <key id="10700019" name="Vierfacher Giftschnitt EX" />
+  <key id="10700020" name="Fünffacher Giftschnitt EX" />
+  <key id="10700021" name="Hinterlistige Schnitte" />
+  <key id="10700022" name="Hinterlistige Schnitte EX" />
+  <key id="10700031" name="Klingentanz" />
+  <key id="10700032" name="Klingentanz EX" />
+  <key id="10700041" name="Seelenraub" />
+  <key id="10700042" name="Seelenraub EX" />
+  <key id="10700051" name="Saltotritt" />
+  <key id="10700052" name="Saltotritt EX" />
+  <key id="10700061" name="Seelenbandit" />
+  <key id="10700071" name="Geschickter Kämpfer" />
+  <key id="10700081" name="Hast" />
+  <key id="10700091" name="Überraschungsangriff" />
+  <key id="10700092" name="Überraschungsangriff EX" />
+  <key id="10700093" name="Überraschungsangriff EX" />
+  <key id="10700101" name="Vergeltung" />
+  <key id="10700102" name="Aktivierung: Vergeltung" />
+  <key id="10700111" name="Giftphiole" />
+  <key id="10700112" name="Giftphiole (Diffuseffekt)" />
+  <key id="10700121" name="Seelenbrecher" />
+  <key id="10700131" name="Rücksprung" />
+  <key id="10700141" name="Listige Taktiken" />
+  <key id="10700142" name="SKILLNAME_10700142_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700151" name="Skrupellose Arglist" />
+  <key id="10700161" name="Talerschild Plus" />
+  <key id="10700162" name="Talerschild Plus EX" />
+  <key id="10700181" name="SKILLNAME_10700181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700182" name="SKILLNAME_10700182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700191" name="SKILLNAME_10700191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700200" name="SKILLNAME_10700200_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700202" name="SKILLNAME_10700202_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700204" name="SKILLNAME_10700204_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700206" name="SKILLNAME_10700206_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700211" name="SKILLNAME_10700211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700221" name="SKILLNAME_10700221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700222" name="SKILLNAME_10700222_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700231" name="SKILLNAME_10700231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700241" name="SKILLNAME_10700241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700251" name="SKILLNAME_10700251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10700261" name="SKILLNAME_10700261_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800001" name="Glückssterne" />
+  <key id="10800011" name="Schattenschnitt" />
+  <key id="10800021" name="Sternensplitter" />
+  <key id="10800022" name="Sternensplitter (Diffuseffekt)" />
+  <key id="10800031" name="Schatteneruption" />
+  <key id="10800041" name="Tödlicher Schlag" />
+  <key id="10800051" name="Dunkler Umhang" />
+  <key id="10800052" name="Dunkler Umhang (Diffuseffekt)" />
+  <key id="10800053" name="Dunkler Umhang - Betäubung" />
+  <key id="10800061" name="Schattennetz" />
+  <key id="10800062" name="Schattennetz (Diffuseffekt)" />
+  <key id="10800071" name="Hetzsprung" />
+  <key id="10800081" name="Schattenjäger" />
+  <key id="10800091" name="Zeichen des Todes" />
+  <key id="10800092" name="Aktivierung: Zeichen des Todes" />
+  <key id="10800101" name="Sternenschauer" />
+  <key id="10800111" name="Wurfwaffenbeherrschung" />
+  <key id="10800121" name="Sternenjäger" />
+  <key id="10800131" name="Todesurteil" />
+  <key id="10800141" name="Seelenmarter" />
+  <key id="10800142" name="Seelenmarter (Diffuseffekt)" />
+  <key id="10800151" name="Schattenkünste" />
+  <key id="10800161" name="Spiegelbild: Dunkelklinge" />
+  <key id="10800171" name="SKILLNAME_10800171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800172" name="SKILLNAME_10800172_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800181" name="SKILLNAME_10800181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800182" name="SKILLNAME_10800182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800191" name="SKILLNAME_10800191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800192" name="SKILLNAME_10800192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800193" name="SKILLNAME_10800193_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800194" name="SKILLNAME_10800194_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800201" name="SKILLNAME_10800201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800202" name="SKILLNAME_10800202_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800211" name="SKILLNAME_10800211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800221" name="SKILLNAME_10800221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800222" name="SKILLNAME_10800222_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800223" name="SKILLNAME_10800223_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800224" name="SKILLNAME_10800224_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800225" name="SKILLNAME_10800225_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800226" name="SKILLNAME_10800226_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800227" name="SKILLNAME_10800227_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800231" name="SKILLNAME_10800231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800232" name="SKILLNAME_10800232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800241" name="SKILLNAME_10800241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10800251" name="SKILLNAME_10800251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900001" name="Flammenimpuls" />
+  <key id="10900011" name="Frostimpuls" />
+  <key id="10900021" name="Donnerimpuls" />
+  <key id="10900031" name="Dreifachschnitt" />
+  <key id="10900032" name="Flammendreistich" />
+  <key id="10900033" name="Frostdreistich" />
+  <key id="10900034" name="Donnerdreistich" />
+  <key id="10900041" name="Runenkontrolle" />
+  <key id="10900051" name="Wimpernschlag" />
+  <key id="10900061" name="Dreifachspalter" />
+  <key id="10900062" name="Flammendreifachspalter" />
+  <key id="10900063" name="Frostdreifachspalter" />
+  <key id="10900064" name="Frostdreifachspalter (Diffuseffekt)" />
+  <key id="10900065" name="Donnerdreifachspalter" />
+  <key id="10900071" name="Arkanschlag" />
+  <key id="10900072" name="Flammenarkanschlag" />
+  <key id="10900073" name="Flammenarkanschlag (Diffuseffekt)" />
+  <key id="10900074" name="Frostarkanschlag" />
+  <key id="10900075" name="Frostarkanschlag (Diffuseffekt)" />
+  <key id="10900076" name="Donnerarkanschlag" />
+  <key id="10900077" name="Donnerarkanschlag (Diffuseffekt)" />
+  <key id="10900078" name="Donnerarkanschlag (Diffuseffekt 2)" />
+  <key id="10900081" name="Schwerkraftrune" />
+  <key id="10900082" name="Schwerkraftrune (Diffuseffekt)" />
+  <key id="10900091" name="Runenschild" />
+  <key id="10900092" name="Flammenrunenschild" />
+  <key id="10900093" name="Flammenrunenschild (Diffuseffekt)" />
+  <key id="10900094" name="Frostrunenschild" />
+  <key id="10900095" name="Donnerrunenschild" />
+  <key id="10900096" name="Donnerrunenschild (Diffuseffekt)" />
+  <key id="10900097" name="Donnerrunenschild (Diffuseffekt)" />
+  <key id="10900101" name="Erdspalter" />
+  <key id="10900102" name="Erdspalter (Diffuseffekt)" />
+  <key id="10900103" name="Flammenerdspalter" />
+  <key id="10900104" name="Flammenerdspalter (Diffuseffekt)" />
+  <key id="10900105" name="Frosterdspalter" />
+  <key id="10900106" name="Frosterdspalter (Diffuseffekt)" />
+  <key id="10900107" name="Donnererdspalter" />
+  <key id="10900108" name="Donnererdspalter (Diffuseffekt)" />
+  <key id="10900111" name="Illusionsklingen" />
+  <key id="10900112" name="Illusionsklingen (Diffuseffekt)" />
+  <key id="10900121" name="Ungebremste Runen" />
+  <key id="10900131" name="Strotzende Rune" />
+  <key id="10900141" name="Klingenbeherrschung" />
+  <key id="10900151" name="Endloser Schnitt" />
+  <key id="10900152" name="Endloser Schnitt (Diffuseffekt)" />
+  <key id="10900153" name="Endloser Feuerschnitt" />
+  <key id="10900154" name="Endloser Feuerschnitt (Diffuseffekt)" />
+  <key id="10900155" name="Endloser Frostschnitt" />
+  <key id="10900156" name="Endloser Frostschnitt (Diffuseffekt)" />
+  <key id="10900157" name="Endloser Donnerschnitt" />
+  <key id="10900158" name="Endloser Donnerschnitt (Diffuseffekt)" />
+  <key id="10900161" name="Runenquader" />
+  <key id="10900171" name="SKILLNAME_10900171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900172" name="SKILLNAME_10900172_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900173" name="SKILLNAME_10900173_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900174" name="SKILLNAME_10900174_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900175" name="SKILLNAME_10900175_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900176" name="SKILLNAME_10900176_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900177" name="SKILLNAME_10900177_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900178" name="SKILLNAME_10900178_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900181" name="SKILLNAME_10900181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900182" name="SKILLNAME_10900182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900183" name="SKILLNAME_10900183_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900191" name="SKILLNAME_10900191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900192" name="SKILLNAME_10900192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900193" name="SKILLNAME_10900193_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900194" name="SKILLNAME_10900194_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900195" name="SKILLNAME_10900195_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900196" name="SKILLNAME_10900196_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900197" name="SKILLNAME_10900197_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900198" name="SKILLNAME_10900198_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900199" name="SKILLNAME_10900199_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900200" name="SKILLNAME_10900200_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900201" name="SKILLNAME_10900201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900202" name="SKILLNAME_10900202_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900203" name="SKILLNAME_10900203_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900204" name="SKILLNAME_10900204_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900205" name="SKILLNAME_10900205_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900206" name="SKILLNAME_10900206_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900207" name="SKILLNAME_10900207_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900208" name="SKILLNAME_10900208_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900211" name="SKILLNAME_10900211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900212" name="SKILLNAME_10900212_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900213" name="SKILLNAME_10900213_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900214" name="SKILLNAME_10900214_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900221" name="SKILLNAME_10900221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900222" name="SKILLNAME_10900222_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900223" name="SKILLNAME_10900223_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900224" name="SKILLNAME_10900224_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900225" name="SKILLNAME_10900225_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900226" name="SKILLNAME_10900226_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900231" name="SKILLNAME_10900231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900232" name="SKILLNAME_10900232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900241" name="SKILLNAME_10900241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10900251" name="SKILLNAME_10900251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000001" name="Mahar Punch" feature="Striker" />
+  <key id="11000011" name="Fists of Fury" feature="Striker" />
+  <key id="11000012" name="Fists of Fury EX" feature="Striker" />
+  <key id="11000021" name="Beatdown" feature="Striker" />
+  <key id="11000022" name="Beatdown 2-hit" feature="Striker" />
+  <key id="11000023" name="Beatdown 3-hit" feature="Striker" />
+  <key id="11000024" name="Beatdown 4-hit" feature="Striker" />
+  <key id="11000025" name="Beatdown 5-hit" feature="Striker" />
+  <key id="11000026" name="Beatdown EX" feature="Striker" />
+  <key id="11000027" name="Beatdown EX 2-hit" feature="Striker" />
+  <key id="11000028" name="Beatdown EX 3-hit" feature="Striker" />
+  <key id="11000029" name="Beatdown EX 4-hit" feature="Striker" />
+  <key id="11000030" name="Beatdown EX 5-hit" feature="Striker" />
+  <key id="11000031" name="Rising Kick" feature="Striker" />
+  <key id="11000032" name="Rising Kick EX" feature="Striker" />
+  <key id="11000041" name="Guillotine" feature="Striker" />
+  <key id="11000042" name="Guillotine EX" feature="Striker" />
+  <key id="11000051" name="Guard Dash" feature="Striker" />
+  <key id="11000053" name="SKILLNAME_11000053_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000055" name="SKILLNAME_11000055_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000061" name="Hurricane Cutter" feature="Striker" />
+  <key id="11000062" name="Hurricane Cutter 2-hit" feature="Striker" />
+  <key id="11000063" name="Hurricane Cutter 3-hit" feature="Striker" />
+  <key id="11000064" name="Hurricane Cutter 4-hit" feature="Striker" />
+  <key id="11000065" name="Hurricane Cutter 5-hit" feature="Striker" />
+  <key id="11000066" name="Hurricane Cutter 6-hit" feature="Striker" />
+  <key id="11000071" name="Power Puncher" feature="Striker" />
+  <key id="11000081" name="Knuckle Missile" feature="Striker" />
+  <key id="11000082" name="Link Function" feature="Striker" />
+  <key id="11000091" name="Gigantic Burst" feature="Striker" />
+  <key id="11000101" name="Overcome" feature="Striker" />
+  <key id="11000111" name="Kick Technician" feature="Striker" />
+  <key id="11000121" name="Fighting Spirit" feature="Striker" />
+  <key id="11000131" name="Dragon Kick" feature="Striker" />
+  <key id="11000132" name="SKILLNAME_11000132_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000141" name="Magnum Blow" feature="Striker" />
+  <key id="11000142" name="Magnum Blow Tier 2" feature="Striker" />
+  <key id="11000143" name="Magnum Blow Tier 3" feature="Striker" />
+  <key id="11000144" name="SKILLNAME_11000144_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000145" name="SKILLNAME_11000145_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000146" name="SKILLNAME_11000146_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000151" name="Pace Control" feature="Striker" />
+  <key id="11000161" name="Pattern Break" feature="Striker" />
+  <key id="11000171" name="SKILLNAME_11000171_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000181" name="SKILLNAME_11000181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000182" name="SKILLNAME_11000182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000183" name="SKILLNAME_11000183_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000191" name="SKILLNAME_11000191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000192" name="SKILLNAME_11000192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000211" name="SKILLNAME_11000211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000212" name="SKILLNAME_11000212_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000213" name="SKILLNAME_11000213_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000214" name="SKILLNAME_11000214_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000221" name="SKILLNAME_11000221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000231" name="SKILLNAME_11000231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000241" name="SKILLNAME_11000241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000242" name="SKILLNAME_11000242_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000261" name="SKILLNAME_11000261_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000262" name="SKILLNAME_11000262_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000263" name="SKILLNAME_11000263_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000264" name="SKILLNAME_11000264_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000271" name="SKILLNAME_11000271_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000272" name="SKILLNAME_11000272_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000281" name="SKILLNAME_11000281_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000282" name="SKILLNAME_11000282_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000283" name="SKILLNAME_11000283_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11000291" name="SKILLNAME_11000291_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100001" name="Passive Bubble" feature="SoulBinder" />
+  <key id="11100011" name="Chain Spear" feature="SoulBinder" />
+  <key id="11100012" name="Chain Spear 2-hit" feature="SoulBinder" />
+  <key id="11100013" name="Chain Spear 3-hit" feature="SoulBinder" />
+  <key id="11100014" name="Chain Spear 3-hit Splash" feature="SoulBinder" />
+  <key id="11100021" name="Shooting Star" feature="SoulBinder" />
+  <key id="11100022" name="Shooting Star Tier 2" feature="SoulBinder" />
+  <key id="11100023" name="Shooting Star Tier 3" feature="SoulBinder" />
+  <key id="11100024" name="Shooting Star Tier 4" feature="SoulBinder" />
+  <key id="11100025" name="Shooting Star Tier 5" feature="SoulBinder" />
+  <key id="11100026" name="Shooting Star Splash" feature="SoulBinder" />
+  <key id="11100027" name="Shooting Star Splash 2" feature="SoulBinder" />
+  <key id="11100031" name="Animus Focus" feature="SoulBinder" />
+  <key id="11100041" name="Ray Storm" feature="SoulBinder" />
+  <key id="11100042" name="Ray Storm Tier 2" feature="SoulBinder" />
+  <key id="11100043" name="Ray Storm Tier 3" feature="SoulBinder" />
+  <key id="11100044" name="Ray Storm Tier 4" feature="SoulBinder" />
+  <key id="11100045" name="Ray Storm Tier 5" feature="SoulBinder" />
+  <key id="11100051" name="Illusion" feature="SoulBinder" />
+  <key id="11100061" name="Mantra Release" feature="SoulBinder" />
+  <key id="11100062" name="SKILLNAME_11100062_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100063" name="SKILLNAME_11100063_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100071" name="Split Barrier" feature="SoulBinder" />
+  <key id="11100072" name="Split Barrier Tier 2" feature="SoulBinder" />
+  <key id="11100073" name="Split Barrier Tier 3" feature="SoulBinder" />
+  <key id="11100074" name="Split Barrier Tier 4" feature="SoulBinder" />
+  <key id="11100075" name="Split Barrier Tier 5" feature="SoulBinder" />
+  <key id="11100081" name="Expansion Ball" feature="SoulBinder" />
+  <key id="11100082" name="Expansion Ball Tier 2" feature="SoulBinder" />
+  <key id="11100083" name="Expansion Ball Tier 3" feature="SoulBinder" />
+  <key id="11100084" name="Expansion Ball Tier 4" feature="SoulBinder" />
+  <key id="11100085" name="Expansion Ball Tier 5" feature="SoulBinder" />
+  <key id="11100086" name="Expansion Ball Tier 3 Splash" feature="SoulBinder" />
+  <key id="11100087" name="Expansion Ball Tier 4 Splash" feature="SoulBinder" />
+  <key id="11100088" name="Expansion Ball Tier 5 Splash" feature="SoulBinder" />
+  <key id="11100089" name="SKILLNAME_11100089_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100090" name="SKILLNAME_11100090_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100091" name="Narubashan Liberation" feature="SoulBinder" />
+  <key id="11100101" name="Life String" feature="SoulBinder" />
+  <key id="11100102" name="Life String Tier 2" feature="SoulBinder" />
+  <key id="11100103" name="Life String Tier 3" feature="SoulBinder" />
+  <key id="11100104" name="Life String Tier 4" feature="SoulBinder" />
+  <key id="11100105" name="Life String Tier 5" feature="SoulBinder" />
+  <key id="11100111" name="Leuchtschlag" feature="SoulBinder" />
+  <key id="11100112" name="SKILLNAME_11100112_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100121" name="Chain Explosion" feature="SoulBinder" />
+  <key id="11100122" name="Chain Explosion Splash" feature="SoulBinder" />
+  <key id="11100123" name="Chain Explosion 2-hit" feature="SoulBinder" />
+  <key id="11100131" name="Electric Energy Discharge" feature="SoulBinder" />
+  <key id="11100132" name="Electric Energy Discharge Tier 2" feature="SoulBinder" />
+  <key id="11100133" name="Electric Energy Discharge Tier 3" feature="SoulBinder" />
+  <key id="11100134" name="Electric Energy Discharge Tier 4" feature="SoulBinder" />
+  <key id="11100135" name="Electric Energy Discharge Tier 5" feature="SoulBinder" />
+  <key id="11100141" name="Cyclone Bomber" feature="SoulBinder" />
+  <key id="11100142" name="Cyclone Bomber Splash" feature="SoulBinder" />
+  <key id="11100143" name="Cyclone Bomber Splash 2" feature="SoulBinder" />
+  <key id="11100151" name="Energy Stream" feature="SoulBinder" />
+  <key id="11100152" name="Energy Stream Splash" feature="SoulBinder" />
+  <key id="11100153" name="Energy Stream Tier 2" feature="SoulBinder" />
+  <key id="11100154" name="Energy Stream Tier 3" feature="SoulBinder" />
+  <key id="11100155" name="Energy Stream Tier 4" feature="SoulBinder" />
+  <key id="11100156" name="Energy Stream Tier 5" feature="SoulBinder" />
+  <key id="11100161" name="Orb Mastery" feature="SoulBinder" />
+  <key id="11100171" name="Zone of Renewal" feature="SoulBinder" />
+  <key id="11100181" name="SKILLNAME_11100181_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100182" name="SKILLNAME_11100182_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100183" name="SKILLNAME_11100183_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100184" name="SKILLNAME_11100184_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100185" name="SKILLNAME_11100185_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100186" name="SKILLNAME_11100186_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100191" name="SKILLNAME_11100191_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100192" name="SKILLNAME_11100192_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100193" name="SKILLNAME_11100193_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100194" name="SKILLNAME_11100194_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100201" name="SKILLNAME_11100201_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100211" name="SKILLNAME_11100211_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100221" name="SKILLNAME_11100221_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100231" name="SKILLNAME_11100231_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100232" name="SKILLNAME_11100232_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100241" name="SKILLNAME_11100241_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100242" name="SKILLNAME_11100242_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100243" name="SKILLNAME_11100243_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11100251" name="SKILLNAME_11100251_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="19900001" name="GMs Urteil" />
+  <key id="19900011" name="Hochgeschwindigkeitsflug" />
+  <key id="19900021" name="Löffel hoch" />
+  <key id="19900031" name="GM-Liebe" />
+  <key id="19900032" name="GM-Liebe (Diffuseffekt)" />
+  <key id="19900041" name="GM-Jubel" />
+  <key id="19900042" name="GM-Jubel (Diffuseffekt)" />
+  <key id="19900051" name="GM-Aufregung" />
+  <key id="19900052" name="GM-Aufregung (Diffuseffekt)" />
+  <key id="19900061" name="GM-Schlag" />
+  <key id="19999991" name="Filmaufnahme" />
+  <key id="20000001" name="Schnell schwimmen" />
+  <key id="20000011" name="Klettern" />
+  <key id="20000021" name="Fliegender Ballon" />
+  <key id="20000031" name="Greifen" />
+  <key id="20000041" name="Verbündeter Adler" />
+  <key id="20000051" name="Flugferkel" />
+  <key id="20000061" name="Zweiter Wind" />
+  <key id="20000071" name="Brilliante Glühbirne" />
+  <key id="20000081" name="Außerirdische Gefahr" />
+  <key id="20000091" name="Verstärkungsrakete" />
+  <key id="20000101" name="Titanrakete" />
+  <key id="20000111" name="Papierflieger" />
+  <key id="20000121" name="Drohne" />
+  <key id="20000131" name="Schneeflocke" />
+  <key id="20000141" name="Schwebesiegel" />
+  <key id="20000151" name="Entleinballons" />
+  <key id="20000161" name="Fliegender Schleim" />
+  <key id="20000171" name="Fliegendes Ahornblatt" />
+  <key id="30000000" name="Erscheinungsbewegung des Abenteurers" feature="Develop" />
+  <key id="30000001" name="Erscheinungsbewegung des Ritters" feature="Develop" />
+  <key id="30000002" name="Erscheinungsbewegung des Berserkers" feature="Develop" />
+  <key id="30000003" name="Erscheinungsbewegung des Magiers" feature="Develop" />
+  <key id="30000004" name="Erscheinungsbewegung des Priesters" feature="Develop" />
+  <key id="30000005" name="Erscheinungsbewegung des Bogenschützen" feature="Develop" />
+  <key id="30000006" name="Erscheinungsbewegung des Kanoniers" feature="Develop" />
+  <key id="30000007" name="Erscheinungsbewegung des Banditen" feature="Develop" />
+  <key id="30000008" name="Erscheinungsbewegung des Assassinen" feature="Develop" />
+  <key id="30000009" name="Erscheinungsbewegung des Runenfechters" feature="Develop" />
+  <key id="30000010" name="Erscheinungsbewegung des Schlägers" feature="Develop" />
+  <key id="30000011" name="Erscheinungsbewegung des Seelenfesslers" feature="Develop" />
+  <key id="40000001" name="Kopfstoß" />
+  <key id="40001001" name="Sausender Kopfstoß" />
+  <key id="40002001" name="Blattwurf" />
+  <key id="40003001" name="Kopfstoß" />
+  <key id="40003011" name="Sausender Kopfstoß" />
+  <key id="40004001" name="Kopfstoß" />
+  <key id="40005001" name="Kopfstoß" />
+  <key id="40005011" name="Giftpulver freisetzen" />
+  <key id="40006001" name="Kopfstoß" />
+  <key id="40006011" name="Verwirrungspulver freisetzen" />
+  <key id="40007001" name="Kopfstoß" />
+  <key id="40007011" name="Paralysepulver freisetzen" />
+  <key id="40008001" name="Springender Niederwurf" />
+  <key id="40008011" name="Rollangriff" />
+  <key id="40009001" name="Springender Niederwurf" />
+  <key id="40009011" name="Dornstoß" />
+  <key id="40010001" name="Dreifacher Rankenstachel" />
+  <key id="40010002" name="Dreifacher Rankenstachel (Diffuseffekt)" />
+  <key id="40010011" name="Kreuzrankenstachel" />
+  <key id="40010012" name="Kreuzrankenstachel (Diffuseffekt)" />
+  <key id="40011001" name="Rankenwelle" />
+  <key id="40011002" name="Ranke (Diffuseffekt)" />
+  <key id="40011011" name="Rankengift" />
+  <key id="40011012" name="Rankengefängnis (Diffuseffekt)" />
+  <key id="40011021" name="Giftwolke freisetzen" />
+  <key id="59000001" name="Hupen" />
+  <key id="59000002" name="Beschleuniger" />
+  <key id="59000003" name="Höhenstrahl" />
+  <key id="59000004" name="Gezähmtes Entlein" />
+  <key id="59000005" name="Gezähmter Lycao" />
+  <key id="59000006" name="Gezähmter blauer Ryko" />
+  <key id="59000007" name="Gezähmter Cerbe" />
+  <key id="59000008" name="Gezähmtes Blök" />
+  <key id="59000009" name="Gezähmter Doppel-Blök" />
+  <key id="59000010" name="Gezähmter Ryko" />
+  <key id="59000011" name="Gezähmter roter Ryko" />
+  <key id="59000012" name="Gezähmtes Fluchauge" />
+  <key id="59000013" name="Gezähmtes Übelauge" />
+  <key id="59000014" name="Gezähmtes Lavaauge" />
+  <key id="59000015" name="Gezähmte Brokkolischildkröte" />
+  <key id="59000016" name="Gezähmte dunkle Brokkolischildkröte" />
+  <key id="59000017" name="Gezähmte rote Lotusschildkröte" />
+  <key id="59000018" name="Gezähmte gelbe Lotusschildkröte" />
+  <key id="59000019" name="Gezähmter Hylicao" />
+  <key id="60012001" name="Hammerniederwurf" />
+  <key id="60012011" name="Hammerniederwurf (bewegen)" />
+  <key id="60012021" name="Hammerschlag" />
+  <key id="60012031" name="Rasender Hammerschlag" />
+  <key id="60012041" name="Giftiger Hammerniederwurf" />
+  <key id="60012051" name="Giftige Substanz werfen" />
+  <key id="60012052" name="Giftige Substanz werfen (Diffuseffekt)" />
+  <key id="60012061" name="Verbesserte giftige Substanz werfen" />
+  <key id="70000001" name="Dorn" />
+  <key id="70000002" name="Lava" />
+  <key id="70000003" name="Zangenangriff" />
+  <key id="70000004" name="Gestapelter Lavaschaden" />
+  <key id="70000005" name="Attack Down" />
+  <key id="70000006" name="Attack Down" />
+  <key id="70000007" />
+  <key id="70000008" name="Bewegungstempobonus" />
+  <key id="70000009" name="Verringert Bewegungstempo" />
+  <key id="70000010" name="Giftsumpf" />
+  <key id="70000011" name="Dampfgrube" />
+  <key id="70000012" name="Dampfgrubenwand" />
+  <key id="70000013" name="Dampfgrubenwand&#160;2" />
+  <key id="70000014" name="Geysir" />
+  <key id="70000015" name="Eisenspieß" />
+  <key id="70000016" name="Holzspieß" />
+  <key id="70000017" name="Schattengift" />
+  <key id="70000018" name="Regenerieren" />
+  <key id="70000019" name="Segen von Ereve" />
+  <key id="70000020" name="Segen von Ratzfatz" />
+  <key id="70000021" name="Schattengift" />
+  <key id="70000022" name="G-star-Minispiel, Steam" />
+  <key id="70000023" name="Verringert Bewegungstempo" />
+  <key id="70000025" name="Ausdauer auf Null" />
+  <key id="70000027" name="Giftsumpf (Toto und Gugus)" />
+  <key id="70000028" name="Schattenherrschaft" />
+  <key id="70000029" name="Ägis der Lapenta" />
+  <key id="70000030" name="Gut ausgeruht" />
+  <key id="70000031" name="Schattenkraft (für volles Leben)" />
+  <key id="70000032" name="Sichere Fortbewegung" />
+  <key id="70000034" name="Tapferkeit des roten Wolfes" />
+  <key id="70000035" name="Tapferkeit des roten Wolfes aktivieren" />
+  <key id="70000036" name="Namids Weisheit" />
+  <key id="70000037" name="Namids Weisheit aktivieren" />
+  <key id="70000038" name="Segen der Kumbawanka" />
+  <key id="70000039" name="Segen der Kumbawanka aktivieren" />
+  <key id="70000040" name="Verbesserter Geysir" />
+  <key id="70000041" name="Rache" />
+  <key id="70000042" name="Elektrischer Flächeneffekt" />
+  <key id="70000043" name="Bombe für Gruppendungeon" />
+  <key id="70000045" name="Dimensionschaos" />
+  <key id="70000046" name="Giftsumpf (Toto und Gugus)" />
+  <key id="70000047" name="Bombe legen &amp; Giftstatus entfernen (Lolo und Muhmuh)" />
+  <key id="70000048" name="Anzeigeeffekt der Heilquelle von Lolo und Muhmuh" />
+  <key id="70000049" name="Status Gefroren entfernen (Shushu und Gugus)" />
+  <key id="70000050" name="Anzeigeeffekt des Heilfeuers von Shushu und Gugus" />
+  <key id="70000051" name="Bellas Flamme" />
+  <key id="70000058" name="Wind des Lebens" />
+  <key id="70000113" name="Brennender Atem" />
+  <key id="70000114" name="Strenge Kälte des Schneefeldes" />
+  <key id="70000117" name="Slime Factory Furnace Terrain Damage" feature="GuildRaid01" />
+  <key id="70000136" name="Blutung" />
+  <key id="70000137" name="Blutung" />
+  <key id="70000138" name="Blutung" />
+  <key id="70000139" name="Blutung" />
+  <key id="70000140" name="Blutung" />
+  <key id="70000201" name="Dornenbusch" />
+  <key id="70000202" name="Dornenbusch" />
+  <key id="70000203" name="Dornenbusch" />
+  <key id="70000204" name="Dornenbusch" />
+  <key id="70000211" name="Dornenbusch" />
+  <key id="70000212" name="Dornenbusch" />
+  <key id="70000213" name="Dornenbusch" />
+  <key id="70000214" name="Dornenbusch" />
+  <key id="70000301" name="Giftsumpf" />
+  <key id="80000002" name="Gezähmter Lycao" />
+  <key id="80000003" name="Gezähmter Blitzwolf" />
+  <key id="80000004" name="Merrari 458 Tria (rot)" />
+  <key id="80000005" name="Gezähmter Cerbe" />
+  <key id="80000006" name="Gezähmtes Blök" />
+  <key id="80000007" name="Gezähmter Doppel-Blök" />
+  <key id="80000008" name="Merrari 458 Tria (weiß)" />
+  <key id="80000009" name="Merrari 458 Tria (schwarz)" />
+  <key id="90000001" name="Roter Trank" />
+  <key id="90000002" name="Grüne Milch" />
+  <key id="90000003" name="Rote Milch" />
+  <key id="90000004" name="Regeneriert sofort Mana." />
+  <key id="90000005" name="Regeneriert sofort Mana/Leben." />
+  <key id="90000006" name="Grill" />
+  <key id="90000007" name="Elfenkeks" />
+  <key id="90000008" name="Süßer Honig" />
+  <key id="90000009" name="Energydrink" />
+  <key id="90000010" name="Elixir St.&#160;1" />
+  <key id="90000011" name="Orangefarbener Trank" />
+  <key id="90000012" name="Weißer Trank" />
+  <key id="90000013" name="Kochende Lava" />
+  <key id="90000014" name="Prozentuale Lebensregeneration" />
+  <key id="90000015" name="Elixir St.&#160;2" />
+  <key id="90000016" name="Elixir St.&#160;3" />
+  <key id="90000017" name="Elixir St.&#160;4" />
+  <key id="90000018" name="Elixir St.&#160;5" />
+  <key id="90000019" name="Mächtiger weißer Trank" />
+  <key id="90000020" name="Supermächtiger weißer Trank" />
+  <key id="90000021" name="Ultramächtiger weißer Trank" />
+  <key id="90000022" name="Schildkrötenei" />
+  <key id="90000023" name="Kampfrationen" />
+  <key id="90000024" name="Gummibärchen" />
+  <key id="90000025" name="Glutamintablette" />
+  <key id="90000026" name="Kämpfertonikum" />
+  <key id="90000027" name="Magietonikum" />
+  <key id="90000028" name="Lebenstonikum" />
+  <key id="90000029" name="Erfahrungstonikum" />
+  <key id="90000031" name="Sofortiger Wiederherstellungstrank St.&#160;1" />
+  <key id="90000032" name="Sofortiger Wiederherstellungstrank St.&#160;10" />
+  <key id="90000033" name="Sofortiger Wiederherstellungstrank St.&#160;20" />
+  <key id="90000034" name="Sofortiger Wiederherstellungstrank St.&#160;30" />
+  <key id="90000035" name="Sofortiger Wiederherstellungstrank St.&#160;40" />
+  <key id="90000036" name="Sofortiger Wiederherstellungstrank St.&#160;45" />
+  <key id="90000037" name="Sofortiger Wiederherstellungstrank St.&#160;50" />
+  <key id="90000038" name="Langsamer Wiederherstellungstrank St.&#160;1" />
+  <key id="90000039" name="Langsamer Wiederherstellungstrank St.&#160;10" />
+  <key id="90000040" name="Langsamer Wiederherstellungstrank St.&#160;20" />
+  <key id="90000041" name="Langsamer Wiederherstellungstrank St.&#160;30" />
+  <key id="90000042" name="Langsamer Wiederherstellungstrank St.&#160;40" />
+  <key id="90000043" name="Langsamer Wiederherstellungstrank St.&#160;45" />
+  <key id="90000044" name="Langsamer Wiederherstellungstrank St.&#160;50" />
+  <key id="90000046" name="Erdbeerpunsch" />
+  <key id="90000047" name="Regenbogenshake" />
+  <key id="90000048" name="Orangino" />
+  <key id="90000049" name="Erdbeer-Blackout" />
+  <key id="90000050" name="Überflieger" />
+  <key id="90000051" name="Milch" />
+  <key id="90000052" name="Ei" />
+  <key id="90000053" name="Honigtopf" />
+  <key id="90000054" name="Goldapfel" />
+  <key id="90000055" name="Blaupilz" />
+  <key id="90000056" name="Babbapulver" />
+  <key id="90000057" name="Tiefen-DNA" />
+  <key id="90000058" name="Rohprobe" />
+  <key id="90000059" name="Mutierte DNA" />
+  <key id="90000060" name="Experimenteller Trank" />
+  <key id="90000061" name="Betonpulver" />
+  <key id="90000062" name="Süßes Blatt" />
+  <key id="90000063" name="Lavaaugenschwanz" />
+  <key id="90000064" name="Hinterlassenschaft vom Übelauge" />
+  <key id="90000065" name="Schleimtropfen" />
+  <key id="90000066" name="Gefangene Steinkrabbe" />
+  <key id="90000067" name="Mandecasil" />
+  <key id="90000068" name="Reifer Tal-Enoki" />
+  <key id="90000069" name="Verfaulter Tal-Enoki" />
+  <key id="90000070" name="Elfentau" />
+  <key id="90000071" name="Rotes Gänseblümchen" />
+  <key id="90000072" name="Muschelfleisch" />
+  <key id="90000073" name="Frisches Hühnchen" />
+  <key id="90000074" name="Schnellwachstum" />
+  <key id="90000075" name="Frühlingshafte Nudelsuppe" />
+  <key id="90000076" name="Fettes Hähnchen" />
+  <key id="90000077" name="Tintenfischerdnuss" />
+  <key id="90000078" name="Feuerwerk" />
+  <key id="90000079" name="Erfahrungsschub +50&#160;%" />
+  <key id="90000080" name="Grandioser Erfahrungsschub +50&#160;%" />
+  <key id="90000081" name="Erfahrungsschub +100&#160;%" />
+  <key id="90000082" name="Grandioser Erfahrungsschub +100&#160;%" />
+  <key id="90000083" name="Erfahrungsschub +200&#160;%" />
+  <key id="90000084" name="Grandioser Erfahrungsschub +200&#160;%" />
+  <key id="90000085" name="Riesenlavaaugenschwanz" />
+  <key id="90000086" name="Verdorbene Mild" />
+  <key id="90000087" name="Mehrkornbrot" />
+  <key id="90000088" name="Grünes Kraut" />
+  <key id="90000089" name="Grüner Trank" />
+  <key id="90000090" name="Unsichtbarkeitstrank" />
+  <key id="90000091" name="Betäubungsgranate" />
+  <key id="90000092" />
+  <key id="90000093" name="Babbafrucht" />
+  <key id="90000094" name="Schattenriss" />
+  <key id="90000121" name="Schneeflockenfeuerwerk" />
+  <key id="90000122" name="Pinkfarbenes Blütenfeuerwerk" />
+  <key id="90000123" name="Premiumfeuerwerk" />
+  <key id="90000124" name="Herzfeuerwerk" />
+  <key id="90000125" name="Fledermausspuren" />
+  <key id="90000126" name="Sternenspuren" />
+  <key id="90000127" name="Blütenspuren" />
+  <key id="90000128" name="Sternenhelles Feuerwerk" />
+  <key id="90000180" name="Manos betörende Blume" />
+  <key id="90000190" name="Bittere Pille" />
+  <key id="90000191" name="Defibrillator" />
+  <key id="90000193" name="Goldener Dungeonschlüssel" />
+  <key id="90000262" name="Wurmköder" />
+  <key id="90000263" name="Frischer Köder" />
+  <key id="90000264" name="Schicker Köder" />
+  <key id="90000265" name="Glänzender Köder" />
+  <key id="90000266" name="Schmackhafter Köder" />
+  <key id="90000267" name="Großwurmköder" />
+  <key id="90000268" name="Gestreifter Wurm" />
+  <key id="90000269" name="Leuchtköder" />
+  <key id="90000270" name="Feuerwurmköder" />
+  <key id="90000271" name="Teufelsspinne" />
+  <key id="90000331" name="Ahornreiskuchen " />
+  <key id="90000332" name="Ahornreiskuchen 2" />
+  <key id="90000333" name="Ahornreiskuchen 3" />
+  <key id="90000334" name="Ahornreiskuchen 4" />
+  <key id="90000335" name="Befleckter Ahornreiskuchen" />
+  <key id="90000339" name="Erfahrungsschub +100&#160;%" />
+  <key id="90000341" name="Erfahrungsschub +200&#160;%" />
+  <key id="90000343" name="Bergbaustärkungseffekt (Lernquest)" feature="Mastery" />
+  <key id="90000344" name="Bergbaustärkungseffekt 1" feature="Mastery" />
+  <key id="90000345" name="Bergbaustärkungseffekt 2" feature="Mastery" />
+  <key id="90000346" name="Bergbaustärkungseffekt 3" feature="Mastery" />
+  <key id="90000347" name="Bergbaustärkungseffekt 4" feature="Mastery" />
+  <key id="90000348" name="Bergbaustärkungseffekt 5" feature="Mastery" />
+  <key id="90000349" name="Bergbaustärkungseffekt 6" feature="Mastery" />
+  <key id="90000350" name="Viehhaltungsstärkungseffekt (Lernquest)" feature="Mastery" />
+  <key id="90000351" name="Viehhaltungsstärkungseffekt 1" feature="Mastery" />
+  <key id="90000352" name="Viehhaltungsstärkungseffekt 2" feature="Mastery" />
+  <key id="90000353" name="Viehhaltungsstärkungseffekt 3" feature="Mastery" />
+  <key id="90000354" name="Viehhaltungsstärkungseffekt 4" feature="Mastery" />
+  <key id="90000355" name="Viehhaltungsstärkungseffekt 5" feature="Mastery" />
+  <key id="90000356" name="Viehhaltungsstärkungseffekt 6" feature="Mastery" />
+  <key id="90000357" name="Bergbauwerkzeug 1" feature="Mastery" />
+  <key id="90000358" name="Bergbauwerkzeug 2" feature="Mastery" />
+  <key id="90000359" name="Bergbauwerkzeug 3" feature="Mastery" />
+  <key id="90000360" name="Bergbauwerkzeug 4" feature="Mastery" />
+  <key id="90000361" name="Bergbauwerkzeug 5" feature="Mastery" />
+  <key id="90000362" name="Bergbauwerkzeug 6" feature="Mastery" />
+  <key id="90000363" name="Werkzeug für Viehhaltung 1" feature="Mastery" />
+  <key id="90000364" name="Werkzeug für Viehhaltung 2" feature="Mastery" />
+  <key id="90000365" name="Werkzeug für Viehhaltung 3" feature="Mastery" />
+  <key id="90000366" name="Werkzeug für Viehhaltung 4" feature="Mastery" />
+  <key id="90000367" name="Werkzeug für Viehhaltung 5" feature="Mastery" />
+  <key id="90000368" name="Werkzeug für Viehhaltung 6" feature="Mastery" />
+  <key id="90000369" name="Schmiedewerkzeug 1" feature="Mastery" />
+  <key id="90000370" name="Schmiedewerkzeug 2" feature="Mastery" />
+  <key id="90000371" name="Schmiedewerkzeug 3" feature="Mastery" />
+  <key id="90000372" name="Schmiedewerkzeug 4" feature="Mastery" />
+  <key id="90000373" name="Schmiedewerkzeug 5" feature="Mastery" />
+  <key id="90000374" name="Schmiedewerkzeug 6" feature="Mastery" />
+  <key id="90000375" name="Kunsthandwerkswerkzeug 1" feature="Mastery" />
+  <key id="90000376" name="Kunsthandwerkswerkzeug 2" feature="Mastery" />
+  <key id="90000377" name="Kunsthandwerkswerkzeug 3" feature="Mastery" />
+  <key id="90000378" name="Kunsthandwerkswerkzeug 4" feature="Mastery" />
+  <key id="90000379" name="Kunsthandwerkswerkzeug 5" feature="Mastery" />
+  <key id="90000380" name="Kunsthandwerkswerkzeug 6" feature="Mastery" />
+  <key id="90000381" name="Schmiedekunst Stärkungseffekt 1" feature="Mastery" />
+  <key id="90000382" name="Schmiedekunst Stärkungseffekt 2" feature="Mastery" />
+  <key id="90000383" name="Schmiedekunst Stärkungseffekt 3" feature="Mastery" />
+  <key id="90000384" name="Schmiedekunst Stärkungseffekt 4" feature="Mastery" />
+  <key id="90000385" name="Schmiedekunst Stärkungseffekt 5" feature="Mastery" />
+  <key id="90000386" name="Schmiedekunst Stärkungseffekt 6" feature="Mastery" />
+  <key id="90000387" name="Kunsthandwerksfertigkeit: Stärkungseffekt 1" feature="Mastery" />
+  <key id="90000388" name="Kunsthandwerksfertigkeit: Stärkungseffekt 2" feature="Mastery" />
+  <key id="90000389" name="Kunsthandwerksfertigkeit: Stärkungseffekt 3" feature="Mastery" />
+  <key id="90000390" name="Kunsthandwerksfertigkeit: Stärkungseffekt 4" feature="Mastery" />
+  <key id="90000391" name="Kunsthandwerksfertigkeit: Stärkungseffekt 5" feature="Mastery" />
+  <key id="90000392" name="Kunsthandwerksfertigkeit: Stärkungseffekt 6" feature="Mastery" />
+  <key id="90000394" name="Schleifstein (Zinn)" feature="Mastery" />
+  <key id="90000395" name="Schleifstein (Platin)" feature="Mastery" />
+  <key id="90000396" name="Schneckenhaus-Gemisch" feature="Mastery" />
+  <key id="90000397" name="Fuchsschwanz-Gemisch" feature="Mastery" />
+  <key id="90000398" name="Erfahrungsschub +100&#160;%" />
+  <key id="90000399" name="Mini-Elixier der Lebenskraft" />
+  <key id="90000400" name="Elixier der Lebenskraft" />
+  <key id="90000401" name="Mini-Energieelixier" />
+  <key id="90000402" name="Energieelixier" />
+  <key id="90000403" name="Mini-Erholungselixier" />
+  <key id="90000404" name="Erholungselixier" />
+  <key id="90000405" name="Spezielles Kraut der Lebenskraft" />
+  <key id="90000406" name="Spezielles Energiekraut" />
+  <key id="90000408" name="Mächtiger Magnetköder" />
+  <key id="90000409" name="Spezieller Weißer Trank (Premium)" />
+  <key id="90000410" name="Goldener Topf" />
+  <key id="90000411" name="Lulus Erfahrungstonikum" />
+  <key id="90000412" name="Lulus Mini-Erfahrungstonikum" />
+  <key id="90000413" name="Konzentriertes Erfahrungstonikum" />
+  <key id="90000414" name="Brennender Atem" />
+  <key id="90000415" name="Lichtsteinsplitter" />
+  <key id="90000416" name="Kerze (Lavendel)" feature="MasterySecond" />
+  <key id="90000417" name="Kerze (Schafgarbe)" feature="MasterySecond" />
+  <key id="90000418" name="Süße Kürbissuppe" feature="MasterySecond" />
+  <key id="90000419" name="Baguette" feature="MasterySecond" />
+  <key id="90000420" name="Bauer-Powertrunk (Majoran)" feature="MasterySecond" />
+  <key id="90000421" name="Bauer-Powertrunk (Rosmarin)" feature="MasterySecond" />
+  <key id="90000422" name="Bauer-Powertrunk (Mandarine)" feature="MasterySecond" />
+  <key id="90000423" name="Bauer-Powertrunk (Tee)" feature="MasterySecond" />
+  <key id="90000424" name="Bauer-Powertrunk (Patschuli)" feature="MasterySecond" />
+  <key id="90000425" name="Bauer-Powertrunk (Bergamotte)" feature="MasterySecond" />
+  <key id="90000426" name="Reiscracker" feature="MasterySecond" />
+  <key id="90000427" name="Apfelchips" feature="MasterySecond" />
+  <key id="90000428" name="Orangenchips" feature="MasterySecond" />
+  <key id="90000429" name="Bananenchips" feature="MasterySecond" />
+  <key id="90000430" name="Tomatenchips" feature="MasterySecond" />
+  <key id="90000431" name="Birnenchips" feature="MasterySecond" />
+  <key id="90000432" name="Kristall (Lavendel)" feature="MasterySecond" />
+  <key id="90000433" name="Kristall (Zitronenmelisse)" feature="MasterySecond" />
+  <key id="90000434" name="Kristall (Jasmin)" feature="MasterySecond" />
+  <key id="90000435" name="Kristall (Kirschsalbei)" feature="MasterySecond" />
+  <key id="90000436" name="Kristall (Oregano)" feature="MasterySecond" />
+  <key id="90000437" name="Kristall (Basilikum)" feature="MasterySecond" />
+  <key id="90000438" name="Kürbisgewürz" feature="MasterySecond" />
+  <key id="90000439" name="Kiefernpilzgewürz" feature="MasterySecond" />
+  <key id="90000440" name="Lauchzwiebelgewürz" feature="MasterySecond" />
+  <key id="90000441" name="Heilpilzgewürz" feature="MasterySecond" />
+  <key id="90000442" name="Gurkengewürz" feature="MasterySecond" />
+  <key id="90000443" name="Blätterpilzgewürz" feature="MasterySecond" />
+  <key id="90000444" name="Madeleine mit Orange" feature="MasterySecond" />
+  <key id="90000445" name="Bananen-Sandwich" feature="MasterySecond" />
+  <key id="90000446" name="Salat Caprese" feature="MasterySecond" />
+  <key id="90000447" name="Obstkuchen" feature="MasterySecond" />
+  <key id="90000448" name="Käsekuchen mit Ahornsirup und Birnen" feature="MasterySecond" />
+  <key id="90000449" name="Kiefernpilzeintopf " feature="MasterySecond" />
+  <key id="90000450" name="Heilpilztee" feature="MasterySecond" />
+  <key id="90000451" name="Blätterpilzspieß" feature="MasterySecond" />
+  <key id="90000452" name="Valentinsschokolade" />
+  <key id="90000453" name="Helles Brillanztonikum" />
+  <key id="90000454" name="Tonikum der Blutsbande" />
+  <key id="90000455" name="Flinkwindtonikum" />
+  <key id="90000456" name="Konzentriertes Rauschtonikum " />
+  <key id="90000457" name="Unsterbliches Wächtertonikum " />
+  <key id="90000458" name="Kondensiertes Schubtonikum" />
+  <key id="90000459" name="Tonikum der höchsten Fokussierung" />
+  <key id="90000460" name="Tonikum der stählernen Abwehr" />
+  <key id="90000461" name="Konzentriertes Erfahrungstonikum" />
+  <key id="90000462" name="Spezielles Kämpfertonikum" />
+  <key id="90000463" name="Besonderes Hexertonikum" />
+  <key id="90000464" name="Spezielles Lebenstonikum" />
+  <key id="90000465" name="Spezielles Abwehrtonikum" />
+  <key id="90000466" name="Erfahrungsschub +100&#160;%" />
+  <key id="90000467" name="Fermentierte Schokoladenmilch" />
+  <key id="90000482" name="Bauer-Powertrunk" feature="ContentsGuide02" />
+  <key id="90000483" name="Getrocknete Kakiringe" feature="ContentsGuide02" />
+  <key id="90000484" name="Fantastischer Aufstiegsschub" />
+  <key id="90000485" name="Erfahrungstonikum 1" />
+  <key id="90000486" name="Erfahrungstonikum 2" />
+  <key id="90000487" name="Erfahrungstonikum 3" />
+  <key id="90000488" name="Erfahrungstonikum 4" />
+  <key id="90100001" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer 3&#160;Sek. lang LP zu entziehen." />
+  <key id="90100011" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer die Stärke zu erhöhen." />
+  <key id="90000490" name="Besonders leckeres Omelett" />
+  <key id="90000491" name="Erfahrungsschub +100&#160;%" />
+  <key id="90000492" name="Überladener Magnetköder" />
+  <key id="90000494" name="Erfahrungsschub +100&#160;%" />
+  <key id="90000495" name="Pinkfarbener Topf" />
+  <key id="90000496" name="Helles Brillanztonikum" />
+  <key id="90000497" name="Tonikum der Blutsbande" />
+  <key id="90000498" name="Flinkwindtonikum" />
+  <key id="90000499" name="Konzentriertes Rauschtonikum " />
+  <key id="90000500" name="Unsterbliches Wächtertonikum " />
+  <key id="90000501" name="Kondensiertes Schubtonikum" />
+  <key id="90000502" name="Tonikum der höchsten Fokussierung" />
+  <key id="90000503" name="Tonikum der stählernen Abwehr" />
+  <key id="90000505" name="Erfahrungsschub +200&#160;%" />
+  <key id="90000506" name="Wirksame Augentropfen zum Aufspüren von Talern" />
+  <key id="90000507" name="Helles Brillanztonikum" />
+  <key id="90000508" name="Tonikum der Blutsbande" />
+  <key id="90000509" name="Flinkwindtonikum" />
+  <key id="90000510" name="Konzentriertes Rauschtonikum" />
+  <key id="90000511" name="Unsterbliches Wächtertonikum" />
+  <key id="90000512" name="Kondensiertes Schubtonikum" />
+  <key id="90000513" name="Tonikum der höchsten Fokussierung" />
+  <key id="90000514" name="Tonikum der stählernen Abwehr" />
+  <key id="90000595" name="Lulus Elixier" />
+  <key id="90000606" name="Helles Brillanztonikum" />
+  <key id="90000607" name="Tonikum der Blutsbande" />
+  <key id="90000608" name="Flinkwindtonikum" />
+  <key id="90000609" name="Konzentriertes Rauschtonikum" />
+  <key id="90000610" name="Unsterbliches Wächtertonikum" />
+  <key id="90000611" name="Kondensiertes Schubtonikum" />
+  <key id="90000612" name="Tonikum der höchsten Fokussierung" />
+  <key id="90000613" name="Mini-Elixier" />
+  <key id="90000614" name="Fantastischer Aufstiegsschub" />
+  <key id="90000615" name="Knuspriger Zakum-Keks" />
+  <key id="90000616" name="Goldener Topf" />
+  <key id="90000617" name="Automatisches Angeln" />
+  <key id="90000618" name="Automatischer Auftritt" />
+  <key id="90000619" name="Pinkbohne-Erfahrungstonikum" />
+  <key id="90000651" name="Strahlenfeuerwerk" />
+  <key id="90000652" name="Birthday Cake Fireworks" />
+  <key id="90000653" name="National Holiday Fireworks" />
+  <key id="90000654" name="MapleStory Traditional Mooncake" />
+  <key id="90000655" name="MapleStory Distinct Mooncake" />
+  <key id="90000656" name="Ray's Spicy Stir-fried Beef" />
+  <key id="90000657" name="Ray's Cream Pasta" />
+  <key id="90000658" name="Ray's Homemade Hamburger" />
+  <key id="90000659" name="Kämpfertonikum" />
+  <key id="90000660" name="Hexertonikum" />
+  <key id="90000661" name="Lebenstonikum" />
+  <key id="90000662" name="Elixier" />
+  <key id="90000663" name="Mini-Elixier" />
+  <key id="90000664" name="Pinkfarbenes Blütenfeuerwerk" />
+  <key id="90000665" name="Herzfeuerwerk" />
+  <key id="90000667" name="China Grand Opening Celebration Fireworks" />
+  <key id="90000668" name="Starlight Magnetic Lure" />
+  <key id="90000672" name="Grandioser Erfahrungsschub +200&#160;%" />
+  <key id="90000685" name="Special Defense Tonic" />
+  <key id="90000686" name="Superb Experience Booster +100%" />
+  <key id="90000687" name="Multigrain Bread" />
+  <key id="90000688" name="Superb Experience Booster +200%" />
+  <key id="90000689" name="Pilz-Erfahrungstrank" />
+  <key id="90000701" name="Crispy Zakum Cookie" />
+  <key id="90000702" name="Kays Erfahrungsschub +100&#160;% (30&#160;Min.)" />
+  <key id="90000703" name="Fishing Experience Booster +100% (30 Min)" />
+  <key id="90000704" name="Beginner's Golden Lure (10 Min)" />
+  <key id="90000705" name="Beginner's Golden Lure (1 Hour)" />
+  <key id="90000706" name="Master's Golden Lure (10 Min)" />
+  <key id="90000707" name="Erfahrungstrank (500)" />
+  <key id="90000708" name="Erfahrungstrank (1.000)" />
+  <key id="90000709" name="Erfahrungstrank (5.000)" />
+  <key id="90000710" name="Erfahrungstrank (10.000)" />
+  <key id="90000711" name="Erfahrungstrank (50.000)" />
+  <key id="90000712" name="Erfahrungstrank (100.000)" />
+  <key id="90000713" name="Erfahrungstrank (500.000)" />
+  <key id="90000714" name="Erfahrungstrank (1.000.000)" />
+  <key id="90000720" name="Kraut" feature="SurvivalContents01" />
+  <key id="90000728" name="Starlight Magnetic Lure" />
+  <key id="90000729" name="Magischer Bumm" feature="SurvivalContents01" />
+  <key id="90000730" name="Magiepfeil" feature="SurvivalContents01" />
+  <key id="90000735" name="Betäubungsgranaten" />
+  <key id="90000736" name="Betäubungsgranaten" />
+  <key id="90000740" name="Adventure Island Light Crystal" />
+  <key id="90000741" name="Adventure Island Snow Crystal" />
+  <key id="90000749" name="Performing Experience Booster +100% (30 Min)" />
+  <key id="90000750" name="Golden Butterfly Blessing" />
+  <key id="90000751" name="SKILLNAME_90000751_NAME:[F]FameContents" feature="FameContents" />
+  <key id="90000772" name="Stoß" feature="SurvivalContents01" />
+  <key id="90000773" name="Schwerer Schlag" feature="SurvivalContents01" />
+  <key id="90000774" name="Wirbelwind" feature="SurvivalContents01" />
+  <key id="90000775" name="Blutung" feature="SurvivalContents01" />
+  <key id="90000782" name="Hetzsprung" />
+  <key id="90000783" name="Pfeilregen" />
+  <key id="90000784" name="Anvisieren" />
+  <key id="90000785" name="M-Bombe" />
+  <key id="90000786" name="M-Bombe" />
+  <key id="90000787" name="M-Bombe" />
+  <key id="90000791" name="Feuerexplosion" />
+  <key id="90000792" name="Magiepfeil" />
+  <key id="90000793" name="Betäubungsgranaten" />
+  <key id="90000794" name="Betäubungsgranaten" />
+  <key id="90000795" name="Stoß" />
+  <key id="90000796" name="Pfeilregen" />
+  <key id="90000797" name="Anvisieren" />
+  <key id="90000798" name="M-Bombe" />
+  <key id="90000799" name="M-Bombe" />
+  <key id="90000800" name="M-Bombe" />
+  <key id="90000801" name="Flammenwelle" />
+  <key id="90000802" name="Flammenwelle" />
+  <key id="90000803" name="Schraubenzieherschuss" />
+  <key id="90000804" name="Schraubenzieherschuss" />
+  <key id="90000805" name="Riesenwurfstern" />
+  <key id="90000806" name="Riesenwurfstern" />
+  <key id="90000807" name="Arkankugel" />
+  <key id="90000808" name="Arkankugel" />
+  <key id="90000809" name="Arkankugel" />
+  <key id="90000810" name="Arkankugel" />
+  <key id="90000811" name="Riesenwurfstern" />
+  <key id="90000812" name="Riesenwurfstern" />
+  <key id="90000813" name="Pilzsporenschutz" />
+  <key id="90000831" name="Hetzsprungangriff" />
+  <key id="90000832" name="Hetzsprungangriff" />
+  <key id="90000837" name="Sprungfedersprung" feature="SurvivalContents02" />
+  <key id="90000840" name="SKILLNAME_90000840_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000841" name="SKILLNAME_90000841_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000842" name="SKILLNAME_90000842_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000843" name="SKILLNAME_90000843_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000844" name="SKILLNAME_90000844_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000845" name="SKILLNAME_90000845_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000846" name="SKILLNAME_90000846_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000847" name="SKILLNAME_90000847_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000848" name="SKILLNAME_90000848_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000849" name="SKILLNAME_90000849_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000850" name="SKILLNAME_90000850_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000851" name="SKILLNAME_90000851_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000852" name="SKILLNAME_90000852_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000854" name="SKILLNAME_90000854_NAME:[F]Mastery06" feature="Mastery06" />
+  <key id="90000855" name="Feuerwerk: Supersommer" />
+  <key id="90000861" name="Gelbe Farbbombe" />
+  <key id="90000864" name="Glücksfeuerwerk" />
+  <key id="90000871" name="Siegesfeuerwerk" feature="SurvivalContents03" />
+  <key id="90000875" name="Feuerexplosion" feature="SurvivalContents03" />
+  <key id="90000876" name="Pfeilregen" feature="SurvivalContents03" />
+  <key id="90000877" name="Anvisieren" feature="SurvivalContents03" />
+  <key id="90000878" name="M-Bombe" feature="SurvivalContents03" />
+  <key id="90000881" name="Flammenwelle" feature="SurvivalContents03" />
+  <key id="90200001" name="Wut" />
+  <key id="90200002" name="Kriegsgebrüll" />
+  <key id="90200003" name="Schmollmund" />
+  <key id="90200004" name="Intrige" />
+  <key id="90200005" name="Deprimiert" />
+  <key id="90200006" name="Daumen hoch" />
+  <key id="90200007" name="Keine Ahnung" />
+  <key id="90200008" name="Dynamische Pose" />
+  <key id="90200009" name="Verzweifeln" />
+  <key id="90200010" name="Verträumt" />
+  <key id="90200011" name="Grüßen" />
+  <key id="90200012" name="Verspotten" />
+  <key id="90200013" name="Verrückter Tanz" />
+  <key id="90200014" name="Auszeit" />
+  <key id="90200015" name="Bestrafung" />
+  <key id="90200016" name="Schlafen" />
+  <key id="90200017" name="Para-Para-Tanz" />
+  <key id="90200018" name="Ausraster" />
+  <key id="90200019" name="Schere" />
+  <key id="90200020" name="Stein" />
+  <key id="90200021" name="Papier" />
+  <key id="90200022" name="Bogen" />
+  <key id="90200023" name="Überraschung" />
+  <key id="90200024" name="Abwehren" />
+  <key id="90200025" name="Verspotten" />
+  <key id="90200026" name="Schmollen" />
+  <key id="90200027" name="Kuss zuwerfen" />
+  <key id="90200028" name="Kuss" />
+  <key id="90200029" name="Stepptanz" />
+  <key id="90200030" name="Shimmy" />
+  <key id="90200031" name="Weinen" />
+  <key id="90200037" name="Klasse_Männlicher Ritter" />
+  <key id="90200038" name="Klasse_Männlicher Assassine" />
+  <key id="90200039" name="Klasse_Weibliche Priesterin" />
+  <key id="90200040" name="Klasse_Weibliche Bogenschützin" />
+  <key id="90200041" name="Sitzen" />
+  <key id="90200042" name="Auf Kante setzen" />
+  <key id="90200043" name="Offenbarung" />
+  <key id="90200044" name="Sorge" />
+  <key id="90200045" name="Großer Fiesling" />
+  <key id="90200046" name="Wellentanz" />
+  <key id="90200047" name="Wirbeltanz" />
+  <key id="90200048" name="Hasentanz" />
+  <key id="90200049" name="Shuffle-Tanz" />
+  <key id="90200050" name="Stolziertanz" />
+  <key id="90200051" name="Wurmtanz" />
+  <key id="90200052" name="Singen" />
+  <key id="90200053" name="Kotau" />
+  <key id="90200054" name="Didi-Tanz" />
+  <key id="90200055" name="Ruderboottanz" />
+  <key id="90200056" name="Lehntanz" />
+  <key id="90200057" name="Besessener Fächertanz" />
+  <key id="90200058" name="Rolltanz" />
+  <key id="90200059" name="Chinesische GM-Ankleidepuppe" />
+  <key id="90200060" name="Windmühlentanz" />
+  <key id="90200061" name="Groove-Tanz" />
+  <key id="90200062" name="Peitschentanz" />
+  <key id="90200063" name="Goldener Ehrenthron" />
+  <key id="90200064" name="Silberner Ehrenthron" />
+  <key id="90200065" name="Bronzener Ehrenthron" />
+  <key id="90200066" name="Beschworener Pim" />
+  <key id="90200067" name="Dunkelschatten" />
+  <key id="90200068" name="Zombie-Tanz" />
+  <key id="90200069" name="Hypnosetanz" />
+  <key id="90200070" name="Erhofftes Geschenk" />
+  <key id="90200071" name="Wintertag" />
+  <key id="90200072" name="Phönixthron" />
+  <key id="90200073" name="Taler im Club" />
+  <key id="90200074" name="Mit einem Schmatzer von Bobby" />
+  <key id="90200075" name="Mit einem Schmatzer von Ruby" />
+  <key id="90200076" name="Rose" />
+  <key id="90200077" name="Fang des Tages" />
+  <key id="90200078" name="Unterricht mit Goldus" />
+  <key id="90200079" name="Unterricht mit Miel" />
+  <key id="90200080" name="Unterricht mit Belma" />
+  <key id="90200081" name="Kirschblütenpicknick" />
+  <key id="90200082" name="Salzige Nudeln" />
+  <key id="90200083" name="Leckere Nudeln" />
+  <key id="90200084" name="Renn um dein Leben" />
+  <key id="90200085" name="Herzlicher Antrag" />
+  <key id="90200086" name="Antrag annehmen" />
+  <key id="90200087" name="Antrag ablehnen" />
+  <key id="90200088" name="Weiche Pinkbohne" />
+  <key id="90200089" name="Zakums Stuhl" />
+  <key id="90200090" name="Alles Gute zum Geburtstag" />
+  <key id="90200091" name="Ambitious Throne" />
+  <key id="90200092" name="High Five" />
+  <key id="90200093" name="Hop Shuffle Boogie" />
+  <key id="90200094" name="Ray Dance" />
+  <key id="90200095" name="Reiskuchen stampfen" />
+  <key id="90200097" name="Nobler Ehrenthron" />
+  <key id="90200098" name="Kopf hoch" />
+  <key id="90200100" name="Hüpfender Orangenpilz" />
+  <key id="90200101" name="Hüft-Shimmy" />
+  <key id="90200102" name="Internetstar" />
+  <key id="90200103" name="Fireworks" />
+  <key id="90200104" name="Blumenflugdrachen" />
+  <key id="90200105" name="Schaukel" />
+  <key id="90200106" name="CBT-Party" locale="NA" />
+  <key id="90200107" name="Einstimmen" />
+  <key id="90200108" name="Goldene Sänfte des Pilzkönigs" feature="WorldChampionMushroom" />
+  <key id="90200109" name="Pilztanz" feature="WorldChampionMushroom" />
+  <key id="90200110" name="Zeit zum Zelten" />
+  <key id="90200111" name="Pinguintasse" />
+  <key id="90200112" name="Schlafpilztanz" />
+  <key id="90200113" name="Frischer Wassermelonensalat" />
+  <key id="90200116" name="Schadenfreude" feature="SurvivalContents03" />
+  <key id="90200117" name="Pilzpulver" feature="SurvivalContents03" />
+  <key id="90200118" name="Weicher Schlafpilz" feature="SurvivalContents03" />
+  <key id="90220001" name="Embrace" />
+  <key id="90220002" name="Fist Bump" />
+  <key id="90220003" name="Winterstreiche" />
+  <key id="90220004" name="Süße Naschereien" />
+  <key id="90220005" name="Bitte hilf mir" />
+  <key id="90220006" name="Lean on Me" />
+  <key id="90220007" name="Kowtow" />
+  <key id="90220008" name="Gemeinsamer Tanz" />
+  <key id="90220009" name="Händeklatschen" />
+  <key id="90220010" name="Heißer Kaffee" />
+  <key id="90220011" name="Ententanz" />
+  <key id="90220012" name="SKILLNAME_90220012_NAME" />
+  <key id="90220013" name="Tauziehen" />
+  <key id="90300001" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer Verbrennung zu verursachen." />
+  <key id="90300011" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer die Intelligenz zu erhöhen." />
+  <key id="90400001" name="Es besteht eine Chance von 10&#160;%, bei einem Treffer Verbrennung zu verursachen." />
+  <key id="90400011" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer die kritische Trefferrate zu erhöhen." />
+  <key id="90500001" name="Es besteht eine Chance von 25&#160;%, bei einem Treffer Blutung zu verursachen." />
+  <key id="90500011" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer das Angriffstempo zu erhöhen." />
+  <key id="90800001" name="Es besteht eine Chance von 20&#160;%, bei einem Treffer Vergiftung zu verursachen." />
+  <key id="90800011" name="Es besteht eine Chance von 10&#160;%, bei einem Treffer das Bewegungstempo zu erhöhen." />
+  <key id="99900991" name="Speichertrommel" />
+  <key id="99900992" name="Speichertrommel" />
+  <key id="99901001" name="Bombe" />
+  <key id="99901002" name="Bombe" />
+  <key id="99901005" name="Eichelwagen" />
+  <key id="99910001" name="Hornkopfstoß" />
+  <key id="99910002" name="Sausen" />
+  <key id="99910021" name="Feuerball" />
+  <key id="99910031" name="A" />
+  <key id="99910032" name="B" />
+  <key id="99910033" name="B (Diffuseffekt)" />
+  <key id="99910041" name="Faustschwinger" />
+  <key id="99910042" name="Links-rechts-Hieb" />
+  <key id="99910043" name="Steinschock" />
+  <key id="99910051" name="Hau den Maulwurf" />
+  <key id="99910052" name="Großer Nagelanker" />
+  <key id="99910053" name="Picknick" />
+  <key id="99910061" name="Süße Geräusche" />
+  <key id="99910062" name="Sausender Schmetterschlag!" />
+  <key id="99910071" name="Elektroschock (links)" />
+  <key id="99910072" name="Elektroschock (rechts)" />
+  <key id="99910073" name="Laser" />
+  <key id="99910074" name="Extremer Verstärker" />
+  <key id="99910075" name="Schießerei" />
+  <key id="99910076" name="Elektrischer Laser" />
+  <key id="99910081" name="Magische Kugel" />
+  <key id="99910091" name="Lockerer Schwinger" feature="VIPDungeon" />
+  <key id="99910092" name="Abrollen und schlagen" feature="VIPDungeon" />
+  <key id="99910101" name="Schlitzen und stechen" feature="VIPDungeon" />
+  <key id="99910102" name="Windschnitter II" feature="VIPDungeon" />
+  <key id="99910111" name="Schnellfeuer" feature="VIPDungeon" />
+  <key id="99910112" name="Sperrfeuer" feature="VIPDungeon" />
+  <key id="99910121" name="Blubberblasenschuss" feature="PirateOcean" />
+  <key id="99910122" name="Wasserkanone" feature="PirateOcean" />
+  <key id="99910131" name="Vulkanschusswaffe (20&#160;mm)" feature="DarkCastle" />
+  <key id="99910132" name="Baggerstich" feature="DarkCastle" />
+  <key id="99910133" name="Haubitzenfeuer (105&#160;mm)" feature="DarkCastle" />
+  <key id="99910141" name="Stürme!" feature="DarkCastle" />
+  <key id="99910142" name="Zweiter Wind" feature="DarkCastle" />
+  <key id="99910151" name="Schnellfeuer" feature="DarkCastle" />
+  <key id="99910152" name="Sperrfeuer" feature="DarkCastle" />
+  <key id="99910161" name="Schießerei" feature="DarkCastle" />
+  <key id="99910162" name="Laserstrahl" feature="DarkCastle" />
+  <key id="99910163" name="Extremer Verstärker" feature="DarkCastle" />
+  <key id="99910164" name="Laserverstärker" feature="DarkCastle" />
+  <key id="99910171" name="Zwei Wurfwaffen schleudern" feature="DarkCastle" />
+  <key id="99910172" name="Granatwurf" feature="DarkCastle" />
+  <key id="99910173" name="Hetzsprung" feature="DarkCastle" />
+  <key id="99910181" name="Schlitzen und stechen" feature="DarkCastle" />
+  <key id="99910182" name="Windschnitter II" feature="DarkCastle" />
+  <key id="99910191" name="Schnellfeuer" feature="DarkCastle" />
+  <key id="99910192" name="Sperrfeuer" feature="DarkCastle" />
+  <key id="99910193" name="Pfeilsturm II" feature="DarkCastle" />
+  <key id="99910241" name="Steal Egg" feature="GuildRaid01" />
+  <key id="99910301" name="SKILLNAME_99910301_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910302" name="SKILLNAME_99910302_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910303" name="SKILLNAME_99910303_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910304" name="SKILLNAME_99910304_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910305" name="SKILLNAME_99910305_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910306" name="SKILLNAME_99910306_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910307" name="SKILLNAME_99910307_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="99910341" name="Bereichsstoß" feature="SurvivalContents02" />
+  <key id="99910342" name="Primärlaser" feature="SurvivalContents02" />
+  <key id="99910343" name="Nitro-Sprung" feature="SurvivalContents02" />
+  <key id="99910344" name="Überlastungsstrahl" feature="SurvivalContents02" />
+  <key id="99910351" name="Dösen" feature="SurvivalContentsTeam" />
+  <key id="50000001" name="Pilzniederwurf" />
+  <key id="50000002" name="Blockfähigkeit Rankenstachel" />
+  <key id="50000003" name="Aufs Stürmen vorbereiten (Nahkampf)" />
+  <key id="50000004" name="Varahaschwinger" />
+  <key id="50000005" name="Ramme" />
+  <key id="50000006" name="Trongfitsprint" />
+  <key id="50000007" name="Grünblattwurf" />
+  <key id="50000008" name="Fausthieb" />
+  <key id="50000009" name="Niederschlagen" />
+  <key id="50000010" name="Trankwurf" />
+  <key id="50000011" name="Wirbelschlag" />
+  <key id="50000012" name="Hammerschlag" />
+  <key id="50000013" name="3er-Kombo" />
+  <key id="50000016" name="Sporen verstreuen" />
+  <key id="50000017" name="Hammerschwinger" />
+  <key id="50000018" name="Brongfitschlag" />
+  <key id="50000019" name="Brongfitdrehangriff" />
+  <key id="50000020" name="Hornstich" />
+  <key id="50000021" name="Schildramme" />
+  <key id="50000023" name="Maglack-Schildstreich" />
+  <key id="50000024" name="Maglack-Schildramme" />
+  <key id="50000025" name="Teojilacks Manabrand" />
+  <key id="50000026" name="Schlag (beidhändiger Hieb)" />
+  <key id="50000027" name="Schlitzer (x7 angreifen)" />
+  <key id="50000029" name="Fledermäuse rufen (x3 angreifen)" />
+  <key id="50000032" name="Schlag (Steinhieb)" />
+  <key id="50000033" name="Steinkopfstoß" />
+  <key id="50000036" name="Fledermausbiss" />
+  <key id="50000037" name="Sonarangriff" />
+  <key id="50000038" name="Halstone-Hieb" />
+  <key id="50000039" name="Halstone-Schock" />
+  <key id="50000040" name="Bruchstein schießen" />
+  <key id="50000041" name="Mini-Feueratem" />
+  <key id="50000042" name="Twinkohieb" />
+  <key id="50000043" name="Magieschwert werfen" />
+  <key id="50000044" name="Feuerball abfeuern" />
+  <key id="50000045" name="Kraterexplosion" />
+  <key id="50000046" name="Artefaktwurf" />
+  <key id="50000047" name="Entleinschnabelangriff" />
+  <key id="50000048" name="Orbis-Kopfstoß" />
+  <key id="50000049" name="Schlag" />
+  <key id="50000051" name="Schlag" />
+  <key id="50000052" name="Cerbe-Bodenwühler" />
+  <key id="50000054" name="Riesenhammerschlag" />
+  <key id="50000055" name="Nahangriff vorbereiten" />
+  <key id="50000056" name="Steingolemschock" />
+  <key id="50000057" name="Sausender Schwinger (vorbereiten)" />
+  <key id="50000058" name="Seelenfessel von Pim" />
+  <key id="50000059" name="Pimschlag" />
+  <key id="50000060" name="Gehörnter Pilzschlag" />
+  <key id="50000062" name="Schlag" />
+  <key id="50000063" name="Gehörnte Pilzrolle" />
+  <key id="50000065" name="Nepenzahnbiss" />
+  <key id="50000066" name="Nepenzahns Samenstreuer" />
+  <key id="50000068" name="Zwillingsarbeiterhieb" />
+  <key id="50000069" name="Dunkelzwillingsschlag" />
+  <key id="50000070" name="Konorbis-Kopfstoß" />
+  <key id="50000073" name="Springender Niederwurf" />
+  <key id="50000074" name="Axtwurf" />
+  <key id="50000075" name="Todesgas (Stärkungseffekt)" />
+  <key id="50000076" name="Frucht ablegen" />
+  <key id="50000077" name="Direktwurf vorbereiten" />
+  <key id="50000078" name="Nahangriff vorbereiten" />
+  <key id="50000079" name="Schlag" />
+  <key id="50000080" name="Schlag" />
+  <key id="50000081" name="Siegel abbrechen (Stärkungseffekt)" />
+  <key id="50000082" name="Harter Schlag" />
+  <key id="50000083" name="Schlag" />
+  <key id="50000085" name="Schlag" />
+  <key id="50000086" name="Nahkampfdrehangriff vorbereiten" />
+  <key id="50000087" name="Weitreichenden Zungenangriff vorbereiten" />
+  <key id="50000088" name="Schlag" />
+  <key id="50000090" name="Schlag" />
+  <key id="50000091" name="Ellang beschwören" />
+  <key id="50000092" name="Strudel beschwören" />
+  <key id="50000093" name="Tod: Ellang beschwören" />
+  <key id="50000094" name="Flatternder Umhang" />
+  <key id="50000095" name="Dunkelsphäre" />
+  <key id="50000096" name="Dunkelexplosion" />
+  <key id="50000097" name="Schlag" />
+  <key id="50000098" name="Giftiges Gas deponieren" />
+  <key id="50000100" name="Pfeil abfeuern" />
+  <key id="50000101" name="Schlagangriff" />
+  <key id="50000102" name="Orbis-Kopfstoß" />
+  <key id="50000103" name="Konorbis-Kopfstoß" />
+  <key id="50000104" name="Schlag" />
+  <key id="50000105" name="Cerbe-Bodenwühler" />
+  <key id="50000106" name="Ramme" />
+  <key id="50000107" name="Trongfitsprint" />
+  <key id="50000108" name="Hornstich" />
+  <key id="50000109" name="Brongfitschlag" />
+  <key id="50000110" name="Brongfitdrehangriff" />
+  <key id="50000111" name="Nepenzahnbiss" />
+  <key id="50000112" name="Nepenzahns Samenstreuer" />
+  <key id="50000113" name="Rotpilz für Fernkampf" />
+  <key id="50000114" name="Rotpilz für Nahkampf" />
+  <key id="50000115" name="Pilzangriff mit kurzer Reichweite" />
+  <key id="50000116" name="Sprungrausch" />
+  <key id="50000117" name="Sausen vorbereiten" />
+  <key id="50000118" name="Rückzug nach Honibus Angriff" />
+  <key id="50000119" name="Schlag" />
+  <key id="50000120" name="Energiegeladener Schwinger" />
+  <key id="50000121" name="Auf den Boden niederschlagen" />
+  <key id="50000122" name="Bombe werfen" />
+  <key id="50000123" name="Fernangriff" />
+  <key id="50000124" name="Fernangriff auslösen" />
+  <key id="50000125" name="Drehtritt" />
+  <key id="50000126" name="3er-Kombo" />
+  <key id="50000127" name="Kurzfristige Fähigkeit" />
+  <key id="50000128" name="Kurzfristige Fähigkeit" />
+  <key id="50000129" name="Einfacher Nahangriff" />
+  <key id="50000130" name="Kurzsprintangriff" />
+  <key id="50000131" name="Pilzangriff mit sehr kurzer Reichweite" />
+  <key id="50000132" name="Schlag" />
+  <key id="50000133" name="Harter Stoß" />
+  <key id="50000134" name="Nahkampfwirbel" />
+  <key id="50000135" name="Fußfessel" />
+  <key id="50000136" name="Fähigkeit mit Flächeneffekt" />
+  <key id="50000137" name="Schnell mit großer Reichweite" />
+  <key id="50000138" name="Stark mit großer Reichweite" />
+  <key id="50000139" name="Große Reichweite" />
+  <key id="50000140" name="Fußfessel" />
+  <key id="50000141" name="Schlag" />
+  <key id="50000142" name="Große Reichweite" />
+  <key id="50000143" name="Mittlere Reichweite" />
+  <key id="50000144" name="Schlag" />
+  <key id="50000145" name="Harter Stoß" />
+  <key id="50000146" name="Schlag" />
+  <key id="50000147" name="Schnell mit großer Reichweite" />
+  <key id="50000148" name="Stark mit großer Reichweite" />
+  <key id="50000149" name="Schlag" />
+  <key id="50000150" name="Nahkampfwirbel" />
+  <key id="50000151" name="Fähigkeit mit Flächeneffekt" />
+  <key id="50000152" name="Superrüstungsangriff" />
+  <key id="50000153" name="Superrüstungssprungrausch" />
+  <key id="50000154" name="Superrüstungsangriff" />
+  <key id="50000155" name="Blockfähigkeit" />
+  <key id="50000156" name="Blockfähigkeit" />
+  <key id="50000157" name="Blockfähigkeitenexplosion (Stufe&#160;1)" />
+  <key id="50000158" name="Blockfähigkeit (2&#160;Felder, halb)" />
+  <key id="50000159" name="Attrappenblockexplosion (Stufe&#160;1)" />
+  <key id="50000160" name="Blockfähigkeit" />
+  <key id="50000161" name="Blockfähigkeit (2&#160;Felder, Kreuz)" />
+  <key id="50000162" name="Blockfähigkeit (2&#160;Felder, Halbkreuz)" />
+  <key id="50000163" name="Blockfähigkeit (teilweise, rechteckig)" />
+  <key id="50000164" name="Blockfähigkeit (3&#160;Felder, 1&#160;Spalte)" />
+  <key id="50000165" name="Rechteckblockfähigkeit (4&#160;Felder 1&#160;Spalte)" />
+  <key id="50000166" name="Rechteckblockfähigkeit (5&#160;Felder 1&#160;Spalte)" />
+  <key id="50000167" name="Blockfähigkeit (4&#160;Felder, 1&#160;Reihe)" />
+  <key id="50000168" name="Rasereiabstand um 1.000 verringert" />
+  <key id="50000169" name="Alberner Teleport des Magiers" />
+  <key id="50000170" name="Alberne Energiekugel des Magiers abfeuern" />
+  <key id="50000171" name="2er-Komboangriff" />
+  <key id="50000172" name="Sprungrausch" />
+  <key id="50000173" name="Nahangriff" />
+  <key id="50000174" name="Superrüstungssprungrausch" />
+  <key id="50000175" name="Nahangriff (Bewegungsschaden)" />
+  <key id="50000176" name="2er-Komboangriff (Bewegungsschaden)" />
+  <key id="50000177" name="Bebender Superrüstungssprungrausch" />
+  <key id="50000178" name="Rasereiabstand 600" />
+  <key id="50000179" name="Rasereiabstand 200 Stufe&#160;1" />
+  <key id="50000180" name="Schwacher 2er-Komboangriff" />
+  <key id="50000181" name="Sausen vorbereiten" />
+  <key id="50000182" name="Wütende Blockfähigkeitsfolge" />
+  <key id="50000183" name="Pfeil abfeuern" />
+  <key id="50000184" name="Pfeil abfeuern" />
+  <key id="50000185" name="Status „Angriffsbereit“" />
+  <key id="50000186" name="Nahangriff aktivieren" />
+  <key id="50000187" name="Energiekugel (angriffsbereit)" />
+  <key id="50000188" name="Anbahnender Nahangriff (bedrohen)" />
+  <key id="50000189" name="Rasender Nahangriff (vorbereiten) Stufe&#160;1" />
+  <key id="50000190" name="Betäubt" />
+  <key id="50000191" name="Rechteckblockfähigkeit (3er-Folge)" />
+  <key id="50000192" name="Fähigkeit auf halbleeren Block aktivieren" />
+  <key id="50000193" name="Fähigkeit auf halbleeren Block aktivieren" />
+  <key id="50000194" name="Fähigkeitsaktivierung vorbereiten (vorbereiten)" />
+  <key id="50000195" name="Vor Angriff drohen" />
+  <key id="50000196" name="Rechteckblockfähigkeit (3er-Folge)" />
+  <key id="50000197" name="2er-Komboangriff (Bewegungsschaden)" />
+  <key id="50000198" name="Zentrale Attrappenblockexplosion" />
+  <key id="50000199" name="Schnelle Kreuzblockexplosion (Stufe&#160;1)" />
+  <key id="50000200" name="Schnelle Leerblockexplosion (Stufe&#160;1)" />
+  <key id="50000201" name="Sausangriff (bedrohen) auf umgebende Blöcke" />
+  <key id="50000202" name="Schrei vorbereiten" />
+  <key id="50000203" name="Einfacher Angriff" />
+  <key id="50000204" name="2er-Komboangriff" />
+  <key id="50000205" name="3er-Komboangriff" />
+  <key id="50000206" name="Schmettersprungangriff" />
+  <key id="50000207" name="Tritt vorbereiten" />
+  <key id="50000208" name="Augenlaser vorbereiten" />
+  <key id="50000209" name="Kleber auslegen" />
+  <key id="50000210" name="Abfeuern von Bienenstachel vorbereiten" />
+  <key id="50000211" name="Wirbelwindrausch vorbereiten" />
+  <key id="50000212" name="Großer Wirbelwind" />
+  <key id="50000213" name="Umstoßen" />
+  <key id="50000214" name="Einfacher Angriff" />
+  <key id="50000215" name="2er-Komboangriff" />
+  <key id="50000216" name="3er-Komboangriff" />
+  <key id="50000217" name="Magnumbruch vorbereiten" />
+  <key id="50000218" name="Dolchangriff vorbereiten" />
+  <key id="50000219" name="Starken Dolchangriff vorbereiten" />
+  <key id="50000220" name="Speerangriff vorbereiten" />
+  <key id="50000221" name="Speerangriff vorbereiten" />
+  <key id="50000222" name="Armbrusttreffer vorbereiten" />
+  <key id="50000223" name="Starken Armbrustangriff vorbereiten" />
+  <key id="50000224" name="Laserkanone vorbereiten" />
+  <key id="50000225" name="Starke Laserkanone vorbereiten" />
+  <key id="50000226" name="Kräftigen Angriff vorbereiten" />
+  <key id="50000227" name="Blockfähigkeit um dich herum vorbereiten" />
+  <key id="50000228" name="Blockfähigkeit ausgehend von Gegner vorbereiten" />
+  <key id="50000229" name="Teleportieren vorbereiten" />
+  <key id="50000230" name="Teleportieren vorbereiten" />
+  <key id="50000231" name="Zur Überprüfung geringer Reichweite" />
+  <key id="50000232" name="Beidhändige Druckwelle vorbereiten" />
+  <key id="50000233" name="Feuerwurf" />
+  <key id="50000234" name="Faustschlag vorbereiten" />
+  <key id="50000235" name="Giftangriff" />
+  <key id="50000236" name="Magnumbruch" />
+  <key id="50000237" name="Angriff nach rechts vorbereiten" />
+  <key id="50000238" name="Angriff nach links vorbereiten" />
+  <key id="50000239" name="Feststehenden Schmetterschlagangriff vorbereiten" />
+  <key id="50000240" name="Feststehenden Schmetterschlagangriff (schwach) vorbereiten" />
+  <key id="50000241" name="Fernangriff vorbereiten" />
+  <key id="50000242" name="Fernangriff vorbereiten (schwach)" />
+  <key id="50000243" name="Verspottende Haltung" />
+  <key id="50000244" name="Ausstoß von Fledermäusen aus dem Mund vorbereiten" />
+  <key id="50000245" name="Niederwurf mit einer Faust" />
+  <key id="50000246" name="Doppelfaustniederwurf" />
+  <key id="50000247" name="Blockangriff (hängend)" />
+  <key id="50000248" name="Laserkanone abfeuern" />
+  <key id="50000249" name="Sausen vorbereiten" />
+  <key id="50000250" name="Springender Niederwurf" />
+  <key id="50000251" name="Energieexplosionsstoß (vorbereiten) auf Block" />
+  <key id="50000252" name="Genervter Schubser" />
+  <key id="50000253" name="Umsehen" />
+  <key id="50000254" name="Phasenwechsel mit 70&#160;% LP-Verringerung" />
+  <key id="50000255" name="Drohung vor Angriff" />
+  <key id="50000256" name="Kraterexplosion vorbereiten" />
+  <key id="50000257" name="Gewaltigen Feueratem vorbereiten" />
+  <key id="50000258" name="Blockfähigkeit Steinelement" />
+  <key id="50000259" name="Block vom Element Gas, Muster&#160;1" />
+  <key id="50000260" name="Block vom Element Gas, Muster&#160;2" />
+  <key id="50000261" name="Vor Teleportieren" />
+  <key id="50000262" name="Nach Teleportieren" />
+  <key id="50000263" name="Schmettersprungangriff (schwach) vorbereiten" />
+  <key id="50000264" name="Einfachen Schmettersprungangriff vorbereiten" />
+  <key id="50000265" name="Feueratem vorbereiten" />
+  <key id="50000266" name="Eine Hand heben" />
+  <key id="50000267" name="Kettenschwinger" />
+  <key id="50000268" name="Armschwinger vorbereiten" />
+  <key id="50000269" name="Beißangriff" />
+  <key id="50000270" name="Beißangriff" />
+  <key id="50000271" name="Kopfstoß" />
+  <key id="50000272" name="Wirbelrausch" />
+  <key id="50000273" name="Schuppen auskämmen" />
+  <key id="50000274" name="Dornenstich (3er-Kombo)" />
+  <key id="50000275" name="Dornen in alle Richtungen abfeuern" />
+  <key id="50000276" name="Waffenschwinger" />
+  <key id="50000277" name="Wirbel (3er-Kombo) vorbereiten" />
+  <key id="50000278" name="Maulschelle" />
+  <key id="50000279" name="Kopfschlag" />
+  <key id="50000280" name="Knochenwurf" />
+  <key id="50000281" name="Sprungniederwurf vorbereiten" />
+  <key id="50000282" name="Angriff vorbereiten (vorläufig)" />
+  <key id="50000283" name="Einzelangriff vorbereiten" />
+  <key id="50000284" name="3er-Komboangriff vorbereiten" />
+  <key id="50000285" name="Speerstich" />
+  <key id="50000286" name="Sausender Speerschwinger (vorbereiten)" />
+  <key id="50000287" name="Zangenangriff" />
+  <key id="50000288" name="Laser abfeuern" />
+  <key id="50000289" name="Kurzsprint" />
+  <key id="50000290" name="Feststehender Schmetterschlag" />
+  <key id="50000291" name="Drei Wirbelwinde auslösen" />
+  <key id="50000292" name="Kurzsprintangriff" />
+  <key id="50000293" name="Rauswerfen" />
+  <key id="50000294" name="Wurfwaffe werfen" />
+  <key id="50000295" name="Hüftstreckerangriff" />
+  <key id="50000296" name="Bandagenzieher" />
+  <key id="50000297" name="Kreiskopf (vorbereiten)" />
+  <key id="50000298" name="Einzelangriff vorbereiten" />
+  <key id="50000299" name="Drehangriff (3er-Kombo) vorbereiten" />
+  <key id="50000300" name="Gesichtsschuss" />
+  <key id="50000301" name="Spinnenfadenblock drehen" />
+  <key id="50000302" name="Sprung vorbereiten" />
+  <key id="50000303" name="Beidhändigen Niederschlag vorbereiten" />
+  <key id="50000304" name="Niederschlag mit Haupthand vorbereiten" />
+  <key id="50000305" name="Krückenschwinger vorbereiten" />
+  <key id="50000306" name="Krückenschlag vorbereiten" />
+  <key id="50000307" name="Schwache Bombe abfeuern" />
+  <key id="50000308" name="Abfeuern einer mächtigen Bombe vorbereiten" />
+  <key id="50000309" name="Kopfschlag vorbereiten" />
+  <key id="50000310" name="Schwinger Typ&#160;A vorbereiten" />
+  <key id="50000311" name="Schwinger Typ&#160;B vorbereiten" />
+  <key id="50000312" name="Sprungniederwurf vorbereiten" />
+  <key id="50000313" name="Drehangriff (vorbereiten)" />
+  <key id="50000314" name="Schwinger" />
+  <key id="50000315" name="Schwertziehen vorbereiten" />
+  <key id="50000316" name="2er-Kombo vorbereiten" />
+  <key id="50000317" name="Schwinger" />
+  <key id="50000318" name="Tritt vorbereiten" />
+  <key id="50000319" name="Saltotritt vorbereiten" />
+  <key id="50000320" name="Küchenmesser" />
+  <key id="50000321" name="Gummihandschuhangriff auf Kopf" />
+  <key id="50000322" name="Magenhieb" />
+  <key id="50000323" name="Brokkoliblockangriff" />
+  <key id="50000324" name="Horizontalschnitt vorbereiten" />
+  <key id="50000325" name="Vertikalschnitt vorbereiten" />
+  <key id="50000326" name="Vertikalschnitt als Komboangriff vorbereiten" />
+  <key id="50000327" name="Vertikalschnitt als Komboangriff vorbereiten" />
+  <key id="50000328" name="Vertikalschnitt als Komboangriff vorbereiten" />
+  <key id="50000329" name="Sprungniederwurf vorbereiten" />
+  <key id="50000330" name="Ziehen vorbereiten" />
+  <key id="50000331" name="Schlag nach rechts vorbereiten" />
+  <key id="50000332" name="Schlag nach links vorbereiten" />
+  <key id="50000333" name="Drehen vorbereiten" />
+  <key id="50000334" name="Drehender Sausangriff (Kurzversion)" />
+  <key id="50000335" name="Feststehender drehender Sausangriff" />
+  <key id="50000336" name="Drehen abschließen" />
+  <key id="50000337" name="Drehen abschließen (übergeben)" />
+  <key id="50000338" name="Feuerschuss vorbereiten" />
+  <key id="50000339" name="Feuerschuss&#160;1" />
+  <key id="50000340" name="Feuerschuss abschließen" />
+  <key id="50000341" name="Drehen abschließen (übergeben)" />
+  <key id="50000342" name="Feuerschuss&#160;1" />
+  <key id="50000344" name="Ausweichsprung" />
+  <key id="50000350" name="Elastischer Angriff" />
+  <key id="50000351" name="Sprungangriff vorbereiten" />
+  <key id="50000352" name="Gewaltige Feuerwirbelattacke vorbereiten" />
+  <key id="50000353" name="Energiekugel abfeuern" />
+  <key id="50000354" name="3er-Schusskombo" />
+  <key id="50000355" name="Sausen vorbereiten" />
+  <key id="50000356" name="Stich vorbereiten" />
+  <key id="50000357" name="Horizontalschnitt vorbereiten" />
+  <key id="50000358" name="Sprungniederwurf vorbereiten" />
+  <key id="50000359" name="Hüpfvorbereitung" />
+  <key id="50000373" name="Lücke schließen " />
+  <key id="50000374" name="Flug vorbereiten" />
+  <key id="50000375" name="Flug vorbereiten" />
+  <key id="50000376" name="Flug vorbereiten" />
+  <key id="50000377" name="Flug vorbereiten" />
+  <key id="50000378" name="Stärkungseffekt Angriffsschub" />
+  <key id="50000380" name="Windschub mit Federschuss (Stufe&#160;1)" />
+  <key id="50000381" name="Sausen vorbereiten" />
+  <key id="50000382" name="Vertikalschnitt für Angriff vorbereiten" />
+  <key id="50000383" name="Horizontalschnitt für Angriff vorbereiten" />
+  <key id="50000384" name="Niederschmetternden Hieb vorbereiten" />
+  <key id="50000385" name="Feuerschuss vorbereiten" />
+  <key id="50000386" name="Blockangriff hängend" />
+  <key id="50000387" name="Feuerschuss vorbereiten" />
+  <key id="50000388" name="Feuerschuss vorbereiten" />
+  <key id="50000389" name="Einfacher Treffer" />
+  <key id="50000390" name="Aktionsvorbereitung" />
+  <key id="50000391" name="Einfacher Spezialangriff" />
+  <key id="50000394" name="Schlag" />
+  <key id="50000395" name="Steinschleuderangriff" />
+  <key id="50000396" name="Gebrüll" />
+  <key id="50000397" name="Schwinger" />
+  <key id="50000398" name="Gebrüll" />
+  <key id="50000399" name="Schlag" />
+  <key id="50000400" name="Schlag" />
+  <key id="50000401" name="Schlag" />
+  <key id="50000402" name="Einfacher Spezialangriff" />
+  <key id="50000403" name="Schlag" />
+  <key id="50000404" name="Schlag" />
+  <key id="50000405" name="Gebrüll" />
+  <key id="50000406" name="Schlag" />
+  <key id="50000407" name="Schlag" />
+  <key id="50000408" name="Schmetterschlag" />
+  <key id="50000409" name="Laser vorbereiten" />
+  <key id="50000410" name="Sägemesser" />
+  <key id="50000411" name="Kopfschlag vorbereiten" />
+  <key id="50000412" name="Abwehrstärkung für Verbündete" />
+  <key id="50000413" name="Angriff mit Flächeneffekt" />
+  <key id="50000414" name="Hornangriff starten" />
+  <key id="50000415" name="Lebenserhöhung" />
+  <key id="50000416" name="Abwehrerhöhung" />
+  <key id="50000417" name="Blockfähigkeit: Wassergefängnis" />
+  <key id="50000418" name="Kreiseinschlagsfähigkeit" />
+  <key id="50000419" name="Einfachen Schmettersprungangriff vorbereiten" />
+  <key id="50000420" name="Giftwolke" />
+  <key id="50000421" name="Kurzsprintangriff, Stoß" />
+  <key id="50000422" name="Aufs Stürmen vorbereiten (Nahkampf)" />
+  <key id="50000423" name="Schrei vorbereiten" />
+  <key id="50000424" name="Gelblockangriffsfähigkeit" />
+  <key id="50000425" name="Rolle vorbereiten" />
+  <key id="50000426" name="Sprungniederwurf vorbereiten" />
+  <key id="50000427" name="Talismanprojektil vorbereiten" />
+  <key id="50000428" name="Erde des Rachegeists" />
+  <key id="50000429" name="Projektil des Rachegeists" />
+  <key id="50000430" name="Sprungkopfstoß" />
+  <key id="50000431" name="Kurzen Schmettersprung vorbereiten" />
+  <key id="50000432" name="Weiten Schmettersprung vorbereiten" />
+  <key id="50000433" name="Blockmagie wirken" />
+  <key id="50000434" name="Magie wirken" />
+  <key id="50000435" name="Kopfstoß" />
+  <key id="50000436" name="Schrumpfen" />
+  <key id="50000437" name="Blockfähigkeit (1&#160;Feld)" />
+  <key id="50000438" name="Selbstzerstörung" />
+  <key id="50000439" name="Selbstzerstörung" />
+  <key id="50000440" name="Selbstzerstörung" />
+  <key id="50000441" name="Angriff vorbereiten" />
+  <key id="50000442" name="Sporen schießen" />
+  <key id="50000443" name="Umgebung zersetzen mit Schaden" />
+  <key id="50000444" name="Blockerzeugungssprung vorbereiten" />
+  <key id="50000445" name="Blockangriff abschließen" />
+  <key id="50000446" name="Verbesserten Sprungangriff vorbereiten" />
+  <key id="50000447" name="Verbesserter Sprungangriff&#160;2" />
+  <key id="50000448" name="Unbesiegbarkeit und Skalierung vorbereiten" />
+  <key id="50000449" name="Sprung in Blockmitte" />
+  <key id="50000450" name="Du wirst gleich ZERSCHMETTETTETTETTERT" />
+  <key id="50000451" name="Sporenbeschmiert" />
+  <key id="50000452" name="Beschwören" />
+  <key id="50000453" name="Sprung ohne Block vorbereiten" />
+  <key id="50000454" name="Sprung ohne Block&#160;2" />
+  <key id="50000455" name="Sprung ohne Block&#160;3" />
+  <key id="50000456" name="Sprungschlagangriff" />
+  <key id="50000457" name="Blockfähigkeit (1&#160;Feld)" />
+  <key id="50000458" name="Schlag&#160;1 vorbereiten" />
+  <key id="50000513" name="Speerangriff" />
+  <key id="50000514" name="Magischer Angriff" />
+  <key id="50000515" name="Gewöhnlicher Sprintangriff" />
+  <key id="50000516" name="Umgebung zersetzen mit Schaden" />
+  <key id="50000517" name="Abwehrerhöhung, wenn Lakaien in der Nähe" />
+  <key id="50000518" name="Umfeld heilen" />
+  <key id="50000519" name="Superrüstungsangriff" />
+  <key id="50000520" name="Superrüstungsangriff" />
+  <key id="50000521" name="Haubitzenfeuer (manasenkend)" />
+  <key id="50000522" name="Teleportieren vorbereiten" />
+  <key id="50000523" name="Schlag" />
+  <key id="50000524" name="Entlein/Vacklein beschwören" />
+  <key id="50000525" name="Nahangriff" />
+  <key id="50000526" name="Wirbelwindsturm vorbereiten" />
+  <key id="50000527" name="Direktwurf (durchdringend)" />
+  <key id="50000528" name="Graben" />
+  <key id="50000529" name="Sausen vorbereiten" />
+  <key id="50000530" name="Energieentladung" />
+  <key id="50000531" name="Teleportieren" />
+  <key id="50000532" name="Seelenenergie absorbiert" />
+  <key id="50000533" name="Selbstmord" />
+  <key id="50000539" name="Abstandsüberprüfung" />
+  <key id="50000540" name="Forcierte Energieexplosion (MAG)" />
+  <key id="50000541" name="Schulterangriff vorbereiten (MAG)" />
+  <key id="50000542" name="Schulterangriff vorbereiten (MAG)" />
+  <key id="50000543" name="Sausenden Kopfstoß vorbereiten (MAG)" />
+  <key id="50000544" name="Nahkampfgriff (MAG)" />
+  <key id="50000545" name="Fernkampfgriff (MAG)" />
+  <key id="50000546" name="Schraubendrehersprung (PHY)" />
+  <key id="50000547" name="Drehen vorbereiten (MAG)" />
+  <key id="50000548" name="Roundhouse-Kick mit linkem Fuß" />
+  <key id="50000550" name="Sausenden Schwinger vorbereiten" />
+  <key id="50000551" name="Schmettersprung vorbereiten (PHY)" />
+  <key id="50000552" name="Stichcombo vorbereiten" />
+  <key id="50000553" name="Zielsuchraketen-Bodenexplosion" />
+  <key id="50000554" name="Wiederherstellungsrakete" />
+  <key id="50000555" name="Sprung vorbereiten" />
+  <key id="50000556" name="Schlachtfeld_Podium überprüfen" />
+  <key id="50000557" name="Necken: Ziel ignorieren" />
+  <key id="50000558" name="Ende von Phase 1: Necken" />
+  <key id="50000559" name="Sprich nach dem Herbeirufen von Lakaien" />
+  <key id="50000560" name="Niederschmetternden Hieb vorbereiten" />
+  <key id="50000561" name="Sausenden Schwinger vorbereiten" />
+  <key id="50000562" name="Stichcombo vorbereiten" />
+  <key id="50000563" name="Schnelle Klaue vorbereiten" />
+  <key id="50000564" name="Zweithand – Magiewurf" />
+  <key id="50000565" name="Zweithand – starke Magie vorbereiten" />
+  <key id="50000566" name="Steilfeuer in alle Richtungen (Fluch), vier Schüsse" />
+  <key id="50000567" name="Unterirdische Zielsuchrakete vorbereiten" />
+  <key id="50000568" name="Flugrakete vorbereiten" />
+  <key id="50000569" name="Absorptionsbetäubung vorbereiten" />
+  <key id="50000570" name="Einfache Einschüchterung" />
+  <key id="50000571" name="Schneller Einschüchterungsangriff" />
+  <key id="50000572" name="Explosiven Angriff mit Flächeneffekt beginnen (Min.)" />
+  <key id="50000573" name="Verwandeln" />
+  <key id="50000574" name="Trifft betäubte Spieler" />
+  <key id="50000575" name="Erschöpfungsantrieb" />
+  <key id="50000576" name="Sprung vorbereiten" />
+  <key id="50000577" name="Teleportieren" />
+  <key id="50000578" name="Abstand Phase 3 überprüfen" />
+  <key id="50000579" name="Einen hängenden Spieler fallen lassen" />
+  <key id="50000580" name="Zweithand – großen Laser vorbereiten" />
+  <key id="50000581" name="Leiterfuß unter Kontrolle halten" />
+  <key id="50000582" name="Absorptionsbetäubung vorbereiten" />
+  <key id="50000583" name="Begin Explosive AoE Attack (Min)" />
+  <key id="50000597" name="Welle" />
+  <key id="50000598" name="Wind standhalten" />
+  <key id="50000599" name="Gleiches Schlachtfeld überprüfen" />
+  <key id="50000600" name="Frostwurf" />
+  <key id="50000601" name="Rollangriff vorbereiten" />
+  <key id="50000602" name="Handschuss vorbereiten" />
+  <key id="50000603" name="Abwärtshieb vorbereiten" />
+  <key id="50000604" name="Sprung vorbereiten" />
+  <key id="50000605" name="Laser vorbereiten" />
+  <key id="50000606" name="Hammer" />
+  <key id="50000607" name="Krafthammer" />
+  <key id="50000608" name="Feuer vorbereiten" />
+  <key id="50000609" name="Einfache Eiswandzerstörung" />
+  <key id="50000610" name="Schwinger vorbereiten" />
+  <key id="50000611" name="Stichsturm vorbereiten" />
+  <key id="50000612" name="Bodenexplosion vorbereiten" />
+  <key id="50000613" name="Schwächungseffekt vorbereiten" />
+  <key id="50000614" name="Strahlende Lichtkugel (LP-Regeneration)" />
+  <key id="50000615" name="Schwertschwinger" />
+  <key id="50000616" name="Schwertschwingend aufs Stürmen vorbereiten" />
+  <key id="50000617" name="Speerstich" />
+  <key id="50000618" name="Speerstich vorbereiten" />
+  <key id="50000619" name="Eisscherbe schießen (FRN)" />
+  <key id="50000620" name="Eisscherbe vorbereiten" />
+  <key id="50000621" name="Streitkolben schwingen" />
+  <key id="50000622" name="Keulensprung vorbereiten" />
+  <key id="50000623" name="Schildschmetterangriff" />
+  <key id="50000624" name="Schildblock vorbereiten" />
+  <key id="50000625" name="Sprung vorbereiten" />
+  <key id="50000626" name="Abstand Lakaienbereich überprüfen" />
+  <key id="50000627" name="Angriff-Stärkungseffekt einsetzen" />
+  <key id="50000628" name="Tempelritter bereinigen" />
+  <key id="50000629" name="Abwarten (Abstandsüberprüfung)" />
+  <key id="50000630" name="Reinigung beginnen" />
+  <key id="50000631" name="Klingennahangriff" />
+  <key id="50000632" name="Klingenschuss" />
+  <key id="50000633" name="Strahlenförmiger Schuss" />
+  <key id="50000634" name="Schuss in mehrere Richtungen" />
+  <key id="50000635" name="Dreifacher Klingennahangriff" />
+  <key id="50000636" name="Klingenrausch" />
+  <key id="50000637" name="Improvisierte Kugel" />
+  <key id="50000638" name="Doppelrausch" />
+  <key id="50000639" name="Sechsfacher Hammerangriff" />
+  <key id="50000640" name="Dreifacher Hammerwurf" />
+  <key id="50000641" name="Blitzschlag" />
+  <key id="50000642" name="Einfacher Blitz in mehrere Richtungen" />
+  <key id="50000643" name="Seitwärtsstreich" />
+  <key id="50000644" name="Dreifachen Drehangriff vorbereiten" />
+  <key id="50000645" name="Speerstich" />
+  <key id="50000646" name="Schildschmetterangriff" />
+  <key id="50000647" name="Stürmende Klaue" />
+  <key id="50000648" name="Doppelte Klaue" />
+  <key id="50000650" name="Fünffacher Weitwurf" />
+  <key id="50000651" name="Hauchangriff vorbereiten" />
+  <key id="50000652" name="Energiescheibe werfen" />
+  <key id="50000653" name="Dreher beginnen" />
+  <key id="50000654" name="Einfacher Tritt" />
+  <key id="50000655" name="Sturmschuss vorbereiten" />
+  <key id="50000660" name="Direktwurf" />
+  <key id="50000661" name="Rollender Bodyslam" />
+  <key id="50000662" name="Bevorstehender Hornschuss" />
+  <key id="50000663" name="Bevorstehende Druckwelle aus Mund" />
+  <key id="50000664" name="Bevorstehendes Kratzen" />
+  <key id="50000665" name="Zu schweben beginnen" />
+  <key id="50000666" name="Flug durch die Luft beginnen" />
+  <key id="50000667" name="Einfache Wut" />
+  <key id="50000668" name="Hüpfender Sprung" />
+  <key id="50000670" name="Bodyslam" />
+  <key id="50000671" name="Stärkungseffekt einsetzen" />
+  <key id="50000672" name="Direktwurf" />
+  <key id="50000673" name="Stürmender Schlag" />
+  <key id="50000674" name="Direktwurf" />
+  <key id="50000675" name="Streitkolben vorbereiten" />
+  <key id="50000676" name="Sausen vorbereiten" />
+  <key id="50000677" name="Windstoß durch ausgestreckte Hand" />
+  <key id="50000678" name="Explosionsangriff durch ausgestreckte Hand" />
+  <key id="50000679" name="Dreifacher Klingennahangriff" />
+  <key id="50000680" name="Klingenrausch" />
+  <key id="50000681" name="Improvisierte Kugel" />
+  <key id="50000682" name="Doppelrausch" />
+  <key id="50000683" name="Sechsfacher Hammerangriff" />
+  <key id="50000684" name="Dreifacher Hammerwurf" />
+  <key id="50000685" name="Seitwärtsstreich" />
+  <key id="50000686" name="Dreifachen Drehangriff vorbereiten" />
+  <key id="50000687" name="Speerstich" />
+  <key id="50000688" name="Schildschmetterangriff" />
+  <key id="50000689" name="Stürmende Klaue" />
+  <key id="50000690" name="Doppelte Klaue" />
+  <key id="50001000" name="Sprung vorbereiten" />
+  <key id="50001001" name="Sprunglandung (Block zerstören)" />
+  <key id="50001002" name="Betäubt" />
+  <key id="50001003" name="Einfacher Körperstreifer" />
+  <key id="50001004" name="Springender Niederwurf" />
+  <key id="50001005" name="Hammerniederwurf" />
+  <key id="50001006" name="Kopfschlag" />
+  <key id="50001007" name="Faustschlag" />
+  <key id="50001008" name="Blitzschlag vorbereiten" />
+  <key id="50001009" name="Schmetterschlag" />
+  <key id="50001010" name="Heftigen Schlag auf Boden vorbereiten" />
+  <key id="50001011" name="Steinblock auf Gegner werfen" />
+  <key id="50001012" name="Standsprung vorbereiten" />
+  <key id="50001014" name="Hängendes Ziel fallen lassen" />
+  <key id="50001015" name="Magischer Abwehrschub" />
+  <key id="50001016" name="Angriff hängend" />
+  <key id="50001017" name="Verteidigung hängend" />
+  <key id="50001018" name="Angriff hängend" />
+  <key id="50001019" name="Verteidigung hängend" />
+  <key id="50001020" name="Angriff hängend" />
+  <key id="50001021" name="Verteidigung hängend" />
+  <key id="50001022" name="Schlachtfeldgebiet derselben Höhe überprüfen" />
+  <key id="50001051" name="Großer Wurfangriff" />
+  <key id="50001052" name="Dreifacher Wurfangriff" />
+  <key id="50001053" name="Bodenexplosion" />
+  <key id="50001054" name="Mehrfachschlitzer vorbereiten" />
+  <key id="50001055" name="Teleportieren" />
+  <key id="50001056" name="Waffenziehen vorbereiten" />
+  <key id="50001057" name="Laserschwert vorbereiten" />
+  <key id="50001058" name="Schadensbereich für vier Winde" />
+  <key id="50001059" name="Schadensbereich für heftigen Wind" />
+  <key id="50001060" name="Wind zur Energieballvorbereitung" />
+  <key id="50001061" name="Zielsuchende Eisbodenexplosion" />
+  <key id="50001062" name="Warten" />
+  <key id="50001063" name="Bodenwind verursachen" />
+  <key id="50001100" name="Ersten von drei Angriffen vorbereiten" />
+  <key id="50001101" name="Schildblock beginnen" />
+  <key id="50001102" name="Sausangriff vorbereiten" />
+  <key id="50001103" name="Wurf des Manaschwertes beginnen" />
+  <key id="50001104" name="Wurf des Kraftmanaschwertes beginnen" />
+  <key id="50001105" name="Bodenangriff mit Flächeneffekt beginnen" />
+  <key id="50001106" name="Hüpfender Sprung" />
+  <key id="50001107" name="Hüpfender Sprung_offensiv" />
+  <key id="50001108" name="Stärkungseffekt für Körper einsetzen" />
+  <key id="50001109" name="Kristallfragment der Eisexplosion" />
+  <key id="50001110" name="Kristalllaser" />
+  <key id="50001111" name="Doppelgänger beschwörende Geste" />
+  <key id="50001112" name="Ersten von drei Angriffen vorbereiten" />
+  <key id="50001113" name="Sausangriff vorbereiten" />
+  <key id="50001150" name="Bodyslam vorbereiten (Ziel)" />
+  <key id="50001151" name="Mundrakete vorbereiten (MAG)" />
+  <key id="50001152" name="Heftigen Feueratem vorbereiten" />
+  <key id="50001153" name="Mächtigen Flügelschlag vorbereiten" />
+  <key id="50001154" name="Sprung vorbereiten" />
+  <key id="50001155" name="Einfacher schriller Schrei" />
+  <key id="50001156" name="Hängenden fallen lassen" />
+  <key id="50001157" name="Flug beginnen" />
+  <key id="50001158" name="Hüpfender Sprung (MAG)" />
+  <key id="50001159" name="Sprung vorbereiten" />
+  <key id="50001165" name="Sprecher Anfang Phase 2" />
+  <key id="50001166" name="Bevorstehende Luftschlacht" />
+  <key id="50001167" name="Erschöpft (Stimme)" />
+  <key id="50001168" name="Feuerwürfel um sich herum auslegen" />
+  <key id="50001169" name="Hüpfender Sprung" />
+  <key id="50001170" name="Auftragswut" />
+  <key id="50001171" name="Feuerwürfel der Schatten zerstreuen" />
+  <key id="50001172" name="Teleportieren" />
+  <key id="50001173" name="Schnelle Bewegungen beginnen" />
+  <key id="50001174" name="Mächtige Magie beginnen" />
+  <key id="50001175" name="Dunkles Feld auf gesamtem Boden vorbereiten" />
+  <key id="50001176" name="Geschossartige Bodenflammen" />
+  <key id="50001177" name="Geschossartige Bodenflammen" />
+  <key id="50001178" name="Einfache Unterkieferexplosion" />
+  <key id="50001179" name="Bodyslam vorbereiten" />
+  <key id="50001180" name="Am Himmel auftauchen" />
+  <key id="50001200" name="Rollangriff beginnen" />
+  <key id="50001201" name="Springstab beginnen" />
+  <key id="50001202" name="Jo-Jo-Wurf vorbereiten" />
+  <key id="50001203" name="1-LP-Schwächungseffekt gewährt" />
+  <key id="50001204" name="Magischer Tanzschritt der Lichtsäule 1" />
+  <key id="50001205" name="Megafon vorbereiten" />
+  <key id="50001206" name="Pfeife" />
+  <key id="50001207" name="Gitarre spielen_Tanzen" />
+  <key id="50001208" name="Controllervorbereitung zum Teleportieren" />
+  <key id="50001209" name="Steilfeuer in alle Richtungen (Fluch), vier Schüsse" />
+  <key id="50001210" name="Angriffsspiegelung vorbereiten" />
+  <key id="50001211" name="Springender Hüpfer" />
+  <key id="50001212" name="Telefonhörertanz" />
+  <key id="50001213" name="Donguri_Bore" />
+  <key id="50001214" name="Springstab_Bore" />
+  <key id="50001215" name="Kopfhörer_Bore" />
+  <key id="50001216" name="Springstab beginnen (groß)" />
+  <key id="50001217" name="Remove Become Big &amp; Defense Up Buffs" />
+  <key id="50001218" name="Dance and Do Outrage Attack (Light Pillar)" />
+  <key id="50001220" name="Gaffen (Spieler)" />
+  <key id="50001221" name="Buch öffnen" />
+  <key id="50001222" name="Speer niederwerfen" />
+  <key id="50001223" name="Gaffen (Spieler)" />
+  <key id="50001224" name="Buch öffnen" />
+  <key id="50001225" name="Speer niederwerfen" />
+  <key id="50001226" name="Waagerecht gaffen (Schwächungseffekt)" />
+  <key id="50001227" name="Senkrecht gaffen (Stärkungseffektreflexion)" />
+  <key id="50001228" name="Stärkungseffekt für Bauchdecke einsetzen" />
+  <key id="50001229" name="Ablegen" />
+  <key id="50001230" name="Waagerecht gaffen (Schwächungseffekt)" />
+  <key id="50001231" name="Senkrecht gaffen (Stärkungseffektreflexion)" />
+  <key id="50001232" name="Stärkungseffekt für Bauchdecke einsetzen" />
+  <key id="50001233" name="Ablegen" />
+  <key id="50001234" name="Emporsteigende Lichtsäule" />
+  <key id="50001235" name="Handkanten-Steinwurf" />
+  <key id="50001236" name="Handkanten-Giftausstoß, Ebene 1 links" />
+  <key id="50001237" name="Stärkungseffekt Handstärkung" />
+  <key id="50001238" name="Schwächungseffekt Handkante" />
+  <key id="50001239" name="Stillgestanden" />
+  <key id="50001240" name="Bodyslam" />
+  <key id="50001241" name="Multi-Haubitzenfeuer" />
+  <key id="50001242" name="Test" />
+  <key id="50001250" name="Prepare 1-Hit Sword Attack" />
+  <key id="50001251" name="Prepare Consecutive Shooting" />
+  <key id="50001252" name="Prepare Ground Shoot (Wind)" />
+  <key id="50001253" name="Start Floating Low in Air" />
+  <key id="50001254" name="Start Shoot Attack" />
+  <key id="50001255" name="Arm Swing (Move)" />
+  <key id="50001256" name="Rush Standby Looping" />
+  <key id="50001257" name="Prepare Large Laser" />
+  <key id="50001258" name="Leaping Jump" />
+  <key id="50001265" name="Float Low" />
+  <key id="50001266" name="Be on Standby" />
+  <key id="50001267" name="Prepare Cannon Ground" />
+  <key id="50001268" name="Prepare Cannon Ground" />
+  <key id="50001269" name="Prepare Laser" />
+  <key id="50001270" name="Stab Spear" />
+  <key id="50001271" name="Prepare Charging Stab" />
+  <key id="50001272" name="Electric Direct Throw" />
+  <key id="50001273" name="Shoot Chest Guided Missile" />
+  <key id="50001274" name="Shoot from Mouth" />
+  <key id="50001275" name="Prepare Clawing" />
+  <key id="50001276" name="Prepare Body Rush" />
+  <key id="50001277" name="Leaping Jump" />
+  <key id="50001280" name="Shoot Front Attack" />
+  <key id="50001281" name="Shoot Everywhere Attack" />
+  <key id="50001282" name="Start" />
+  <key id="50001283" name="Start" />
+  <key id="50001284" name="Claw 1 Hit" />
+  <key id="50001285" name="Energy Explosion Push Prepare" />
+  <key id="50001286" name="Leaping Jump" />
+  <key id="50001287" name="Just Stand There" />
+  <key id="50001288" name="For Checking Whether Same Battlefield Exists or Not" />
+  <key id="50009998" name="Fähigkeitsdaten für Lücke schließen" />
+  <key id="50009999" name="Erneute Zielerfassung auf Standarddistanz" />
+  <key id="50100001" name="Schwinger Typ&#160;A vorbereiten" />
+  <key id="50100002" name="Schwinger Typ&#160;B vorbereiten" />
+  <key id="50100003" name="Sprungniederwurf vorbereiten (PHY)" />
+  <key id="50100004" name="Drehangriff (vorbereiten)_St. 1" />
+  <key id="50100005" name="Axtniederwurf (vorbereiten)_PHY" />
+  <key id="50100006" name="Axtdrehung (vorbereiten)_St. 1" />
+  <key id="50100007" name="Würfelexplosion durch Axtschlag_PHY" />
+  <key id="50100008" name="Umgebungsexplosion" />
+  <key id="50100009" name="Blockfähigkeitenexplosion" />
+  <key id="50100010" name="Schwinger vorbereiten" />
+  <key id="50100011" name="Wurfangriff" />
+  <key id="50100012" name="Sausen vorbereiten" />
+  <key id="50100013" name="Abwurf des Brechkometen vorbereiten" />
+  <key id="50100014" name="Abwurf des kleinen Brechkometen vorbereiten" />
+  <key id="50100015" name="Stichsturm vorbereiten" />
+  <key id="50100016" name="Teleportieren aktivieren" />
+  <key id="50100017" name="Energieexplosion vorbereiten (stark)" />
+  <key id="50100018" name="Vorbereitungswürfel der Energieexplosion St. 1" />
+  <key id="50100019" name="Lebensregeneration und Anstoß" />
+  <key id="50100020" name="Abstandsüberprüfung" />
+  <key id="50100030" name="Schadensbereich für vier Winde" />
+  <key id="50100031" name="Lenkbaren Projektildreher vorbereiten (vor Stoß)" />
+  <key id="50100032" name="Aufs Stürmen vorbereiten (Nahkampf)" />
+  <key id="50100033" name="Zwei Wirbelwinde auslösen" />
+  <key id="50100034" name="Teleportieren vorbereiten" />
+  <key id="50100035" name="Abzug nach Beschwörung von Devilyn" />
+  <key id="50100036" name="Körper um 20&#160;% vergrößern" />
+  <key id="50100037" name="Schallwellenangriff (4er-Kombo)" />
+  <key id="50100038" name="In Schale verstecken beginnen" />
+  <key id="50100039" name="Dreifachprojektil" />
+  <key id="50100040" name="Mehrfachen Faustschlag vorbereiten" />
+  <key id="50100041" name="Mehrfachen Faustschlag vorbereiten (sausend)" />
+  <key id="50100042" name="Sausender Fall" />
+  <key id="50100043" name="Teleport nach Beschwörung von Doppelgänger" />
+  <key id="50100044" name="Giftblock in der Nähe explodieren lassen" />
+  <key id="50100045" name="Leben regenerieren" />
+  <key id="50100046" name="Großschwert-Schmettersprung vorbereiten" />
+  <key id="50100047" name="Schwächungseffekt Schrumpfen vorbereiten" />
+  <key id="50100048" name="Teleportieren" />
+  <key id="50100049" name="Bubu größer machen" />
+  <key id="50100050" name="Haubitzenfeuer (Rückstoß, Ebene&#160;2)" />
+  <key id="50100051" name="Mehrfachen Faustschlag vorbereiten" />
+  <key id="50100052" name="Drehangriff (vorbereiten)_St. 1" />
+  <key id="50100053" name="Schwinger" />
+  <key id="50100054" name="Direkter Kanonenwurf" />
+  <key id="50100055" name="Magische Frontexplosion beginnen" />
+  <key id="50100056" name="Magieexplosion in vier Richtungen beginnen" />
+  <key id="50100057" name="Magisches Bodensiegel vorbereiten" />
+  <key id="50100058" name="Teleportieren" />
+  <key id="50100059" name="Beißbefehl" />
+  <key id="50100060" name="Ziel auf Dach töten" />
+  <key id="50100061" name="Ziel in der Luft angreifen" />
+  <key id="50100062" name="Magische Frontexplosion beginnen" />
+  <key id="50100063" name="Magieexplosion in vier Richtungen beginnen" />
+  <key id="50100064" name="Schnelle Animation für Status „Angriffsbereit“" />
+  <key id="50100068" name="Druckwelle nach vorn aktivieren" />
+  <key id="50100069" name="Entfernung von 1.350 auf gleiche Höhe überprüfen" />
+  <key id="50100070" name="Feuerblock – schmilzt Eis" />
+  <key id="50100071" name="Wasserblock – löscht Feuer" />
+  <key id="50100072" name="Wasserblock – Barriere" />
+  <key id="50100073" name="Teleportieren (Wasserelfe)" />
+  <key id="50100074" name="Selbstmord" />
+  <key id="50100075" name="Eisblock in der Nähe" />
+  <key id="50100076" name="Feuerblock in der Nähe" />
+  <key id="50100077" name="Haubitzenfeuer (Rückstoß)" />
+  <key id="50100078" name="Haubitzenfeuer (Rückstoß)" />
+  <key id="50100079" name="Kanonenschuss auf Boden mit Betäubung" />
+  <key id="50100080" name="Aktionsvorbereitung zur Lebensregeneration" />
+  <key id="50100081" name="Angriff_Inaktiv Status „Angriffsbereit“" />
+  <key id="50100082" name="Laser vorbereiten" />
+  <key id="50100083" name="Gruppenmitglied physische und magische Abwehr verleihen" />
+  <key id="50100084" name="Gruppenmitglied physische und magische Abwehr verleihen" />
+  <key id="50100085" name="Teleportieren" />
+  <key id="50100086" name="Bodenhieb" />
+  <key id="50100087" name="Aufwärtsschlag vorbereiten" />
+  <key id="50100088" name="1 Eisbombe (Bombe legen)" />
+  <key id="50100089" name="Ersteinsatz von Wassertropfengefängnis" />
+  <key id="50100090" name="Wassertropfen werfen und gefangen nehmen" />
+  <key id="50100091" name="Bienenstachel abfeuern" />
+  <key id="50100092" name="Sausen vorbereiten" />
+  <key id="50100093" name="Druckwelle in vier Richtungen vorbereiten" />
+  <key id="50100094" name="Drehen vorbereiten" />
+  <key id="50100095" name="Fernkampfsteilfeuer vorbereiten" />
+  <key id="50100096" name="Heilendes Steilfeuer vorbereiten" />
+  <key id="50100097" name="Aufwärtsschlag vorbereiten" />
+  <key id="50100098" name="Niederschmettern vorbereiten" />
+  <key id="50100099" name="Schießen und Barriere aufbauen" />
+  <key id="50100100" name="Dunkelpfeil 01 vorbereiten" />
+  <key id="50100101" name="Zerstörende Bombe 01 legen" />
+  <key id="50100102" name="Streich 03 aktivieren" />
+  <key id="50100103" name="Steinerhöhung 03_Angriff" />
+  <key id="50100104" name="Dunkler Fluch 01 (Präzision reduzieren)" />
+  <key id="50100105" name="Schwächender Fluch 01 (Leben reduzieren)" />
+  <key id="50100106" name="Stärkungseffekt Abwehrschub 01" />
+  <key id="50100107" name="Gewittersturm 02 vorbereiten" />
+  <key id="50100108" name="Stärkungseffekt Angriffsschub 02" />
+  <key id="50100109" name="Niederdrücken 03 vorbereiten" />
+  <key id="50100110" name="Einzelhieb 03 vorbereiten" />
+  <key id="50100111" name="Boogie 04 beschwören" />
+  <key id="50100112" name="Schwächungseffekt Seuche 05 auslösen" />
+  <key id="50100113" name="Multihieb vorbereiten (Wind)" />
+  <key id="50100114" name="Selbstmord" />
+  <key id="50100115" name="Schalenfähigkeit" />
+  <key id="50100116" name="Erzürnte Explosion (1&#160;LP/MP)" />
+  <key id="50100117" name="Hartnäckiger Fluch (Präzision, Tempo, giftig)" />
+  <key id="50100118" name="Extremer physischer Abwehrschub" />
+  <key id="50100119" name="Extremer magischer Abwehrschub" />
+  <key id="50100120" name="13 Sek. nach Todesurteil sterben" />
+  <key id="50100121" name="Todesnebel vorbereiten" />
+  <key id="50100122" name="Feuersäule erschaffen (um Ziel herum)" />
+  <key id="50100123" name="Feuersäulenplatzierung &amp; Laser" />
+  <key id="50100124" name="Feuersäulenplatzierung &amp; Laser" />
+  <key id="50100125" name="Feuersäulenplatzierung &amp; Laser" />
+  <key id="50100126" name="Einfache Gewittersturmwelle" />
+  <key id="50100128" name="Stärkungseffekt Abwehrerhöhung" />
+  <key id="50100129" name="Stärkungseffekt Angriffserhöhung" />
+  <key id="50100130" name="Stimme des Sprechers bei Beschwörung (Boogie)" />
+  <key id="50100131" name="Machtbetäubung" />
+  <key id="50100132" name="Vorbereitung auf Lebenssenkung 01" />
+  <key id="50100133" name="Vorbereitung auf Manasenkung 01" />
+  <key id="50100134" name="Schwächungseffekt 02_umgekehrte Tastatur einsetzen" />
+  <key id="50100135" name="Giftangriff 02 vorbereiten" />
+  <key id="50100136" name="Blitzfeld 05 über 2 Kacheln" />
+  <key id="50100137" name="Feuerregenfeld 05" />
+  <key id="50100138" name="Stärkungseffekt 03 erhalten_VER-Erhöhung" />
+  <key id="50100139" name="Gewittersturm Muster A" />
+  <key id="50100140" name="Feuersäulenplatzierung Muster A" />
+  <key id="50100141" name="Laser für Testzwecke" />
+  <key id="50100142" name="Stärkungseffekt für Arme einsetzen" />
+  <key id="50100143" name="Test Zakum's Hand Debuff" />
+  <key id="50100144" name="Zakum's Curse_Left Side (Hwak)" />
+  <key id="50100145" name="Prepare Lava Wave Summon" />
+  <key id="50100146" name="Prepare Bottom Laser" />
+  <key id="50100147" name="Prepare Lateral Laser" />
+  <key id="50100148" name="Prepare High-angle Fire" />
+  <key id="50100150" name="Einfachen schwachen Angriff&#160;vorbereiten" />
+  <key id="50100151" name="Einfachen schwachen Doppelangriff&#160;vorbereiten" />
+  <key id="50100152" name="Schmettersprung vorbereiten" />
+  <key id="50100153" name="Einfache Drehung" />
+  <key id="50100154" name="Sausen vorbereiten" />
+  <key id="50100155" name="Erstechen" />
+  <key id="50100156" name="Niederschlagen" />
+  <key id="50100157" name="Direktwurf (normal)" />
+  <key id="50100158" name="Direkter Kanonenwurf" />
+  <key id="50100159" name="Kanonenschuss auf Boden mit Betäubung" />
+  <key id="50100160" name="Stürmen vorbereiten_Minensensor abschießen" />
+  <key id="50100161" name="Sensor zum Aufspüren von säulenerschütternden Minen" />
+  <key id="50100162" name="Armbrust vorbereiten" />
+  <key id="50100163" name="Normaler Nahangriff" />
+  <key id="50100164" name="Windwurfangriff" />
+  <key id="50100165" name="Stürmender Abwärtsschlag" />
+  <key id="50100341" name="Sausen vorbereiten" />
+  <key id="50100342" name="Brechkometenangriff vorbereiten" />
+  <key id="50100343" name="Einsperrangriff durch Wassertropfen" />
+  <key id="50100344" name="Brechreiz" />
+  <key id="50100345" name="Vorbereitung auf Lebensregeneration" />
+  <key id="50100346" name="Anlaufsprung vorbereiten" />
+  <key id="50100347" name="Brechkometenangriff vorbereiten" />
+  <key id="50100348" name="Einsperrangriff durch Wassertropfen" />
+  <key id="50100349" name="Brechreiz" />
+  <key id="50100350" name="Horizontalschnitt vorbereiten" />
+  <key id="50100351" name="Normalen Vertikalschnitt vorbereiten" />
+  <key id="50100352" name="Normalen Vertikalschnitt vorbereiten" />
+  <key id="50100353" name="Normalen Vertikalschnitt vorbereiten" />
+  <key id="50100354" name="Normalen Vertikalschnitt vorbereiten" />
+  <key id="50100355" name="Schuss in vier Richtungen vorbereiten" />
+  <key id="50100356" name="Sprungniederwurf vorbereiten" />
+  <key id="50100357" name="Rasender Geist (Stärkungseffekt einsetzen)" />
+  <key id="50100359" name="Seelenabsorbierung (entfernt Rausch)" />
+  <key id="50100360" name="Angriffserhöhung (Stärkungseffekt verleihen)" />
+  <key id="50100361" name="Ziehen vorbereiten (Rausch)" />
+  <key id="50100362" name="Ziehen vorbereiten (chaotisch)" />
+  <key id="50100363" name="Ziehen vorbereiten (Kälte)" />
+  <key id="50100364" name="Schreien und schieben (Schwächungseffekt)" />
+  <key id="50100365" name="Einfacher Angriff" />
+  <key id="50100366" name="Stürmen vorbereiten (Schwächungseffekt einsetzen)" />
+  <key id="50100367" name="Steinwurf vorbereiten (Muster 1)" />
+  <key id="50100368" name="Sprung vorbereiten" />
+  <key id="50100369" name="Vorbereitung auf Lebensabsorption" />
+  <key id="50100370" name="Vorbereitung auf Todesgebrüll" />
+  <key id="50100371" name="Kameraden beschwören " />
+  <key id="50100372" name="Sturmangriff beginnen" />
+  <key id="50100373" name="Drei Wirbelwinde auslösen" />
+  <key id="50100374" name="Dreher vorbereiten (vor Stoß)" />
+  <key id="50100375" name="Verlangsamen und explodieren" />
+  <key id="50100376" name="Flug beginnen" />
+  <key id="50100381" name="Sprung vorbereiten" />
+  <key id="50100382" name="Würfel zur Laservorbereitung (entgegen Uhrzeigersinn, 8 Sek.)" />
+  <key id="50100383" name="Phasenwechsel mit Angriffserhöhung" />
+  <key id="50100384" name="Schattenrüstung mit Abwehrerhöhung" />
+  <key id="50100385" name="Blockangriff (hängend)" />
+  <key id="50100386" name="Grünkapuze mit Armbrust" />
+  <key id="50100387" name="Beschwöre Nachwuchsdevilyn." />
+  <key id="50100389" name="Phasenwechsel mit gewaltsamer LP-Verringerung" />
+  <key id="50100390" name="Lenkrakete (Diffuseffekt, hängend)" />
+  <key id="50100391" name="Schattensuchende Rakete (hängend)" />
+  <key id="50100392" name="Abschlussschlag beginnen" />
+  <key id="50100393" name="Niederschmettern (Würfel)" />
+  <key id="50100394" name="Laser vorbereiten (entgegen Uhrzeigersinn, 5 Sek.)" />
+  <key id="50100395" name="Energieexplosionsstoß (vorbereiten)" />
+  <key id="50100396" name="Lenkrakete (Diffuseffekt, hängend)" />
+  <key id="50100397" name="Schattensuchende Rakete (hängend)" />
+  <key id="50100398" name="Feuerexplosion auf Block auf 1/4 der Karte (hängend)" />
+  <key id="50100399" name="Phasenwechsel mit 80&#160;% LP-Verringerung" />
+  <key id="50100400" name="Energieexplosionsstoß (vorbereiten)" />
+  <key id="50100401" name="Abschlussschlag beginnen" />
+  <key id="50100402" name="Teleportieren (hängend)" />
+  <key id="50100403" name="Niederschmettern (Würfel)" />
+  <key id="50100404" name="Abstandsüberprüfung" />
+  <key id="50100405" name="Laser vorbereiten (entgegen Uhrzeigersinn, 8 Sek.)" />
+  <key id="50100406" name="Laser vorbereiten (entgegen Uhrzeigersinn, 6 Sek.)" />
+  <key id="50100407" name="Armschwinger (vorbereiten)" />
+  <key id="50100408" name="Kräftiger Armschwinger (vorbereiten)" />
+  <key id="50100409" name="Kopfstoß nach oben (vorbereiten)" />
+  <key id="50100410" name="Kinnhaken (vorbereiten)" />
+  <key id="50100411" name="Niederschmetternden Hieb vorbereiten" />
+  <key id="50100412" name="Tödliche Giftexplosion (Bombe legen)" />
+  <key id="50100413" name="Block mit Wurzelgeflecht" />
+  <key id="50100414" name="Giftpilz aufblühen lassen (1&#160;Min. oder länger)" />
+  <key id="50100415" name="Tödlichen Giftregen auslösen (Angriff)" />
+  <key id="50100416" name="Erdbeben in vier Richtungen (vorbereiten)" />
+  <key id="50100417" name="Stärkungseffekt linke Maske" />
+  <key id="50100418" name="Stärkungseffekt linke Maske" />
+  <key id="50100419" name="Gesicht enthüllen (Schwächungseffekt auslösen)" />
+  <key id="50100420" name="Feuerexplosion (Bombe legen)" />
+  <key id="50100421" name="Gesicht enthüllen (Schwächungseffekt auslösen)" />
+  <key id="50100422" name="Feueratem ins Gesicht vorbereiten" />
+  <key id="50100423" name="Feuerkreis auf Boden verteilen" />
+  <key id="50100424" name="Kopfstoß nach oben (vorbereiten)" />
+  <key id="50100425" name="Kinnhaken (vorbereiten)" />
+  <key id="50100426" name="Feuerregen auslösen" />
+  <key id="50100427" name="Würfelspalterfeuer (Muster&#160;1)" />
+  <key id="50100428" name="Armschwinger (vorbereiten)" />
+  <key id="50100429" name="Kräftiger Armschwinger (vorbereiten)" />
+  <key id="50100430" name="Linken Laser vorbereiten" />
+  <key id="50100431" name="Rechten Laser vorbereiten" />
+  <key id="50100432" name="Seitliches Abfeuern von Laser vorbereiten" />
+  <key id="50100433" name="Abfeuern von Laser in vier Richtungen vorbereiten" />
+  <key id="50100434" name="Blockangriffsstromschlag" />
+  <key id="50100435" name="Laser mit Zielerfassung über zwei Ebenen vorbereiten" />
+  <key id="50100436" name="Explosion über zwei Ebenen vorbereiten" />
+  <key id="50100437" name="Frontale Bodenexplosion vorbereiten" />
+  <key id="50100438" name="Seitliche Bodenexplosion vorbereiten" />
+  <key id="50100439" name="Sausen vorbereiten" />
+  <key id="50100440" name="Jagd vorbereiten" />
+  <key id="50100441" name="Laserlinie (normal) vorbereiten" />
+  <key id="50100442" name="Laserlinie (stark) vorbereiten" />
+  <key id="50100443" name="Stärkungseffekt Elektrischer Angriffsmodus" />
+  <key id="50100444" name="Frontalen Laser vorbereiten" />
+  <key id="50100445" name="Seitlichen Laser vorbereiten" />
+  <key id="50100446" name="Große Laserkanone vorbereiten (Barriere)" />
+  <key id="50100447" name="Mine werfen (3-fach)" />
+  <key id="50100448" name="Sensor zum Aufspüren von Minen" />
+  <key id="50100450" name="Sprung vorbereiten" />
+  <key id="50100451" name="Sausenden Schwinger vorbereiten" />
+  <key id="50100452" name="Stoß vorbereiten" />
+  <key id="50100453" name="Unterseite des Ziels überprüfen" />
+  <key id="50100454" name="Frontale Bodenexplosion vorbereiten" />
+  <key id="50100455" name="Blockangriffselektrobetäubung" />
+  <key id="50100456" name="Block auf Ziel unter Dach werfen" />
+  <key id="50100457" name="Laserlinie (stark) vorbereiten" />
+  <key id="50100458" name="Überprüfung gleicher Höhe verwenden" />
+  <key id="50100459" name="Mine werfen (3-fach)" />
+  <key id="50100460" name="Sensor zum Aufspüren von Minen" />
+  <key id="50100461" name="Laserlinie (stark) vorbereiten" />
+  <key id="50100462" name="Laserlinie (stark) vorbereiten" />
+  <key id="50100463" name="Frontalen Laser vorbereiten" />
+  <key id="50100480" name="Körper um 20&#160;% vergrößern" />
+  <key id="50100481" name="Energiekugeln auslösen (2-fach)" />
+  <key id="50100482" name="Energie für sofortiges K.&#160;o. auslösen (2)" />
+  <key id="50100483" name="2 Eisbomben (Bombe legen)" />
+  <key id="50100484" name="Armschwinger (vorbereiten)" />
+  <key id="50100485" name="Kräftiger Armschwinger (vorbereiten)" />
+  <key id="50100486" name="Kinnhaken (vorbereiten)" />
+  <key id="50100487" name="Kopfstoß nach oben (vorbereiten)" />
+  <key id="50100488" name="Gesicht enthüllen (vorbereiten)" />
+  <key id="50100489" name="Würfelspaltereis (Muster&#160;1)" />
+  <key id="50100490" name="Niederschmetternden Hieb vorbereiten" />
+  <key id="50100491" name="Sprung vorbereiten" />
+  <key id="50100492" name="Spracheinstellung für Beschwörungen" />
+  <key id="50100498" name="Armbrust abfeuern (Devorak)" />
+  <key id="50100499" name="Armbrust abfeuern (Kapitän Moc)" />
+  <key id="50100500" name="Feuerball (angriffsbereit)" />
+  <key id="50100501" name="Armbrust abfeuern (Devilyn)" />
+  <key id="50100502" name="Direktwurf" />
+  <key id="50100503" name="Einfacher Direktwurf (Heilquelle)" />
+  <key id="50100504" name="Sturmangriff beginnen" />
+  <key id="50100505" name="Direktwurf" />
+  <key id="50100506" name="Statusschwächungsangriff mit Flächeneffekt" />
+  <key id="50100507" name="Angriffsschub mit Flächeneffekt" />
+  <key id="50100508" name="Teleportieren" />
+  <key id="50100509" name="Gespräch" />
+  <key id="50100510" name="Selbstmord" />
+  <key id="50100511" name="Würfelentfernung vor Beschuss" />
+  <key id="50100512" name="Selbstmord" />
+  <key id="50100513" name="Selbstmord vorbereiten" />
+  <key id="50100514" name="Umsichtig" />
+  <key id="50100515" name="Schwarzes Loch aktivieren" />
+  <key id="50100516" name="Jagd vorbereiten" />
+  <key id="50100517" name="Zeitdruckwelle vorbereiten" />
+  <key id="50100600" name="Kratzen mit Vorderpfoten vorbereiten" />
+  <key id="50100601" name="Abschuss von Kopfmitte vorbereiten" />
+  <key id="50100602" name="Abschuss von Kopfseite vorbereiten" />
+  <key id="50100603" name="Dreiköpfigen Atem vorbereiten" />
+  <key id="50100604" name="Hineinspringen und Klauen vorbereiten" />
+  <key id="50100605" name="Bodenexplosion und 9 Zielsuchraketen vorbereiten" />
+  <key id="50100606" name="Beißangriff" />
+  <key id="50100607" name="Weitreichenden Biss vorbereiten" />
+  <key id="50100608" name="Zentrale Bodenexplosion vorbereiten" />
+  <key id="50100609" name="Wolfheulen nach Angriffsbefehl" />
+  <key id="50100610" name="Beißangriff" />
+  <key id="50100611" name="Weitreichender Beißangriff" />
+  <key id="50100612" name="Gebissenes Ziel werfen" />
+  <key id="50100613" name="Atem vorbereiten (Typ 1)" />
+  <key id="50100614" name="Kratzen mit Vorderpfoten vorbereiten" />
+  <key id="50100615" name="Hineinspringen und Klauen vorbereiten" />
+  <key id="50100616" name="Abschuss von Kopfmitte vorbereiten" />
+  <key id="50100617" name="Abschuss von Kopfseite vorbereiten" />
+  <key id="50100618" name="Bodenexplosion und 9 Zielsuchraketen vorbereiten" />
+  <key id="50100619" name="Zentrale Bodenexplosion vorbereiten" />
+  <key id="50100620" name="Wolfheulen nach Angriffsbefehl" />
+  <key id="50100621" name="Atem vorbereiten (Typ 2)" />
+  <key id="50100622" name="Atem vorbereiten (Typ 3)" />
+  <key id="50100623" name="Überprüfung gleicher Höhe verwenden" />
+  <key id="50100624" name="Abschuss von Kopfmitte vorbereiten" />
+  <key id="50100625" name="Beißangriff" />
+  <key id="50100626" name="Weitreichender Beißangriff" />
+  <key id="50100627" name="Gebissenes Ziel werfen" />
+  <key id="50100694" name="Krallenhandkanone vorbereiten (Ebene 2)" />
+  <key id="50100695" name="Krallenhandkanone vorbereiten" />
+  <key id="50100696" name="Schwertschwingen vorbereiten" />
+  <key id="50100697" name="Schwertschwingend aufs Stürmen vorbereiten" />
+  <key id="50100698" name="Sausen vorbereiten" />
+  <key id="50100699" name="Giftnebel auf Boden vorbereiten" />
+  <key id="50100700" name="Schwertschwingen vorbereiten" />
+  <key id="50100701" name="Krallenhandkanone vorbereiten" />
+  <key id="50100702" name="Sausen vorbereiten" />
+  <key id="50100703" name="Schmettersprung vorbereiten" />
+  <key id="50100704" name="Sonnenflamme (betäuben)" />
+  <key id="50100705" name="Antennengesteuerte Rakete" />
+  <key id="50100706" name="Sprung vorbereiten (steigen)" />
+  <key id="50100707" name="Lakaien beschwören" />
+  <key id="50100708" name="Superstarke Eventfähigkeit (Betäubung aufheben)" />
+  <key id="50100709" name="Schwertschwingend aufs Stürmen vorbereiten" />
+  <key id="50100710" name="Giftnebel auf Boden vorbereiten" />
+  <key id="50100711" name="Stärkungseffekt für Angriff/Abwehr einsetzen" />
+  <key id="50100712" name="Gewährt vollständige Unbesiegbarkeit" />
+  <key id="50100713" name="Superkanone in linker Hand vorbereiten" />
+  <key id="50100714" name="Krallenhandkanone vorbereiten (Ebene 2)" />
+  <key id="50100715" name="Stillgestanden" />
+  <key id="50100716" name="Provokation von zweiter Ebene" />
+  <key id="50100718" name="Lebensregeneration" />
+  <key id="50100719" name="Lange Einsatzverzögerung der Sonnenflamme" />
+  <key id="50100720" name="Lange Einsatzverzögerung der Sonnenflamme" />
+  <key id="50100721" name="Superkanone in linker Hand vorbereiten" />
+  <key id="50100722" name="2 antennengesteuerte Raketen abfeuern" />
+  <key id="50100723" name="Superstarke Eventfähigkeit (Betäubung aufheben)" />
+  <key id="50100733" name="Höhe des Zielblocks überprüfen" />
+  <key id="50100734" name="Faustschwinger vorbereiten (Normal)" />
+  <key id="50100735" name="Uhranzeige: 1&#160;Uhr" />
+  <key id="50100736" name="Klatschen vorbereiten" />
+  <key id="50100737" name="Klatschen vorbereiten (PHY)" />
+  <key id="50100738" name="Fauststoß auf Boden vorbereiten" />
+  <key id="50100739" name="Vier handgesteuerte Raketen" />
+  <key id="50100740" name="Zweihandlaser vorbereiten" />
+  <key id="50100741" name="Weckerangriff beginnen (Decke)" />
+  <key id="50100742" name="2 x Blockmine werfen" />
+  <key id="50100743" name="2 x Blockmine werfen" />
+  <key id="50100744" name="Deckenzerstörung mit physischer Abwehrerhöhung" />
+  <key id="50100745" name="Einfacher Laserangriff mit Abwehrerhöhung" />
+  <key id="50100746" name="Angriffsbereit" />
+  <key id="50100747" name="Stoß in vier Richtungen vorbereiten" />
+  <key id="50100748" name="Laserlinie (vorne/hinten) vorbereiten" />
+  <key id="50100749" name="Laserlinie (vorne/hinten) vorbereiten" />
+  <key id="50100750" name="Faustschwinger vorbereiten (PHY)" />
+  <key id="50100751" name="Uhranzeige: 1&#160;Uhr" />
+  <key id="50100752" name="Klatschen vorbereiten" />
+  <key id="50100753" name="Klatschen vorbereiten (PHY)" />
+  <key id="50100754" name="Fauststoß auf Boden vorbereiten" />
+  <key id="50100755" name="Vier handgesteuerte Raketen" />
+  <key id="50100756" name="Zweihandlaser vorbereiten" />
+  <key id="50100757" name="Weckerangriff beginnen (PHY)" />
+  <key id="50100758" name="2 x Blockmine werfen" />
+  <key id="50100759" name="2 x Blockmine werfen" />
+  <key id="50100760" name="Einfachen Treffer für physische Abwehr einsetzen" />
+  <key id="50100761" name="Einfacher Laserangriff mit Abwehrerhöhung" />
+  <key id="50100762" name="Angriffsbereit" />
+  <key id="50100763" name="Stoß in vier Richtungen vorbereiten" />
+  <key id="50100764" name="Laserlinie (vorne/hinten) vorbereiten" />
+  <key id="50100765" name="Laserlinie (vorne/hinten) vorbereiten" />
+  <key id="50100766" name="Klatschen vorbereiten" />
+  <key id="50100767" name="Faustschwinger vorbereiten" />
+  <key id="50100768" name="Uhranzeige: 1&#160;Uhr" />
+  <key id="50100769" name="Zweihandlaser vorbereiten" />
+  <key id="50100770" name="2 x Blockmine P1 werfen" />
+  <key id="50100771" name="Provozieren und physische Abwehr verleihen" />
+  <key id="50100772" name="Stoß in vier Richtungen vorbereiten" />
+  <key id="50100773" name="Weckerangriff beginnen (PHY)" />
+  <key id="50100780" name="Heftigen Feueratem vorbereiten" />
+  <key id="50100781" name="Kopfstoß nach oben vorbereiten" />
+  <key id="50100782" name="Kreischen nach Niederschmettern " />
+  <key id="50100783" name="Weiten Schwanzstreich vorbereiten" />
+  <key id="50100784" name="Einfacher Bodenschwanzhieb" />
+  <key id="50100785" name="Laser 180 Grad im Uhrzeigersinn vorbereiten" />
+  <key id="50100786" name="Schwachen Feueratem vorbereiten" />
+  <key id="50100787" name="Bodyslam vorbereiten (Ziel)" />
+  <key id="50100788" name="Schuss mit aufrechtem Oberkörper vorbereiten" />
+  <key id="50100789" name="Hängendes Ziel fallen lassen" />
+  <key id="50100790" name="Abstandsüberprüfung" />
+  <key id="50100791" name="Ultimativen Feueratem vorbereiten" />
+  <key id="50100795" name="Starken Eisatem vorbereiten" />
+  <key id="50100796" name="Kopfstoß nach oben vorbereiten" />
+  <key id="50100797" name="Kreischen nach Niederschmettern " />
+  <key id="50100798" name="Weiten Schwanzstreich vorbereiten" />
+  <key id="50100799" name="Einfacher Bodenschwanzhieb" />
+  <key id="50100800" name="Laser 180 Grad im Uhrzeigersinn vorbereiten" />
+  <key id="50100801" name="Schwachen Eisatem vorbereiten" />
+  <key id="50100802" name="Bodyslam vorbereiten (Ziel)" />
+  <key id="50100803" name="Schuss mit aufrechtem Oberkörper vorbereiten" />
+  <key id="50100804" name="Hängendes Ziel fallen lassen" />
+  <key id="50100805" name="Stärkungseffekt Abwehrerhöhung anwenden" />
+  <key id="50100806" name="Bodyslam vorbereiten (Ziel)" />
+  <key id="50100807" name="Schuss mit aufrechtem Oberkörper vorbereiten" />
+  <key id="50100808" name="Laser 180 Grad im Uhrzeigersinn vorbereiten" />
+  <key id="50100850" name="Ersten Schlag von Zweiercombo vorbereiten" />
+  <key id="50100851" name="Drehangriff vorbereiten" />
+  <key id="50100852" name="Schmettersprung vorbereiten" />
+  <key id="50100853" name="Schmettersprung vorbereiten (Schadensfeld)" />
+  <key id="50100854" name="Sausen vorbereiten" />
+  <key id="50100855" name="Energieexplosion vorbereiten" />
+  <key id="50100856" name="Kreischen (Schwächungseffekt auslösen)" />
+  <key id="50100857" name="Einfachen schwachen Angriff&#160;vorbereiten" />
+  <key id="50100858" name="Einfachen schwachen Doppelangriff&#160;vorbereiten" />
+  <key id="50100859" name="Energieexplosion vorbereiten (Zerstörung)" />
+  <key id="50100860" name="Ersten Schlag von Zweiercombo vorbereiten" />
+  <key id="50100861" name="Schmettersprung vorbereiten" />
+  <key id="50100862" name="Schmettersprung vorbereiten (Schadensfeld)" />
+  <key id="50100863" name="Säulenerschütternde Mine werfen (4)" />
+  <key id="50100864" name="Sensor zum Aufspüren von säulenerschütternden Minen" />
+  <key id="50100865" name="Stürmen vorbereiten (Säulenzerstörung)" />
+  <key id="50100866" name="Stärkungseffekt Abwehrerhöhung anwenden" />
+  <key id="50100867" name="Schnellen Drehangriff vorbereiten" />
+  <key id="50100868" name="Pose für Schmettersprung ändern" />
+  <key id="50100869" name="Hüpfender Sprung (Wandzerstörung)" />
+  <key id="50100870" name="Stillgestanden" />
+  <key id="50100871" name="Drehangriff vorbereiten" />
+  <key id="50100872" name="Sausen vorbereiten" />
+  <key id="50100873" name="Schmettersprung vorbereiten (Schadensfeld)" />
+  <key id="50100874" name="Pose für Schmettersprung ändern" />
+  <key id="50100875" name="Schnellen Drehangriff beenden" />
+  <key id="50100876" name="Prepare 1st Hit of 2-hit Combo" />
+  <key id="50100877" name="Prepare Weak Attack 2-hit 1 Hit" />
+  <key id="50100878" name="Prepare Energy Explosion (Destruction)" />
+  <key id="50100879" name="Prepare to Rush" />
+  <key id="50100880" name="Prepare Weak Attack 1 Hit" />
+  <key id="50100881" name="Interactive Buff Skill" />
+  <key id="50100882" name="Interactive Buff Skill" />
+  <key id="50100883" name="Debuff Skill" />
+  <key id="50100884" name="Debuff Skill" />
+  <key id="50100885" name="Health 5% Stun" />
+  <key id="50100886" name="Revive" />
+  <key id="50100887" name="Interactive Buff Skill" />
+  <key id="50100888" name="Prepare Fast Spin Attack" />
+  <key id="50100889" name="Change Jump Smash Pose" />
+  <key id="50100900" name="Sprung vorbereiten (schwach)_schnell" />
+  <key id="50100901" name="Sprung vorbereiten (normal)" />
+  <key id="50100902" name="Sprung vorbereiten (stark)" />
+  <key id="50100903" name="Bauchstoß vorbereiten" />
+  <key id="50100904" name="Bremsblock" />
+  <key id="50100905" name="Ansaugendes Froschmaul" />
+  <key id="50100906" name="Ziehen und drücken vorbereiten (normal)" />
+  <key id="50100907" name="Sprung vorbereiten (normal)" />
+  <key id="50100908" name="Landesprung und erneuter (starker) Wind" />
+  <key id="50100909" name="Ziehen und drücken vorbereiten (normal)" />
+  <key id="50100910" name="Ansaugendes Froschmaul" />
+  <key id="50100950" name="Einfaches Einsaugen" />
+  <key id="50100951" name="Felsbrockenwurf" />
+  <key id="50100952" name="Schmettersprung vorbereiten" />
+  <key id="50100953" name="Atem vorbereiten" />
+  <key id="50100954" name="Faustangriff vorbereiten" />
+  <key id="50100955" name="Faustangriff vorbereiten" />
+  <key id="50100956" name="Dunkelkugel auslösen (angriffsbereit)" />
+  <key id="50100957" name="Kratzen mit Pfoten vorbereiten" />
+  <key id="50100958" name="5 Feuerbälle (angriffsbereit)" />
+  <key id="50100959" name="2er-Haubitzenfeuer" />
+  <key id="50100960" name="Fernkampfsteilfeuer vorbereiten" />
+  <key id="50100961" name="Direktwurf (durchdringend)" />
+  <key id="50100962" name="Fernkampfsteilfeuer (Feuer)" />
+  <key id="50100963" name="Sausen vorbereiten" />
+  <key id="50100964" name="Direktwurf" />
+  <key id="50100965" name="Steilfeuer in alle Richtungen (Fluch), vier Schüsse" />
+  <key id="50100966" name="Mehrfachen Faustschlag vorbereiten" />
+  <key id="50100967" name="Direktwurf" />
+  <key id="50100968" name="Hauchangriff" />
+  <key id="50100969" name="Hornblitz abfeuern" />
+  <key id="50100970" name="Greifsturm vorbereiten" />
+  <key id="50100971" name="Wurfangriff mit ergriffenem Ziel" />
+  <key id="50100972" name="Stürmen vorbereiten (MAG)" />
+  <key id="50100973" name="Faustschwinger vorbereiten (MAG)" />
+  <key id="50100974" name="Zweihandlaser vorbereiten (MAG)" />
+  <key id="50100975" name="Schwachen einfachen Angriff vorbereiten (MAG)" />
+  <key id="50100976" name="Ersten von zwei schwachen Angriffen vorbereiten (MAG)" />
+  <key id="50100977" name="Zuerst angriffsreduzierenden Fluch einsetzen" />
+  <key id="50100978" name="Wiederherstellung des Schattengeists" />
+  <key id="50100979" name="Laser vorbereiten" />
+  <key id="50100980" name="Große Entfernung überprüfen" />
+  <key id="50101000" name="Erster von zwei Treffern" />
+  <key id="50101001" name="Mächtiger Niederwurf (angriffsbereit)" />
+  <key id="50101002" name="Einfache Spotthaltung nach 2&#160;Treffern" />
+  <key id="50101003" name="Erster von zwei Drehangriffen" />
+  <key id="50101004" name="Pfeilschuss vorbereiten" />
+  <key id="50101005" name="Sturmfeuer vorbereiten" />
+  <key id="50101100" name="Druckwelle aus Mund vorbereiten (MAG)" />
+  <key id="50101101" name="Wasserfontänenhauch vorbereiten (MAG)" />
+  <key id="50101102" name="Schmetterschwanz vorbereiten (MAG)" />
+  <key id="50101103" name="Hornblitz vorbereiten (MAG)" />
+  <key id="50101104" name="Hängendes Ziel fallen lassen" />
+  <key id="50101105" name="Energieexplosion vorbereiten" />
+  <key id="50101106" name="Hüpfender Sprung" />
+  <key id="50101107" name="Abstandsüberprüfung bei Verfolgung" />
+  <key id="50101108" name="Überprüfung von Ziel auf Hügel" />
+  <key id="50101110" name="Drehangriff vorbereiten" />
+  <key id="50101111" name="Stürmenden Hieb vorbereiten (kurze Distanz)" />
+  <key id="50101112" name="Luftschock mit Flächeneffekt vorbereiten" />
+  <key id="50101113" name="Niederwurf vorbereiten" />
+  <key id="50101114" name="Druckwelle mit Manaschwert vorbereiten" />
+  <key id="50101115" name="Niederwurf mit Pentagramm vorbereiten (vorderes Ziel)" />
+  <key id="50101116" name="Lenkraketen in alle Richtungen abfeuern (3)" />
+  <key id="50101117" name="Mächtige frontale Lenkrakete vorbereiten" />
+  <key id="50101118" name="Normale frontale Lenkrakete vorbereiten" />
+  <key id="50101119" name="Frontalen Direktwurf vorbereiten" />
+  <key id="50101120" name="Erhöhung von Angriff und Abwehr" />
+  <key id="50101121" name="Lakaien beschwören" />
+  <key id="50101122" name="Lakaien heilen" />
+  <key id="50101123" name="Schadensfeld des Schlachtfelds (primär)" />
+  <key id="50101124" name="Teleportieren" />
+  <key id="50101125" name="Bewegungssprung beginnen" />
+  <key id="50101126" name="Drehangriff vorbereiten" />
+  <key id="50101127" name="Drehangriff vorbereiten" />
+  <key id="50101128" name="Stürmenden Hieb vorbereiten" />
+  <key id="50101129" name="Stürmenden Hieb vorbereiten" />
+  <key id="50101130" name="Abstandsüberprüfung auf sehr kurzer Distanz" />
+  <key id="50101131" name="Niederwurf vorbereiten" />
+  <key id="50101132" name="Sprecherdialog (1 Set beginnen)" />
+  <key id="50101150" name="Einfachen schwachen Angriff&#160;vorbereiten" />
+  <key id="50101151" name="Doppelten schwachen Angriff&#160;vorbereiten." />
+  <key id="50101152" name="Starken Sturmangriff vorbereiten" />
+  <key id="50101153" name="Schmettersprung vorbereiten" />
+  <key id="50101154" name="Schwache Energiewelle vorbereiten" />
+  <key id="50101155" name="Starke Energiewelle vorbereiten" />
+  <key id="50101156" name="4 offensive Winde vorbereiten" />
+  <key id="50101157" name="Feuerkachel Typ 1" />
+  <key id="50101158" name="Teleportieren vorbereiten" />
+  <key id="50101200" name="Einfachen schwachen Angriff&#160;vorbereiten" />
+  <key id="50101201" name="Einfachen schwachen Doppelangriff&#160;vorbereiten" />
+  <key id="50101202" name="Schmettersprung vorbereiten" />
+  <key id="50101203" name="Abschuss von frontaler Magie vorbereiten" />
+  <key id="50101204" name="Vor Mehrfachschlitzer Kachel vorbereiten" />
+  <key id="50101205" name="Angriff_untätig" />
+  <key id="50101206" name="Einsetzen von Abwehrerhöhung für Lakaien vorbereiten" />
+  <key id="50101207" name="Aktion Verspottung" />
+  <key id="50101208" name="Selbstregeneration" />
+  <key id="50101230" name="Bore_A" />
+  <key id="50101231" name="Bore_A" />
+  <key id="50101232" name="Bore_A" />
+  <key id="50101233" name="Bore_A" />
+  <key id="50101234" name="Fluchexplosionsenergiekugel" />
+  <key id="50101235" name="Wind verursachen (lang)" />
+  <key id="50101236" name="Feuerelementmodus" />
+  <key id="50101237" name="Schwertschwingen vorbereiten (Feuer)" />
+  <key id="50101238" name="Schwertschwingen vorbereiten (Feuer)" />
+  <key id="50101239" name="Schwerthieb vorbereiten (Feuer)" />
+  <key id="50101240" name="Magische Energiekugel (Feuer)" />
+  <key id="50101241" name="Frontalen Fluch einsetzen (reduziert Regenerationswirkung)" />
+  <key id="50101242" name="Todesfluch auf 4 Ziele vorbereiten" />
+  <key id="50101243" name="Schnappen beginnen" />
+  <key id="50101244" name="Geschnapptes Ziel begutachten" />
+  <key id="50101245" name="Gefangenen töten" />
+  <key id="50101246" name="Geschnapptes Ziel fallen lassen" />
+  <key id="50101247" name="Feuerkachel Typ 1" />
+  <key id="50101248" name="Fallendes Eis von Decke" />
+  <key id="50101249" name="Einfacher Gewittersturm" />
+  <key id="50101250" name="Finaler Angriff (stechen beginnen)" />
+  <key id="50101251" name="Doppelt wütender Feuerkreis" />
+  <key id="50101252" name="Fallendes Eis von Decke" />
+  <key id="50101253" name="Gewittersturm (schwach)" />
+  <key id="50101254" name="Cast Curse in Front (Reduce Restoratives)" />
+  <key id="50101255" name="Nach Gefangennahme töten" />
+  <key id="50101256" name="Nach Gefangennahme Hand schwingen" />
+  <key id="50101257" name="Final Attack (Start Thrusting)" />
+  <key id="50101258" name="Raging Fire Fire Circle 2 Times" />
+  <key id="50101259" name="Ice on Ceiling Falls" />
+  <key id="50101260" name="Lightning Storm - Weak" />
+  <key id="50101270" name="Nahangriff vorbereiten" />
+  <key id="50101271" name="Sprungangriff vorbereiten" />
+  <key id="50101272" name="Linke Hand ausstrecken" />
+  <key id="50101273" name="Fauststoß einsetzen und Druckwelle freisetzen" />
+  <key id="50101274" name="Bodyslam vorbereiten" />
+  <key id="50102000" name="Frostangriff" />
+  <key id="120010001" name="SKILLNAME_120010001_NAME:[F]Lapenshard01" feature="Lapenshard01" />
+  <key id="120010002" name="SKILLNAME_120010002_NAME:[F]Lapenshard01" feature="Lapenshard01" />
+  <key id="120010003" name="SKILLNAME_120010003_NAME:[F]Lapenshard01" feature="Lapenshard01" />
+</ms2>

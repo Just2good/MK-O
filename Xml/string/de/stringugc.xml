@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="1" name="Normal" />
+  <key id="2" name="Grüne Auen" />
+  <key id="3" name="Mondheller Wald" />
+  <key id="4" name="Regenbogenschneefeld" />
+  <key id="5" name="Wolkenkratzer" />
+  <key id="6" name="Blaues Meer" />
+  <key id="7" name="Ödgebirge" />
+  <key id="8" name="Weltall" />
+  <key id="101" name="Standard" />
+  <key id="102" name="Naturnah" />
+  <key id="103" name="Warm" />
+  <key id="104" name="Kalte Beleuchtung" />
+  <key id="105" name="Abgedunkelte Beleuchtung" />
+  <key id="201" name="Schrägsicht (Standard)" />
+  <key id="202" name="Seitenansicht" />
+  <key id="203" name="Draufsicht" />
+</ms2>

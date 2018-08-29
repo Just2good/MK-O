@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="New agents are always welcome! - Dark Is the Best 1933" />
+	<key id="2" name="Is it my new subordinate? - Top Dark Agent 2315" />
+	<key id="3" name="I&apos;ve seen that face somewhere. - Human Face Recognition Device 1124" />
+	<key id="4" name="Who? - Dark Wind Member 2334" />
+	<key id="5" name="Welcome! - Stagnant Water 1456" />
+	<key id="6" name="Gather everyone above you and below me. - Dark Big Shot 2233" />
+	<key id="7" name="I don&apos;t know who that is but that one is pretty good at taking care of missions. - Dark Agent 1453" />
+	<key id="8" name="Another new recruit? Wonder how long this one will remain? - Dark 1988" />
+	<key id="9" name="Did a lot for a new recruit... - Dark Man 0121" />
+	<key id="10" name="Must have guts to do something this difficult. - Deep Darkness 1245" />
+	<key id="11" name="It&apos;s been a while since a useful agent joined. - Like the Corner 1923" />
+	<key id="12" name="Huh? Is this a true story? - Member Number 8456" />
+	<key id="13" name="Wow. To be able to do something this hard. - My Dream to Be a Foot Volleyball King" />
+	<key id="14" name="You&apos;re pretty good. Where have you been hiding all this time? - Love Nay Nay" />
+	<key id="15" name="$MyPCName$? I think I heard that name somewhere. - Darkness of the Dark" />
+	<key id="16" name="This is perfect. - Everybody 1121" />
+	<key id="17" name="Yup... This is true! - In Charge of Providing Meals 1209" />
+	<key id="18" name="It seems Schatten got a very good agent! - Schatten" />
+	<key id="19" name="What if this person gets all of Schatten&apos;s interest? - If I Can&apos;t Have Her..." />
+	<key id="20" name="$MyPCName$, the appearance of an extraordinary figure! - Denver" />
+	<key id="21" name="Oh! I remember $MyPCName$! Is that person that played an active part during the sudden attack on Tria, right? - Eyes on Oska" />
+	<key id="22" name="Wha? That person is the one that played an active part during the Madria invasion? - EVANS1097" />
+	<key id="23" name="Remarkable activities! That person will catch up to my mission achievement rate soon! - 1st Year Dark Wind" />
+	<key id="24" name="Is this the appearance of a new dark horse in Dark Wind? - Look at My Rhyme" />
+	<key id="25" name="I think I saw $MyPCName$&apos;s name in the newspaper! - Daily Tria Subscriber" />
+	<key id="26" name="Oh! A great figure has appeared out of the blue in Dark Wind! - Dark Heart White Dog" />
+	<key id="27" name="I need to start from the time in Tria to explain about $MyPCName$... - TooMuchTeller" />
+	<key id="28" name="Hey, we&apos;re going to get behind this person if we don&apos;t work hard. - Yes Schatten My Schatten" />
+	<key id="29" name="This isn&apos;t enough for me to trust that person. - Doubt and Doubt Again" />
+	<key id="30" name="Show us something more amazing! - Expectation Expert" />
+	<key id="31" name="Doesn&apos;t this make that person above average? - Optimist" />
+	<key id="32" name="I could do that with my hands tied behind my back. - Malondahe" />
+	<key id="33" name="Recognize what needs to be recognized. This has talent. - Society Overflowing with Recognition 8526" />
+	<key id="34" name="Huh? What happened? Was this really done? - Raspberry Blossom" />
+	<key id="35" name="$MyPCName$... a seed leaf that will become something. - Seed Leaf Discerner" />
+	<key id="36" name="Perfectly cool! - Karkara Center" />
+	<key id="37" name="I feel like watching the birth of a hero in real-time. - Legend of Legends" />
+	<key id="38" name="This is a hero! - HeroMania" />
+	<key id="39" name="Wow! I can&apos;t doubt what I&apos;m seeing. - AllforOne" />
+	<key id="40" name="The best! $MyPCName$! - National $MyPCName$ Fan Club President" />
+	<key id="41" name="Can a person really do this? - Not Human" />
+	<key id="42" name="Wow... I&apos;m speechless. - Savory Kid" />
+	<key id="43" name="Heh... Finally a worthy opponent... - Black Goat on My Left Arm" />
+	<key id="44" name="Awesome! Want to be friends? - Expert at Personal Connections" />
+	<key id="45" name="Oh! Cool! $MyPCName$ is now my love! - Hatchet Wife" />
+	<key id="46" name="Wow! Unbelievable! Is this something a person can do? - Everyday" />
+	<key id="47" name="Nothing else but to acknowlege $MyPCName$... - Pro Acknowledger" />
+	<key id="48" name="Unbelievable... How can this be an ability of a new agent? - Deep and Dark Agent" />
+	<key id="49" name="What if that person takes all of Schatten&apos;s love? - Only Schatten" />
+	<key id="50" name="Did we see this before? - Dark Wind Researcher" />
+	<key id="51" name="$MyPCName$&apos;s activities will forever be remembered in Maple World. - Ereve" />
+	<key id="52" name="Praiseworthy! A birth of a new hero! - I Am Dark 6543" />
+	<key id="53" name="$MyPCName$ is acknowledged by Schatten! - Dark Wing 7688" />
+	<key id="54" name="Deserves to be called a hero! - Sweet Bubble" />
+	<key id="55" name="Amazing activities! Incredible! - Real1573" />
+	<key id="56" name="A new hero! Maple World&apos;s hope! - Citizen 8954" />
+	<key id="57" name="I&apos;m embarrassed to call you a rookie with such activities! But you will be forever a rookie before me! Ahahaha! - Kkondae" />
+	<key id="58" name="$MyPCName$ can take on any mission! Praise! - Praise" />
+	<key id="59" name="$MyPCName$, take me on your next mission. - Personal Connection Expert" />
+	<key id="60" name="Where was this great hero hiding all this time? - Denver" />
+	<key id="61" name="I remember this person! It&apos;s $MyPCName$ who stopped Madria&apos;s invasion! - Guard 1195" />
+	<key id="62" name="I feel like seeing a hero that appears once in a century. - My Age 100 Days" />
+	<key id="63" name="Such progress! Is this real? - Maple Kingdom Citizen" />
+	<key id="64" name="Is this the Holy Land I heard so much about? I&apos;m going on a pilgrimage! Please give me a girlfriend! - 77th Year as a Single" />
+	<key id="65" name="The first time $MyPCName$ came to Tria, I knew something was different! - Napolie" />
+	<key id="66" name="Wow! $MyPCName$ who I met in Tria is now a new hero? - Guard in the Royal Guard" />
+	<key id="67" name="Our cutie is doing great! - Schatten" />
+	<key id="68" name="I always knew $MyPCName$ would be a great hero someday! - Sylvia" />
+	<key id="69" name="I&apos;m enamored with $MyPCName$&apos;s activities. I&apos;ll sing you my song next time. - Blake" />
+	<key id="70" name="What I&apos;m seeing right now is a realm that will get recorded as a legend... - Minister Karl Vidrem" />
+	<key id="71" name="If a book on $MyPCName$&apos;s activities was published, it would be a bestseller! - Maple Publishing House" />
+	<key id="72" name="Everyone talks about $MyPCName$&apos;s activities. - Guard 4319" />
+	<key id="73" name="A hero should be treated like one. Come to our Rise in Status Society for consultation. - Chance to Rise in Status" />
+	<key id="74" name="Always smiling! I knew that one would become successful! - Cantata" />
+	<key id="75" name="Tria is safe thanks to that one! - Sentry 5138" />
+	<key id="76" name="I don&apos;t know about other humans but I trust $MyPCName$. - Surguky" />
+	<key id="77" name="I&apos;m at peace and don&apos;t have any nightmares thanks to $MyPCName$. - Many Steps" />
+	<key id="78" name="A wild hero has appeared! - Is This True" />
+	<key id="79" name="Is this hero $MyPCName$ who had a hard time with enchanting? - Ophelia" />
+	<key id="80" name="I&apos;m a really busy person but I never miss reading on $MyPCName$&apos;s epic tales! - Elliana" />
+	<key id="81" name="Hmph! I can do that with my eyes closed. - Armano" />
+	<key id="82" name="Huh? What? A newbie&apos;s activities? - Morning Belly" />
+	<key id="83" name="Are these activities really by a new recruit? - Rove" />
+	<key id="84" name="A very competent person brought into sudden prominence! - Deep Dark Boots" />
+	<key id="85" name="Keep your eyes on this person! I&apos;m sure of it. - Marco" />
+	<key id="86" name="Is this a growing weed? Or will this become a forest? - Life and Philosophy" />
+	<key id="87" name="$MyPCName$... Why do I look forward to this one&apos;s future activities? - Nannanana" />
+	<key id="88" name="$MyPCName$? Never heard of that name. - Kirara" />
+	<key id="89" name="Where did such talent come from? - Velte" />
+	<key id="90" name="I look forward to this one&apos;s future activities! - Not Dark Wind Member" />
+	<key id="91" name="What? That&apos;s pretty good? Who said it was a new recruit? Maybe it&apos;s an experienced new recruit? - Employee 9921" />
+	<key id="92" name="Oh, who is this making great progress? - Tria Navy 5475" />
+	<key id="93" name="$MyPCName$... I look forward to this one&apos;s future activities. - Dark Eyes Member 2564" />
+	<key id="94" name="Looks familiar but my memory is a bit hazy... - Beth" />
+	<key id="95" name="Amazing. I didn&apos;t expect such a performance! - Royal Guard 6434" />
+	<key id="96" name="Does not look like those common messengers. - Quick Service" />
+	<key id="97" name="What? Task is already done? - LTE9223" />
+	<key id="98" name="It&apos;s just a bubble. We need to wait and see a bit more. - Neutral Is Best" />
+	<key id="99" name="Analyzing... Analyzing... Not an ordinary person. Looking forward to future activities. - Android X" />
+	<key id="100" name="Lately, my pleasure in life is watching $MyPCName$&apos;s activities. - House Fairy" />
+	<key id="101" name="Hehe! You&apos;re doing pretty good these days! You didn&apos;t forget me, right? Don&apos;t forget me even when you become famous later! - Ralph" />
+	<key id="102" name="Incredible! Where did such talent suddenly appear from? - Citizen 2256" />
+	<key id="103" name="A new hope of Maple World! $MyPCName$! - Look at Only Me Ereve" />
+	<key id="104" name="I look forward to your future activites. - Allon Is the Best" />
+	<key id="105" name="I&apos;m a reporter for the Daily Maple and want to interview you. - Real Reporter" />
+	<key id="106" name="I want to plan a special broadcast about you. Please make me some time. - Yo Program Director" />
+	<key id="107" name="I&apos;m sorry for telling you at that time to pretend that you don&apos;t know me. It&apos;s because it was awkward at the time. We&apos;ll be friendly from now on. Hahaha. - Cecilia" />
+	<key id="108" name="I want to be $MyPCName$&apos;s fan! - Infatuated" />
+	<key id="109" name="Won&apos;t be jealous of heroic-class abilities with this! - Alliance Guardian" />
+	<key id="110" name="It&apos;ll be really fun if $MyPCName$ goes on air! - Stay Indoors" />
+	<key id="111" name="Strive to follow $MyPCName$&apos;s activities to become a similar person. The result will be astonishing as if breaking through the wall and flying. Do not touch pitch and be defiled, but achieve fame and prestige, and succeed in life. - Ink" />
+	<key id="112" name="We&apos;re going to advertise a new product and want you as our new model. Please contact us. - MS2 Studio" />
+	<key id="113" name="Doing well. Activities. Watching. You. Expecting. Activities. Your. - Madares" />
+	<key id="114" name="$MyPCName$, don&apos;t forget my name if you happen to become suspicious. - Rosetta" />
+	<key id="115" name="I predicted such a hero would appear! - Chollian" />
+	<key id="116" name="$MyPCName$, I will always cheer you for your activities. - Luanna" />
+	<key id="117" name="$MyPCName$&apos;s activities are like the rising dawn! The residents of Perion are cheering as well! - Rolling Thunder" />
+	<key id="118" name="I saw that person before and felt an unusual aura. - Lady" />
+	<key id="119" name="I changed my house&apos;s sign to &apos;House that $MyPCName$ Dropped in!&apos; - Bogler" />
+	<key id="120" name="The convict rehabilitation program was reformed based on $MyPCName$&apos;s action state who is a model representing &apos;justice&apos; in $map:02000124$. - Zekk" />
+	<key id="121" name="I want $MyPCName$ as my mentor! - Mentee" />
+	<key id="122" name="I want $MyPCName$! - Possess" />
+	<key id="123" name="Isn&apos;t that the kid from Tria? I never knew $male:he&apos;d,female:she&apos;d$ turn out to be so cool! - Clara" />
+	<key id="124" name="Heh! $MyPCName$. You will be a good rival for me! - Mythomania Treatment Patient" />
+	<key id="125" name="We&apos;re counting on you, big shot! - Ralph" />
+	<key id="126" name="Come to me whenever you&apos;re hungry during a mission! You can eat for free! - Power after Eating" />
+	<key id="127" name="I&apos;ve... fallen in a new love. - Irena" />
+	<key id="128" name="I&apos;m going to be $MyPCName$&apos;s stalking fan starting today. - Uncle Unit" />
+	<key id="129" name="Look at that mission completion rate. It&apos;s just like... - Gen" />
+	<key id="130" name="Come visit someday. If you&apos;re coming at four, I&apos;ll start being happy at three. - Miel" />
+	<key id="131" name="$MyPCName$&apos;s activities! They are shocking! I&apos;m impressed! - Codea" />
+	<key id="132" name="Amazing $MyPCName$! You are worthy to be my comrade in arms! - Frey" />
+	<key id="133" name="That person didn&apos;t look ordinary back then, but I didn&apos;t know that person would be this amazing. - Orde" />
+	<key id="134" name="$MyPCName$, I will always cheer you for your activities. - Luanna" />
+	<key id="135" name="I felt that $MyPCName$ was someone who possesses a special ability when we stopped Madria&apos;s invasion together. I want to continue and watch that person&apos;s activities. - Oska" />
+	<key id="136" name="$MyPCName$ is the captain of my heart! - Royal Guard 6782" />
+	<key id="137" name="$MyPCName$, please light the way as the warrior of light. - Ereve" />
+	<key id="138" name="I, the captain, always believe in you! - Bliche" />
+	<key id="139" name="I guess our library will soon get books on $MyPCName$&apos;s heroic tales. - Anne" />
+	<key id="140" name="I live to watch $MyPCName$&apos;s activities these days! - Patrol 0083" />
+	<key id="141" name="May the protection of Empress Ereve be upon you! - Patrol 2213" />
+	<key id="142" name="I can&apos;t believe a difficult mission like this was cleared! - Royal Guard 8942" />
+	<key id="143" name="I want a mission! With you! - Alliance Agent" />
+	<key id="144" name="No wonder the Empress acknowledges that person! - Tria Citizen 5916" />
+	<key id="145" name="Amazing! $MyPCName$! You&apos;re very good at clearing missions! - Grassland Inhabitant" />
+	<key id="146" name="$MyPCName$&apos;s activities are impressive as expected! - Guard 8155" />
+	<key id="147" name="I can&apos;t imagine a Maple World without $MyPCName$&apos;s activities. - Got Tamed" />
+	<key id="148" name="I&apos;m going to become strong like $MyPCName$ and stand side by side with the heroes in Sky Fortress! - Hero Starting Tomorrow" />
+	<key id="149" name="I want to become a famous hero like $MyPCName$! - Jonn" />
+	<key id="150" name="I guess it&apos;s true that a hero was born in this troublous time! - Grilled Duck" />
+	<key id="151" name="Fresh! Always new! $MyPCName$! The best! - Good Person 6813" />
+	<key id="152" name="We are receiving new applicants for the $MyPCName$ Fan Club. - National $MyPCName$ Fan Club President" />
+	<key id="153" name="There are many voices from the National Hero Fan Club Alliance saying that $MyPCName$ should be recognized as an official hero! - National Hero Alliance Society Member" />
+	<key id="154" name="I saw that person in the news! - TVholic" />
+	<key id="155" name="That person suddenly became famous! It&apos;s like the saying &apos;Rise from a humble family.&apos; - Hut by the Creek" />
+	<key id="156" name="$MyPCName$... I&apos;ve been watching for a long time. That person will become a great figure. - Whaler" />
+	<key id="157" name="Let&apos;s be friends! Do you like fishing? Let&apos;s fish together! Or we can perform! - Tria Resident" />
+	<key id="158" name="A new hero! Please come to our village as well! - Bomar" />
+	<key id="159" name="To be able to witness the birth of a hero during my lifetime... Now I can die in peace! - 100th Day Tomorrow" />
+	<key id="160" name="That person is from a different cloth. Look at that composure! I knew early on that $MyPCName$ wasn&apos;t ordinary. - What to Do" />
+	<key id="161" name="I&apos;m not sure yet... - A Lumiknight" />
+	<key id="162" name="What potential did Allon see in that person? - A Lumiknight" />
+	<key id="163" name="That person is not without skills... - A Lumiknight" />
+	<key id="164" name="Will that person be able to deal with the power of darkness? - A Lumiknight" />
+	<key id="165" name="I&apos;m not sure but I support Mason&apos;s decision. - A Lumiknight" />
+	<key id="166" name="That person doesn&apos;t seem bad. If only I am not dragged down that is... - A Lumiknight" />
+	<key id="167" name="All is well if nothing about us is leaked to the outside world. - A Lumiknight" />
+	<key id="168" name="The Lumiknights do not pursue just power. I wonder if that person also has such qualification. - A Lumiknight" />
+	<key id="169" name="I was curious because that person received a special recommendation but looks ordinary to me. - A Lumiknight" />
+	<key id="170" name="Seeing how that person obtained trust from Allon and the Empress... I have nothing to say. - A Lumiknight" />
+	<key id="171" name="It&apos;s good to have some help looking at the times we&apos;re in. - A Lumiknight" />
+	<key id="172" name="Well, I think that person is an average. - A Lumiknight" />
+	<key id="173" name="I don&apos;t know that person well yet, but that person is skilled. - A Lumiknight" />
+	<key id="174" name="That person should be able to do this much for someone who obtained Allon&apos;s trust. - A Lumiknight" />
+	<key id="175" name="I heard that person stopped Madria&apos;s invasion. I guess the rumor wasn&apos;t false. - A Lumiknight" />
+	<key id="176" name="I don&apos;t know if that person can obtain our trust, but at least that person is not a swindler. - A Lumiknight" />
+	<key id="177" name="I thought that person only knew how to spend on food, but that doesn&apos;t seem to be the case. - Lumiknights Exclusive Chef" />
+	<key id="178" name="I thought that person would soon quit... but has grit. - A Lumiknight" />
+	<key id="179" name="Heh, Mason&apos;s reputation won&apos;t be sullied at this rate. - A Lumiknight" />
+	<key id="180" name="That person obtained trust from Allon and the Empress... I think I know the reason why. - A Lumiknight" />
+	<key id="181" name="$MyPCName$? Oh, the one Allon talked about! That person is very skilled. - A Lumiknight" />
+	<key id="182" name="That person&apos;s skills are better than our knights. - Lumiknights Advanced Knight" />
+	<key id="183" name="Exceptional skills and attitude... Someone to model after. - A Lumiknight" />
+	<key id="184" name="I heard that person was really great! I want to see that person with my own eyes. - Lumiknights Squire" />
+	<key id="185" name="Allon&apos;s eyes weren&apos;t wrong. That person is very skilled. - A Lumiknight" />
+	<key id="186" name="I was wondering who obtained Empress Ereve&apos;s trust and it was $MyPCName$ as expected! - A Lumiknight" />
+	<key id="187" name="$MyPCName$ is very desirous as a Lumiknight. - Lumiknights Advanced Knight" />
+	<key id="188" name="I often hear about $MyPCName$ within the Lumiknights. I guess it&apos;s because of that person&apos;s skills. - Lumiknights Advanced Knight" />
+	<key id="189" name="I saw that person fighting from afar. I was surprised that a person could move like that. - A Lumiknight" />
+	<key id="190" name="$MyPCName$ has a good personality and skilled. That person was very kind. - Lumiknights Exclusive Chef" />
+	<key id="191" name="That person is very responsible and also skilled. - A Lumiknight" />
+	<key id="192" name="I heard one of my seniors say that person is a trustworthy. - Lumiknights Squire" />
+	<key id="193" name="Not only is that person skilled, but also brave. - A Lumiknight" />
+	<key id="194" name="There are many skilled people stepping forward, but the real thing is different. $MyPCName$... What a trustworthy person. - A Lumiknight" />
+	<key id="195" name="$MyPCName$... I only heard the rumors and want to meet in person at least once. - A Lumiknight" />
+	<key id="196" name="Mason has been talking a lot about $MyPCName$ recently saying that person is very skilled... - A Lumiknight" />
+	<key id="197" name="I heard that person was a great help in defending the chaotic Maple World. - A Lumiknight" />
+	<key id="198" name="I got injured and am no longer a Lumiknight, but even I heard the news of that person. - Former Lumiknight" />
+	<key id="199" name="$MyPCName$... I heard you won&apos;t get injured if you&apos;re with that person.  - A Lumiknight" />
+	<key id="200" name="A true defender of Maple World... $MyPCName$ is worthy to be a likely candidate. - A Lumiknight" />
+	<key id="201" name="$MyPCName$... a person I would like to appoint as an honorary Lumiknight. - Lumiknights Advanced Knight" />
+	<key id="202" name="I only heard rumors of $MyPCName$! But I felt such an overwhelming presence from the real deal! - A Lumiknight" />
+	<key id="203" name="I won&apos;t hesitate when I have hardships but go find $MyPCName$. - A Lumiknight" />
+	<key id="204" name="It cheers me up to think that person is fighting after eating my food! - Lumiknights Exclusive Chef" />
+	<key id="205" name="I heard that person has remarkable skills and the courage to take the lead! What an amazing person. - A Lumiknight" />
+	<key id="206" name="When I heard about $MyPCName$, I thought that person should be my role model. - Lumiknights Squire" />
+	<key id="207" name="That person is really amazing... It&apos;s hard to believe but I think that person&apos;s skills are similar to Mason... - A Lumiknight" />
+	<key id="208" name="$MyPCName$&apos;s skills can&apos;t be described in words. You need to see that person fight with your own eyes. - A Lumiknight" />
+	<key id="209" name="I thought if such a person even existed when I heard that it was someone Allon and Mason trusted... But the reality was beyond my imagination! - A Lumiknight" />
+	<key id="210" name="I feel like I can overcome any difficulty if I&apos;m with that person. - A Lumiknight" />
+	<key id="211" name="$MyPCName$ hasn&apos;t come to our branch yet, but all of our knights only talk of that person. - Caldera Branch Knight" />
+	<key id="212" name="Just seeing $MyPCName$ in person or not determines that branch&apos;s morale. - Liverty Branch Knight" />
+	<key id="213" name="There is no such thing as a baseless rumor. There is a reason for that person&apos;s wide-spread fame. - A Lumiknight" />
+	<key id="214" name="I will obtain Allon and Mason&apos;s trust someday just like $MyPCName$. - A Lumiknight" />
+	<key id="215" name="If I become strong and brave like $MyPCName$, will I be able to see Empress Ereve up close? - A Lumiknight" />
+	<key id="216" name="Everyone only talks about $MyPCName$ these days... There are many single Lumiknights because they like that person. - A Single Lumiknight" />
+	<key id="217" name="I hear $MyPCName$&apos;s name wherever I go. There is no end to that person&apos;s heroic tales. - A Lumiknight" />
+	<key id="218" name="Ability, bravery, belief, conscience... that person possesses all of that. - Lumiknights Temple Knight" />
+	<key id="219" name="I&apos;m educating the juniors while talking about $MyPCName$. That person is more than a textbook. - Lumiknights Advanced Knight" />
+	<key id="220" name="This is a secret but... I actually joined the Lumiknights after seeing $MyPCName$. I want to protect Maple World just like that person. - Lumiknights Advanced Knight" />
+	<key id="221" name="Ah... I can&apos;t forget the moment I was with that person. $MyPCName$ is my hero. - A Lumiknight" />
+	<key id="222" name="$MyPCName$... I can&apos;t believe I&apos;m breathing the same air as that person. - A Lumiknight" />
+	<key id="223" name="If someone asks me about the future of the Lumiknights, I would tell that person to look at $MyPCName$. - A Lumiknight" />
+	<key id="224" name="$MyPCName$? In a word, that person is a hero. A role model for all the Lumiknights. - A Lumiknight" />
+	<key id="225" name="I&apos;m ashamed of my past for doubting $MyPCName$. - A Lumiknight" />
+	<key id="226" name="I once saw $MyPCName$ from afar. I felt imposed just looking at that person&apos;s back. - A Lumiknight" />
+	<key id="227" name="That person is like the light and salt of Maple World! It will be more distressing to not have that person than the power of darkness covering the world. - A Lumiknight" />
+	<key id="228" name="You want me to evaluate $MyPCName$? I can&apos;t! That person&apos;s greatness can&apos;t be described in words! - A Lumiknight" />
+	<key id="229" name="$MyPCName$? What an amazing person! Stopped Madria&apos;s invasion and saved Maple World, sealed the power of darkness, defeated monsters... Huh? Where are you going? I can tell you more. - A Lumiknight" />
+	<key id="230" name="I&apos;ve been feeling... maybe $MyPCName$ is a messenger of light sent by the god of light. - A Lumiknight" />
+	<key id="231" name="Allon is No. 1 and Mason is No. 2 in my heart, but $MyPCName$ is pushing up. - A Lumiknight" />
+	<key id="232" name="It&apos;s not like I hate my branch manager but... if $MyPCName$ was my branch manager, I would enjoy coming to work every day. - Ganis Branch Knight" />
+	<key id="233" name="Mason visited our branch recently and talked about $MyPCName$. My wish is for my branch members to be even half of that person. - Caldera Branch Manager" />
+	<key id="234" name="$MyPCName$... I knew that you would come through whatever it may be. - Empress Ereve" />
+	<key id="235" name="$MyPCName$... That person is like the sun that can&apos;t be exchanged for anything in this world. - A Lumiknight" />
+	<key id="236" name="Can there really be a person like $MyPCName$ in this world? Sigh... My only wish is to see that person in real life. - Lumiknights Squire" />
+	<key id="237" name="There&apos;s a curious item that has been going around our branch lately. It&apos;s a book called &apos;$MyPCName$&apos;s Journey&apos;... I read it and it was interesting. - Shinduff Branch Manager" />
+	<key id="238" name="My recent habit is to pray to a talisman with $MyPCName$&apos;s name on it before going to battle. I feel like $MyPCName$ will protect me. - A Lumiknight" />
+	<key id="239" name="$MyPCName$, I feel that the Empress did not see wrong every time I look at you. Thanks for being with us. - Allon" />
+	<key id="240" name="I thought the god of light gave us only Empress Ereve, but there&apos;s also $MyPCName$! - A Lumiknight" />
+	<key id="241" name="If only my food could help in $MyPCName$&apos;s battles! Then I will follow to any place. - Lumiknights Exclusive Chef" />
+	<key id="242" name="I&apos;m not lonely as a single if I&apos;m with $MyPCName$. I have nothing to fear when together with that person! - A Single Lumiknight" />
+	<key id="243" name="Our daily routine recently is to pray for Mason from 10 AM - 3 PM, pray for Allon from 3 PM - 8 PM, and pray just for $MyPCName$ from 8 PM - 10 AM. - Lumiknights Temple Knight" />
+	<key id="244" name="We, the National $MyPCName$ Loyalty Alliance, will always pray for the health and well-being of $MyPCName$! - National Alliance Member" />
+	<key id="245" name="I was doubtful at first, but not anymore. Together, let&apos;s stop the power of darkness from tainting Maple World. - Mason" />
+	<key id="246" name="I think $MyPCName$ can drive out the power of darkness with just a shout and determination. That&apos;s what I believe. - Lumiknights Squire" />
+	<key id="247" name="We still have Madria and other problems, but we got $MyPCName$! Everything will work out if $MyPCName$ is with us. - A Lumiknight" />
+	<key id="248" name="I went to my hometown recently and the rumors of $MyPCName$ reached there as well. That person might be more famous than Allon. - A Lumiknight" />
+	<key id="249" name="I think $MyPCName$&apos;s portrait should be supplied to the entire Lumiknights branch. I will salute it 3 times a day! - A Lumiknight" />
+	<key id="250" name="I can do anything if it will help $MyPCName$! $MyPCName$ is the only one for me! My love, my everything! - A Lumiknight" />
+	<key id="251" name="If you were with us from before... we might have been able to lessen the present tragedy. I am no longer a guardian priestess but... I will pray for you. - Luanna" />
+	<key id="252" name="Huh? $MyPCName$? Well... - Militia Member" />
+	<key id="253" name="What can I do to be next to Oska? I want to know that secret. - Oska Fan Club" />
+	<key id="254" name="I heard that person helped Manovich... but rumors can be misrepresented. - Militia Member" />
+	<key id="255" name="$MyPCName$? I think I heard Eka talking about that person. - Eka&apos;s Friend" />
+	<key id="256" name="I think a request for help was made since everyone is in a hurry. But I don&apos;t know if $MyPCName$ can handle it. - Militia Member" />
+	<key id="257" name="Oska doesn&apos;t make a wrong choice but... to be honest, I have my doubts. - Oska Fan Club" />
+	<key id="258" name="The Green Hoods are in an emergency, but I don&apos;t know if we need help from an outsider. - Militia Member" />
+	<key id="259" name="Oska must have something in mind! $MyPCName$! Don&apos;t sully her reputation! - Oska Fan Club" />
+	<key id="260" name="I&apos;m analyzing the items brought in by that person. But this is at a level that anyone can do. - Green Hoods Analysis Agent" />
+	<key id="261" name="$MyPCName$? I think that person donated something... Wasn&apos;t that person just a donator? - Green Hoods Donation Management Agent" />
+	<key id="262" name="I heard that person is helping out the Green Hoods, and we are grateful. - Militia Member" />
+	<key id="263" name="That person should be able to do this for someone who obtained the trust of the Empress and Oska! - Militia Member" />
+	<key id="264" name="I heard Nairin made several requests, and that person is very good at doing errands. - Militia Member" />
+	<key id="265" name="Since Oska is very busy, she needs a devoted retainer by her side. - Oska Fan Club" />
+	<key id="266" name="I heard that person played a role during the Henesys invasion. I think that person is very involved. - Militia Member" />
+	<key id="267" name="The analysis team is doing their best to figure out everything about Maple World! $MyPCName$? That person is very helpful. - Green Hoods Analysis Agent" />
+	<key id="268" name="It&apos;s true that the donations made by that person are helpful. - Green Hoods Donation Management Agent" />
+	<key id="269" name="I&apos;m not sure but I do know that person is more useful than Armano . - Henesys Militia Agent" />
+	<key id="270" name="Shouldn&apos;t everyone do their part since Maple World is in chaos? - Militia Member" />
+	<key id="271" name="I always trust Oska! $MyPCName$ must be trustworthy since Oska trusts that person, right? - Militia Member" />
+	<key id="272" name="I saw that person during the Henesys invasion and has considerable skills. - Militia Member" />
+	<key id="273" name="Oska needs a skilled bodyguard since she does many dangerous things! $MyPCName$&apos;s skills are reliable. - Oska Fan Club" />
+	<key id="274" name="That person has great skills and is a great strength to the Green Hoods and Maple World. - Militia Member" />
+	<key id="275" name="I heard that person has exception combat, investigation, and collection abilities. That&apos;s amazing. - Militia Member" />
+	<key id="276" name="I also fought during the Henesys invasion and that person&apos;s skills were no joke. I might not have been alive today if it wasn&apos;t for that person. - Retired Militia Member" />
+	<key id="277" name="I heard that person saved Manovich with Oska. What amazing skills. - Militia Member" />
+	<key id="278" name="That person donates many various items. I don&apos;t know where all of them come from. - Green Hoods Donation Management Agent" />
+	<key id="279" name="When I fell from a surprise raid, that person came like the wind and defeated the monsters. It was amazing. - Militia Member" />
+	<key id="280" name="I can&apos;t believe that such a skilled person is not a militia member! - Militia Member" />
+	<key id="281" name="I&apos;m angry because that person obtained Oska&apos;s trust but... that person has the ability to obtain it. - Oska Fan Club" />
+	<key id="282" name="That person is quick at supply and demand of items used in analysis! I really needed them recently and it was a great help. - Green Hoods Analysis Agent" />
+	<key id="283" name="I doubted if such a person existed when listening to Tinnie, but it&apos;s true! - Militia Member" />
+	<key id="284" name="I was really nervous last time because I couldn&apos;t obtain the items assigned to me, but $MyPCName$ came and dropped the items in front of me. I&apos;m not lying! - Green Hoods Item Collection Agent" />
+	<key id="285" name="My job would be easier if the the ability of the new recruits was just a tenth of that person... - Green Hoods Training Captain" />
+	<key id="286" name="If I can choose who I want to go on the operation with... it would be $MyPCName$ since I won&apos;t get injured that much. - Militia Member" />
+	<key id="287" name="I&apos;m going to polish my abilities and stand side by side with Oska someday just like $MyPCName$! - Oska Fan Club" />
+	<key id="288" name="I thought the Green Hoods was the strongest, but there is no end to strength after seeing $MyPCName$. - Green Hoods Combat Agent" />
+	<key id="289" name="I want to hurry and become like $MyPCName$ to save people in crisis! - Green Hoods Trainee" />
+	<key id="290" name="When you come acrosss a problem during analysis, just shout out $MyPCName$&apos;s name. Who knows if an analysis item would drop from somewhere? - Green Hoods Analysis Agent" />
+	<key id="291" name="I said I needed Cornelian Cherries in passing and that person got me those precious fruits! - Green Hoods Analysis Agent" />
+	<key id="292" name="I thought it was the end of Maple World after that happened to Tria but... I snapped out of it thanks to $MyPCName$. - Militia Member" />
+	<key id="293" name="The militia members that fought during the Henesys invasion say that person was like the god of the battleground. - Militia Member" />
+	<key id="294" name="I hate to admit it, but $MyPCName$ is the best ally Captain Oska could ask for... - Militia Member" />
+	<key id="295" name="Sigh... I shouldn&apos;t but I sometimes think that it would be better if $MyPCName$ was Manovich&apos;s child instead of Armano . - Henesys Militia Member" />
+	<key id="296" name="It&apos;s not an exaggeration to say that all of the donated goods to the Green Hoods come from $MyPCName$! - Green Hoods Donation Management Agent" />
+	<key id="297" name="It&apos;s a mystery where all of these items come from. I respect that person. - Green Hoods Analysis Agent" />
+	<key id="298" name="My experience of fighting along $MyPCName$ would be No. 3 in my life as a Green Hood! You want to know about 1 and 2? It&apos;s obviously the moments I had with Oska. - Oska Fan Club" />
+	<key id="299" name="I joined the Green Hoods after seeing $MyPCName$ protect Henesys. I found out that everyone in my group also joined after seeing $MyPCName$! - Green Hoods Trainee" />
+	<key id="300" name="The trainees have been behaving well. Maybe it&apos;s because they heard about $MyPCName$ who is making an effort to protect Maple World. - Green Hoods Training Captain" />
+	<key id="301" name="$MyPCName$ is great but not as great as Oska yet! But... $MyPCName$ is also really great. - Oska Fan Club" />
+	<key id="302" name="During the Henesys invasion... I couldn&apos;t be with $MyPCName$ because I was dispatched on a mission. I&apos;m so jealous when I hear about that time from my peers! - Militia Member" />
+	<key id="303" name="Nairin said that person can be trusted, and I completely agree with her. - Nairin&apos;s Subordinate" />
+	<key id="304" name="The life as a Green Hood is sometimes dangerous and lonely, but that is when I think about $MyPCName$. That person is strong even alone! - Militia Member" />
+	<key id="305" name="Sometimes I wanted to give up because of the hard training, but that is when I thought about $MyPCName$. I want to protect Maple World just like that person. - Green Hoods Trainee" />
+	<key id="306" name="I&apos;m always amazed when I think about $MyPCName$. It&apos;s all thanks to $MyPCName$ that we can analyze Maple World. - Green Hoods Analysis Agent" />
+	<key id="307" name="Even Tria was protected after Henesys! $MyPCName$ really is amazing! - Militia Member" />
+	<key id="308" name="I don&apos;t know if I should join the $MyPCName$ fan club or not. I&apos;m actually busy with the Oska fan club, but I can&apos;t miss out on $MyPCName$ too! - Oska Fan Club" />
+	<key id="309" name="What is $MyPCName$&apos;s limit? Maybe there is no end? - Militia Member" />
+	<key id="310" name="I used to think that I had to hurry and help out Oska. But seeing $MyPCName$, I want to help out $MyPCName$ as well. - Militia Member" />
+	<key id="311" name="I&apos;m timid but I was able to endure the training and become a militia member because I saw and learned from $MyPCName$&apos;s bravery. - 56th Training Graduate of the Green Hoods" />
+	<key id="312" name="I never imagined there would be someone else like Oska in this world! - Oska Fan Club" />
+	<key id="313" name="That person&apos;s ability and character is not on a level of this world! - Militia Member" />
+	<key id="314" name="I was going to save up many mesos to build a statue of Oska in Henesys, but I need to build one for $MyPCName$ as well. - Oska Fan Club" />
+	<key id="315" name="I think of green when looking at $MyPCName$! It goes really well with that person, right? I don&apos;t know why that person isn&apos;t a Green Hood! - Militia Member" />
+	<key id="316" name="I&apos;ve decided! I&apos;m in the $MyPCName$ fan club starting from today! $MyPCName$! - $MyPCName$ Fan Club" />
+	<key id="317" name="$MyPCName$... I thought it was strange when that person was going to help us alone, but now is the most trustworthy person. - Oska" />
+	<key id="318" name="The Green Hoods Donation Department exists because of $MyPCName$! I want to store everything donated by that person is a separate place but... they are all in use because we don&apos;t have that many donated goods. - Green Hoods Donation Management Agent" />
+	<key id="319" name="Oska reminds me of a graceful moon and $MyPCName$ a burning sun! It&apos;s because $MyPCName$ protects us warmly like the sun! - Militia Member" />
+	<key id="320" name="$MyPCName$? I actually saw that person! I felt like I couldn&apos;t breathe when that person passed by in front of me. - Militia Member" />
+	<key id="321" name="This is a secret... $MyPCName$&apos;s cushion is popular amongst the militia members! Oh, $MyPCName$... I really want you. - Militia Member" />
+	<key id="322" name="It was like destiny when I saw that person&apos;s imposing back during the Henesys invasion. I thought this is the person I should follow for the rest of my life. - $MyPCName$ Fan Club" />
+	<key id="323" name="I can&apos;t forget the moment when $MyPCName$ talked to me. - Militia Member Tinnie" />
+	<key id="324" name="Heh, I secretly went inside of $MyPCName$&apos;s house before. I cleaned the place in secret because $MyPCName$ is always working hard for Maple World. - Militia Member Eka" />
+	<key id="325" name="$MyPCName$? I wonder where did such a person come from? That person is like a ray of sunshine to our analysis team! - Green Hoods Analysis Agent" />
+	<key id="326" name="$MyPCName$ plucked this corn for me! Jealous? You want it, huh? - Sylvia" />
+	<key id="327" name="I will always remember the battle I partook with $MyPCName$ in Henesys! It was a moment when I was with a hero of Maple World! - Militia Member" />
+	<key id="328" name="$MyPCName$ is really amazing! Any request made is accepted! Makes me want $MyPCName$ all for myself. - Nairin" />
+	<key id="329" name="Why is there only a fountain in Henesys? This region was protected by $MyPCName$. There should at least be a landmark for $MyPCName$! - Henesys Militia Member" />
+	<key id="330" name="I secretly kept one of the gear donated by $MyPCName$ a few days ago. I will be keeping it forever as a family heirloom. - Militia Member" />
+	<key id="331" name="$MyPCName$? Don&apos;t you kno who that is? Oh my! Have you been living in a cave? - Militia Member" />
+	<key id="332" name="There are two things those in the Green Hoods must know. One is what Oska likes and two is what $MyPCName$ likes! - Oska Fan Club" />
+	<key id="333" name="There is no end to power in this world, but $MyPCName$ is on an indescribable level. - Militia Member" />
+	<key id="334" name="I think $MyPCName$ is a ROCB. Huh? You want to know what that means? It means ripped out of a comic book! - Militia Member" />
+	<key id="335" name="In the beginning of the world was light, and don&apos;t you think $MyPCName$ was born from that light? - Militia Member" />
+	<key id="336" name="Even the stars shining in the evening sky don&apos;t shine like $MyPCName$&apos;s courage. - Militia Member" />
+	<key id="337" name="Oska likes me. $MyPCName$ likes me... $MyPCName$ likes me! See that?! - Militia Member" />
+	<key id="338" name="We used to fight over Oska but now $MyPCName$ got added. But we&apos;re getting stronger thanks to that so it&apos;s a good thing, right? - Oska Fan Club" />
+	<key id="339" name="The Green Hoods protect Henesys and Maple World, and are loyal to Oska and $MyPCName$! Salute! - Passionate Militia Member" />
+	<key id="340" name="I don&apos;t know if I should cosplay as Oska or $MyPCName$ for the militia&apos;s evening event. Oh! What if I do half of both? - Militia Member" />
+	<key id="341" name="$MyPCName$... Oska has been talking about you a lot these days. Manovich would have been proud if he saw you. - Empress Ereve" />
+	<key id="342" name="I&apos;ve heard of all the activities but... can we trust $MyPCName$? - Royal Guard Tory" />
+	<key id="343" name="They doubt your ability now, but they will all know someday. - Frey" />
+	<key id="344" name="$MyPCName$ can do it, right? - Royal Guard Luke" />
+	<key id="345" name="Empress, I don&apos;t know if we should trust your choice. - Minister Karl Vidrem" />
+	<key id="346" name="I heard $MyPCName$ has pretty good skills. - Royal Guard Moose " />
+	<key id="347" name="That person is stronger than us and can do anything. - Royal Guard Kenny" />
+	<key id="348" name="Don&apos;t you think $MyPCName$ is doing pretty good? - Royal Guard Kans" />
+	<key id="349" name="The atmosphere in Tria is getting better. I&apos;m starting to see smiles in the streets. - Napolie" />
+	<key id="350" name="Uh... $MyPCName$, can you give me your contact info? I want to be friends with you. - Shinby" />
+	<key id="351" name="I feel at ease seeing $MyPCName$ with the Royal Guard. - Tria Resident" />
+	<key id="352" name="I should somewhat acknowledge your activities. - Minister Karl Vidrem" />
+	<key id="353" name="Tria and Maple World are filled with light. It&apos;s all thanks to you. - Luanna" />
+	<key id="354" name="The farms around Tria are opening their doors again. It seems the food shortage is resolved. - Tria Resident" />
+	<key id="355" name="Hawkers are gathering in Tria again. - Tria Shopkeeper" />
+	<key id="356" name="$MyPCName$ can now become my right hand! - Royal Guard Leader Conder" />
+	<key id="357" name="$MyPCName$, now I know why Joddy idolized you. You are a true hero. - Frey" />
+	<key id="358" name="There are many requests by the citizens to put up a statue of $MyPCName$ in Tria. - Civil Complaint Officer" />
+	<key id="359" name="There was a request to include your combat methods in the Tria Guard&apos;s training field manual. - Royal Guard Training Captain" />
+	<key id="360" name="I want to hold an exhibition with portraits of $MyPCName$. - Schwanda" />
+	<key id="361" name="$MyPCName$, you are an idol to use Royal Guards. - Royal Guard Axe" />
+	<key id="362" name="There are many inquiries about books on $MyPCName$&apos;s activities. - Head Librarian Anne" />
+	<key id="363" name="I want to make the best gear for $MyPCName$ only! - Peachy" />
+	<key id="364" name="People want me to announce where they can see $MyPCName$. I&apos;m in a fix. - Napolie" />
+	<key id="365" name="I&apos;ll always deliver it first if the recipient is $MyPCName$! - Delivery Man Bogie" />
+	<key id="366" name="So it was you. There&apos;s so much talk about you in the future. - Time Traveler Andy" />
+	<key id="367" name="MC Kay want to hold a signing event for you. - OX Filming Manager" />
+	<key id="368" name="$MyPCName$: Maple World Children&apos;s Idol - The Tria Daily" />
+	<key id="369" name="$MyPCName$, why don&apos;t you open court?! - Codea" />
+</ms2>

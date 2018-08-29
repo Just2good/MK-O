@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="Basic" />
+	<key id="2" name="Green Meadow" />
+	<key id="3" name="Moonlit Forest" />
+	<key id="4" name="Rainbow Snowfield" />
+	<key id="5" name="Skyscraper" />
+	<key id="6" name="Blue Sea" />
+	<key id="7" name="Barren Mountains" />
+	<key id="8" name="Space" />
+	<key id="101" name="Basic" />
+	<key id="102" name="Natural Lighting" />
+	<key id="103" name="Warm Lighting" />
+	<key id="104" name="Cool Lighting" />
+	<key id="105" name="Dark Lighting" />
+	<key id="201" name="Quarter View (Default)" />
+	<key id="202" name="Side View" />
+	<key id="203" name="Top View" />
+</ms2>

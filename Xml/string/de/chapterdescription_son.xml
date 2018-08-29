@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <chapter id="2000" name="Auf der Suche nach neuem Land" isTutorial="" regionID="" />
+  <chapter id="2001" name="Ting, der kalte Elf" isTutorial="" regionID="" />
+  <chapter id="2002" name="Die verlorene Brille" isTutorial="" regionID="" />
+  <chapter id="2003" name="Die Verlorenen Perions" isTutorial="" regionID="" />
+  <chapter id="2004" name="Der Froschkönig" isTutorial="" regionID="" />
+  <chapter id="2005" name="Die Krankheit der Torties" isTutorial="" regionID="" />
+  <chapter id="2006" name="Boss: Projekt MK 52" isTutorial="" regionID="" />
+  <chapter id="2007" name="Boss: Stein der Weisheit" isTutorial="" regionID="" />
+  <chapter id="2008" name="Boss: Tristans Schicksal" isTutorial="" regionID="" />
+  <chapter id="2009" name="Eine Schoko-Kirsch-Freude" isTutorial="" regionID="" />
+  <chapter id="2010" name="Das Geschäft von $npcName:11001179$" isTutorial="" regionID="" />
+  <chapter id="2011" name="Die Ankündigung des Designerverbands" isTutorial="" regionID="" />
+  <chapter id="2012" name="Strahlender Segen" isTutorial="" regionID="" />
+  <chapter id="2013" name="CHAPTERDESCRIPTION_2013_NAME:[F]Timaion01" isTutorial="" regionID="" feature="Timaion01" />
+  <chapter id="2014" name="CHAPTERDESCRIPTION_2014_NAME:[F]Timaion01" isTutorial="" regionID="" feature="Timaion01" />
+  <chapter id="2015" name="CHAPTERDESCRIPTION_2015_NAME:[F]Timaion01" isTutorial="" regionID="" feature="Timaion01" />
+</ms2>

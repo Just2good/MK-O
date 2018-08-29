@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<season type="MapleSurvival" id="1" name="Pre-Season" feature="SurvivalContents03" />
+	<season type="MapleSurvival_Squad" id="1" name="Pre-Season" feature="SurvivalContents03" />
+	<season />
+</ms2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<Season seasonID="1" seasonName="# season 1" eventStart="2018-07-06-00-00-00" eventEnd="2018-08-03-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="2" seasonName="# season 2" eventStart="2018-08-03-00-00-00" eventEnd="2018-08-31-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="3" seasonName="# season 3" eventStart="2018-08-31-00-00-00" eventEnd="2018-09-28-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="4" seasonName="# season 4" eventStart="2018-09-28-00-00-00" eventEnd="2018-10-19-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="5" seasonName="# season 5" eventStart="2018-10-19-00-00-00" eventEnd="2018-11-16-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="6" seasonName="# season 6" eventStart="2018-11-16-00-00-00" eventEnd="2018-12-14-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="7" seasonName="# season 7" eventStart="2018-12-14-00-00-00" eventEnd="2019-01-11-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="8" seasonName="# season 8" eventStart="2018-08-31-00-00-00" eventEnd="2018-09-28-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="9" seasonName="# season 9" eventStart="2018-09-28-00-00-00" eventEnd="2018-10-19-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="10" seasonName="# season 10" eventStart="2018-10-19-00-00-00" eventEnd="2018-11-16-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+	<Season seasonID="11" seasonName="# season 11" eventStart="2018-11-16-00-00-00" eventEnd="2018-12-14-00-00-00" grade1="1000" grade2="1060" grade3="1300" grade4="1800" grade5="2200" grade6="2800" grade7="3700" />
+</ms2>

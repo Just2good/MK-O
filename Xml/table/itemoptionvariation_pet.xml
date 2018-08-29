@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<option name="papValue" idx0="1" idx1="2" idx2="4" idx3="6" idx4="8" idx5="9" idx6="10" idx7="12" idx8="14" idx9="16" />
+	<option name="mapValue" idx0="1" idx1="2" idx2="4" idx3="6" idx4="8" idx5="9" idx6="10" idx7="12" idx8="14" idx9="16" />
+	<option name="nddIncreaseRate" idx0="0.006" idx1="0.01" idx2="0.014" idx3="0.018" idx4="0.022" idx5="0.026" idx6="0.03" idx7="0.034" idx8="0.038" idx9="0.042" />
+	<option name="lddIncreaseRate" idx0="0.006" idx1="0.01" idx2="0.014" idx3="0.018" idx4="0.022" idx5="0.026" idx6="0.03" idx7="0.034" idx8="0.038" idx9="0.042" />
+	<option name="hpValue" idx0="17" idx1="34" idx2="51" idx3="68" idx4="85" idx5="102" idx6="119" idx7="136" idx8="153" idx9="170" />
+	<option name="parpenRate" idx0="0.005" idx1="0.01" idx2="0.015" idx3="0.02" idx4="0.025" idx5="0.03" idx6="0.035" idx7="0.04" idx8="0.045" idx9="0.05" />
+	<option name="marpenRate" idx0="0.005" idx1="0.01" idx2="0.015" idx3="0.02" idx4="0.025" idx5="0.03" idx6="0.035" idx7="0.04" idx8="0.045" idx9="0.05" />
+	<option name="atpValue" idx0="1" idx1="1" idx2="1" idx3="2" idx4="2" idx5="3" idx6="3" idx7="4" idx8="4" idx9="5" />
+	<option name="mspValue" idx0="1" idx1="1" idx2="1" idx3="2" idx4="2" idx5="3" idx6="3" idx7="4" idx8="4" idx9="5" />
+	<option name="aspValue" idx0="1" idx1="1" idx2="1" idx3="2" idx4="2" idx5="3" idx6="3" idx7="4" idx8="4" idx9="5" />
+	<option name="capValue" idx0="6" idx1="12" idx2="18" idx3="24" idx4="30" idx5="36" idx6="42" idx7="48" idx8="54" idx9="60" />
+	<option name="cadValue" idx0="18" idx1="36" idx2="54" idx3="72" idx4="90" idx5="108" idx6="126" idx7="144" idx8="162" idx9="180" />
+	<option name="finalAdditionalDamageRate" idx0="0.004" idx1="0.008" idx2="0.012" idx3="0.016" idx4="0.02" idx5="0.024" idx6="0.028" idx7="0.032" idx8="0.036" idx9="0.04" />
+	<option name="penRate" idx0="0.004" idx1="0.008" idx2="0.012" idx3="0.016" idx4="0.02" idx5="0.024" idx6="0.028" idx7="0.032" idx8="0.036" idx9="0.04" />
+</ms2>

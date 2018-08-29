@@ -1,0 +1,2357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="00000001" name="Attack" />
+	<key id="00000011" name="Jump Attack" />
+	<key id="00100001" name="Bludgeon Attack" />
+	<key id="00100002" name="Bludgeon 2-hit Attack" />
+	<key id="00100011" name="Bludgeon Jump Attack" />
+	<key id="00200001" name="Main Hand Sword Attack" />
+	<key id="00200002" name="Main Hand Sword 2-hit Attack" />
+	<key id="00200003" name="Main Hand Sword 3-hit Attack" />
+	<key id="00200011" name="Main Hand Sword Jump Attack" />
+	<key id="00300001" name="Two-handed Sword Attack" />
+	<key id="00300002" name="Two-handed Sword 2-hit Attack" />
+	<key id="00300003" name="Two-handed Sword 3-hit Attack" />
+	<key id="00300011" name="Two-handed Sword Jump Attack" />
+	<key id="00400001" name="Staff Attack" />
+	<key id="00400011" name="Staff Jump Attack" />
+	<key id="00500001" name="Scepter Attack" />
+	<key id="00500011" name="Scepter Jump Attack" />
+	<key id="00600001" name="Bow Attack" />
+	<key id="00600011" name="Bow Jump Attack" />
+	<key id="00700001" name="Cannon Attack" />
+	<key id="00700002" name="Cannon Attack Splash" />
+	<key id="00700011" name="Cannon Jump Attack" />
+	<key id="00700012" name="Cannon Jump Attack Splash" />
+	<key id="00800001" name="Dagger Attack" />
+	<key id="00800002" name="Dagger 2-hit Attack" />
+	<key id="00800011" name="Dagger Jump Attack" />
+	<key id="00800021" name="Dual Dagger Attack" />
+	<key id="00800022" name="Dual Dagger 2-hit Attack" />
+	<key id="00800023" name="Dual Dagger 3-hit Attack" />
+	<key id="00800024" name="Dual Dagger 4-hit Attack" />
+	<key id="00800031" name="Dual Dagger Jump Attack" />
+	<key id="00900001" name="Thrown Weapon Attack" />
+	<key id="00900011" name="Thrown Weapon Jump Attack" />
+	<key id="00900021" name="Dual Thrown Weapon Attack" />
+	<key id="00900022" name="Dual Thrown Weapon 2-hit Attack" />
+	<key id="00900031" name="Dual Thrown Weapon Jump Attack" />
+	<key id="01000001" name="Blade Attack" />
+	<key id="01000002" name="Blade 2-hit Attack" />
+	<key id="01000003" name="Blade Fire Attack" />
+	<key id="01000004" name="Blade 2-hit Fire Attack" />
+	<key id="01000005" name="Blade Ice Attack" />
+	<key id="01000006" name="Blade 2-hit Ice Attack" />
+	<key id="01000007" name="Blade Electric Attack" />
+	<key id="01000008" name="Blade 2-hit Electric Attack" />
+	<key id="01000011" name="Blade Jump Attack" />
+	<key id="01000012" name="Blade Jump Fire Attack" />
+	<key id="01000013" name="Blade Jump Ice Attack" />
+	<key id="01000014" name="Blade Jump Electric Attack" />
+	<key id="10000001" name="Hammer Blow" />
+	<key id="10000011" name="Power Strike" />
+	<key id="10000012" name="Power Strike Hit 2" />
+	<key id="10000013" name="Power Strike Hit 3" />
+	<key id="10000021" name="Snail Toss" />
+	<key id="10000022" name="Snail Toss Splash" />
+	<key id="10000031" name="Headbutt" />
+	<key id="10000041" name="Forward Roll" />
+	<key id="10000042" name="Forward Roll Chain" />
+	<key id="10000051" name="Second Wind" />
+	<key id="10000061" name="Versatility" />
+	<key id="10100001" name="Cross Cut" />
+	<key id="10100011" name="Tornado Slash" />
+	<key id="10100021" name="Divine Strike" />
+	<key id="10100031" name="Drill Thrust" />
+	<key id="10100041" name="Warhorn" />
+	<key id="10100051" name="Shield Wall" />
+	<key id="10100052" name="Shield Wall Splash" />
+	<key id="10100061" name="Iron Defense" />
+	<key id="10100062" name="Cancel Iron Defense" />
+	<key id="10100071" name="Shield Toss" />
+	<key id="10100081" name="Bulwark" />
+	<key id="10100082" name="Bulwark Splash" />
+	<key id="10100091" name="Shield Charge" />
+	<key id="10100101" name="Defender of the Faith" />
+	<key id="10100102" name="Defender of Faith Splash" />
+	<key id="10100111" name="Longsword Mastery" />
+	<key id="10100121" name="Shield Mastery" />
+	<key id="10100131" name="Typhoon Slash" />
+	<key id="10100141" name="Stinging Flurry" />
+	<key id="10100142" name="Stinging Flurry Hit 2" />
+	<key id="10100151" name="Iron Shield" />
+	<key id="10100161" name="Shield Booster" />
+	<key id="10200001" name="Raging Slash" />
+	<key id="10200002" name="Raging Slash Hit 2" />
+	<key id="10200003" name="Raging Slash Hit 3" />
+	<key id="10200004" name="Raging Slash Hit 4" />
+	<key id="10200005" name="Raging Slash Hit 5" />
+	<key id="10200011" name="Death Spin" />
+	<key id="10200012" name="Death Spin Hit 2" />
+	<key id="10200013" name="Death Spin Hit 3" />
+	<key id="10200014" name="Death Spin Hit 4" />
+	<key id="10200015" name="Death Spin Hit 5" />
+	<key id="10200021" name="Ground Breaker" />
+	<key id="10200031" name="Dark Aura" />
+	<key id="10200041" name="Void Slash" />
+	<key id="10200042" name="Void Slash Hit 2" />
+	<key id="10200051" name="Bloodlust" />
+	<key id="10200061" name="Intimidation" />
+	<key id="10200062" name="Intimidation Improved" />
+	<key id="10200063" name="Intimidation Stun" />
+	<key id="10200071" name="Dark Breaker" />
+	<key id="10200072" name="Dark Breaker Splash" />
+	<key id="10200081" name="Adrenaline Rush" />
+	<key id="10200082" name="Adrenaline Rush 2" />
+	<key id="10200083" name="Adrenaline Rush 3" />
+	<key id="10200091" name="X Slash" />
+	<key id="10200101" name="Inhuman Endurance" />
+	<key id="10200111" name="Deep Wounds" />
+	<key id="10200112" name="Deep Wounds Activation" />
+	<key id="10200121" name="Greatsword Mastery" />
+	<key id="10200131" name="Dark Might" />
+	<key id="10200141" name="Blood Price" />
+	<key id="10200151" name="Warrior&apos;s Instinct" />
+	<key id="10200161" name="Earthquake" />
+	<key id="10200162" name="Earthquake Splash" />
+	<key id="10300001" name="Phantom Claw" />
+	<key id="10300011" name="Flame Tornado" />
+	<key id="10300012" name="Flame Tornado Splash" />
+	<key id="10300021" name="Flame Wave" />
+	<key id="10300031" name="Chain Lightning" />
+	<key id="10300041" name="Arcane Blast" />
+	<key id="10300042" name="Arcane Blast Splash" />
+	<key id="10300051" name="Ice Spear" />
+	<key id="10300052" name="Ice Spear Splash" />
+	<key id="10300061" name="Mana Font" />
+	<key id="10300071" name="Thunderbolt" />
+	<key id="10300081" name="Teleport" />
+	<key id="10300091" name="Focus Seal" />
+	<key id="10300092" name="Focus Seal Splash" />
+	<key id="10300101" name="Pyromancy" />
+	<key id="10300111" name="Cryomancy" />
+	<key id="10300121" name="Electromancy" />
+	<key id="10300131" name="Magic Armor" />
+	<key id="10300132" name="Magic Armor Activation" />
+	<key id="10300141" name="Ice Storm" />
+	<key id="10300142" name="Ice Storm Splash" />
+	<key id="10300151" name="Elemental Master" />
+	<key id="10300161" name="Mana Claw" />
+	<key id="10400001" name="Celestial Light" />
+	<key id="10400011" name="Holy Blast" />
+	<key id="10400012" name="Holy Blast Splash" />
+	<key id="10400013" name="Holy Blast EX" />
+	<key id="10400014" name="Holy Blast EX Splash" />
+	<key id="10400021" name="Scepter Mastery" />
+	<key id="10400022" name="Angelic Ray EX" />
+	<key id="10400031" name="Holy Relic" />
+	<key id="10400032" name="Holy Relic Splash" />
+	<key id="10400041" name="Shield of the Archon" />
+	<key id="10400042" name="Shield of the Archon Splash" />
+	<key id="10400051" name="Holy Symbol" />
+	<key id="10400052" name="Holy Symbol Splash" />
+	<key id="10400061" name="Sanctuary" />
+	<key id="10400071" name="Healing Prayer" />
+	<key id="10400081" name="Celestial Guardian" />
+	<key id="10400091" name="Celestial Blessings" />
+	<key id="10400092" name="Celestial Guardian Dismiss" />
+	<key id="10400101" name="Scourging Wave" />
+	<key id="10400102" name="Scourging Wave EX" />
+	<key id="10400111" name="Steadfast Faith" />
+	<key id="10400121" name="Smiting Aura" />
+	<key id="10400131" name="Disciple" />
+	<key id="10400141" name="Healing Mastery" />
+	<key id="10400151" name="Heavenly Wings" />
+	<key id="10400161" name="Angelic Ray" />
+	<key id="10500001" name="Arrow Stream" />
+	<key id="10500002" name="Arrow Stream Aerial" />
+	<key id="10500011" name="Arrow Barrage" />
+	<key id="10500012" name="Arrow Barrage Hit 2" />
+	<key id="10500013" name="Arrow Barrage Hit 3" />
+	<key id="10500021" name="Rapid Shot" />
+	<key id="10500022" name="Rapid Shot Hit 2" />
+	<key id="10500031" name="Ice Arrow" />
+	<key id="10500041" name="Evasive Salvo" />
+	<key id="10500051" name="Bow Swing" />
+	<key id="10500061" name="Sharp Eyes" />
+	<key id="10500071" name="Bronze Eagle" />
+	<key id="10500072" name="Bronze Eagle Activation" />
+	<key id="10500081" name="Eagle Claw" />
+	<key id="10500091" name="Eagle&apos;s Majesty" />
+	<key id="10500092" name="Eagle&apos;s Majesty Activation" />
+	<key id="10500101" name="Arrow Storm" />
+	<key id="10500102" name="Arrow Storm Tier 2" />
+	<key id="10500103" name="Arrow Storm Splash" />
+	<key id="10500104" name="Arrow Storm Splash 2" />
+	<key id="10500105" name="Arrow Storm Splash 3" />
+	<key id="10500106" name="Arrow Storm Splash 4" />
+	<key id="10500111" name="Snipe" />
+	<key id="10500121" name="Conditioning" />
+	<key id="10500131" name="Agile Archer" />
+	<key id="10500141" name="Screwdriver Shot" />
+	<key id="10500144" name="Screwdriver Shot" />
+	<key id="10500142" name="Screwdriver Shot Tier 2" />
+	<key id="10500143" name="Screwdriver Shot Tier 3" />
+	<key id="10500151" name="Eagle Glide" />
+	<key id="10500161" name="Precision Shooter" />
+	<key id="10600001" name="Gatling Fire" />
+	<key id="10600002" name="Gatling Fire Hit 2" />
+	<key id="10600003" name="Gatling Fire Hit 3" />
+	<key id="10600011" name="Rocket Launcher" />
+	<key id="10600012" name="Rocket Launcher Splash" />
+	<key id="10600013" name="Rocket Launcher Splash 2" />
+	<key id="10600021" name="Lock-on" />
+	<key id="10600031" name="Homing Missiles" />
+	<key id="10600041" name="Electric Blast" />
+	<key id="10600042" name="Electric Blast Tier 2" />
+	<key id="10600043" name="Electric Blast Tier 3" />
+	<key id="10600044" name="Rapid-fire Electric Blast" />
+	<key id="10600051" name="Stun Grenades" />
+	<key id="10600052" name="Stun Grenades Splash" />
+	<key id="10600061" name="Magnetic Bomb" />
+	<key id="10600062" name="Magnetic Bomb Splash" />
+	<key id="10600071" name="Reload" />
+	<key id="10600081" name="Jet Boots" />
+	<key id="10600091" name="Med Kit" />
+	<key id="10600092" name="Med Kit Splash" />
+	<key id="10600101" name="Bullet Spray" />
+	<key id="10600102" name="Bullet Spray Hit 2" />
+	<key id="10600111" name="Advanced Bullets" />
+	<key id="10600121" name="M-Bomb" />
+	<key id="10600122" name="M-Bomb Splash" />
+	<key id="10600123" name="M-Bomb Splash 2" />
+	<key id="10600131" name="Suborbital Bombardment" />
+	<key id="10600132" name="Suborbital Bombardment Splash" />
+	<key id="10600133" name="Suborbital Bombardment Splash Activation" />
+	<key id="10600134" name="Suborbital Bombardment Additional Activation" />
+	<key id="10600141" name="Advanced Missiles" />
+	<key id="10600151" name="Advanced Pulse Weapons" />
+	<key id="10600161" name="Blast Charge Kit" />
+	<key id="10700001" name="Double Slash" />
+	<key id="10700002" name="Double Slash Activation" />
+	<key id="10700011" name="Poison Edge" />
+	<key id="10700012" name="Poison Edge Hit 2" />
+	<key id="10700013" name="Poison Edge Hit 3" />
+	<key id="10700014" name="Poison Edge Hit 4" />
+	<key id="10700015" name="Poison Edge Hit 5" />
+	<key id="10700016" name="Poison Edge EX" />
+	<key id="10700017" name="Poison Edge Hit 2 EX" />
+	<key id="10700018" name="Poison Edge Hit 3 EX" />
+	<key id="10700019" name="Poison Edge Hit 4 EX" />
+	<key id="10700020" name="Poison Edge Hit 5 EX" />
+	<key id="10700021" name="Vicious Cuts" />
+	<key id="10700022" name="Vicious Cuts EX" />
+	<key id="10700031" name="Blade Dance" />
+	<key id="10700032" name="Blade Dance EX" />
+	<key id="10700041" name="Mind Stealer" />
+	<key id="10700042" name="Mind Stealer EX" />
+	<key id="10700051" name="Somersault Kick" />
+	<key id="10700052" name="Somersault Kick EX" />
+	<key id="10700061" name="Spirit Thief" />
+	<key id="10700071" name="Deft Combatant" />
+	<key id="10700081" name="Haste" />
+	<key id="10700091" name="Surprise Attack" />
+	<key id="10700092" name="Surprise Attack EX" />
+	<key id="10700093" name="Surprise Attack EX" />
+	<key id="10700101" name="Retaliation" />
+	<key id="10700102" name="Retaliation Activation" />
+	<key id="10700111" name="Poison Vial" />
+	<key id="10700112" name="Poison Vial Splash" />
+	<key id="10700121" name="Mind Breaker" />
+	<key id="10700131" name="Quick Step" />
+	<key id="10700141" name="Cunning Tactics" />
+	<key id="10700151" name="Ruthless Guile" />
+	<key id="10700161" name="Mesoguard Plus" />
+	<key id="10700162" name="Mesoguard Plus EX" />
+	<key id="10800001" name="Lucky Stars" />
+	<key id="10800011" name="Shadow Cutter" />
+	<key id="10800021" name="Fragmented Star" />
+	<key id="10800022" name="Fragmented Star Splash" />
+	<key id="10800031" name="Shadow Burst" />
+	<key id="10800041" name="Fatal Strikes" />
+	<key id="10800051" name="Dark Cloak" />
+	<key id="10800052" name="Dark Cloak Splash" />
+	<key id="10800053" name="Dark Cloak Stun" />
+	<key id="10800061" name="Shadow Web" />
+	<key id="10800062" name="Shadow Web Splash" />
+	<key id="10800071" name="Dash" />
+	<key id="10800081" name="Shadow Chaser" />
+	<key id="10800091" name="Mark of Death" />
+	<key id="10800092" name="Mark of Death Activation" />
+	<key id="10800101" name="Star Flurry" />
+	<key id="10800111" name="Thrown Weapon Mastery" />
+	<key id="10800121" name="Star Chaser" />
+	<key id="10800131" name="Death Sentence" />
+	<key id="10800141" name="Soul Grind" />
+	<key id="10800142" name="Soul Grind Splash" />
+	<key id="10800151" name="Shadow Arts" />
+	<key id="10800161" name="Mirror Image: Dark Blade" />
+	<key id="10900001" name="Flame Sigil" />
+	<key id="10900011" name="Frost Sigil" />
+	<key id="10900021" name="Thunder Sigil" />
+	<key id="10900031" name="Triple Cut" />
+	<key id="10900032" name="Flame Triple Cut" />
+	<key id="10900033" name="Frost Triple Cut" />
+	<key id="10900034" name="Thunder Triple Cut" />
+	<key id="10900041" name="Rune Control" />
+	<key id="10900051" name="Blink" />
+	<key id="10900061" name="Triple Splitter" />
+	<key id="10900062" name="Flame Triple Splitter" />
+	<key id="10900063" name="Frost Triple Splitter" />
+	<key id="10900064" name="Frost Triple Splitter Splash" />
+	<key id="10900065" name="Thunder Triple Splitter" />
+	<key id="10900071" name="Arcane Impact" />
+	<key id="10900072" name="Flame Arcane Impact" />
+	<key id="10900073" name="Flame Arcane Impact Splash" />
+	<key id="10900074" name="Frost Arcane Impact" />
+	<key id="10900075" name="Frost Arcane Impact Splash" />
+	<key id="10900076" name="Thunder Arcane Impact" />
+	<key id="10900077" name="Thunder Arcane Impact Splash" />
+	<key id="10900078" name="Thunder Arcane Impact Splash 2" />
+	<key id="10900081" name="Gravity Rune" />
+	<key id="10900082" name="Gravity Rune Splash" />
+	<key id="10900091" name="Runic Shield" />
+	<key id="10900092" name="Flame Runic Shield" />
+	<key id="10900093" name="Flame Runic Shield Splash" />
+	<key id="10900094" name="Frost Runic Shield" />
+	<key id="10900095" name="Thunder Runic Shield" />
+	<key id="10900096" name="Thunder Runic Shield Splash" />
+	<key id="10900097" name="Thunder Runic Shield Splash 2" />
+	<key id="10900101" name="Earth Splitter" />
+	<key id="10900102" name="Earth Splitter Splash" />
+	<key id="10900103" name="Flame Earth Splitter" />
+	<key id="10900104" name="Flame Earth Splitter Splash" />
+	<key id="10900105" name="Frost Earth Splitter" />
+	<key id="10900106" name="Frost Earth Splitter Splash" />
+	<key id="10900107" name="Thunder Earth Splitter" />
+	<key id="10900108" name="Thunder Earth Splitter Splash" />
+	<key id="10900111" name="Illusory Blades" />
+	<key id="10900112" name="Illusory Blades Splash" />
+	<key id="10900121" name="Runes Unleashed" />
+	<key id="10900131" name="Abounding Rune" />
+	<key id="10900141" name="Blade Mastery" />
+	<key id="10900151" name="Infinity Cut" />
+	<key id="10900152" name="Infinity Cut Splash" />
+	<key id="10900153" name=" Flame Infinity Cut" />
+	<key id="10900154" name="Flame Infinity Cut Splash" />
+	<key id="10900155" name="Frost Infinity Cut" />
+	<key id="10900156" name="Frost Infinity Cut Splash" />
+	<key id="10900157" name="Thunder Infinity Cut" />
+	<key id="10900158" name="Thunder Infinity Cut Splash" />
+	<key id="10900161" name="Rune Square" />
+	<key id="19900001" name="GM&apos;s Judgment" />
+	<key id="19900011" name="High Speed Flying" />
+	<key id="19900021" name="Raise the Spoon" />
+	<key id="19900031" name="GM Love" />
+	<key id="19900032" name="GM Love Splash" />
+	<key id="19900041" name="GM Cheer" />
+	<key id="19900042" name="GM Cheer Splash" />
+	<key id="19900051" name="GM Fuss" />
+	<key id="19900052" name="GM Fuss Splash" />
+	<key id="19900061" name="GM Strike" />
+	<key id="19999991" name="Camera Filming" />
+	<key id="20000001" name="Swift Swim" />
+	<key id="20000011" name="Wall Climbing" />
+	<key id="20000021" name="Flying Balloon" />
+	<key id="20000031" name="Grab" />
+	<key id="20000041" name="Eagle Familiar" />
+	<key id="20000051" name="Heavenbound Hog" />
+	<key id="20000061" name="Second Wind" />
+	<key id="20000071" name="Brilliant Bulb" />
+	<key id="20000081" name="Alien Menace" />
+	<key id="20000091" name="Booster Missile" />
+	<key id="20000101" name="Titan Rocket" />
+	<key id="20000111" name="Paper Airplane" />
+	<key id="20000121" name="Drone" />
+	<key id="20000131" name="Snowflake" />
+	<key id="20000141" name="Levitation Sigil" />
+	<key id="20000151" name="Duckling Balloons" />
+	<key id="20000161" name="Flying Slime" />
+	<key id="20000171" name="Flying Maple Leaf" />
+	<key id="40000001" name="Headbutt" />
+	<key id="40001001" name="Rushing Headbutt" />
+	<key id="40002001" name="Leaf Throw" />
+	<key id="40003001" name="Headbutt" />
+	<key id="40003011" name="Rushing Headbutt" />
+	<key id="40004001" name="Headbutt" />
+	<key id="40005001" name="Headbutt" />
+	<key id="40005011" name="Release Poison Powder" />
+	<key id="40006001" name="Headbutt" />
+	<key id="40006011" name="Release Confusion Powder" />
+	<key id="40007001" name="Headbutt" />
+	<key id="40007011" name="Release Paralysis Powder" />
+	<key id="40008001" name="Jumping Slam Down" />
+	<key id="40008011" name="Rolling Attack" />
+	<key id="40009001" name="Jumping Slam Down" />
+	<key id="40009011" name="Thorn Thrust" />
+	<key id="40010001" name="Vine Sting Hit 3" />
+	<key id="40010002" name="Vine Sting Hit 3 Splash" />
+	<key id="40010011" name="Cross Vine Sting" />
+	<key id="40010012" name="Cross Vine Sting Splash" />
+	<key id="40011001" name="Vine Wave" />
+	<key id="40011002" name="Vine Splash" />
+	<key id="40011011" name="Vine Prison" />
+	<key id="40011012" name="Vine Prison Splash" />
+	<key id="40011021" name="Release Poison Cloud" />
+	<key id="59000001" name="Honk" />
+	<key id="59000002" name="Accelerator" />
+	<key id="59000003" name="High Beam" />
+	<key id="59000004" name="Tamed Ducky" />
+	<key id="59000005" name="Tamed Lycao" />
+	<key id="59000006" name="Tamed Blue Ryko" />
+	<key id="59000007" name="Tamed Cerbe" />
+	<key id="59000008" name="Tamed Birk" />
+	<key id="59000009" name="Tamed Dueling Birk" />
+	<key id="59000010" name="Tamed Ryko" />
+	<key id="59000011" name="Tamed Red Ryko" />
+	<key id="59000012" name="Tamed Curse Eye" />
+	<key id="59000013" name="Tamed Evil Eye" />
+	<key id="59000014" name="Tamed Lava Eye" />
+	<key id="59000015" name="Tamed Broccoli Turtle" />
+	<key id="59000016" name="Tamed Dark Broccoli Turtle" />
+	<key id="59000017" name="Tamed Red Lotus Turtle" />
+	<key id="59000018" name="Tamed Yellow Lotus Turtle" />
+	<key id="59000019" name="Tamed Hylicao" />
+	<key id="60012001" name="Hammer Slam Down" />
+	<key id="60012011" name="Hammer Slam Down (Move)" />
+	<key id="60012021" name="Strike up with Hammer" />
+	<key id="60012031" name="Dash Strike up with Hammer" />
+	<key id="60012041" name="Poison Hammer Slam Down" />
+	<key id="60012051" name="Throw Toxic Substance" />
+	<key id="60012052" name="Throw Toxic Substance Splash" />
+	<key id="60012061" name="Throw Enhanced Toxic Substance" />
+	<key id="70000001" name="Thorn" />
+	<key id="70000002" name="Lava" />
+	<key id="70000003" name="Pincer Attack" />
+	<key id="70000004" name="Lava Stack Damage" />
+	<key id="70000005" name="Attack Down" />
+	<key id="70000006" name="Attack Down" />
+	<key id="70000007" />
+	<key id="70000008" name="Movement Speed Up" />
+	<key id="70000009" name="Decreases movement speed." />
+	<key id="70000010" name="Toxic Swamp" />
+	<key id="70000011" name="Steam Pit" />
+	<key id="70000012" name="Steam Pit Wall" />
+	<key id="70000013" name="Steam Pit Wall 2" />
+	<key id="70000014" name="Geyser" />
+	<key id="70000015" name="Iron Skewer" />
+	<key id="70000016" name="Wooden Skewer" />
+	<key id="70000017" name="Shadow Poison" />
+	<key id="70000018" name="Regenerate" />
+	<key id="70000019" name="Blessing of Ereve" />
+	<key id="70000020" name="Blessing of Puzroon" />
+	<key id="70000021" name="Shadow Poison" />
+	<key id="70000022" name="G-star Mini-game Steam" />
+	<key id="70000023" name="Decreases movement speed." />
+	<key id="70000025" name="Nullify Stamina" />
+	<key id="70000027" name="Toxic Swamp (Toh and Googoo)" />
+	<key id="70000028" name="Shadow Domination" />
+	<key id="70000029" name="Lapenta Aegis" />
+	<key id="70000030" name="Well Rested" />
+	<key id="70000031" name="Shadow Power (Gain Full Health)" />
+	<key id="70000032" name="Safe Travels" />
+	<key id="70000034" name="Red Wolf&apos;s Valor" />
+	<key id="70000035" name="Activate Red Wolf&apos;s Valor" />
+	<key id="70000036" name="Wisdom of Namid" />
+	<key id="70000037" name="Activate Wisdom of Namid" />
+	<key id="70000038" name="Blessing of Kumbawanka" />
+	<key id="70000039" name="Activate Blessing of Kumbawanka" />
+	<key id="70000040" name="Enhanced Geyser" />
+	<key id="70000041" name="Vengeance" />
+	<key id="70000042" name="Electric AoE" />
+	<key id="70000043" name="Party Dungeon Bomb" />
+	<key id="70000045" name="Dimensional Chaos" />
+	<key id="70000046" name="Toxic Swamp (Toh and Googoo)" />
+	<key id="70000047" name="Plant Bomb &amp; Remove Poisoned Status (Lo and Moomoo)" />
+	<key id="70000048" name="Display Effect of Lo and Moomoo Recovery Spring" />
+	<key id="70000049" name="Remove Frozen State (Shoo and Googoo)" />
+	<key id="70000050" name="Display Effect of Shoo and Googoo Recovery Fire" />
+	<key id="70000051" name="Bella&apos;s Flame" />
+	<key id="70000058" name="Wind of Life" />
+	<key id="70000113" name="Burning Breath" />
+	<key id="70000114" name="Snowfield&apos;s Intense Cold" />
+	<key id="70000136" name="Bleed" />
+	<key id="70000137" name="Bleed" />
+	<key id="70000138" name="Bleed" />
+	<key id="70000139" name="Bleed" />
+	<key id="70000140" name="Bleed" />
+	<key id="70000201" name="Thornbush" />
+	<key id="70000202" name="Thornbush" />
+	<key id="70000203" name="Thornbush" />
+	<key id="70000204" name="Thornbush" />
+	<key id="70000211" name="Thornbush" />
+	<key id="70000212" name="Thornbush" />
+	<key id="70000213" name="Thornbush" />
+	<key id="70000214" name="Thornbush" />
+	<key id="70000301" name="Poisonous Swamp" />
+	<key id="80000002" name="Tamed Lycao" />
+	<key id="80000003" name="Tamed Lightning Wolf" />
+	<key id="80000004" name="Merrari 458 Tria (Red)" />
+	<key id="80000005" name="Tamed Cerbe" />
+	<key id="80000006" name="Tamed Birk" />
+	<key id="80000007" name="Tamed Dueling Birk" />
+	<key id="80000008" name="Merrari 458 Tria (White)" />
+	<key id="80000009" name="Merrari 458 Tria (Black)" />
+	<key id="90000001" name="Red Potion" />
+	<key id="90000002" name="Green Milk" />
+	<key id="90000003" name="Red Milk" />
+	<key id="90000004" name="Instantly Recover Mana" />
+	<key id="90000005" name="Instantly Recover Health/Mana" />
+	<key id="90000006" name="Barbecue" />
+	<key id="90000007" name="Fairy Cookie" />
+	<key id="90000008" name="Sweet Honey" />
+	<key id="90000009" name="Energy Drink" />
+	<key id="90000010" name="Lv. 1 Elixir" />
+	<key id="90000011" name="Orange Potion" />
+	<key id="90000012" name="White Potion" />
+	<key id="90000013" name="Boiling Lava" />
+	<key id="90000014" name="Health % Recovery" />
+	<key id="90000015" name="Lv. 2 Elixir" />
+	<key id="90000016" name="Lv. 3 Elixir" />
+	<key id="90000017" name="Lv. 4 Elixir" />
+	<key id="90000018" name="Lv. 5 Elixir" />
+	<key id="90000019" name="Powerful White Potion" />
+	<key id="90000020" name="Super Powerful White Potion" />
+	<key id="90000021" name="Super Duper Powerful White Potion" />
+	<key id="90000022" name="Turtle Egg" />
+	<key id="90000023" name="Combat Rations" />
+	<key id="90000024" name="Dubi Gummies" />
+	<key id="90000025" name="Glutamine Tablet" />
+	<key id="90000026" name="Warrior Tonic" />
+	<key id="90000027" name="Magic Tonic" />
+	<key id="90000028" name="Health Tonic" />
+	<key id="90000029" name="Experience Tonic" />
+	<key id="90000031" name="Lv. 1 Instant Recovery Potion" />
+	<key id="90000032" name="Lv. 10 Instant Recovery Potion" />
+	<key id="90000033" name="Lv. 20 Instant Recovery Potion" />
+	<key id="90000034" name="Lv. 30 Instant Recovery Potion" />
+	<key id="90000035" name="Lv. 40 Instant Recovery Potion" />
+	<key id="90000036" name="Lv. 45 Instant Recovery Potion" />
+	<key id="90000037" name="Lv. 50 Instant Recovery Potion" />
+	<key id="90000038" name="Lv. 1 Gradual Recovery Potion" />
+	<key id="90000039" name="Lv. 10 Gradual Recovery Potion" />
+	<key id="90000040" name="Lv. 20 Gradual Recovery Potion" />
+	<key id="90000041" name="Lv. 30 Gradual Recovery Potion" />
+	<key id="90000042" name="Lv. 40 Gradual Recovery Potion" />
+	<key id="90000043" name="Lv. 45 Gradual Recovery Potion" />
+	<key id="90000044" name="Lv. 50 Gradual Recovery Potion" />
+	<key id="90000046" name="Strawberry Punch" />
+	<key id="90000047" name="Rainbow Shake" />
+	<key id="90000048" name="Orange Cooler" />
+	<key id="90000049" name="Strawberry Knock-out" />
+	<key id="90000050" name="High Flyer" />
+	<key id="90000051" name="Milk" />
+	<key id="90000052" name="Egg" />
+	<key id="90000053" name="Pot of Honey" />
+	<key id="90000054" name="Golden Apple" />
+	<key id="90000055" name="Blue Mushroom" />
+	<key id="90000056" name="Baba Powder" />
+	<key id="90000057" name="Abyssal DNA" />
+	<key id="90000058" name="Unprocessed Sample" />
+	<key id="90000059" name="Mutated DNA" />
+	<key id="90000060" name="Experimental Potion" />
+	<key id="90000061" name="Concrete Powder" />
+	<key id="90000062" name="Sweet Leaf" />
+	<key id="90000063" name="Lava Eye Tail" />
+	<key id="90000064" name="Evil Eye Poop" />
+	<key id="90000065" name="Slime Glob" />
+	<key id="90000066" name="Captured Stone Crabby" />
+	<key id="90000067" name="Mandecasil" />
+	<key id="90000068" name="Ripe Valley Enoki" />
+	<key id="90000069" name="Rotten Valley Enoki" />
+	<key id="90000070" name="Fairy Dew" />
+	<key id="90000071" name="Red Daisy" />
+	<key id="90000072" name="Clam Meat" />
+	<key id="90000073" name="Fresh Chicken" />
+	<key id="90000074" name="Fast-gro" />
+	<key id="90000075" name="Springy Ramen" />
+	<key id="90000076" name="Plump Chicken" />
+	<key id="90000077" name="Squid Peanut" />
+	<key id="90000078" name="Fireworks" />
+	<key id="90000079" name="Experience Booster +50%" />
+	<key id="90000080" name="Superb Experience Booster +50%" />
+	<key id="90000081" name="Experience Booster +100%" />
+	<key id="90000082" name="Superb Experience Booster +100%" />
+	<key id="90000083" name="Experience Booster +200%" />
+	<key id="90000084" name="Superb Experience Booster +200%" />
+	<key id="90000085" name="Giant Lava Eye Tail" />
+	<key id="90000086" name="Spoiled Milk" />
+	<key id="90000087" name="Multigrain Bread" />
+	<key id="90000088" name="Green Herb" />
+	<key id="90000089" name="Green Potion" />
+	<key id="90000090" name="Invisibility Potion" />
+	<key id="90000091" name="Stun Grenade" />
+	<key id="90000092" />
+	<key id="90000093" name="Baba Fruit" />
+	<key id="90000094" name="Torn Shadow" />
+	<key id="90000121" name="Snowflake Fireworks" />
+	<key id="90000122" name="Pink Petal Fireworks" />
+	<key id="90000123" name="Premium Fireworks" />
+	<key id="90000124" name="Heart Fireworks" />
+	<key id="90000125" name="Bat Tracks" />
+	<key id="90000126" name="Star Tracks" />
+	<key id="90000127" name="Petal Tracks" />
+	<key id="90000128" name="Starry Fireworks" />
+	<key id="90000180" name="Mano&apos;s Mesmerizing Flower" />
+	<key id="90000190" name="Bitter Pill" />
+	<key id="90000191" name="Heart Starter" />
+	<key id="90000193" name="Golden Dungeon Key" />
+	<key id="90000262" name="Worm Lure" />
+	<key id="90000263" name="Fresh Bait" />
+	<key id="90000264" name="Fancy Bait" />
+	<key id="90000265" name="Shiny Bait" />
+	<key id="90000266" name="Tasty Bait" />
+	<key id="90000267" name="Big Worm Lure" />
+	<key id="90000268" name="Striped Worm" />
+	<key id="90000269" name="Luminous Lure" />
+	<key id="90000270" name="Fire Worm Lure" />
+	<key id="90000271" name="Devil Spider" />
+	<key id="90000331" name="Maple Rice Cake " />
+	<key id="90000332" name="Maple Rice Cake 2" />
+	<key id="90000333" name="Maple Rice Cake 3" />
+	<key id="90000334" name="Maple Rice Cake 4" />
+	<key id="90000335" name="Tainted Maple Rice Cake" />
+	<key id="90000339" name="Experience Booster +100%" />
+	<key id="90000341" name="Experience Booster +200%" />
+	<key id="90000343" name="Mining Production Buff Tool (Guide Quest)" feature="Mastery" />
+	<key id="90000344" name="Mining Production Buff Tool 1" feature="Mastery" />
+	<key id="90000345" name="Mining Production Buff Tool 2" feature="Mastery" />
+	<key id="90000346" name="Mining Production Buff Tool 3" feature="Mastery" />
+	<key id="90000347" name="Mining Production Buff Tool 4" feature="Mastery" />
+	<key id="90000348" name="Mining Production Buff Tool 5" feature="Mastery" />
+	<key id="90000349" name="Mining Production Buff Tool 6" feature="Mastery" />
+	<key id="90000350" name="Ranching Production Buff Tool (Guide Quest)" feature="Mastery" />
+	<key id="90000351" name="Ranching Production Buff Tool 1" feature="Mastery" />
+	<key id="90000352" name="Ranching Production Buff Tool 2" feature="Mastery" />
+	<key id="90000353" name="Ranching Production Buff Tool 3" feature="Mastery" />
+	<key id="90000354" name="Ranching Production Buff Tool 4" feature="Mastery" />
+	<key id="90000355" name="Ranching Production Buff Tool 5" feature="Mastery" />
+	<key id="90000356" name="Ranching Production Buff Tool 6" feature="Mastery" />
+	<key id="90000357" name="Mining Production Tool 1" feature="Mastery" />
+	<key id="90000358" name="Mining Production Tool 2" feature="Mastery" />
+	<key id="90000359" name="Mining Production Tool 3" feature="Mastery" />
+	<key id="90000360" name="Mining Production Tool 4" feature="Mastery" />
+	<key id="90000361" name="Mining Production Tool 5" feature="Mastery" />
+	<key id="90000362" name="Mining Production Tool 6" feature="Mastery" />
+	<key id="90000363" name="Ranching Production Tool 1" feature="Mastery" />
+	<key id="90000364" name="Ranching Production Tool 2" feature="Mastery" />
+	<key id="90000365" name="Ranching Production Tool 3" feature="Mastery" />
+	<key id="90000366" name="Ranching Production Tool 4" feature="Mastery" />
+	<key id="90000367" name="Ranching Production Tool 5" feature="Mastery" />
+	<key id="90000368" name="Ranching Production Tool 6" feature="Mastery" />
+	<key id="90000369" name="Smithing Production Tool 1" feature="Mastery" />
+	<key id="90000370" name="Smithing Production Tool 2" feature="Mastery" />
+	<key id="90000371" name="Smithing Production Tool 3" feature="Mastery" />
+	<key id="90000372" name="Smithing Production Tool 4" feature="Mastery" />
+	<key id="90000373" name="Smithing Production Tool 5" feature="Mastery" />
+	<key id="90000374" name="Smithing Production Tool 6" feature="Mastery" />
+	<key id="90000375" name="Handicraft Production Tool 1" feature="Mastery" />
+	<key id="90000376" name="Handicraft Production Tool 2" feature="Mastery" />
+	<key id="90000377" name="Handicraft Production Tool 3" feature="Mastery" />
+	<key id="90000378" name="Handicraft Production Tool 4" feature="Mastery" />
+	<key id="90000379" name="Handicraft Production Tool 5" feature="Mastery" />
+	<key id="90000380" name="Handicraft Production Tool 6" feature="Mastery" />
+	<key id="90000381" name="Smithing Mastery Buff Tool 1" feature="Mastery" />
+	<key id="90000382" name="Smithing Mastery Buff Tool 2" feature="Mastery" />
+	<key id="90000383" name="Smithing Mastery Buff Tool 3" feature="Mastery" />
+	<key id="90000384" name="Smithing Mastery Buff Tool 4" feature="Mastery" />
+	<key id="90000385" name="Smithing Mastery Buff Tool 5" feature="Mastery" />
+	<key id="90000386" name="Smithing Mastery Buff Tool 6" feature="Mastery" />
+	<key id="90000387" name="Handicraft Mastery Buff Tool 1" feature="Mastery" />
+	<key id="90000388" name="Handicraft Mastery Buff Tool 2" feature="Mastery" />
+	<key id="90000389" name="Handicraft Mastery Buff Tool 3" feature="Mastery" />
+	<key id="90000390" name="Handicraft Mastery Buff Tool 4" feature="Mastery" />
+	<key id="90000391" name="Handicraft Mastery Buff Tool 5" feature="Mastery" />
+	<key id="90000392" name="Handicraft Mastery Buff Tool 6" feature="Mastery" />
+	<key id="90000394" name="Tin Whetstone" feature="Mastery" />
+	<key id="90000395" name="Platinum Whetstone" feature="Mastery" />
+	<key id="90000396" name="Snail Shell Compound" feature="Mastery" />
+	<key id="90000397" name="Fox Tail Compound" feature="Mastery" />
+	<key id="90000398" name="Experience Booster +100%" />
+	<key id="90000399" name="Mini Vitality Elixir" />
+	<key id="90000400" name="Vitality Elixir" />
+	<key id="90000401" name="Mini Energy Elixir" />
+	<key id="90000402" name="Energy Elixir" />
+	<key id="90000403" name="Mini Recovery Elixir" />
+	<key id="90000404" name="Recovery Elixir" />
+	<key id="90000405" name="Special Vitality Herb" />
+	<key id="90000406" name="Special Energy Herb" />
+	<key id="90000408" name="Powerful Magnetic Lure" />
+	<key id="90000409" name="(Premium) Special White Potion" />
+	<key id="90000410" name="Golden Pot" />
+	<key id="90000411" name="Lulu&apos;s Experience Tonic" />
+	<key id="90000412" name="Lulu&apos;s Mini Experience Tonic" />
+	<key id="90000413" name="Concentrated Experience Tonic" />
+	<key id="90000414" name="Burning Breath" />
+	<key id="90000415" name="Lumenstone Shard" />
+	<key id="90000416" name="Lavender Candle" feature="MasterySecond" />
+	<key id="90000417" name="Yarrow Candle" feature="MasterySecond" />
+	<key id="90000418" name="Sweet Pumpkin Soup" feature="MasterySecond" />
+	<key id="90000419" name="Baguette" feature="MasterySecond" />
+	<key id="90000420" name="Marjoram Supplement" feature="MasterySecond" />
+	<key id="90000421" name="Rosemary Supplement" feature="MasterySecond" />
+	<key id="90000422" name="Mandarin Supplement" feature="MasterySecond" />
+	<key id="90000423" name="Tea Supplement" feature="MasterySecond" />
+	<key id="90000424" name="Patchouli Supplement" feature="MasterySecond" />
+	<key id="90000425" name="Bergamot Supplement" feature="MasterySecond" />
+	<key id="90000426" name="Rice Chips" feature="MasterySecond" />
+	<key id="90000427" name="Apple Chips" feature="MasterySecond" />
+	<key id="90000428" name="Orange Chips" feature="MasterySecond" />
+	<key id="90000429" name="Banana Chips" feature="MasterySecond" />
+	<key id="90000430" name="Tomato Chips" feature="MasterySecond" />
+	<key id="90000431" name="Pear Chips" feature="MasterySecond" />
+	<key id="90000432" name="Lavender Crystal" feature="MasterySecond" />
+	<key id="90000433" name="Lemon Balm Crystal" feature="MasterySecond" />
+	<key id="90000434" name="Jasmine Crystal" feature="MasterySecond" />
+	<key id="90000435" name="Cherry Sage Crystal" feature="MasterySecond" />
+	<key id="90000436" name="Oregano Crystal" feature="MasterySecond" />
+	<key id="90000437" name="Basil Crystal" feature="MasterySecond" />
+	<key id="90000438" name="Pumpkin Seasoning" feature="MasterySecond" />
+	<key id="90000439" name="Pine Mushroom Seasoning" feature="MasterySecond" />
+	<key id="90000440" name="Green Onion Seasoning" feature="MasterySecond" />
+	<key id="90000441" name="Medicinal Mushroom Seasoning" feature="MasterySecond" />
+	<key id="90000442" name="Cucumber Seasoning" feature="MasterySecond" />
+	<key id="90000443" name="Agaric Mushroom Seasoning" feature="MasterySecond" />
+	<key id="90000444" name="Orange Madeleine" feature="MasterySecond" />
+	<key id="90000445" name="Banana Sandwich" feature="MasterySecond" />
+	<key id="90000446" name="Caprese Salad" feature="MasterySecond" />
+	<key id="90000447" name="Fruit Tart" feature="MasterySecond" />
+	<key id="90000448" name="Maple Cheesecake with Pears" feature="MasterySecond" />
+	<key id="90000449" name="Pine Mushroom Stew " feature="MasterySecond" />
+	<key id="90000450" name="Medicinal Mushroom Tea" feature="MasterySecond" />
+	<key id="90000451" name="Agaric Mushroom Kebab" feature="MasterySecond" />
+	<key id="90000452" name="Valentine&apos;s Day Chocolate" />
+	<key id="90000453" name="Bright Brilliance Tonic" />
+	<key id="90000454" name="Blood Bond Tonic" />
+	<key id="90000455" name="Swift Wind Tonic" />
+	<key id="90000456" name="Focused Rage Tonic " />
+	<key id="90000457" name="Immortal Guardian Tonic " />
+	<key id="90000458" name="Condensed Boost Tonic" />
+	<key id="90000459" name="Soaring Focus Tonic" />
+	<key id="90000460" name="Steel Defense Tonic" />
+	<key id="90000461" name="Concentrated Experience Tonic" />
+	<key id="90000462" name="Special Warrior Tonic" />
+	<key id="90000463" name="Special Mage Tonic" />
+	<key id="90000464" name="Special Health Tonic" />
+	<key id="90000465" name="Special Defense Tonic" />
+	<key id="90000466" name="Experience Booster +100%" />
+	<key id="90000467" name="Fermented Chocolate Milk" />
+	<key id="90000482" name="Nutritional Supplement" feature="ContentsGuide02" />
+	<key id="90000483" name="Dried Persimmon" feature="ContentsGuide02" />
+	<key id="90000484" name="Fantastic Level-up Booster" />
+	<key id="90000485" name="Experience Tonic 1" />
+	<key id="90000486" name="Experience Tonic 2" />
+	<key id="90000487" name="Experience Tonic 3" />
+	<key id="90000488" name="Experience Tonic 4" />
+	<key id="90100001" name="Has a 20% chance to drain health for 3 sec on hit." />
+	<key id="90100011" name="20% chance to increase strength on hit." />
+	<key id="90000490" name="Special Yummy Omelet" />
+	<key id="90000491" name="Experience Booster +100%" />
+	<key id="90000492" name="Overpowered Magnetic Lure" />
+	<key id="90000494" name="Experience Booster +100%" />
+	<key id="90000495" name="Pink Pot" />
+	<key id="90000496" name="Bright Brilliance Tonic" />
+	<key id="90000497" name="Blood Bond Tonic" />
+	<key id="90000498" name="Swift Wind Tonic" />
+	<key id="90000499" name="Focused Rage Tonic " />
+	<key id="90000500" name="Immortal Guardian Tonic " />
+	<key id="90000501" name="Condensed Boost Tonic" />
+	<key id="90000502" name="Soaring Focus Tonic" />
+	<key id="90000503" name="Steel Defense Tonic" />
+	<key id="90000505" name="Experience Booster +200%" />
+	<key id="90000506" name="Potent Meso Eye Drop" />
+	<key id="90000507" name="Bright Brilliance Tonic" />
+	<key id="90000508" name="Blood Bond Tonic" />
+	<key id="90000509" name="Swift Wind Tonic" />
+	<key id="90000510" name="Focused Rage Tonic" />
+	<key id="90000511" name="Immortal Guardian Tonic" />
+	<key id="90000512" name="Condensed Boost Tonic" />
+	<key id="90000513" name="Soaring Focus Tonic" />
+	<key id="90000514" name="Steel Defense Tonic" />
+	<key id="90000595" name="Lulu&apos;s Elixir" />
+	<key id="90000606" name="Bright Brilliance Tonic" />
+	<key id="90000607" name="Blood Bond Tonic" />
+	<key id="90000608" name="Swift Wind Tonic" />
+	<key id="90000609" name="Focused Rage Tonic" />
+	<key id="90000610" name="Immortal Guardian Tonic" />
+	<key id="90000611" name="Condensed Boost Tonic" />
+	<key id="90000612" name="Soaring Focus Tonic" />
+	<key id="90000613" name="Mini-elixir" />
+	<key id="90000614" name="Fantastic Level-up Booster" />
+	<key id="90000615" name="Crispy Zakum Cookie" />
+	<key id="90000616" name="Golden Pot" />
+	<key id="90000617" name="Auto-Fishing" />
+	<key id="90000618" name="Auto-Perform" />
+	<key id="90000619" name="Pink Bean Experience Tonic" />
+	<key id="90000651" name="Ray Fireworks" />
+	<key id="90000652" name="Birthday Cake Fireworks" />
+	<key id="90000653" name="National Holiday Fireworks" />
+	<key id="90000654" name="MapleStory Traditional Mooncake" />
+	<key id="90000655" name="MapleStory Distinct Mooncake" />
+	<key id="90000656" name="Ray&apos;s Spicy Stir-fried Beef" />
+	<key id="90000657" name="Ray&apos;s Cream Pasta" />
+	<key id="90000658" name="Ray&apos;s Homemade Hamburger" />
+	<key id="90000659" name="Warrior Tonic" />
+	<key id="90000660" name="Mage Tonic" />
+	<key id="90000661" name="Health Tonic" />
+	<key id="90000662" name="Elixir" />
+	<key id="90000663" name="Mini-elixir" />
+	<key id="90000664" name="Pink Petal Fireworks" />
+	<key id="90000665" name="Heart Fireworks" />
+	<key id="90000667" name="China Grand Opening Celebration Fireworks" />
+	<key id="90000668" name="Starlight Magnetic Lure" />
+	<key id="90000672" name="Superb Experience Booster +200%" />
+	<key id="90000685" name="Special Defense Tonic" />
+	<key id="90000686" name="Superb Experience Booster +100%" />
+	<key id="90000687" name="Multigrain Bread" />
+	<key id="90000688" name="Superb Experience Booster +200%" />
+	<key id="90000689" name="Mushroom Experience Potion" />
+	<key id="90000701" name="Crispy Zakum Cookie" />
+	<key id="90000702" name="Kay&apos;s Experience Booster +100% (30 Min)" />
+	<key id="90000703" name="Fishing Experience Booster +100% (30 Min)" />
+	<key id="90000704" name="Beginner&apos;s Golden Lure (10 Min)" />
+	<key id="90000705" name="Beginner&apos;s Golden Lure (1 Hour)" />
+	<key id="90000706" name="Master&apos;s Golden Lure (10 Min)" />
+	<key id="90000707" name="Experience Potion (500)" />
+	<key id="90000708" name="Experience Potion (1,000)" />
+	<key id="90000709" name="Experience Potion (5,000)" />
+	<key id="90000710" name="Experience Potion (10,000)" />
+	<key id="90000711" name="Experience Potion (50,000)" />
+	<key id="90000712" name="Experience Potion (100,000)" />
+	<key id="90000713" name="Experience Potion (500,000)" />
+	<key id="90000714" name="Experience Potion (1,000,000)" />
+	<key id="90000720" name="Herb" feature="SurvivalContents01" />
+	<key id="90000728" name="Starlight Magnetic Lure" />
+	<key id="90000729" name="Magic Boom" feature="SurvivalContents01" />
+	<key id="90000730" name="Magic Arrow" feature="SurvivalContents01" />
+	<key id="90000735" name="Stun Grenades" />
+	<key id="90000736" name="Stun Grenades" />
+	<key id="90000740" name="Adventure Island Light Crystal" />
+	<key id="90000741" name="Adventure Island Snow Crystal" />
+	<key id="90000749" name="Performing Experience Booster +100% (30 Min)" />
+	<key id="90000750" name="Golden Butterfly Blessing" />
+	<key id="90000772" name="Jab" feature="SurvivalContents01" />
+	<key id="90000773" name="Heavy Strike" feature="SurvivalContents01" />
+	<key id="90000774" name="Whirlwind" feature="SurvivalContents01" />
+	<key id="90000775" name="Bleed" feature="SurvivalContents01" />
+	<key id="90000782" name="Dash" />
+	<key id="90000783" name="Arrow Stream" />
+	<key id="90000784" name="Lock-on" />
+	<key id="90000785" name="M-Bomb" />
+	<key id="90000786" name="M-Bomb" />
+	<key id="90000787" name="M-Bomb" />
+	<key id="90000791" name="Fireblast" />
+	<key id="90000792" name="Magic Arrow" />
+	<key id="90000793" name="Stun Grenades" />
+	<key id="90000794" name="Stun Grenades" />
+	<key id="90000795" name="Jab" />
+	<key id="90000796" name="Arrow Stream" />
+	<key id="90000797" name="Lock-on" />
+	<key id="90000798" name="M-Bomb" />
+	<key id="90000799" name="M-Bomb" />
+	<key id="90000800" name="M-Bomb" />
+	<key id="90000801" name="Flame Wave" />
+	<key id="90000802" name="Flame Wave" />
+	<key id="90000803" name="Screwdriver Shot" />
+	<key id="90000804" name="Screwdriver Shot" />
+	<key id="90000805" name="Shurricane" />
+	<key id="90000806" name="Shurricane" />
+	<key id="90000807" name="Arcane Orb" />
+	<key id="90000808" name="Arcane Orb" />
+	<key id="90000809" name="Arcane Orb" />
+	<key id="90000810" name="Arcane Orb" />
+	<key id="90000811" name="Shurricane" />
+	<key id="90000812" name="Shurricane" />
+	<key id="90000813" name="Mushroom Sporeblock" />
+	<key id="90000831" name="Dash Attack" />
+	<key id="90000832" name="Dash Attack" />
+	<key id="90000837" name="Spring Jump" feature="SurvivalContents02" />
+	<key id="90000855" name="Cool Summer Fireworks" />
+	<key id="90000861" name="Yellow Paint Bomb" />
+	<key id="90000864" name="Lucky Fireworks" />
+	<key id="90000871" name="Victory Fireworks" feature="SurvivalContents03" />
+	<key id="90000875" name="Fireblast" feature="SurvivalContents03" />
+	<key id="90000876" name="Arrow Stream" feature="SurvivalContents03" />
+	<key id="90000877" name="Lock-on" feature="SurvivalContents03" />
+	<key id="90000878" name="M-Bomb" feature="SurvivalContents03" />
+	<key id="90000881" name="Flame Wave" feature="SurvivalContents03" />
+	<key id="90200001" name="Anger" />
+	<key id="90200002" name="Martial Shout" />
+	<key id="90200003" name="Pout" />
+	<key id="90200004" name="Scheme" />
+	<key id="90200005" name="Dejected" />
+	<key id="90200006" name="Thumbs Up" />
+	<key id="90200007" name="Don&apos;t Ask Me" />
+	<key id="90200008" name="Dynamic Pose" />
+	<key id="90200009" name="Despair" />
+	<key id="90200010" name="Dreamy" />
+	<key id="90200011" name="Greet" />
+	<key id="90200012" name="Mock" />
+	<key id="90200013" name="Crazy Dance" />
+	<key id="90200014" name="Time-out" />
+	<key id="90200015" name="Punishment" />
+	<key id="90200016" name="Sleep" />
+	<key id="90200017" name="Para Para Dance" />
+	<key id="90200018" name="Tantrum" />
+	<key id="90200019" name="Scissors" />
+	<key id="90200020" name="Rock" />
+	<key id="90200021" name="Paper" />
+	<key id="90200022" name="Bow" />
+	<key id="90200023" name="Surprise" />
+	<key id="90200024" name="Reject" />
+	<key id="90200025" name="Taunt" />
+	<key id="90200026" name="Sulk" />
+	<key id="90200027" name="Blow Kiss" />
+	<key id="90200028" name="Kiss" />
+	<key id="90200029" name="Tap Dance" />
+	<key id="90200030" name="Shimmy" />
+	<key id="90200031" name="Cry" />
+	<key id="90200037" name="Job_Male Knight" />
+	<key id="90200038" name="Job_Male Assassin" />
+	<key id="90200039" name="Job_Female Priest" />
+	<key id="90200040" name="Job_Female Archer" />
+	<key id="90200041" name="Sit" />
+	<key id="90200042" name="Ledge Sit" />
+	<key id="90200043" name="Epiphany" />
+	<key id="90200044" name="Worry" />
+	<key id="90200045" name="Big Meanie" />
+	<key id="90200046" name="Wave Dance" />
+	<key id="90200047" name="Spin Dance" />
+	<key id="90200048" name="Bunny Dance" />
+	<key id="90200049" name="Shuffle Dance" />
+	<key id="90200050" name="Strut Dance" />
+	<key id="90200051" name="Worm Dance" />
+	<key id="90200052" name="Sing" />
+	<key id="90200053" name="Kowtow" />
+	<key id="90200054" name="Goofy Dance" />
+	<key id="90200055" name="Rowboat Dance" />
+	<key id="90200056" name="Lean Dance" />
+	<key id="90200057" name="Possessed Fan Dance" />
+	<key id="90200058" name="Rolling Dance" />
+	<key id="90200059" name="China GM Mannequin" />
+	<key id="90200060" name="Windmill Dance" />
+	<key id="90200061" name="Groove Dance" />
+	<key id="90200062" name="Whip Dance" />
+	<key id="90200063" name="Gold Exemplar Throne" />
+	<key id="90200064" name="Silver Exemplar Throne" />
+	<key id="90200065" name="Bronze Exemplar Throne" />
+	<key id="90200066" name="Summoned Pim" />
+	<key id="90200067" name="Dark Shade" />
+	<key id="90200068" name="Zombie Dance" />
+	<key id="90200069" name="Hypnotic Dance" />
+	<key id="90200070" name="Anticipated Gift" />
+	<key id="90200071" name="Snow Day" />
+	<key id="90200072" name="Phoenix Throne" />
+	<key id="90200073" name="Make It Rain" />
+	<key id="90200074" name="Smooched by Bobby" />
+	<key id="90200075" name="Smooched by Ruby" />
+	<key id="90200076" name="Rose" />
+	<key id="90200077" name="Catch of the Day" />
+	<key id="90200078" name="Class with Goldus" />
+	<key id="90200079" name="Class with Miel" />
+	<key id="90200080" name="Class with Belma" />
+	<key id="90200081" name="Cherry Blossom Picnic" />
+	<key id="90200082" name="Salty Noodles" />
+	<key id="90200083" name="Tasty Noodles" />
+	<key id="90200084" name="Run for Your Life" />
+	<key id="90200085" name="Heartfelt Proposal" />
+	<key id="90200086" name="Accept Proposal" />
+	<key id="90200087" name="Reject Proposal" />
+	<key id="90200088" name="Soft Pink Bean" />
+	<key id="90200089" name="Zakum Chair" />
+	<key id="90200090" name="Happy Birthday" />
+	<key id="90200091" name="Ambitious Throne" />
+	<key id="90200092" name="High Five" />
+	<key id="90200093" name="Hop Shuffle Boogie" />
+	<key id="90200094" name="Ray Dance" />
+	<key id="90200095" name="Pound Rice Cake" />
+	<key id="90200097" name="Noble Exemplar Throne" />
+	<key id="90200098" name="Cheer Up" />
+	<key id="90200100" name="Orange Mushroom" />
+	<key id="90200101" name="Hip Shimmy" />
+	<key id="90200102" name="Internet Celebrity" />
+	<key id="90200103" name="Fireworks" />
+	<key id="90200104" name="Floral Kite" />
+	<key id="90200105" name="Swing Set" />
+	<key id="90200106" name="CBT Celebration" locale="NA" />
+	<key id="90200107" name="Psych Up" />
+	<key id="90200110" name="Beach Day" />
+	<key id="90200111" name="Penguin Cup" />
+	<key id="90200112" name="Sleepy Shroom Dance" />
+	<key id="90200113" name="Cool Watermelon Salad" />
+	<key id="90200116" name="Gloat" feature="SurvivalContents03" />
+	<key id="90200117" name="Mushroom Powder" feature="SurvivalContents03" />
+	<key id="90200118" name="Sleepy Shroom Nap" feature="SurvivalContents03" />
+	<key id="90220001" name="Embrace" />
+	<key id="90220002" name="Fist Bump" />
+	<key id="90220003" name="Winter Mischief" />
+	<key id="90220004" name="Sweet Candy" />
+	<key id="90220005" name="Please Help" />
+	<key id="90220006" name="Lean on Me" />
+	<key id="90220007" name="Kowtow" />
+	<key id="90220008" name="Fantastic Couple Dance" />
+	<key id="90220009" name="Clap Hands" />
+	<key id="90220010" name="Hot Coffee" />
+	<key id="90220011" name="Ducky Dance" />
+	<key id="90220012" name="SKILLNAME_90220012_NAME" />
+	<key id="90220013" name="Tug o&apos; War" />
+	<key id="90300001" name="20% chance to inflict burn on hit." />
+	<key id="90300011" name="20% chance to increase intelligence on hit." />
+	<key id="90400001" name="10% chance to inflict burn on hit." />
+	<key id="90400011" name="20% chance to increase critical rate on hit." />
+	<key id="90500001" name="25% chance to inflict bleeding on hit." />
+	<key id="90500011" name="20% chance to increase attack speed on hit." />
+	<key id="90800001" name="20% chance to inflict poison on hit." />
+	<key id="90800011" name="10% chance to increase movement speed on hit." />
+	<key id="99900991" name="Storage Drum" />
+	<key id="99900992" name="Storage Drum" />
+	<key id="99901001" name="Bomb" />
+	<key id="99901002" name="Bomb" />
+	<key id="99901005" name="Acorn Cart" />
+	<key id="99910001" name="Horn Headbutt" />
+	<key id="99910002" name="Rush" />
+	<key id="99910021" name="Fireball" />
+	<key id="99910031" name="A" />
+	<key id="99910032" name="B" />
+	<key id="99910033" name="B Splash" />
+	<key id="99910041" name="Fist Swing" />
+	<key id="99910042" name="One Two Punch" />
+	<key id="99910043" name="Stone Shock" />
+	<key id="99910051" name="Whack-a-mole" />
+	<key id="99910052" name="Big Nail Drive" />
+	<key id="99910053" name="Picnic" />
+	<key id="99910061" name="Cute Noises" />
+	<key id="99910062" name="Swish Smash!" />
+	<key id="99910071" name="Electric Shock (Left)" />
+	<key id="99910072" name="Electric Shock (Right)" />
+	<key id="99910073" name="Laser" />
+	<key id="99910074" name="Hyper Booster" />
+	<key id="99910075" name="Gunfire" />
+	<key id="99910076" name="Electric Laser" />
+	<key id="99910081" name="Magical Bullet" />
+	<key id="99910341" name="Area Blast" feature="SurvivalContents02" />
+	<key id="99910342" name="Primary Lasers" feature="SurvivalContents02" />
+	<key id="99910343" name="Booster Rush" feature="SurvivalContents02" />
+	<key id="99910344" name="Overload Beam" feature="SurvivalContents02" />
+	<key id="99910351" name="Doze" feature="SurvivalContentsTeam" />
+	<key id="50000001" name="Mushroom Slam Down" />
+	<key id="50000002" name="Vine Sting Block Skill" />
+	<key id="50000003" name="Prepare to Charge (Melee)" />
+	<key id="50000004" name="Varaha Swing" />
+	<key id="50000005" name="Ram" />
+	<key id="50000006" name="Trong Fit Rush" />
+	<key id="50000007" name="Throw Green Leaf" />
+	<key id="50000008" name="Fisticuffs" />
+	<key id="50000009" name="Strike Down" />
+	<key id="50000010" name="Throw Potion" />
+	<key id="50000011" name="Spin Punch" />
+	<key id="50000012" name="Hammer Blow" />
+	<key id="50000013" name="3-hit Combo" />
+	<key id="50000016" name="Spread Spore" />
+	<key id="50000017" name="Hammer Swing" />
+	<key id="50000018" name="Brong Fit Hit" />
+	<key id="50000019" name="Brong Fit Spin Attack" />
+	<key id="50000020" name="Horn Stab" />
+	<key id="50000021" name="Shield Charge" />
+	<key id="50000023" name="Maglack Shield Strike" />
+	<key id="50000024" name="Maglack Shield Charge" />
+	<key id="50000025" name="Teojilack Mana Burn" />
+	<key id="50000026" name="Hit (Two-handed Strike)" />
+	<key id="50000027" name="Slash (Attack x7)" />
+	<key id="50000029" name="Summon Bats (Attack x3)" />
+	<key id="50000032" name="Hit (Stone Punch)" />
+	<key id="50000033" name="Stone Headbutt" />
+	<key id="50000036" name="Bat Bite" />
+	<key id="50000037" name="Sonar Attack" />
+	<key id="50000038" name="Halstone Punch" />
+	<key id="50000039" name="Halstone Shock" />
+	<key id="50000040" name="Shoot Rock Fragment" />
+	<key id="50000041" name="Mini Fire Breath" />
+	<key id="50000042" name="Twingo Hit" />
+	<key id="50000043" name="Throw Magic Sword" />
+	<key id="50000044" name="Shoot Fireball" />
+	<key id="50000045" name="Crater Explosion" />
+	<key id="50000046" name="Throw Artifact" />
+	<key id="50000047" name="Duckling Beak Attack" />
+	<key id="50000048" name="Orbis Headbutt" />
+	<key id="50000049" name="Hit" />
+	<key id="50000051" name="Hit" />
+	<key id="50000052" name="Cerbe Ground Dig" />
+	<key id="50000054" name="Huge Hammer Strike" />
+	<key id="50000055" name="Prepare Melee Attack" />
+	<key id="50000056" name="Stone Golem Shock" />
+	<key id="50000057" name="Rushing Swing (Prepare)" />
+	<key id="50000058" name="Pim Soul Bind" />
+	<key id="50000059" name="Pim Hit" />
+	<key id="50000060" name="Horned Mushroom Hit" />
+	<key id="50000062" name="Hit" />
+	<key id="50000063" name="Horned Mushroom Roll" />
+	<key id="50000065" name="Nepentooth Bite" />
+	<key id="50000066" name="Nepentooth Seed Spit" />
+	<key id="50000068" name="Twin Worker Hit" />
+	<key id="50000069" name="Dark Twin Hit" />
+	<key id="50000070" name="Konorbis Headbutt" />
+	<key id="50000073" name="Jumping Slam Down" />
+	<key id="50000074" name="Throw Axe" />
+	<key id="50000075" name="Death Gas (Buff)" />
+	<key id="50000076" name="Drop Fruit" />
+	<key id="50000077" name="Prepare Direct Throw" />
+	<key id="50000078" name="Prepare Melee Attack" />
+	<key id="50000079" name="Hit" />
+	<key id="50000080" name="Hit" />
+	<key id="50000081" name="Cancel Seal (Buff)" />
+	<key id="50000082" name="Hard Punch" />
+	<key id="50000083" name="Hit" />
+	<key id="50000085" name="Hit" />
+	<key id="50000086" name="Prepare Melee Spin Attack" />
+	<key id="50000087" name="Prepare Ranged Tongue Attack" />
+	<key id="50000088" name="Hit" />
+	<key id="50000090" name="Hit" />
+	<key id="50000091" name="Summon Ellang" />
+	<key id="50000092" name="Summon whirlpool" />
+	<key id="50000093" name="Death: Summon Ellang" />
+	<key id="50000094" name="Fluttering Cape" />
+	<key id="50000095" name="Dark Sphere" />
+	<key id="50000096" name="Dark Explosion" />
+	<key id="50000097" name="Hit" />
+	<key id="50000098" name="Implant Poison Gas" />
+	<key id="50000100" name="Shoot Arrow" />
+	<key id="50000101" name="Hit Attack" />
+	<key id="50000102" name="Orbis Headbutt" />
+	<key id="50000103" name="Konorbis Headbutt" />
+	<key id="50000104" name="Hit" />
+	<key id="50000105" name="Cerbe Ground Dig" />
+	<key id="50000106" name="Ram" />
+	<key id="50000107" name="Trong Fit Rush" />
+	<key id="50000108" name="Horn Stab" />
+	<key id="50000109" name="Brong Fit Hit" />
+	<key id="50000110" name="Brong Fit Spin Attack" />
+	<key id="50000111" name="Nepentooth Bite" />
+	<key id="50000112" name="Nepentooth Seed Spit" />
+	<key id="50000113" name="Red Mushroom Ranged" />
+	<key id="50000114" name="Red Mushroom Melee" />
+	<key id="50000115" name="Mushroom Short Range Attack" />
+	<key id="50000116" name="Jump Rush" />
+	<key id="50000117" name="Prepare to Rush" />
+	<key id="50000118" name="Retreat after Honibu Attacks" />
+	<key id="50000119" name="Hit" />
+	<key id="50000120" name="Gather Energy and Swing" />
+	<key id="50000121" name="Strike Down on the Ground" />
+	<key id="50000122" name="Throw Bomb" />
+	<key id="50000123" name="Long Range Attack" />
+	<key id="50000124" name="Induce Long Range Attack" />
+	<key id="50000125" name="Turning Kick" />
+	<key id="50000126" name="3-hit Combo" />
+	<key id="50000127" name="Temporary Skill" />
+	<key id="50000128" name="Temporary Skill" />
+	<key id="50000129" name="Simple Melee Attack" />
+	<key id="50000130" name="Short Rush Attack" />
+	<key id="50000131" name="Mushroom Very Short Range Attack" />
+	<key id="50000132" name="Hit" />
+	<key id="50000133" name="Hard Hit" />
+	<key id="50000134" name="Melee Whirlwind" />
+	<key id="50000135" name="Bind Foot" />
+	<key id="50000136" name="AoE Skill" />
+	<key id="50000137" name="Fast Long Range" />
+	<key id="50000138" name="Strong Long Range" />
+	<key id="50000139" name="Long Range" />
+	<key id="50000140" name="Bind Foot" />
+	<key id="50000141" name="Hit" />
+	<key id="50000142" name="Long Range" />
+	<key id="50000143" name="Mid Range" />
+	<key id="50000144" name="Hit" />
+	<key id="50000145" name="Hard Hit" />
+	<key id="50000146" name="Hit" />
+	<key id="50000147" name="Fast Long Range" />
+	<key id="50000148" name="Strong Long Range" />
+	<key id="50000149" name="Hit" />
+	<key id="50000150" name="Melee Whirlwind" />
+	<key id="50000151" name="AoE Skill" />
+	<key id="50000152" name="Super Armor Attack" />
+	<key id="50000153" name="Super Armor Jump Rush" />
+	<key id="50000154" name="Super Armor Attack" />
+	<key id="50000155" name="Block Skill" />
+	<key id="50000156" name="Block Skill" />
+	<key id="50000157" name="Block Skill Explosion (Lv. 1)" />
+	<key id="50000158" name="Block Skill 2 Space Half" />
+	<key id="50000159" name="Fake Block Explosion (Lv. 1)" />
+	<key id="50000160" name="Block Skill" />
+	<key id="50000161" name="Block Skill (2 Space Cross)" />
+	<key id="50000162" name="Block Skill (2 Space Cross Half Cross)" />
+	<key id="50000163" name="Block Skill (Partial Rectangle)" />
+	<key id="50000164" name="Block Skill (3 Space 1 Column)" />
+	<key id="50000165" name="Rectangle Block Skill (4 Space 1 Column)" />
+	<key id="50000166" name="Rectangle Block Skill (5 Space 1 Column)" />
+	<key id="50000167" name="Block Skill (4 Space 1 Row)" />
+	<key id="50000168" name="Frenzy Distance 1000 Down" />
+	<key id="50000169" name="Wizard&apos;s Stupid Teleport" />
+	<key id="50000170" name="Shoot Wizard&apos;s Stupid Energy Ball" />
+	<key id="50000171" name="2-hit Combo Attack" />
+	<key id="50000172" name="Jump Rush" />
+	<key id="50000173" name="Melee Attack" />
+	<key id="50000174" name="Super Armor Jump Rush" />
+	<key id="50000175" name="Melee Attack (Damage Motion)" />
+	<key id="50000176" name="2-hit Combo Attack (Damage Motion)" />
+	<key id="50000177" name="Super Armor Jump Rush Tremor" />
+	<key id="50000178" name="Frenzy Distance 600" />
+	<key id="50000179" name="Frenzy Distance 200 Lv. 1" />
+	<key id="50000180" name="Weak 2-hit Combo Attack" />
+	<key id="50000181" name="Prepare to Rush" />
+	<key id="50000182" name="Outraged Consecutive Block Skill" />
+	<key id="50000183" name="Shoot Arrow" />
+	<key id="50000184" name="Shoot Arrow" />
+	<key id="50000185" name="Standby Status" />
+	<key id="50000186" name="Melee Attack (Activate)" />
+	<key id="50000187" name="Energy Ball (Standby)" />
+	<key id="50000188" name="Slow Rush Melee Attack (Threaten)" />
+	<key id="50000189" name="Fast Rush Melee Attack (Prepare) Lv. 1" />
+	<key id="50000190" name="Stunned" />
+	<key id="50000191" name="Rectangle Block Skill (Consecutive x3)" />
+	<key id="50000192" name="Activate Partial Empty Space Block Skill" />
+	<key id="50000193" name="Activate Partial Empty Space Block Skill" />
+	<key id="50000194" name="Prepare to Activate Skill (Prepare)" />
+	<key id="50000195" name="Threaten before Attacking" />
+	<key id="50000196" name="Rectangle Block Skill (Consecutive x3)" />
+	<key id="50000197" name="2-hit Combo Attack (Damage Motion)" />
+	<key id="50000198" name="Fake Block Explosion Center" />
+	<key id="50000199" name="Fast Cross Block Explosion (Lv. 1)" />
+	<key id="50000200" name="Fast Empty Space Block Explosion (Lv. 1)" />
+	<key id="50000201" name="Surround Block Rush Attack (Threaten)" />
+	<key id="50000202" name="Prepare to Shout" />
+	<key id="50000203" name="1-hit Attack" />
+	<key id="50000204" name="2-hit Combo Attack" />
+	<key id="50000205" name="3-hit Combo Attack" />
+	<key id="50000206" name="Jump Smash Attack" />
+	<key id="50000207" name="Prepare to Kick" />
+	<key id="50000208" name="Prepare Eye Laser" />
+	<key id="50000209" name="Set up Sticky" />
+	<key id="50000210" name="Prepare to Shoot Bee Stinger" />
+	<key id="50000211" name="Prepare Whirlwind Frenzy" />
+	<key id="50000212" name="Huge Whirlwind" />
+	<key id="50000213" name="Throw Down Attack" />
+	<key id="50000214" name="1-hit Attack" />
+	<key id="50000215" name="2-hit Combo Attack" />
+	<key id="50000216" name="3-hit Combo Attack" />
+	<key id="50000217" name="Prepare Magnum Break" />
+	<key id="50000218" name="Prepare Dagger Attack" />
+	<key id="50000219" name="Prepare Strong Dagger Attack" />
+	<key id="50000220" name="Prepare Spear Attack" />
+	<key id="50000221" name="Prepare Spear Attack" />
+	<key id="50000222" name="Prepare Crossbow Hit" />
+	<key id="50000223" name="Prepare Strong Crossbow Attack" />
+	<key id="50000224" name="Prepare Laser Cannon" />
+	<key id="50000225" name="Prepare Strong Laser Cannon" />
+	<key id="50000226" name="Prepare Strong Attack" />
+	<key id="50000227" name="Prepare Block Skill Centered on Self" />
+	<key id="50000228" name="Prepare Block Skill Centered on Opponent" />
+	<key id="50000229" name="Prepare to Teleport" />
+	<key id="50000230" name="Prepare to Teleport" />
+	<key id="50000231" name="For Checking Close Range" />
+	<key id="50000232" name="Two-handed Shockwave (Prepare)" />
+	<key id="50000233" name="Fire Throw Attack" />
+	<key id="50000234" name="Prepare Hand Strike" />
+	<key id="50000235" name="Poison Attack" />
+	<key id="50000236" name="Magnum Break" />
+	<key id="50000237" name="Prepare to Attack Right" />
+	<key id="50000238" name="Prepare to Attack Left" />
+	<key id="50000239" name="Prepare Stationary Smash Attack" />
+	<key id="50000240" name="Prepare Stationary Smash Attack (Weak)" />
+	<key id="50000241" name="Prepare Long Range Attack" />
+	<key id="50000242" name="Prepare Long Range Attack (Weak)" />
+	<key id="50000243" name="Taunt Stance" />
+	<key id="50000244" name="Prepare to Shoot Bats from Mouth" />
+	<key id="50000245" name="One Fist Slam Down" />
+	<key id="50000246" name="Two Fists Slam Down" />
+	<key id="50000247" name="Block Attack (Hanging)" />
+	<key id="50000248" name="Shoot Laser Cannon" />
+	<key id="50000249" name="Prepare to Rush" />
+	<key id="50000250" name="Jumping Slam Down" />
+	<key id="50000251" name="Energy Explosion Push (Prepare) Block" />
+	<key id="50000252" name="Push Because Annoyed" />
+	<key id="50000253" name="Look Around" />
+	<key id="50000254" name="Phase Change Cut Down 70% Health" />
+	<key id="50000255" name="Threat before Attacking" />
+	<key id="50000256" name="Prepare Crater Explosion" />
+	<key id="50000257" name="Prepare Huge Fire Breath" />
+	<key id="50000258" name="Stone Element Block Skill" />
+	<key id="50000259" name="Gas Element Block Pattern 1" />
+	<key id="50000260" name="Gas Element Block Pattern 2" />
+	<key id="50000261" name="Before Teleporting" />
+	<key id="50000262" name="After Teleporting" />
+	<key id="50000263" name="Prepare Jump Smash Attack (Weak)" />
+	<key id="50000264" name="Prepare 1-hit Combo Jump Smash" />
+	<key id="50000265" name="Prepare Fire Breath" />
+	<key id="50000266" name="Raise One Hand" />
+	<key id="50000267" name="Swing Chain" />
+	<key id="50000268" name="Prepare Arm Swing" />
+	<key id="50000269" name="Bite Attack" />
+	<key id="50000270" name="Bite Attack" />
+	<key id="50000271" name="Headbutt" />
+	<key id="50000272" name="Spinning Rush" />
+	<key id="50000273" name="Brush off Dandruff" />
+	<key id="50000274" name="3-hit Combo Thorn Stab" />
+	<key id="50000275" name="Shoot Thorns in All Directions" />
+	<key id="50000276" name="Weapon Swing Attack" />
+	<key id="50000277" name="Prepare 3-hit Combo Spin" />
+	<key id="50000278" name="Face Slap Attack" />
+	<key id="50000279" name="Head Strike" />
+	<key id="50000280" name="Bone Throw Attack" />
+	<key id="50000281" name="Prepare Jump Slam Down" />
+	<key id="50000282" name="Prepare Attack (Temporary)" />
+	<key id="50000283" name="Prepare Single Attack" />
+	<key id="50000284" name="Prepare 3-hit Combo Attack" />
+	<key id="50000285" name="Spear Stab" />
+	<key id="50000286" name="Rushing Spear Swing (Prepare)" />
+	<key id="50000287" name="Pincer Attack" />
+	<key id="50000288" name="Shoot Laser" />
+	<key id="50000289" name="Short Rush" />
+	<key id="50000290" name="Stationary Smash" />
+	<key id="50000291" name="Shoot 3 Whirlwinds" />
+	<key id="50000292" name="Short Rush Attack" />
+	<key id="50000293" name="Kick" />
+	<key id="50000294" name="Throw Thrown Weapon" />
+	<key id="50000295" name="Waist Stretch Attack" />
+	<key id="50000296" name="Bandage Pull Attack" />
+	<key id="50000297" name="Circle Head (Prepare)" />
+	<key id="50000298" name="Prepare Single Attack" />
+	<key id="50000299" name="Prepare 3-hit Combo Spin Attack" />
+	<key id="50000300" name="Shoot Face" />
+	<key id="50000301" name="Spin Spiderweb Block" />
+	<key id="50000302" name="Prepare Jump" />
+	<key id="50000303" name="Prepare Two-handed Strike Down" />
+	<key id="50000304" name="Prepare Main Hand Strike Down" />
+	<key id="50000305" name="Prepare to Swing Crutches" />
+	<key id="50000306" name="Prepare to Strike Down with Crutches" />
+	<key id="50000307" name="Shoot Weak Bomb" />
+	<key id="50000308" name="Prepare to Shoot Strong Bomb" />
+	<key id="50000309" name="Prepare Head Strike Attack" />
+	<key id="50000310" name="Prepare to Swing Type A" />
+	<key id="50000311" name="Prepare to Swing Type B" />
+	<key id="50000312" name="Prepare Jump Slam Down" />
+	<key id="50000313" name="Spin Attack (Prepare)" />
+	<key id="50000314" name="Swing" />
+	<key id="50000315" name="Prepare to Draw Sword" />
+	<key id="50000316" name="Prepare 2-hit Combo" />
+	<key id="50000317" name="Swing" />
+	<key id="50000318" name="Prepare Kick" />
+	<key id="50000319" name="Prepare Somersault Kick" />
+	<key id="50000320" name="Kitchen Knife Attack" />
+	<key id="50000321" name="Head Rubber Glove Attack" />
+	<key id="50000322" name="Stomach Strike Attack" />
+	<key id="50000323" name="Broccoli Block Attack" />
+	<key id="50000324" name="Prepare Horizontal Cut" />
+	<key id="50000325" name="Prepare Vertical Cut" />
+	<key id="50000326" name="Prepare Combo Attack Vertical Cut" />
+	<key id="50000327" name="Prepare Combo Attack Vertical Cut" />
+	<key id="50000328" name="Prepare Combo Attack Vertical Cut" />
+	<key id="50000329" name="Prepare Jump Slam Down" />
+	<key id="50000330" name="Prepare to Pull" />
+	<key id="50000331" name="Prepare to Strike Right" />
+	<key id="50000332" name="Prepare to Strike Left" />
+	<key id="50000333" name="Prepare to Turn" />
+	<key id="50000334" name="Turning Rush Attack (Short Ver)" />
+	<key id="50000335" name="Stationary Turning Rush Attack" />
+	<key id="50000336" name="Finish Turning" />
+	<key id="50000337" name="Finish Turning (Vomit)" />
+	<key id="50000338" name="Prepare to Fire Bullet" />
+	<key id="50000339" name="Fire Bullet 1" />
+	<key id="50000340" name="Finish Firing Bullet" />
+	<key id="50000341" name="Finish Turning (Vomit)" />
+	<key id="50000342" name="Fire Bullet 1" />
+	<key id="50000344" name="Jump Escape" />
+	<key id="50000350" name="Elastic Attack" />
+	<key id="50000351" name="Prepare Jump Attack" />
+	<key id="50000352" name="Prepare Huge Fire Spin Attack" />
+	<key id="50000353" name="Shoot Energy Ball" />
+	<key id="50000354" name="3-hit Combo Shots" />
+	<key id="50000355" name="Prepare to Rush" />
+	<key id="50000356" name="Prepare to Stab" />
+	<key id="50000357" name="Prepare Horizontal Cut" />
+	<key id="50000358" name="Prepare Jump Slam Down" />
+	<key id="50000359" name="Bounce Preparation" />
+	<key id="50000373" name="Close the Distance " />
+	<key id="50000374" name="Prepare to Fly in the Air" />
+	<key id="50000375" name="Prepare to Fly in the Air" />
+	<key id="50000376" name="Prepare to Fly in the Air" />
+	<key id="50000377" name="Prepare to Fly in the Air" />
+	<key id="50000378" name="Attack Boost Buff" />
+	<key id="50000380" name="Wind Push Shoot Feathers (Lv. 1)" />
+	<key id="50000381" name="Prepare to Rush" />
+	<key id="50000382" name="Prepare Vertical Cut Form Attack" />
+	<key id="50000383" name="Prepare Horizontal Cut Form Attack" />
+	<key id="50000384" name="Prepare Ground Smash Strike" />
+	<key id="50000385" name="Prepare to Fire Bullet" />
+	<key id="50000386" name="Block Attack Hanging" />
+	<key id="50000387" name="Prepare to Fire Bullet" />
+	<key id="50000388" name="Prepare to Fire Bullet" />
+	<key id="50000389" name="1-hit" />
+	<key id="50000390" name="Motion Preparation" />
+	<key id="50000391" name="1-hit Special Attack" />
+	<key id="50000394" name="Hit" />
+	<key id="50000395" name="Slingshot Attack" />
+	<key id="50000396" name="Roar" />
+	<key id="50000397" name="Swing" />
+	<key id="50000398" name="Roar" />
+	<key id="50000399" name="Hit" />
+	<key id="50000400" name="Hit" />
+	<key id="50000401" name="Hit" />
+	<key id="50000402" name="1-hit Special Attack" />
+	<key id="50000403" name="Hit" />
+	<key id="50000404" name="Hit" />
+	<key id="50000405" name="Roar" />
+	<key id="50000406" name="Hit" />
+	<key id="50000407" name="Hit" />
+	<key id="50000408" name="Smash" />
+	<key id="50000409" name="Prepare Laser" />
+	<key id="50000410" name="Serrated Knife" />
+	<key id="50000411" name="Prepare Head Strike Attack" />
+	<key id="50000412" name="Ally Defense Increase" />
+	<key id="50000413" name="AoE Attack" />
+	<key id="50000414" name="Shoot Horn Attack" />
+	<key id="50000415" name="Health Increase" />
+	<key id="50000416" name="Defense Increase" />
+	<key id="50000417" name="Block Skill: Water Prison" />
+	<key id="50000418" name="Circle Impact Skill" />
+	<key id="50000419" name="Prepare 1-hit Combo Jump Smash" />
+	<key id="50000420" name="Poison Cloud" />
+	<key id="50000421" name="Short Rush Attack, Push" />
+	<key id="50000422" name="Prepare to Charge (Melee)" />
+	<key id="50000423" name="Prepare to Shout" />
+	<key id="50000424" name="Gel Block Attack Skill" />
+	<key id="50000425" name="Prepare to Roll" />
+	<key id="50000426" name="Prepare Jump Slam Down" />
+	<key id="50000427" name="Prepare Charm Projectiles" />
+	<key id="50000428" name="Vengeful Spirit&apos;s Earth" />
+	<key id="50000429" name="Vengeful Spirit Projectile" />
+	<key id="50000430" name="Jump Headbutt" />
+	<key id="50000431" name="Prepare Short Jump Smash" />
+	<key id="50000432" name="Prepare Long Jump Smash" />
+	<key id="50000433" name="Use Block Magic" />
+	<key id="50000434" name="Use Magic" />
+	<key id="50000435" name="Headbutt" />
+	<key id="50000436" name="Shrink" />
+	<key id="50000437" name="Block Skill 1 Space" />
+	<key id="50000438" name="Self-destruct" />
+	<key id="50000439" name="Self-destruct" />
+	<key id="50000440" name="Self-destruct" />
+	<key id="50000441" name="Prepare Attack" />
+	<key id="50000442" name="Shoot Spore" />
+	<key id="50000443" name="Decompose Surrounding Damage" />
+	<key id="50000444" name="Prepare Block Creation Jump" />
+	<key id="50000445" name="Finish Block Jump" />
+	<key id="50000446" name="Prepare Enhanced Jump Attack" />
+	<key id="50000447" name="Enhanced Jump Attack 2" />
+	<key id="50000448" name="Prepare Invincibility &amp; Scale" />
+	<key id="50000449" name="Block Jump Center" />
+	<key id="50000450" name="Prepare to Get C-C-C-C-CRUSHED" />
+	<key id="50000451" name="Body Smeared with Spores" />
+	<key id="50000452" name="Summon" />
+	<key id="50000453" name="Prepare Jump without Block" />
+	<key id="50000454" name="Jump without Block 2" />
+	<key id="50000455" name="Jump without Block 3" />
+	<key id="50000456" name="Hit Jump Attack" />
+	<key id="50000457" name="Block Skill 1 Space" />
+	<key id="50000458" name="Prepare Hit 1" />
+	<key id="50000513" name="Spear Attack" />
+	<key id="50000514" name="Magic Attack" />
+	<key id="50000515" name="Common Dash Attack" />
+	<key id="50000516" name="Decompose Surrounding Damage" />
+	<key id="50000517" name="Defense Increase if Minions Nearby" />
+	<key id="50000518" name="Heal Surroundings" />
+	<key id="50000519" name="Super Armor Attack" />
+	<key id="50000520" name="Super Armor Attack" />
+	<key id="50000521" name="Howitzer Fire (Cut Down Spirit)" />
+	<key id="50000522" name="Prepare to Teleport" />
+	<key id="50000523" name="Hit" />
+	<key id="50000524" name="Summon Duckling/Vackling" />
+	<key id="50000525" name="Melee Attack" />
+	<key id="50000526" name=" Prepare Whirlwind Charge" />
+	<key id="50000527" name="Shoot Direct Throw (Pierce)" />
+	<key id="50000528" name="Burrow" />
+	<key id="50000529" name="Prepare to Rush" />
+	<key id="50000530" name="Energy Discharge" />
+	<key id="50000531" name="Teleport" />
+	<key id="50000532" name="Soul Energy Absorbed" />
+	<key id="50000533" name="Commit Suicide" />
+	<key id="50000539" name="Distance Check" />
+	<key id="50000540" name="Push Forward Energy Explosion (MAG)" />
+	<key id="50000541" name="Prepare Shoulder Attack (MAG)" />
+	<key id="50000542" name="Prepare Shoulder Attack (MAG)" />
+	<key id="50000543" name="Prepare Rushing Headbutt (MAG)" />
+	<key id="50000544" name="Melee Grab (MAG)" />
+	<key id="50000545" name="Ranged Grab (MAG)" />
+	<key id="50000546" name="Screwdriver Jump (PHY)" />
+	<key id="50000547" name="Prepare Spin (MAG)" />
+	<key id="50000548" name="Left Foot - Roundhouse Kick" />
+	<key id="50000550" name="Prepare Rushing Swing" />
+	<key id="50000551" name="Prepare Jump Smash (PHY)" />
+	<key id="50000552" name="Prepare Combo Stab" />
+	<key id="50000553" name="Homing Missile Ground Explosion" />
+	<key id="50000554" name="Recovery Missile" />
+	<key id="50000555" name="Prepare Jump" />
+	<key id="50000556" name="Check under battlefield_dais" />
+	<key id="50000557" name="Taunt: Ignore Target" />
+	<key id="50000558" name="End of Phase 1: Taunt" />
+	<key id="50000559" name="Speak after summoning minions" />
+	<key id="50000560" name="Prepare Ground Smash Strike" />
+	<key id="50000561" name="Prepare Rushing Swing" />
+	<key id="50000562" name="Prepare Combo Stab" />
+	<key id="50000563" name="Prepare Rapid Claw" />
+	<key id="50000564" name="Off-hand - Magic Throw" />
+	<key id="50000565" name="Off-hand - Prepare Strong Magic" />
+	<key id="50000566" name="High-angle Fire in Every Direction (Curse) 4 Shots" />
+	<key id="50000567" name="Prepare Subterranean Homing Missile" />
+	<key id="50000568" name="Prepare Airborne Missile" />
+	<key id="50000569" name="Prepare Absorption Stun" />
+	<key id="50000570" name="Intimidation Move 1 Hit" />
+	<key id="50000571" name="Intimidation Quick Move Attack" />
+	<key id="50000572" name="Begin Explosive AoE Attack (Min)" />
+	<key id="50000573" name="Transform" />
+	<key id="50000574" name="Hit Stunned Players" />
+	<key id="50000575" name="Exhaustion Animation" />
+	<key id="50000576" name="Prepare Jump" />
+	<key id="50000577" name="Teleport" />
+	<key id="50000578" name="Check Phase 3 distance" />
+	<key id="50000579" name="Drop 1 Hanging Player" />
+	<key id="50000580" name="Off-hand - Prepare Large Laser" />
+	<key id="50000581" name="Keep Ladder Base in Check" />
+	<key id="50000582" name="Prepare Absorption Stun" />
+	<key id="50000583" name="Begin Explosive AoE Attack (Min)" />
+	<key id="50000597" name="Wave" />
+	<key id="50000598" name="Resist Wind" />
+	<key id="50000599" name="Check the same battlefield" />
+	<key id="50000600" name="Frost Throw" />
+	<key id="50000601" name="Prepare Rolling Charge" />
+	<key id="50000602" name="Prepare Palm Shot" />
+	<key id="50000603" name="Prepare Downward Punch" />
+	<key id="50000604" name="Prepare Jump" />
+	<key id="50000605" name="Prepare Laser" />
+	<key id="50000606" name="Hammer" />
+	<key id="50000607" name="Power Hammer" />
+	<key id="50000608" name="Prepare Fire" />
+	<key id="50000609" name="Destroy Ice Wall 1 Hit" />
+	<key id="50000610" name="Prepare Swing" />
+	<key id="50000611" name="Prepare Charging Stab" />
+	<key id="50000612" name="Prepare Ground Explosion" />
+	<key id="50000613" name="Prepare Debuff" />
+	<key id="50000614" name="Radiant Light Sphere (Health Recovery)" />
+	<key id="50000615" name="Swing Sword" />
+	<key id="50000616" name="Prepare to Charge and Brandish Sword" />
+	<key id="50000617" name="Spear Stab" />
+	<key id="50000618" name="Prepare Spear Stab" />
+	<key id="50000619" name="Shoot Ice Shard (RNG)" />
+	<key id="50000620" name="Prepare Ice Shard" />
+	<key id="50000621" name="Swing Mace" />
+	<key id="50000622" name="Prepare Mace Jump" />
+	<key id="50000623" name="Shield Smash" />
+	<key id="50000624" name="Prepare Shield Block" />
+	<key id="50000625" name="Prepare Jump" />
+	<key id="50000626" name="Check Minion Section Distance" />
+	<key id="50000627" name="Cast Attack Buff" />
+	<key id="50000628" name="Purge Temple Knight" />
+	<key id="50000629" name="Stand Waiting (Distance Check)" />
+	<key id="50000630" name="Begin Purge" />
+	<key id="50000631" name="Blade Melee" />
+	<key id="50000632" name="Blade Shot" />
+	<key id="50000633" name="Radial Shot" />
+	<key id="50000634" name="Multi-directional Shot" />
+	<key id="50000635" name="Blade Melee 3 Hits" />
+	<key id="50000636" name="Blade Rush" />
+	<key id="50000637" name="Improvised Bullet" />
+	<key id="50000638" name="Dual Rush" />
+	<key id="50000639" name="Hammer 6-hit Charge" />
+	<key id="50000640" name="Hammer Throw 3 Hits" />
+	<key id="50000641" name="Lightning Bolt" />
+	<key id="50000642" name="Multi-directional Lightning 1 Hit" />
+	<key id="50000643" name="Sideways Sweep" />
+	<key id="50000644" name="Prepare Spinning 3-hit Charge" />
+	<key id="50000645" name="Spear Stab" />
+	<key id="50000646" name="Shield Smash" />
+	<key id="50000647" name="Charging Claw" />
+	<key id="50000648" name="Claw 2 Hits" />
+	<key id="50000650" name="Wide 5 Count Throw" />
+	<key id="50000651" name="Prepare Breath Attack" />
+	<key id="50000652" name="Throw Energy Disc" />
+	<key id="50000653" name="Begin Twister" />
+	<key id="50000654" name="Kick 1 Hit" />
+	<key id="50000655" name="Prepare Charge Shot" />
+	<key id="50000660" name="Direct Throw" />
+	<key id="50000661" name="Rolling Body Slam" />
+	<key id="50000662" name="Pending Horn Shot" />
+	<key id="50000663" name="Pending Mouth Shockwave" />
+	<key id="50000664" name="Pending Clawing" />
+	<key id="50000665" name="Start to Levitate" />
+	<key id="50000666" name="Start to Fly in the Air" />
+	<key id="50000667" name="Outrage 1 Hit" />
+	<key id="50000668" name="Leaping Jump" />
+	<key id="50000670" name="Body Slam" />
+	<key id="50000671" name="Cast Buff" />
+	<key id="50000672" name="Direct Throw" />
+	<key id="50000673" name="Charging Punch" />
+	<key id="50000674" name="Direct Throw" />
+	<key id="50000675" name="Prepare Mace" />
+	<key id="50000676" name="Prepare to Rush" />
+	<key id="50000677" name="Outstretched Palm Wind" />
+	<key id="50000678" name="Outstretched Palm Explosion Attack" />
+	<key id="50000679" name="Blade Melee 3 Hits" />
+	<key id="50000680" name="Blade Rush" />
+	<key id="50000681" name="Improvised Bullet" />
+	<key id="50000682" name="Dual Rush" />
+	<key id="50000683" name="Hammer 6-hit Charge" />
+	<key id="50000684" name="Hammer Throw 3 Hits" />
+	<key id="50000685" name="Sideways Sweep" />
+	<key id="50000686" name="Prepare Spinning 3-hit Charge" />
+	<key id="50000687" name="Spear Stab" />
+	<key id="50000688" name="Shield Smash" />
+	<key id="50000689" name="Charging Claw" />
+	<key id="50000690" name="Claw 2 Hits" />
+	<key id="50001000" name="Prepare Jump" />
+	<key id="50001001" name="Land Jump (Destroy Block)" />
+	<key id="50001002" name="Stunned" />
+	<key id="50001003" name="1-hit Body Brush" />
+	<key id="50001004" name="Jumping Slam Down" />
+	<key id="50001005" name="Hammer Slam Down" />
+	<key id="50001006" name="Head Strike" />
+	<key id="50001007" name="Hand Strike" />
+	<key id="50001008" name="Prepare Lightning" />
+	<key id="50001009" name="Smash" />
+	<key id="50001010" name="Prepare to Hit the Ground Severely" />
+	<key id="50001011" name="Start Rock Block Centered on Opponent" />
+	<key id="50001012" name="Prepare Stationary Jump" />
+	<key id="50001014" name="Drop Hanging Subject" />
+	<key id="50001015" name="Magic Resistance Boost" />
+	<key id="50001016" name="Attack Command Hanging" />
+	<key id="50001017" name="Defend Command Hanging" />
+	<key id="50001018" name="Attack Command Hanging" />
+	<key id="50001019" name="Defend Command Hanging" />
+	<key id="50001020" name="Attack Command Hanging" />
+	<key id="50001021" name="Defend Command Hanging" />
+	<key id="50001022" name="Check location of battlefield at the same height" />
+	<key id="50001051" name="Big Throw Attack" />
+	<key id="50001052" name="3 Count Throw Attack" />
+	<key id="50001053" name="Ground Explosion" />
+	<key id="50001054" name="Prepare Multi-slash" />
+	<key id="50001055" name="Teleport" />
+	<key id="50001056" name="Prepare Weapon Draw" />
+	<key id="50001057" name="Prepare Sword Laser" />
+	<key id="50001058" name="4 Winds Damage Field" />
+	<key id="50001059" name="1 Big Wind Damage Field" />
+	<key id="50001060" name="Energy Ball-preparing Wind" />
+	<key id="50001061" name="Homing Ice Ground Explosion" />
+	<key id="50001062" name="Wait" />
+	<key id="50001063" name="Cause Ground Wind" />
+	<key id="50001100" name="Prepare 1st Attack of 3-hit Attack" />
+	<key id="50001101" name="Begin Shield Block" />
+	<key id="50001102" name="Prepare Rush Attack" />
+	<key id="50001103" name="Start Spirit Sword Throw" />
+	<key id="50001104" name="Start Power Spirit Sword Throw" />
+	<key id="50001105" name="Start AoE Ground Strike" />
+	<key id="50001106" name="Leaping Jump" />
+	<key id="50001107" name="Leaping Jump_Offensive" />
+	<key id="50001108" name="Cast Buff on Body" />
+	<key id="50001109" name="Crystal Ice Explosion Fragment" />
+	<key id="50001110" name="Crystal Laser" />
+	<key id="50001111" name="Doppelganger-summoning Gesture" />
+	<key id="50001112" name="Prepare 1st Attack of 3-hit Attack" />
+	<key id="50001113" name="Prepare Rush Attack" />
+	<key id="50001150" name="Prepare Body Slam (Target)" />
+	<key id="50001151" name="Prepare Mouth Missile (MAG)" />
+	<key id="50001152" name="Prepare Big Fire Breath" />
+	<key id="50001153" name="Prepare Powerful Flapping" />
+	<key id="50001154" name="Prepare Jump" />
+	<key id="50001155" name="Shrill 1 Hit" />
+	<key id="50001156" name="Drop the Hanging" />
+	<key id="50001157" name="Start to Fly" />
+	<key id="50001158" name="Leaping Jump (MAG)" />
+	<key id="50001159" name="Prepare Jump" />
+	<key id="50001165" name="Phase 2-beginning Voice Actor" />
+	<key id="50001166" name="Pending Air Battle" />
+	<key id="50001167" name="Exhausted (Voice)" />
+	<key id="50001168" name="Set Up Fire Cubes around Self" />
+	<key id="50001169" name="Leaping Jump" />
+	<key id="50001170" name="Order Outrage" />
+	<key id="50001171" name="Scatter Shadow Fire Cubes" />
+	<key id="50001172" name="Teleport" />
+	<key id="50001173" name="Start to Move Quickly" />
+	<key id="50001174" name="Begin Powerful Magic" />
+	<key id="50001175" name="Prepare Dark Field on Entire Ground" />
+	<key id="50001176" name="Projectile Ground Flames" />
+	<key id="50001177" name="Projectile Ground Flames" />
+	<key id="50001178" name="Under-mouth Explosion 1 Hit" />
+	<key id="50001179" name="Prepare Body Slam" />
+	<key id="50001180" name="Appear from the Sky" />
+	<key id="50001200" name="Begin Rolling Attack" />
+	<key id="50001201" name="Begin Pogo Stick" />
+	<key id="50001202" name="Prepare Yoyo Throw" />
+	<key id="50001203" name="1 Health Status Ailment Granted" />
+	<key id="50001204" name="Light Pillar Magic Dance Move 1" />
+	<key id="50001205" name="Prepare Megaphone" />
+	<key id="50001206" name="Whistle_Bore" />
+	<key id="50001207" name="Play Guitar_Performance Motion" />
+	<key id="50001208" name="Controller-preparing Teleportation" />
+	<key id="50001209" name="High-angle Fire in Every Direction (Curse) 4 Shots" />
+	<key id="50001210" name="Prepare Attack Reflection" />
+	<key id="50001211" name="Jumping Leap" />
+	<key id="50001212" name="Speaker Phone Dance" />
+	<key id="50001213" name="Donguri_Bore" />
+	<key id="50001214" name="Pogo Stick_Bore" />
+	<key id="50001215" name="Headset_Bore" />
+	<key id="50001216" name="Begin Pogo Stick (Big)" />
+	<key id="50001217" name="Remove Become Big &amp; Defense Up Buffs" />
+	<key id="50001218" name="Dance and Do Outrage Attack (Light Pillar)" />
+	<key id="50001220" name="Gape (Player)" />
+	<key id="50001221" name="Open Book" />
+	<key id="50001222" name="Slam Down Spear (1)" />
+	<key id="50001223" name="Gape (Player)" />
+	<key id="50001224" name="Open Book" />
+	<key id="50001225" name="Slam Down Spear (1)" />
+	<key id="50001226" name="Gape Horizontally (Debuff)" />
+	<key id="50001227" name="Gape Vertically (Reflection Buff)" />
+	<key id="50001228" name="Cast Belly Lid Buff" />
+	<key id="50001229" name="Drop" />
+	<key id="50001230" name="Gape Horizontally (Debuff)" />
+	<key id="50001231" name="Gape Vertically (Reflection Buff)" />
+	<key id="50001232" name="Cast Belly Lid Buff" />
+	<key id="50001233" name="Drop" />
+	<key id="50001234" name="Hand-up Light Pillar" />
+	<key id="50001235" name="Hand Side Stone Drop (Close)" />
+	<key id="50001236" name="Hand Side Poison Release 1F Left" />
+	<key id="50001237" name="Raise Hand Buff (Pink Bean Attack Reflection)" />
+	<key id="50001238" name="Hand Side Debuff" />
+	<key id="50001239" name="Stand Still" />
+	<key id="50001240" name="Body Slam" />
+	<key id="50001241" name="Multi Howitzer Fire" />
+	<key id="50001242" name="Test" />
+	<key id="50001250" name="Prepare 1-Hit Sword Attack" />
+	<key id="50001251" name="Prepare Consecutive Shooting" />
+	<key id="50001252" name="Prepare Ground Shoot (Wind)" />
+	<key id="50001253" name="Start Floating Low in Air" />
+	<key id="50001254" name="Start Shoot Attack" />
+	<key id="50001255" name="Arm Swing (Move)" />
+	<key id="50001256" name="Rush Standby Looping" />
+	<key id="50001257" name="Prepare Large Laser" />
+	<key id="50001258" name="Leaping Jump" />
+	<key id="50001265" name="Float Low" />
+	<key id="50001266" name="Be on Standby" />
+	<key id="50001267" name="Prepare Cannon Ground" />
+	<key id="50001268" name="Prepare Cannon Ground" />
+	<key id="50001269" name="Prepare Laser" />
+	<key id="50001270" name="Stab Spear" />
+	<key id="50001271" name="Prepare Charging Stab" />
+	<key id="50001272" name="Electric Direct Throw" />
+	<key id="50001273" name="Shoot Chest Guided Missile" />
+	<key id="50001274" name="Shoot from Mouth" />
+	<key id="50001275" name="Prepare Clawing" />
+	<key id="50001276" name="Prepare Body Rush" />
+	<key id="50001277" name="Leaping Jump" />
+	<key id="50001280" name="Shoot Front Attack" />
+	<key id="50001281" name="Shoot Everywhere Attack" />
+	<key id="50001282" name="Start" />
+	<key id="50001283" name="Start" />
+	<key id="50001284" name="Claw 1 Hit" />
+	<key id="50001285" name="Energy Explosion Push Prepare" />
+	<key id="50001286" name="Leaping Jump" />
+	<key id="50001287" name="Just Stand There" />
+	<key id="50001288" name="For Checking Whether Same Battlefield Exists or Not" />
+	<key id="50009998" name="Skill Data to Close the Distance" />
+	<key id="50009999" name="Re-targeting Standard Distance" />
+	<key id="50100001" name="Prepare to Swing Type A" />
+	<key id="50100002" name="Prepare to Swing Type B" />
+	<key id="50100003" name="Prepare Jump Slam Down (PHY)" />
+	<key id="50100004" name="Spin Attack (Prepare)_Lv. 1" />
+	<key id="50100005" name="Slam Down Ax (Prepare)_PHY" />
+	<key id="50100006" name="Ax Spin (Prepare)_Lv. 1" />
+	<key id="50100007" name="Ax Chop Cube Explosion_PHY" />
+	<key id="50100008" name="Surrounding Block Explosion" />
+	<key id="50100009" name="Block Skill Explosion" />
+	<key id="50100010" name="Prepare Swing" />
+	<key id="50100011" name="Throwing Attack" />
+	<key id="50100012" name="Prepare to Rush" />
+	<key id="50100013" name="Prepare to Hurl Vomit Comet" />
+	<key id="50100014" name="Prepare to Hurl Small Vomit Comet" />
+	<key id="50100015" name="Prepare Charging Stab" />
+	<key id="50100016" name="Activate Teleport" />
+	<key id="50100017" name="Prepare Energy Explosion (Strong)" />
+	<key id="50100018" name="Energy Explosion Preparation Cube Lv. 1" />
+	<key id="50100019" name="Health Recovery &amp; Shove" />
+	<key id="50100020" name="For Distance Check" />
+	<key id="50100030" name="4 Winds Damage Field" />
+	<key id="50100031" name="Prepare Dirigible Projectile Twister - Before Push" />
+	<key id="50100032" name="Prepare to Charge (Melee)" />
+	<key id="50100033" name="Shoot 2 Whirlwinds" />
+	<key id="50100034" name="Prepare to Teleport" />
+	<key id="50100035" name="Exit after Summoning Devilin" />
+	<key id="50100036" name="Enlarge Body 20%" />
+	<key id="50100037" name="4-hit Combo Sound Wave Attack" />
+	<key id="50100038" name="Start to Hide in Shell" />
+	<key id="50100039" name="Shoot 3 Projectiles" />
+	<key id="50100040" name="Prepare Multi Hand Strikes" />
+	<key id="50100041" name="Prepare Multi Hand Strikes - Rush" />
+	<key id="50100042" name="Fall while Rushing" />
+	<key id="50100043" name="Teleport after Summoning Doppelganger" />
+	<key id="50100044" name="Explode Poison Block around Surroundings" />
+	<key id="50100045" name="Recover Health" />
+	<key id="50100046" name="Prepare Greatsword Jump Smash" />
+	<key id="50100047" name="Prepare Shrink Debuff" />
+	<key id="50100048" name="Teleport" />
+	<key id="50100049" name="Make Booboo Bigger" />
+	<key id="50100050" name="Howitzer Fire (Knockback, 2F)" />
+	<key id="50100051" name="Prepare Multi Hand Strikes" />
+	<key id="50100052" name="Spin Attack (Prepare)_Lv. 1" />
+	<key id="50100053" name="Swing" />
+	<key id="50100054" name="Cannon Direct Throw" />
+	<key id="50100055" name="Begin Front Magic Explosion" />
+	<key id="50100056" name="Begin Four-direction Magic Explosion" />
+	<key id="50100057" name="Prepare Ground Magic Seal" />
+	<key id="50100058" name="Teleport" />
+	<key id="50100059" name="Order to Bite" />
+	<key id="50100060" name="Kill Subject on Roof" />
+	<key id="50100061" name="Attack Subject High in the Air" />
+	<key id="50100062" name="Begin Front Magic Explosion" />
+	<key id="50100063" name="Begin Four-direction Magic Explosion" />
+	<key id="50100064" name="Fast Animation Speed for Standby Status" />
+	<key id="50100068" name="Activate Shockwave in Front" />
+	<key id="50100069" name="Check Distance of 1350 for Same Height" />
+	<key id="50100070" name="Fire Block - Melts Ice" />
+	<key id="50100071" name="Water Block - Puts out Fire" />
+	<key id="50100072" name="Water Block - Barrier" />
+	<key id="50100073" name="Teleport (Water Fairy)" />
+	<key id="50100074" name="Commit Suicide" />
+	<key id="50100075" name="Ice Block in One&apos;s Surroundings" />
+	<key id="50100076" name="Fire Block in One&apos;s Surroundings" />
+	<key id="50100077" name="Howitzer Fire (Knockback)" />
+	<key id="50100078" name="Howitzer Fire (Knockback)" />
+	<key id="50100079" name="Shoot Cannon Stun Ground" />
+	<key id="50100080" name="Health Recovery Motion Preparation" />
+	<key id="50100081" name="Attack_Idle Standby Status" />
+	<key id="50100082" name="Prepare Laser" />
+	<key id="50100083" name="Give Teammate Physical and Magic Resistance" />
+	<key id="50100084" name="Give Teammate Physical and Magic Resistance" />
+	<key id="50100085" name="Teleport" />
+	<key id="50100086" name="Strike Ground" />
+	<key id="50100087" name="Prepare Upward Strike" />
+	<key id="50100088" name="1 Ice Bomb (Plant Bomb)" />
+	<key id="50100089" name="Water Drop Prison Initial Use" />
+	<key id="50100090" name="Imprison by Throwing Water Drop" />
+	<key id="50100091" name="Shoot Bee Stinger" />
+	<key id="50100092" name="Prepare to Rush" />
+	<key id="50100093" name="Prepare Four-direction Shockwave" />
+	<key id="50100094" name="Prepare Spin" />
+	<key id="50100095" name="Prepare Ranged High-angle Fire" />
+	<key id="50100096" name="Prepare Healing High-angle Fire_Above" />
+	<key id="50100097" name="Prepare Upward Strike" />
+	<key id="50100098" name="Prepare Ground Smash" />
+	<key id="50100099" name="Shoot and Give Barrier" />
+	<key id="50100100" name="Prepare Dark Arrow 01" />
+	<key id="50100101" name="Plant Destructive Bomb 01" />
+	<key id="50100102" name="Prepare Sweep 03" />
+	<key id="50100103" name="Stone Rise 03_Attack" />
+	<key id="50100104" name="Dark Curse 01 (Reduce Accuracy)" />
+	<key id="50100105" name="Weaken Curse 01 (Reduce Health)" />
+	<key id="50100106" name="Defense Boost Buff 01" />
+	<key id="50100107" name="Prepare Lightning Storm 02" />
+	<key id="50100108" name="Attack Boost Buff 02" />
+	<key id="50100109" name="Prepare Press Down 03" />
+	<key id="50100110" name="Prepare Single Punch 03" />
+	<key id="50100111" name="Summon Boogie 04" />
+	<key id="50100112" name="Give Epidemic Debuff 05" />
+	<key id="50100113" name="Prepare Multi-punch (Wind)" />
+	<key id="50100114" name="Commit Suicide" />
+	<key id="50100115" name="Shell Skill" />
+	<key id="50100116" name="Furious Explosion (1 health/spirit)" />
+	<key id="50100117" name="Persistent Curse (Accuracy, Speed, Toxic)" />
+	<key id="50100118" name="Physical Resistance Extreme Boost" />
+	<key id="50100119" name="Magic Resistance Extreme Boost" />
+	<key id="50100120" name="Death 13 sec. after Death Sentence" />
+	<key id="50100121" name="Prepare Death Fog" />
+	<key id="50100122" name="Create Fire Pillar (Centered on Subject)" />
+	<key id="50100123" name="Fire Pillar Drop &amp; Laser" />
+	<key id="50100124" name="Fire Pillar Drop &amp; Laser" />
+	<key id="50100125" name="Fire Pillar Drop &amp; Laser" />
+	<key id="50100126" name="Lightning Storm Wave 1 Hit" />
+	<key id="50100128" name="Defense up Buff" />
+	<key id="50100129" name="Attack up Buff" />
+	<key id="50100130" name="Boogie Summon Voice Actor&apos;s Voice" />
+	<key id="50100131" name="Force Stun" />
+	<key id="50100132" name="Health Decrease Prep 01" />
+	<key id="50100133" name="Spirit Decrease Prep 01" />
+	<key id="50100134" name="Cast Debuff 02_Reversed Keyboard Keys" />
+	<key id="50100135" name="Prepare Poison Attack 02" />
+	<key id="50100136" name="Lightning Field 05 2 Tiles" />
+	<key id="50100137" name="Fire Rain Field 05" />
+	<key id="50100138" name="Get Buff 03_DEF Up" />
+	<key id="50100139" name="Lightning Storm Pattern A" />
+	<key id="50100140" name="Fire Pillar Drop Pattern A" />
+	<key id="50100141" name="Laser testing purposes" />
+	<key id="50100142" name="Cast Attack Buff on Arms" />
+	<key id="50100143" name="Test Zakum&apos;s Hand Debuff" />
+	<key id="50100144" name="Zakum&apos;s Curse_Left Side (Hwak)" />
+	<key id="50100145" name="Prepare Lava Wave Summon" />
+	<key id="50100146" name="Prepare Bottom Laser" />
+	<key id="50100147" name="Prepare Lateral Laser" />
+	<key id="50100148" name="Prepare High-angle Fire" />
+	<key id="50100150" name="Prepare Weak Attack 1 Hit" />
+	<key id="50100151" name="Prepare Weak Attack 2-hit 1 Hit" />
+	<key id="50100152" name="Prepare Jump Smash" />
+	<key id="50100153" name="Spin 1 Hit" />
+	<key id="50100154" name="Prepare to Rush" />
+	<key id="50100155" name="Stab" />
+	<key id="50100156" name="Strike Down" />
+	<key id="50100157" name="Direct Throw (Normal)" />
+	<key id="50100158" name="Cannon Direct Throw" />
+	<key id="50100159" name="Shoot Cannon Stun Ground" />
+	<key id="50100160" name="Prepare Charge_Shoot Mine Sensor" />
+	<key id="50100161" name="Detect Pillar Colliding Mine Sensor" />
+	<key id="50100162" name="Set Up Crossbow" />
+	<key id="50100163" name="Normal Melee Attack" />
+	<key id="50100164" name="Wind Throw Attack" />
+	<key id="50100165" name="Charging Downward Strike" />
+	<key id="50100341" name="Prepare to Rush" />
+	<key id="50100342" name="Prepare Vomit Comet Attack" />
+	<key id="50100343" name="Imprison in Water Drop Attack" />
+	<key id="50100344" name="Induce Vomit" />
+	<key id="50100345" name="Health Recovery Prep" />
+	<key id="50100346" name="Prepare Running Jump" />
+	<key id="50100347" name="Prepare Vomit Comet Attack" />
+	<key id="50100348" name="Imprison in Water Drop Attack" />
+	<key id="50100349" name="Induce Vomit" />
+	<key id="50100350" name="Prepare Horizontal Cut" />
+	<key id="50100351" name="Prepare Normal Vertical Cut" />
+	<key id="50100352" name="Prepare Normal Vertical Cut" />
+	<key id="50100353" name="Prepare Normal Vertical Cut" />
+	<key id="50100354" name="Prepare Normal Vertical Cut" />
+	<key id="50100355" name="Prepare Four-direction Shot" />
+	<key id="50100356" name="Prepare Jump Slam Down" />
+	<key id="50100357" name="Raging Spirit (Cast Buff)" />
+	<key id="50100359" name="Soul Absorption (Remove Rage)" />
+	<key id="50100360" name="Attack Up (Give Buff)" />
+	<key id="50100361" name="Prepare to Pull (Rage)" />
+	<key id="50100362" name="Prepare to Pull (Chaos)" />
+	<key id="50100363" name="Prepare to Pull (Cold)" />
+	<key id="50100364" name="Shriek and Push (Debuff)" />
+	<key id="50100365" name="1-hit Attack" />
+	<key id="50100366" name="Prepare Charge (Cast Debuff)" />
+	<key id="50100367" name="Prepare Stone Drop (Pattern 1)" />
+	<key id="50100368" name="Prepare Jump" />
+	<key id="50100369" name="Health Absorption Prep" />
+	<key id="50100370" name="Prepare Death Roar" />
+	<key id="50100371" name="Summon Comrade " />
+	<key id="50100372" name="1-hit Attack" />
+	<key id="50100373" name="Prepare to Rush" />
+	<key id="50100374" name="Outrage Buff Shriek" />
+	<key id="50100375" name="Throw Pillar Colliding Mine (4)" />
+	<key id="50100376" name="Prepare Death Roar" />
+	<key id="50100381" name="Prepare Jump" />
+	<key id="50100382" name="Laser-preparing Cube (Counterclockwise, 8 sec.)" />
+	<key id="50100383" name="Phase Change Attack Up" />
+	<key id="50100384" name="Shadow Armor DEF Up" />
+	<key id="50100385" name="Block Attack (Hanging)" />
+	<key id="50100386" name="Green Hood Crossbow Appearance" />
+	<key id="50100387" name="Summon Junior Devilin" />
+	<key id="50100389" name="Phase Change Cut Down Health by Force" />
+	<key id="50100390" name="Guided Missile Splash (Hanging)" />
+	<key id="50100391" name="Shadow Tracking Guided Missile (Hanging)" />
+	<key id="50100392" name="Begin Finishing Strike" />
+	<key id="50100393" name="Ground Slam (Cube)" />
+	<key id="50100394" name="Prepare Laser (Counterclockwise, 5 sec.)" />
+	<key id="50100395" name="Energy Explosion Push (Prepare)" />
+	<key id="50100396" name="Guided Missile Splash (Hanging)" />
+	<key id="50100397" name="Shadow Tracking Guided Missile (Hanging)" />
+	<key id="50100398" name="Fire Explosion Block on 1/4 of Map (Hanging)" />
+	<key id="50100399" name="Phase Change Cut down 80% Health" />
+	<key id="50100400" name="Energy Explosion Push (Prepare)" />
+	<key id="50100401" name="Begin Finishing Strike" />
+	<key id="50100402" name="Teleport (Hanging)" />
+	<key id="50100403" name="Ground Slam (Cube)" />
+	<key id="50100404" name="For Distance Check" />
+	<key id="50100405" name="Prepare Laser (Counterclockwise, 8 sec.)" />
+	<key id="50100406" name="Prepare Laser (Counterclockwise, 6 sec.)" />
+	<key id="50100407" name="Arm Swing (Prepare)" />
+	<key id="50100408" name="Power Arm Swing (Prepare)" />
+	<key id="50100409" name="Rising Headbutt (Prepare)" />
+	<key id="50100410" name="Uppercut (Prepare)" />
+	<key id="50100411" name="Prepare Ground Smash Strike" />
+	<key id="50100412" name="Deadly Poison Explosion (Plant Bomb)" />
+	<key id="50100413" name="Root Coil Block" />
+	<key id="50100414" name="Bloom Poison Mushroom (1 min. or longer)" />
+	<key id="50100415" name="Induce Deadly Poison Rain (Attack)" />
+	<key id="50100416" name="Four-direction Earthquake (Prepare)" />
+	<key id="50100417" name="Left Mask Buff" />
+	<key id="50100418" name="Left Mask Buff" />
+	<key id="50100419" name="Reveal Face (Give Debuff)" />
+	<key id="50100420" name="Fire Explosion (Plant Bomb)" />
+	<key id="50100421" name="Reveal Face (Give Debuff)" />
+	<key id="50100422" name="Prepare Face Fire Breath" />
+	<key id="50100423" name="Spread Circular Fire on Ground" />
+	<key id="50100424" name="Rising Headbutt (Prepare)" />
+	<key id="50100425" name="Uppercut (Prepare)" />
+	<key id="50100426" name="Induce Fire Rain" />
+	<key id="50100427" name="Cube Split Fire (Pattern 1)" />
+	<key id="50100428" name="Arm Swing (Prepare)" />
+	<key id="50100429" name="Power Arm Swing (Prepare)" />
+	<key id="50100430" name="Prepare Left Laser" />
+	<key id="50100431" name="Prepare Right Laser" />
+	<key id="50100432" name="Prepare to Shoot Laser Sideways" />
+	<key id="50100433" name="Prepare to Shoot Laser in Four Directions" />
+	<key id="50100434" name="Block Attack Electrocution" />
+	<key id="50100435" name="Prepare 2-story Target Laser" />
+	<key id="50100436" name="Prepare 2-story Target Explosion" />
+	<key id="50100437" name="Prepare Front Ground Explosion" />
+	<key id="50100438" name="Ground Lateral Ground Explosion" />
+	<key id="50100439" name="Prepare to Rush" />
+	<key id="50100440" name="Prepare Chase" />
+	<key id="50100441" name="Prepare Laser Line (Medium)" />
+	<key id="50100442" name="Prepare Laser Line (Strong)" />
+	<key id="50100443" name="Electric Attack Mode Buff" />
+	<key id="50100444" name="Prepare Front Laser" />
+	<key id="50100445" name="Prepare Lateral Laser" />
+	<key id="50100446" name="Prepare Big Laser Cannon (Barrier)" />
+	<key id="50100447" name="Throw Mine (3 Count)" />
+	<key id="50100448" name="Detect Mine Sensor" />
+	<key id="50100450" name="Prepare Jump" />
+	<key id="50100451" name="Prepare Rushing Swing" />
+	<key id="50100452" name="Prepare to Shove" />
+	<key id="50100453" name="Check under target" />
+	<key id="50100454" name="Prepare Front Ground Explosion" />
+	<key id="50100455" name="Block Attack Electric Stun" />
+	<key id="50100456" name="Throw Block on Subject Below Rooftop" />
+	<key id="50100457" name="Prepare Laser Line (Strong)" />
+	<key id="50100458" name="Same Height Check Use" />
+	<key id="50100459" name="Throw Mine (3 Count)" />
+	<key id="50100460" name="Detect Mine Sensor" />
+	<key id="50100461" name="Prepare Laser Line (Strong)" />
+	<key id="50100462" name="Prepare Laser Line (Strong)" />
+	<key id="50100463" name="Prepare Front Laser" />
+	<key id="50100480" name="Enlarge Body 20%" />
+	<key id="50100481" name="Induce Many Energy Balls (2 Count)" />
+	<key id="50100482" name="Induce Energy Doing 1-hit KO (2)" />
+	<key id="50100483" name="2 Ice Bombs (Plant Bomb)" />
+	<key id="50100484" name="Arm Swing (Prepare)" />
+	<key id="50100485" name="Power Arm Swing (Prepare)" />
+	<key id="50100486" name="Uppercut (Prepare)" />
+	<key id="50100487" name="Rising Headbutt (Prepare)" />
+	<key id="50100488" name="Reveal Face (Prepare)" />
+	<key id="50100489" name="Cube Split Ice (Pattern 1)" />
+	<key id="50100490" name="Prepare Ground Smash Strike" />
+	<key id="50100491" name="Prepare Jump" />
+	<key id="50100492" name="Voice Setting when Summoned Body Appears" />
+	<key id="50100498" name="Shoot Crossbow (Devorak)" />
+	<key id="50100499" name="Shoot Crossbow (Captain Moc)" />
+	<key id="50100500" name="Fireball (Standby)" />
+	<key id="50100501" name="Shoot Crossbow (Devilin)" />
+	<key id="50100502" name="Shoot Direct Throw" />
+	<key id="50100503" name="Direct Throw 1 Hit (Healing Spring)" />
+	<key id="50100504" name="Begin Charge Attack" />
+	<key id="50100505" name="Shoot Direct Throw" />
+	<key id="50100506" name="AoE Status Ailment Attack" />
+	<key id="50100507" name="AoE Attack Push" />
+	<key id="50100508" name="Teleport" />
+	<key id="50100509" name="Talk Action" />
+	<key id="50100510" name="Commit Suicide" />
+	<key id="50100511" name="Pre-shelling Cube Removal" />
+	<key id="50100512" name="Commit Suicide" />
+	<key id="50100513" name="Prepare Suicide" />
+	<key id="50100514" name="Looking Around" />
+	<key id="50100515" name="Activate Black Hole" />
+	<key id="50100516" name="Prepare Chase" />
+	<key id="50100517" name="Prepare Time Shockwave" />
+	<key id="50100600" name="Prepare Front Paw Clawing" />
+	<key id="50100601" name="Prepare to Shoot Middle Head" />
+	<key id="50100602" name="Prepare to Shoot Side Heads" />
+	<key id="50100603" name="Prepare 3-headed Breath" />
+	<key id="50100604" name="Prepare to Jump In and Claw" />
+	<key id="50100605" name="Prepare Ground Explosion and 9 Homing Missiles" />
+	<key id="50100606" name="Bite Attack" />
+	<key id="50100607" name="Prepare Ranged Bite" />
+	<key id="50100608" name="Prepare Central Ground Explosion" />
+	<key id="50100609" name="Wolf Howl after Receiving Attack Command" />
+	<key id="50100610" name="Bite Attack" />
+	<key id="50100611" name="Long Range Bite Attack" />
+	<key id="50100612" name="Throw Subject That Is Bitten" />
+	<key id="50100613" name="Prepare Breath (Type 1)" />
+	<key id="50100614" name="Prepare Front Paw Clawing" />
+	<key id="50100615" name="Prepare to Jump In and Claw" />
+	<key id="50100616" name="Prepare to Shoot Middle Head" />
+	<key id="50100617" name="Prepare to Shoot Side Heads" />
+	<key id="50100618" name="Prepare Ground Explosion and 9 Homing Missiles" />
+	<key id="50100619" name="Prepare Central Ground Explosion" />
+	<key id="50100620" name="Wolf Howl after Receiving Attack Command" />
+	<key id="50100621" name="Prepare Breath (Type 2)" />
+	<key id="50100622" name="Prepare Breath (Type 3)" />
+	<key id="50100623" name="Same Height Check Use" />
+	<key id="50100624" name="Prepare to Shoot Middle Head" />
+	<key id="50100625" name="Bite Attack" />
+	<key id="50100626" name="Long Range Bite Attack" />
+	<key id="50100627" name="Throw Subject That Is Bitten" />
+	<key id="50100694" name="Prepare Hooked Hand Cannon (2F)" />
+	<key id="50100695" name="Prepare Hooked Hand Cannon" />
+	<key id="50100696" name="Prepare to Brandish Sword" />
+	<key id="50100697" name="Prepare to Charge and Brandish Sword" />
+	<key id="50100698" name="Prepare to Rush" />
+	<key id="50100699" name="Prepare Ground-targeting Toxic Fog" />
+	<key id="50100700" name="Prepare to Brandish Sword" />
+	<key id="50100701" name="Prepare Hooked Hand Cannon" />
+	<key id="50100702" name="Prepare to Rush" />
+	<key id="50100703" name="Prepare Jump Smash" />
+	<key id="50100704" name="Solar Flare (Stun)" />
+	<key id="50100705" name="Antenna Guided Missile" />
+	<key id="50100706" name="Prepare Jump (Rise)" />
+	<key id="50100707" name="Summon Minions" />
+	<key id="50100708" name="Event Super-strong Skill (Cancel Stun)" />
+	<key id="50100709" name="Prepare to Charge and Brandish Sword" />
+	<key id="50100710" name="Prepare Ground-targeting Toxic Fog" />
+	<key id="50100711" name="Cast Attack/Defense Buff" />
+	<key id="50100712" name="Give Complete Invincibility" />
+	<key id="50100713" name="Prepare Left-handed Super Cannon" />
+	<key id="50100714" name="Prepare Hooked Hand Cannon (2F)" />
+	<key id="50100715" name="Stand Still" />
+	<key id="50100716" name="Provoke from 2F" />
+	<key id="50100718" name="Health Recovery Action" />
+	<key id="50100719" name="Solar Flare Long Pre-casting Delay" />
+	<key id="50100720" name="Solar Flare Long Pre-casting Delay" />
+	<key id="50100721" name="Prepare Left-handed Super Cannon" />
+	<key id="50100722" name="Shoot 2 Antenna Guided Missiles" />
+	<key id="50100723" name="Event Super-strong Skill (Cancel Stun)" />
+	<key id="50100733" name="Subject Height That Is One Block for Check Use" />
+	<key id="50100734" name="Prepare Fist Swing (Normal)" />
+	<key id="50100735" name="Clock Indicator 1 O&apos;clock" />
+	<key id="50100736" name="Prepare Claps" />
+	<key id="50100737" name="Prepare Claps (PHY)" />
+	<key id="50100738" name="Prepare Ground Fist Thrust" />
+	<key id="50100739" name="4 Palm Guided Missiles" />
+	<key id="50100740" name="Prepare Two-hand DoT Laser" />
+	<key id="50100741" name="Begin Alarm Clock Attack (Ceiling)" />
+	<key id="50100742" name="Throw x2 Block Mine" />
+	<key id="50100743" name="Throw x2 Block Mine" />
+	<key id="50100744" name="PHY DEF-up Ceiling Destruction" />
+	<key id="50100745" name="1 DEF-up Laser Hit" />
+	<key id="50100746" name="Attack Standby Status" />
+	<key id="50100747" name="Prepare Four-direction Shove" />
+	<key id="50100748" name="Prepare Laser (Front/Back)" />
+	<key id="50100749" name="Prepare Laser (Front/Back)" />
+	<key id="50100750" name="Prepare Fist Swing (PHY)" />
+	<key id="50100751" name="Clock Indicator 1 O&apos;clock" />
+	<key id="50100752" name="Prepare Claps" />
+	<key id="50100753" name="Prepare Claps (PHY)" />
+	<key id="50100754" name="Prepare Ground Fist Thrust" />
+	<key id="50100755" name="4 Palm Guided Missiles" />
+	<key id="50100756" name="Prepare Two-hand DoT Laser" />
+	<key id="50100757" name="Begin Alarm Clock Attack (PHY)" />
+	<key id="50100758" name="Throw x2 Block Mine" />
+	<key id="50100759" name="Throw x2 Block Mine" />
+	<key id="50100760" name="Cast PHY DEF 1 Hit" />
+	<key id="50100761" name="1 DEF-up Laser Hit" />
+	<key id="50100762" name="Attack Standby Status" />
+	<key id="50100763" name="Prepare Four-direction Shove" />
+	<key id="50100764" name="Prepare Laser (Front/Back)" />
+	<key id="50100765" name="Prepare Laser (Front/Back)" />
+	<key id="50100766" name="Prepare Claps" />
+	<key id="50100767" name="Prepare Fist Swing" />
+	<key id="50100768" name="Clock Indicator 1 O&apos;clock" />
+	<key id="50100769" name="Prepare Two-hand DoT Laser" />
+	<key id="50100770" name="Throw x2 Block Mine P1" />
+	<key id="50100771" name="Use Provocation Giving Physical Resistance" />
+	<key id="50100772" name="Prepare Four-direction Shove" />
+	<key id="50100773" name="Begin Alarm Clock Attack (PHY)" />
+	<key id="50100780" name="Prepare Big Fire Breath" />
+	<key id="50100781" name="Prepare Rising Headbutt" />
+	<key id="50100782" name="Shriek after Ground Smash " />
+	<key id="50100783" name="Prepare Wide Tail Sweep" />
+	<key id="50100784" name="Ground Tail Strike 1 Hit" />
+	<key id="50100785" name="Prepare Laser 180 Clockwise" />
+	<key id="50100786" name="Prepare Weak Fire Breath" />
+	<key id="50100787" name="Prepare Body Slam (Target)" />
+	<key id="50100788" name="Prepare Upright Upper Body Shot" />
+	<key id="50100789" name="Drop Hanging Subject" />
+	<key id="50100790" name="Distance Check" />
+	<key id="50100791" name="Prepare Ultimate Fire Breath" />
+	<key id="50100795" name="Prepare Strong Ice Breath" />
+	<key id="50100796" name="Prepare Rising Headbutt" />
+	<key id="50100797" name="Shriek after Ground Smash " />
+	<key id="50100798" name="Prepare Wide Tail Sweep" />
+	<key id="50100799" name="Ground Tail Strike 1 Hit" />
+	<key id="50100800" name="Prepare Laser 180 Clockwise" />
+	<key id="50100801" name="Prepare Weak Ice Breath" />
+	<key id="50100802" name="Prepare Body Slam (Target)" />
+	<key id="50100803" name="Prepare Upright Upper Body Shot" />
+	<key id="50100804" name="Drop Hanging Subject" />
+	<key id="50100805" name="Use Defense up Buff" />
+	<key id="50100806" name="Prepare Body Slam (Target)" />
+	<key id="50100807" name="Prepare Upright Upper Body Shot" />
+	<key id="50100808" name="Prepare Laser 180 Clockwise" />
+	<key id="50100850" name="Prepare 1st Hit of 2-hit Combo" />
+	<key id="50100851" name="Prepare Spin Attack" />
+	<key id="50100852" name="Prepare Jump Smash" />
+	<key id="50100853" name="Prepare Jump Smash (Damage Field)" />
+	<key id="50100854" name="Prepare to Rush" />
+	<key id="50100855" name="Prepare Energy Explosion" />
+	<key id="50100856" name="Shriek (Give Debuff)" />
+	<key id="50100857" name="Prepare Weak Attack 1 Hit" />
+	<key id="50100858" name="Prepare Weak Attack 2-hit 1 Hit" />
+	<key id="50100859" name="Prepare Energy Explosion (Destruction)" />
+	<key id="50100860" name="Prepare 1st Hit of 2-hit Combo" />
+	<key id="50100861" name="Prepare Jump Smash" />
+	<key id="50100862" name="Prepare Jump Smash (Damage Field)" />
+	<key id="50100863" name="Throw Pillar Colliding Mine (4)" />
+	<key id="50100864" name="Detect Pillar Colliding Mine Sensor" />
+	<key id="50100865" name="Prepare Charge (Pillar Destruction)" />
+	<key id="50100866" name="Use Defense up Buff" />
+	<key id="50100867" name="Prepare Fast Spin Attack" />
+	<key id="50100868" name="Change Jump Smash Pose" />
+	<key id="50100869" name="Leaping Jump (Wall Destruction)" />
+	<key id="50100870" name="Stand Still" />
+	<key id="50100871" name="Prepare Spin Attack" />
+	<key id="50100872" name="Prepare to Rush" />
+	<key id="50100873" name="Prepare Jump Smash (Damage Field)" />
+	<key id="50100874" name="Change Jump Smash Pose" />
+	<key id="50100875" name="End Fast Spin Attack" />
+	<key id="50100876" name="Prepare 1st Hit of 2-hit Combo" />
+	<key id="50100877" name="Prepare Weak Attack 2-hit 1 Hit" />
+	<key id="50100878" name="Prepare Energy Explosion (Destruction)" />
+	<key id="50100879" name="Prepare to Rush" />
+	<key id="50100880" name="Prepare Weak Attack 1 Hit" />
+	<key id="50100881" name="Interactive Buff Skill" />
+	<key id="50100882" name="Interactive Buff Skill" />
+	<key id="50100883" name="Debuff Skill" />
+	<key id="50100884" name="Debuff Skill" />
+	<key id="50100885" name="Health 5% Stun" />
+	<key id="50100886" name="Revive" />
+	<key id="50100887" name="Interactive Buff Skill" />
+	<key id="50100888" name="Prepare Fast Spin Attack" />
+	<key id="50100889" name="Change Jump Smash Pose" />
+	<key id="50100900" name="Prepare Jump (Weak)_Quick" />
+	<key id="50100901" name="Prepare Jump (Medium)" />
+	<key id="50100902" name="Prepare Jump (Strong)" />
+	<key id="50100903" name="Prepare Belly Slam" />
+	<key id="50100904" name="Slow Block" />
+	<key id="50100905" name="Frog Mouth Pull Wind" />
+	<key id="50100906" name="Prepare Pull and Press (Medium)" />
+	<key id="50100907" name="Prepare Jump (Medium)" />
+	<key id="50100908" name="Landing Jump and Again (Strong) Wind" />
+	<key id="50100909" name="Prepare Pull and Press (Medium)" />
+	<key id="50100910" name="Frog Mouth Pull Wind" />
+	<key id="50100950" name="Pulling Breath 1 Hit" />
+	<key id="50100951" name="Boulder Toss" />
+	<key id="50100952" name="Prepare Jump Smash" />
+	<key id="50100953" name="Prepare Breath" />
+	<key id="50100954" name="Prepare Fist Attack" />
+	<key id="50100955" name="Prepare Fist Attack" />
+	<key id="50100956" name="Induce Dark Ball (Standby)" />
+	<key id="50100957" name="Prepare Paw Clawing" />
+	<key id="50100958" name="5 Fireballs (Standby)" />
+	<key id="50100959" name="2 Howitzer Fires" />
+	<key id="50100960" name="Prepare Ranged High-angle Fire" />
+	<key id="50100961" name="Shoot Direct Throw (Pierce)" />
+	<key id="50100962" name="Ranged High-angle Fire (Fire)" />
+	<key id="50100963" name="Prepare to Rush" />
+	<key id="50100964" name="Shoot Direct Throw" />
+	<key id="50100965" name="High-angle Fire in Every Direction (Curse) 4 Shots" />
+	<key id="50100966" name="Prepare Multi Hand Strikes" />
+	<key id="50100967" name="Shoot Direct Throw" />
+	<key id="50100968" name="Breath Attack" />
+	<key id="50100969" name="Shoot Horn Lightning" />
+	<key id="50100970" name="Prepare Charging Grab" />
+	<key id="50100971" name="Throw Grabbed Target 1 Hit" />
+	<key id="50100972" name="Prepare Charge (MAG)" />
+	<key id="50100973" name="Prepare Fist Swing (MAG)" />
+	<key id="50100974" name="Prepare Two-hand DoT Laser (MAG)" />
+	<key id="50100975" name="Prepare 1-hit Weak Attack (MAG)" />
+	<key id="50100976" name="Prepare 1st Attack of 2-hit Weak Attack (MAG)" />
+	<key id="50100977" name="Initially Cast ATK-down Curse" />
+	<key id="50100978" name="Recover Shadow Spirit" />
+	<key id="50100979" name="Prepare Laser" />
+	<key id="50100980" name="Check long distance" />
+	<key id="50101000" name="1st of 2 Hits" />
+	<key id="50101001" name="Powerful Slam Down (Standby)" />
+	<key id="50101002" name="1-hit Taunt Pose after 2 Hits" />
+	<key id="50101003" name="1st Attack of 2-hit Spin" />
+	<key id="50101004" name="Prepare Arrow Shot" />
+	<key id="50101005" name="Prepare Charging Shot" />
+	<key id="50101100" name="Prepare Mouth Shockwave (MAG)" />
+	<key id="50101101" name="Prepare Water Plume Breath (MAG)" />
+	<key id="50101102" name="Prepare Tail Smash (MAG)" />
+	<key id="50101103" name="Prepare Horn Lightning (MAG)" />
+	<key id="50101104" name="Drop Hanging Subject" />
+	<key id="50101105" name="Prepare Energy Explosion" />
+	<key id="50101106" name="Leaping Jump" />
+	<key id="50101107" name="Distance Check Use When Pursuing" />
+	<key id="50101108" name="Check Use for Subject on Top of Hill" />
+	<key id="50101110" name="Prepare Spin Attack" />
+	<key id="50101111" name="Prepare Charging Slash (Short Distance)" />
+	<key id="50101112" name="Prepare Aerial AoE Shock" />
+	<key id="50101113" name="Prepare Slam Down" />
+	<key id="50101114" name="Prepare Spirit Sword Shockwave" />
+	<key id="50101115" name="Prepare Downward Pentacle Slam (Front Target)" />
+	<key id="50101116" name="Shoot Guided Missiles in All Directions (3)" />
+	<key id="50101117" name="Prepare Front Powerful Guided Missile" />
+	<key id="50101118" name="Prepare Front Normal Guided Missile" />
+	<key id="50101119" name="Prepare Front Direct Throw" />
+	<key id="50101120" name="Attack and Defense Increase" />
+	<key id="50101121" name="Summon Minions" />
+	<key id="50101122" name="Heal Minions" />
+	<key id="50101123" name="Battlefield Damage Field (Main)" />
+	<key id="50101124" name="Teleport" />
+	<key id="50101125" name="Begin Moving Jump" />
+	<key id="50101126" name="Prepare Spin Attack" />
+	<key id="50101127" name="Prepare Spin Attack" />
+	<key id="50101128" name="Prepare Charging Slash" />
+	<key id="50101129" name="Prepare Charging Slash" />
+	<key id="50101130" name="Super-close Distance Check" />
+	<key id="50101131" name="Prepare Slam Down" />
+	<key id="50101132" name="Voice Actor Dialogue (Begin 1 Set)" />
+	<key id="50101150" name="Prepare Weak Attack 1 Hit" />
+	<key id="50101151" name="Prepare Weak Attack 2 Hit." />
+	<key id="50101152" name="Prepare Strong Charge Attack" />
+	<key id="50101153" name="Prepare Jump Smash" />
+	<key id="50101154" name="Prepare Weak Energy Wave" />
+	<key id="50101155" name="Prepare Strong Energy Wave" />
+	<key id="50101156" name="Prepare 4 Offensive Winds" />
+	<key id="50101157" name="Fire Tile Type 1" />
+	<key id="50101158" name="Prepare to Teleport" />
+	<key id="50101200" name="Prepare Weak Attack 1 Hit" />
+	<key id="50101201" name="Prepare Weak Attack 2-hit 1 Hit" />
+	<key id="50101202" name="Prepare Jump Smash" />
+	<key id="50101203" name="Prepare to Shoot Magic in Front" />
+	<key id="50101204" name="Set Up Tile Before Multi-slashes" />
+	<key id="50101205" name="Attack_Idle" />
+	<key id="50101206" name="Prepare to Cast DEF Up on Minions" />
+	<key id="50101207" name="Taunt Action" />
+	<key id="50101208" name="Self-recovery" />
+	<key id="50101230" name="Bore_A" />
+	<key id="50101231" name="Bore_A" />
+	<key id="50101232" name="Bore_A" />
+	<key id="50101233" name="Bore_A" />
+	<key id="50101234" name="Curse Explosion Energy Ball" />
+	<key id="50101235" name="Cause Wind (Long)" />
+	<key id="50101236" name=" Fire Element Mode" />
+	<key id="50101237" name="Prepare to Brandish Sword (Fire)" />
+	<key id="50101238" name="Prepare to Brandish Sword (Fire)" />
+	<key id="50101239" name="Prepare to Thrust Sword (Fire)" />
+	<key id="50101240" name="Magic Energy Ball (Fire)" />
+	<key id="50101241" name="Cast Curse in Front (Reduce Restoratives)" />
+	<key id="50101242" name="Prepare Death Curse on 4 Targets" />
+	<key id="50101243" name="Start Grabbing" />
+	<key id="50101244" name="Gaze into Grabbed Target" />
+	<key id="50101245" name="Kill Captured Subject" />
+	<key id="50101246" name="Drop Grabbed Target" />
+	<key id="50101247" name="Fire Tile Type 1" />
+	<key id="50101248" name="Ice on Ceiling Falls" />
+	<key id="50101249" name="Lightning Storm 1 Hit" />
+	<key id="50101250" name="Final Attack (Start Thrusting)" />
+	<key id="50101251" name="Raging Fire Fire Circle 2 Times" />
+	<key id="50101252" name="Ice on Ceiling Falls" />
+	<key id="50101253" name="Lightning Storm - Weak" />
+	<key id="50101254" name="Cast Curse in Front (Reduce Restoratives)" />
+	<key id="50101255" name="Ice on Ceiling Falls" />
+	<key id="50101256" name="Lightning Storm 1 Hit" />
+	<key id="50101257" name="Final Attack (Start Thrusting)" />
+	<key id="50101258" name="Raging Fire Fire Circle 2 Times" />
+	<key id="50101259" name="Ice on Ceiling Falls" />
+	<key id="50101260" name="Lightning Storm - Weak" />
+	<key id="50101270" name="Prepare Melee Attack" />
+	<key id="50101271" name="Prepare Jump Attack" />
+	<key id="50101272" name="Outstretch Left Hand" />
+	<key id="50101273" name="Cast Ground Fist Shockwave" />
+	<key id="50101274" name="Prepare Body Slam" />
+	<key id="50102000" name="Freezing Attack" />
+</ms2>

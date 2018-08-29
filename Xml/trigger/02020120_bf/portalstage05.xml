@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>  
+ <state name="Ready">
+    <onEnter>
+
+    </onEnter>
+
+		<condition name="유저를감지했으면" arg1="199">
+				<transition state="스테이지5_시작"/>
+		</condition>
+  </state>
+  
+  
+  
+ <state name="스테이지5_시작">
+    <onEnter>
+
+    </onEnter>
+		<!-- 졸구간 스테이지4 완료하면  보스에게 Stage05 = ?  신호 받을 때까지 여기서 대기하기-->
+		<condition name="UserValue" key="Stage05" value="11">  
+			<transition state="스테이지5_왼쪽_왼쪽진행" />
+		</condition>		
+
+		
+		
+		<condition name="UserValue" key="Stage05" value="21">  
+			<transition state="스테이지5_왼쪽가운데_왼쪽진행" />
+		</condition>		
+		<condition name="UserValue" key="Stage05" value="22">  
+			<transition state="스테이지5_왼쪽가운데_가운데진행" />
+		</condition>				
+
+		
+		
+		<condition name="UserValue" key="Stage05" value="31">  
+			<transition state="스테이지5_오른쪽가운데_가운데진행" />
+		</condition>				
+		<condition name="UserValue" key="Stage05" value="32">  
+			<transition state="스테이지5_오른쪽가운데_오른쪽진행" />
+		</condition>		
+		
+		
+		<condition name="UserValue" key="Stage05" value="41">  
+			<transition state="스테이지5_오른쪽_오른쪽진행" />
+		</condition>							
+  </state>    
+  
+  
+  
+  
+   <state name="스테이지5_왼쪽_왼쪽진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="5101" arg2="1" arg3="1" arg4="1"/>   <!--	5스테이지로 가는 포탈 생성 -->	
+		<action name="포탈을설정한다" arg1="5102" arg2="1" arg3="1" arg4="1"/>   <!--	5스테이지로 가는 포탈 생성 -->	
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>    
+  
+  
+  
+  
+  
+   <state name="스테이지5_왼쪽가운데_왼쪽진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="5201" arg2="1" arg3="1" arg4="1"/>   
+		<action name="포탈을설정한다" arg1="5202" arg2="1" arg3="1" arg4="1"/>   
+		<action name="포탈을설정한다" arg1="5203" arg2="1" arg3="1" arg4="1"/>   
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>      
+  
+   <state name="스테이지5_왼쪽가운데_가운데진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="5204" arg2="1" arg3="1" arg4="1"/>   
+		<action name="포탈을설정한다" arg1="5205" arg2="1" arg3="1" arg4="1"/>   
+		<action name="포탈을설정한다" arg1="5206" arg2="1" arg3="1" arg4="1"/>   
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>    
+  
+  
+  
+  
+  
+  
+  
+  
+   <state name="스테이지5_오른쪽가운데_가운데진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="5301" arg2="1" arg3="1" arg4="1"/>   
+		<action name="포탈을설정한다" arg1="5302" arg2="1" arg3="1" arg4="1"/>   
+	</onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>     
+    
+   <state name="스테이지5_오른쪽가운데_오른쪽진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="5303" arg2="1" arg3="1" arg4="1"/>   
+		<action name="포탈을설정한다" arg1="5304" arg2="1" arg3="1" arg4="1"/>   
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>      
+  
+  
+  
+  
+  
+
+  
+   <state name="스테이지5_오른쪽_오른쪽진행">
+    <onEnter>
+		<action name="포탈을설정한다" arg1="5401" arg2="1" arg3="1" arg4="1"/>   
+    </onEnter>
+		
+		<condition name="WaitTick" waitTick="2000" > 
+			<transition state="종료" />
+		</condition>
+	
+    <onExit>
+    </onExit>  
+  </state>       
+  
+  
+  
+  
+	<state name="종료">
+	</state>
+	
+</ms2>

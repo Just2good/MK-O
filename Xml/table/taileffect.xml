@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<tailEffect id="101" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_01.xml" distance="60" speed="10" />
+	<tailEffect id="201" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_Poop.xml" distance="60" speed="10" />
+	<tailEffect id="202" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_Fire.xml" distance="60" speed="10" />
+	<tailEffect id="203" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_Slime.xml" distance="60" speed="10" />
+	<tailEffect id="204" effectPath="ETC/survival_tail/Eff_SurvivalContents_Tail_Heart.xml" distance="60" speed="10" />
+</ms2>

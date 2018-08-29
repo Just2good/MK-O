@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="1010" name="STRINGCHANGEJOBDESC_1010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="1011" name="STRINGCHANGEJOBDESC_1011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="1012" name="STRINGCHANGEJOBDESC_1012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="2010" name="STRINGCHANGEJOBDESC_2010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="2011" name="STRINGCHANGEJOBDESC_2011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="2012" name="STRINGCHANGEJOBDESC_2012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="3010" name="STRINGCHANGEJOBDESC_3010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="3011" name="STRINGCHANGEJOBDESC_3011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="3012" name="STRINGCHANGEJOBDESC_3012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="4010" name="STRINGCHANGEJOBDESC_4010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="4011" name="STRINGCHANGEJOBDESC_4011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="4012" name="STRINGCHANGEJOBDESC_4012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="5010" name="STRINGCHANGEJOBDESC_5010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="5011" name="STRINGCHANGEJOBDESC_5011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="5012" name="STRINGCHANGEJOBDESC_5012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="6010" name="STRINGCHANGEJOBDESC_6010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="6011" name="STRINGCHANGEJOBDESC_6011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="6012" name="STRINGCHANGEJOBDESC_6012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="7010" name="STRINGCHANGEJOBDESC_7010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="7011" name="STRINGCHANGEJOBDESC_7011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="7012" name="STRINGCHANGEJOBDESC_7012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="8010" name="STRINGCHANGEJOBDESC_8010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="8011" name="STRINGCHANGEJOBDESC_8011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="8012" name="STRINGCHANGEJOBDESC_8012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="9010" name="STRINGCHANGEJOBDESC_9010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="9011" name="STRINGCHANGEJOBDESC_9011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="9012" name="STRINGCHANGEJOBDESC_9012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10010" name="STRINGCHANGEJOBDESC_10010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10011" name="STRINGCHANGEJOBDESC_10011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="10012" name="STRINGCHANGEJOBDESC_10012_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11010" name="STRINGCHANGEJOBDESC_11010_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11011" name="STRINGCHANGEJOBDESC_11011_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="11012" name="STRINGCHANGEJOBDESC_11012_NAME:[F]JobChange_01" feature="JobChange_01" />
+</ms2>

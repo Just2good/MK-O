@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="80000" name="STRINGSIDEPOPUPSCRIPT_80000_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80010" name="STRINGSIDEPOPUPSCRIPT_80010_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80020" name="STRINGSIDEPOPUPSCRIPT_80020_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80022" name="STRINGSIDEPOPUPSCRIPT_80022_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80023" name="STRINGSIDEPOPUPSCRIPT_80023_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80024" name="STRINGSIDEPOPUPSCRIPT_80024_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80025" name="STRINGSIDEPOPUPSCRIPT_80025_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80030" name="STRINGSIDEPOPUPSCRIPT_80030_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80040" name="STRINGSIDEPOPUPSCRIPT_80040_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80050" name="STRINGSIDEPOPUPSCRIPT_80050_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80051" name="STRINGSIDEPOPUPSCRIPT_80051_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80060" name="STRINGSIDEPOPUPSCRIPT_80060_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80080" name="STRINGSIDEPOPUPSCRIPT_80080_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80081" name="STRINGSIDEPOPUPSCRIPT_80081_NAME:[F]FameContents" feature="FameContents" />
+  <key id="80090" name="STRINGSIDEPOPUPSCRIPT_80090_NAME:[F]FameContents" feature="FameContents" />
+  <key id="93000123" name="STRINGSIDEPOPUPSCRIPT_93000123_NAME:[F]FameContents" feature="FameContents" />
+  <key id="93000124" name="STRINGSIDEPOPUPSCRIPT_93000124_NAME:[F]FameContents" feature="FameContents" />
+  <key id="93000125" name="STRINGSIDEPOPUPSCRIPT_93000125_NAME:[F]FameContents" feature="FameContents" />
+  <key id="93000126" name="STRINGSIDEPOPUPSCRIPT_93000126_NAME:[F]FameContents" feature="FameContents" />
+  <key id="93000127" name="STRINGSIDEPOPUPSCRIPT_93000127_NAME:[F]FameContents" feature="FameContents" />
+  <key id="93000158" name="STRINGSIDEPOPUPSCRIPT_93000158_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000020" name="STRINGSIDEPOPUPSCRIPT_91000020_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000022" name="STRINGSIDEPOPUPSCRIPT_91000022_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000023" name="STRINGSIDEPOPUPSCRIPT_91000023_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000024" name="STRINGSIDEPOPUPSCRIPT_91000024_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000026" name="STRINGSIDEPOPUPSCRIPT_91000026_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000027" name="STRINGSIDEPOPUPSCRIPT_91000027_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000033" name="STRINGSIDEPOPUPSCRIPT_91000033_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000034" name="STRINGSIDEPOPUPSCRIPT_91000034_NAME:[F]FameContents" feature="FameContents" />
+  <key id="91000035" name="STRINGSIDEPOPUPSCRIPT_91000035_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="91000036" name="STRINGSIDEPOPUPSCRIPT_91000036_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="91000037" name="STRINGSIDEPOPUPSCRIPT_91000037_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="91000038" name="STRINGSIDEPOPUPSCRIPT_91000038_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="20002326" name="STRINGSIDEPOPUPSCRIPT_20002326_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20002390" name="STRINGSIDEPOPUPSCRIPT_20002390_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20002336" name="STRINGSIDEPOPUPSCRIPT_20002336_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20002347" name="STRINGSIDEPOPUPSCRIPT_20002347_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20002359" name="STRINGSIDEPOPUPSCRIPT_20002359_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20002369" name="STRINGSIDEPOPUPSCRIPT_20002369_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20002378" name="STRINGSIDEPOPUPSCRIPT_20002378_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="40002722" name="STRINGSIDEPOPUPSCRIPT_40002722_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="40002732" name="STRINGSIDEPOPUPSCRIPT_40002732_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="40002744" name="STRINGSIDEPOPUPSCRIPT_40002744_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="40002754" name="STRINGSIDEPOPUPSCRIPT_40002754_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="40002766" name="STRINGSIDEPOPUPSCRIPT_40002766_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+</ms2>

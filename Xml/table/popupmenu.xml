@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<menu id="100" name="100" methodname="OnMyInfo" />
+	<menu id="101" name="101" methodname="OnWhisper" />
+	<menu id="102" name="102" methodname="OnPcInfo" />
+	<menu id="200" name="200" methodname="OnLeaveParty" />
+	<menu id="201" name="201" methodname="OnInviteParty" />
+	<menu id="202" name="202" methodname="OnKickFromParty" />
+	<menu id="203" name="203" methodname="OnChangeChief" />
+	<menu id="204" name="204" methodname="OnKickFromPartyVote" locale="CN" />
+	<menu id="300" name="300" methodname="OnRemoveBuddy" />
+	<menu id="301" name="301" methodname="OnAddBuddy" />
+	<menu id="400" name="400" methodname="OnBanBuddy" />
+	<menu id="401" name="401" methodname="OnRemoveBanBuddy" />
+	<menu id="402" name="402" methodname="OnEditBanBuddyMemo" />
+	<menu id="500" name="500" methodname="OnTradeRequest" />
+	<menu id="501" name="501" methodname="OnReport" />
+	<menu id="502" name="502" methodname="OnGroupChat" />
+	<menu id="503" name="503" methodname="OnHomeVisit" />
+	<menu id="504" name="504" methodname="OnHomeInvite" />
+	<menu id="505" name="505" methodname="OnPetInfo" />
+	<menu id="506" name="506" methodname="OnPetSummonOff" />
+	<menu id="507" name="507" methodname="OnConstructAuthority" />
+	<menu id="508" name="508" methodname="OnCoupleEmotion" />
+	<menu id="600" name="600" methodname="OnUGCMapFunTombstone" />
+	<menu id="601" name="601" methodname="OnUGCMapFunRevive" />
+	<menu id="602" name="602" methodname="OnUGCMapFunKick" />
+	<menu id="701" name="701" methodname="OnInviteGuild" />
+	<function id="1001" menu="100" />
+	<function id="1002" menu="102,101" />
+	<function id="1003" menu="102" />
+	<function id="1004" menu="101" />
+	<function id="1005" menu="" />
+	<function id="2001" menu="" />
+	<function id="2002" menu="200" />
+	<function id="2003" menu="201" />
+	<function id="2004" menu="202,203,204" />
+	<function id="2005" menu="202,204" />
+	<function id="2006" menu="201" />
+	<function id="2007" menu="204" />
+	<function id="3001" menu="300" />
+	<function id="3002" menu="301" />
+	<function id="4001" menu="401,402" />
+	<function id="4002" menu="400" />
+	<function id="5000" menu="500" />
+	<function id="5001" menu="501" />
+	<function id="5002" menu="502" />
+	<function id="5003" menu="503" />
+	<function id="5004" menu="504" />
+	<function id="5005" menu="505" />
+	<function id="5006" menu="506" />
+	<function id="5007" menu="507" />
+	<function id="5008" menu="508" />
+	<function id="6000" menu="600,602" />
+	<function id="6001" menu="601,602" />
+	<function id="7000" menu="701" />
+</ms2>

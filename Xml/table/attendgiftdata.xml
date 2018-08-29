@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<AttendGiftData giftID="1">
+		<group>
+			<v itemID="20300599" count="1" grade="1" />
+			<v itemID="20300599" count="1" grade="1" />
+		</group>
+		<group>
+			<v itemID="20300599" count="1" grade="1" />
+			<v itemID="20300582" count="1" grade="1" />
+		</group>
+		<group>
+			<v itemID="20300599" count="1" grade="1" />
+		</group>
+		<group>
+			<v itemID="20300599" count="1" grade="1" />
+		</group>
+		<group>
+			<v itemID="20300582" count="1" grade="1" />
+		</group>
+		<group>
+			<v itemID="20300595" count="1" grade="1" />
+		</group>
+	</AttendGiftData>
+</ms2>

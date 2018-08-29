@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<exp expType="mapCommon" expTableID="2" factor="5" />
+	<exp expType="mapHidden" expTableID="2" factor="5" />
+	<exp expType="taxi" expTableID="2" factor="10" />
+	<exp expType="telescope" expTableID="2" factor="20" />
+	<exp expType="rareChestFirst" expTableID="2" factor="10" />
+	<exp expType="rareChest" expTableID="2" factor="3" />
+	<exp expType="normalChest" expTableID="2" factor="3" />
+	<exp expType="expDrop" expTableID="1" factor="0.4" />
+	<exp expType="musicMastery1" expTableID="1" factor="0.0116666666666667" />
+	<exp expType="musicMastery2" expTableID="1" factor="0.0116666666666667" />
+	<exp expType="musicMastery3" expTableID="1" factor="0.0116666666666667" />
+	<exp expType="musicMastery4" expTableID="1" factor="0.0116666666666667" />
+	<exp expType="arcade" expTableID="1" factor="1" />
+	<exp expType="fishing" expTableID="1" factor="0.0333333333333333" />
+	<exp expType="fishing" expTableID="1" factor="0.0666666666666667" locale="KR" />
+	<exp expType="rest" expTableID="1" factor="0.042" />
+	<exp expType="bloodMineRank1" expTableID="1" factor="25" />
+	<exp expType="bloodMineRank2" expTableID="1" factor="20" />
+	<exp expType="bloodMineRank3" expTableID="1" factor="10" />
+	<exp expType="bloodMineRankOther" expTableID="1" factor="5" />
+	<exp expType="redDuelWin" expTableID="1" factor="25" />
+	<exp expType="redDuelLose" expTableID="1" factor="5" />
+	<exp expType="btiTeamWin" expTableID="1" factor="25" />
+	<exp expType="btiTeamLose" expTableID="1" factor="5" />
+	<exp expType="rankDuelWin" expTableID="1" factor="6" />
+	<exp expType="rankDuelLose" expTableID="1" factor="2" />
+	<exp expType="gathering" expTableID="1" factor="0.025" feature="Mastery" />
+	<exp expType="gathering" expTableID="1" factor="0.125" feature="Mastery" locale="KR" />
+	<exp expType="manufacturing" expTableID="1" factor="0.0166666666666667" feature="Mastery" />
+	<exp expType="manufacturing" expTableID="1" factor="0.0833333333333333" feature="Mastery" locale="KR" />
+	<exp expType="miniGame" expTableID="1" factor="25" />
+	<exp expType="userMiniGame" expTableID="1" factor="1.5" />
+	<exp expType="userMiniGameExtra" expTableID="1" factor="1.5" />
+	<exp expType="eventDungeon" expTableID="1" factor="10" />
+	<exp expType="dungeonRelative" expTableID="1" factor="1" />
+	<exp expType="guildUserExp" expTableID="1" factor="1" />
+	<exp expType="petTaming" expTableID="1" factor="1" feature="PetBase" />
+	<exp expType="construct" expTableID="1" factor="0.05" />
+	<exp expType="mapleSurvival" expTableID="1" factor="1" feature="SurvivalContents01" />
+	<exp expType="quest" expTableID="1" factor="5" />
+	<exp expType="epicQuest" expTableID="1" factor="0" />
+	<exp expType="mission" expTableID="2" factor="10" />
+	<exp expType="dailyGuildQuest" expTableID="1" factor="8" />
+	<exp expType="weeklyGuildQuest" expTableID="1" factor="20" />
+	<exp expType="dailymission" expTableID="7" factor="1" />
+	<exp expType="dailymissionLevelUp" expTableID="8" factor="1" />
+	<exp expType="mapCommon" expTableID="3" factor="0.05" locale="NA" />
+	<exp expType="mapHidden" expTableID="3" factor="0.05" locale="NA" />
+	<exp expType="taxi" expTableID="3" factor="0.05" locale="NA" />
+	<exp expType="telescope" expTableID="3" factor="0.05" locale="NA" />
+	<exp expType="rareChestFirst" expTableID="3" factor="0.5" locale="NA" />
+	<exp expType="rareChest" expTableID="3" factor="0.5" locale="NA" />
+	<exp expType="normalChest" expTableID="3" factor="0.5" locale="NA" />
+	<exp expType="expDrop" expTableID="3" factor="0.4" locale="NA" />
+	<exp expType="musicMastery1" expTableID="3" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery2" expTableID="3" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery3" expTableID="3" factor="0.0116666666666667" locale="NA" />
+	<exp expType="musicMastery4" expTableID="3" factor="0.0116666666666667" locale="NA" />
+	<exp expType="arcade" expTableID="3" factor="1" locale="NA" />
+	<exp expType="fishing" expTableID="3" factor="0.0333333333333333" locale="NA" />
+	<exp expType="rest" expTableID="3" factor="0.021" locale="NA" />
+	<exp expType="bloodMineRank1" expTableID="4" factor="1" locale="NA" />
+	<exp expType="bloodMineRank2" expTableID="4" factor="0.8" locale="NA" />
+	<exp expType="bloodMineRank3" expTableID="4" factor="0.4" locale="NA" />
+	<exp expType="bloodMineRankOther" expTableID="4" factor="0.2" locale="NA" />
+	<exp expType="redDuelWin" expTableID="4" factor="1" locale="NA" />
+	<exp expType="redDuelLose" expTableID="4" factor="0.2" locale="NA" />
+	<exp expType="btiTeamWin" expTableID="4" factor="1" locale="NA" />
+	<exp expType="btiTeamLose" expTableID="4" factor="0.2" locale="NA" />
+	<exp expType="rankDuelWin" expTableID="3" factor="1.5" locale="NA" />
+	<exp expType="rankDuelLose" expTableID="3" factor="0.5" locale="NA" />
+	<exp expType="gathering" expTableID="3" factor="0.025" feature="Mastery" locale="NA" />
+	<exp expType="manufacturing" expTableID="3" factor="0.0166666666666667" feature="Mastery" locale="NA" />
+	<exp expType="miniGame" expTableID="4" factor="1" locale="NA" />
+	<exp expType="userMiniGame" expTableID="3" factor="1.2" locale="NA" />
+	<exp expType="userMiniGameExtra" expTableID="3" factor="1.2" locale="NA" />
+	<exp expType="eventDungeon" expTableID="3" factor="10" locale="NA" />
+	<exp expType="dungeonRelative" expTableID="3" factor="1" locale="NA" />
+	<exp expType="guildUserExp" expTableID="3" factor="0.1" locale="NA" />
+	<exp expType="petTaming" expTableID="3" factor="1" feature="PetBase" locale="NA" />
+	<exp expType="construct" expTableID="3" factor="0.05" locale="NA" />
+	<exp expType="mapleSurvival" expTableID="3" factor="1" feature="SurvivalContents01" locale="NA" />
+	<exp expType="quest" expTableID="3" factor="1" locale="NA" />
+	<exp expType="epicQuest" expTableID="3" factor="0" locale="NA" />
+	<exp expType="mission" expTableID="3" factor="0.5" locale="NA" />
+	<exp expType="dailyGuildQuest" expTableID="3" factor="1" locale="NA" />
+	<exp expType="weeklyGuildQuest" expTableID="3" factor="1" locale="NA" />
+	<exp expType="dailymission" expTableID="3" factor="1" locale="NA" />
+	<exp expType="dailymissionLevelUp" expTableID="3" factor="2" locale="NA" />
+</ms2>

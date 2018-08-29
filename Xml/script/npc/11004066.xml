@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<select id="0" feature="" locale="NA">
+		<content text="$script:0619202207010127$" />
+	</select>
+	<script randomPick="1" id="10" feature="" locale="NA">
+		<content text="$script:0619202207010128$" />
+		<content text="$script:0619202207010129$">
+			<distractor text="$script:0619202207010130$" goto="31" gotoFail="" />
+		</content>
+	</script>
+	<script id="31" feature="" locale="NA">
+		<content text="$script:0619202207010131$" />
+	</script>
+	<script id="32" feature="" locale="NA">
+		<content text="$script:0619202207010132$">
+			<distractor text="$script:0619202207010133$" goto="33" gotoFail="" />
+		</content>
+	</script>
+	<script id="33" feature="" locale="NA">
+		<content text="$script:0619202207010134$" />
+	</script>
+</ms2>

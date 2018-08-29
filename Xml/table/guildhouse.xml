@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<guildHouse level="1" theme="1" fieldID="66100001" upgradeReqGuildLevel="1" upgradeCost="0" rethemeCost="0" thumbnailPath="./Data/Resource/Image/Map/GuildHouse/66100001_thumb.png" imagePath="./Data/Resource/Image/Map/GuildHouse/66100001.png" areaSize="12" facility="1,2,3,5,14" stringKey="66100001" feature="GuildHouse01" />
+	<guildHouse level="2" theme="1" fieldID="66100002" upgradeReqGuildLevel="6" upgradeCost="50000000" rethemeCost="10000000" thumbnailPath="./Data/Resource/Image/Map/GuildHouse/66100002_thumb.png" imagePath="./Data/Resource/Image/Map/GuildHouse/66100002.png" areaSize="16" facility="1,2,3,5,6,14,15" stringKey="66100002" feature="GuildHouse01" />
+	<guildHouse level="2" theme="2" fieldID="66100011" upgradeReqGuildLevel="6" upgradeCost="50000000" rethemeCost="10000000" thumbnailPath="./Data/Resource/Image/Map/GuildHouse/66100011_thumb.png" imagePath="./Data/Resource/Image/Map/GuildHouse/66100011.png" areaSize="16" facility="1,2,3,5,6,14,15" stringKey="66100011" feature="GuildHouse01" />
+</ms2>

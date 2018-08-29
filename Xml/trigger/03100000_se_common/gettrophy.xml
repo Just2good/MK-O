@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<state name="getTrophy"> <!-- 트로피 지급 스테이트 -->
+		<onEnter>	
+		</onEnter>
+		<condition name="DungeonLevel" level="1"> <!-- 1단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_1" isDebug="1"/>			
+		</condition>
+		<condition name="DungeonLevel" level="2"> <!-- 2단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_2" isDebug="1"/>			
+		</condition>		
+		<condition name="DungeonLevel" level="3"> <!-- 3단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_3" isDebug="1"/>
+		</condition>	
+		<condition name="DungeonLevel" level="4"> <!-- 4단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_4" isDebug="1"/>
+		</condition>	
+		<condition name="DungeonLevel" level="5"> <!-- 5단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_5" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="6"> <!-- 6단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_6" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="7"> <!-- 7단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_7" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="8"> <!-- 8단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_8" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="9"> <!-- 9단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_9" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="10"> <!-- 10단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_10" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="11"> <!-- 11단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_11" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="12"> <!-- 12단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_12" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="13"> <!-- 13단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_13" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="14"> <!-- 14단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_14" isDebug="1"/>			
+		</condition>
+		<condition name="DungeonLevel" level="15"> <!-- 15단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_15" isDebug="1"/>			
+		</condition>		
+		<condition name="DungeonLevel" level="16"> <!-- 16단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_16" isDebug="1"/>			
+		</condition>			
+		<condition name="DungeonLevel" level="17"> <!-- 17단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_17" isDebug="1"/>			
+		</condition>			
+		<condition name="DungeonLevel" level="18"> <!-- 18단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_18" isDebug="1"/>			
+		</condition>			
+		<condition name="DungeonLevel" level="19"> <!-- 19단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_19" isDebug="1"/>			
+		</condition>	
+		<condition name="DungeonLevel" level="20"> <!-- 20단계 -->
+			<transition state="DungeonClear" />	
+				<action name="업적이벤트를발생시킨다" arg1="199" arg2="trigger" arg3="ShadowExpediton_step_20" isDebug="1"/>			
+		</condition>					
+	</state>	
+</ms2>

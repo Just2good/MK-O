@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<quest questID="80020001" name="Slimy Dealings" desc="Raise a cute Rainbow Slime and get neat gifts!" manual="Learn how to raise a rainbow slime" complete="Learned how to raise a rainbow slime" count="1" locale="" locking="0" />
+	<quest questID="80020002" name="My Very Own Slime" desc="Place a $item:50400282$ in your home! You can find a $item:50400282$ in the Rainbow Slime tab of the furnishings menu. If you&apos;ve already placed one, remove it and place it again." manual="Place $item:50400282$ in your home" complete="Placed $item:50400282$ in your home" count="1" locale="" locking="0" />
+	<quest questID="89040000" name="Reach Level 10" desc="" manual="Reach Level 10" complete="Reach Level 10" count="1" locale="" locking="0" />
+	<quest questID="89040001" name="Visit 10 maps" desc="" manual="Visit 10 maps" complete="Visit 10 maps" count="1" locale="" locking="0" />
+	<quest questID="89040002" name="Place a $item:50400096$ in your home" desc="" manual="Place a $item:50400096$ in your home" complete="Place a $item:50400096$ in your home" count="1" locale="" locking="0" />
+	<quest questID="89040003" name="Send a friend request" desc="" manual="Send a friend request" complete="Send a friend request" count="1" locale="" locking="0" />
+	<quest questID="89040004" name="Visit another player&apos;s house" desc="" manual="Visit another player&apos;s house" complete="Visit another player&apos;s house" count="1" locale="" locking="0" />
+	<quest questID="89040005" name="Reach Level 20" desc="" manual="Reach Level 20" complete="Reach Level 20" count="1" locale="" locking="0" />
+	<quest questID="89040006" name="Participate in 5 MC Kay games" desc="" manual="Participate in 5 MC Kay games" complete="Participate in 5 MC Kay games" count="1" locale="" locking="0" />
+	<quest questID="89040007" name="Battle beast monsters" desc="" manual="Battle beast monsters" complete="Battle beast monsters" count="1" locale="" locking="0" />
+	<quest questID="89040008" name="Defeat 3 normal adventure dungeon bosses" desc="" manual="Defeat 3 normal adventure dungeon bosses" complete="Defeat 3 normal adventure dungeon bosses" count="1" locale="" locking="0" />
+	<quest questID="89040009" name="Join a guild" desc="" manual="Join a guild" complete="Join a guild" count="1" locale="" locking="0" />
+	<quest questID="89040010" name="Reach Level 30" desc="" manual="Reach Level 30" complete="Reach Level 30" count="1" locale="" locking="0" />
+	<quest questID="89040011" name="Open 30 wooden treasures" desc="" manual="Open 30 wooden treasures" complete="Open 30 wooden treasures" count="1" locale="" locking="0" />
+	<quest questID="89040012" name="Defeat 1 world boss" desc="" manual="Defeat 1 world boss" complete="Defeat 1 world boss" count="1" locale="" locking="0" />
+	<quest questID="89040013" name="Design 1 UGC outfit" desc="" manual="Design 1 UGC outfit" complete="Design 1 UGC outfit" count="1" locale="" locking="0" />
+	<quest questID="89040014" name="Perform 3 songs in Tria" desc="" manual="Perform 3 songs in Tria" complete="Perform 3 songs in Tria" count="1" locale="" locking="0" />
+	<quest questID="89040015" name="Reach Level 35" desc="" manual="Reach Level 35" complete="Reach Level 35" count="1" locale="" locking="0" />
+	<quest questID="89040016" name="Dismantle 10 pieces of gear" desc="" manual="Dismantle 10 pieces of gear" complete="Dismantle 10 pieces of gear" count="1" locale="" locking="0" />
+	<quest questID="89040017" name="Reach Level 3 in 1 Life Skill" desc="" manual="Reach Level 3 in 1 Life Skill" complete="Reach Level 3 in 1 Life Skill" count="1" locale="" locking="0" />
+	<quest questID="89040018" name="Obtain 10 trophies" desc="" manual="Obtain 10 trophies" complete="Obtain 10 trophies" count="1" locale="" locking="0" />
+	<quest questID="89040019" name='Complete the world quest &quot;$quest:20001640$&quot;' desc="" manual='Complete the world quest &quot;$quest:20001640$&quot;' complete='Complete the world quest &quot;$quest:20001640$&quot;' count="1" locale="" locking="0" />
+	<quest questID="89040020" name="Reach Level 40" desc="" manual="Reach Level 40" complete="Reach Level 40" count="1" locale="" locking="0" />
+	<quest questID="89040021" name="Complete 1 guild quest" desc="" manual="Complete 1 guild quest" complete="Complete 1 guild quest" count="1" locale="" locking="0" />
+	<quest questID="89040022" name="Swim 50 m in $map:02000377$" desc="" manual="Swim 50 m in $map:02000377$" complete="Swim 50 m in $map:02000377$" count="1" locale="" locking="0" />
+	<quest questID="89040023" name="Catch 300 fish" desc="" manual="Catch 300 fish" complete="Catch 300 fish" count="1" locale="" locking="0" />
+	<quest questID="89040024" name="Open 10 golden treasure chests" desc="" manual="Open 10 golden treasure chests" complete="Open 10 golden treasure chests" count="1" locale="" locking="0" />
+	<quest questID="89040025" name="Reach Level 45" desc="" manual="Reach Level 45" complete="Reach Level 45" count="1" locale="" locking="0" />
+	<quest questID="89040026" name="Clear $dungeonTitle:29004001$ 1 time" desc="" manual="Clear 6 treasure dungeons" complete="Clear 6 treasure dungeons" count="1" locale="" locking="0" />
+	<quest questID="89040027" name="Participate in $map:02000387$ 1 time" desc="" manual="Participate in $map:02000387$ 1 time" complete="Participate in $map:02000387$ 1 time" count="1" locale="" locking="0" />
+	<quest questID="89040028" name="Speak with $npcName:11000254$ at the hair salon" desc="" manual="Speak with $npcName:11000254$ at the hair salon" complete="Speak with $npcName:11000254$ at the hair salon" count="1" locale="" locking="0" />
+	<quest questID="89040029" name="Obtain $item:30000869$" desc="" manual="Obtain $item:30000869$" complete="Obtain $item:30000869$" count="1" locale="" locking="0" />
+	<quest questID="89040030" name="Reach Level 50" desc="" manual="Reach Level 50" complete="Reach Level 50" count="1" locale="" locking="0" />
+	<quest questID="89040031" name="Capture 1 pet" desc="" manual="Capture 1 pet" complete="Capture 1 pet" count="1" locale="" locking="0" />
+	<quest questID="89040032" name="Clear round 5 of $map:02000350$" desc="" manual="Clear round 5 of $map:02000350$" complete="Clear round 5 of $map:02000350$" count="1" locale="" locking="0" />
+	<quest questID="89040033" name="Defeat $npc:23000011$ in $dungeonTitle:20014002$" desc="" manual="Defeat $npc:23000011$ in $dungeonTitle:20014002$" complete="Defeat $npc:23000011$ in $dungeonTitle:20014002$" count="1" locale="" locking="0" />
+	<quest questID="89040034" name="Participate in $dungeonTitle:29005001$ 1 time" desc="" manual="Clear $dungeonTitle:29005001$ 1 time" complete="Clear $dungeonTitle:29005001$ 1 time" count="1" locale="" locking="0" />
+</ms2>

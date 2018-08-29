@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="1" name="Gildentrophäen" />
+  <key id="2" name="Eigene Trophäen" />
+  <key id="3" name="Dunkler Abgrund" />
+  <key id="4" name="Maple-Arena" />
+  <key id="5" name="Gildenmeisterschaft" />
+  <key id="6" name="Meisterarchitekt" />
+  <key id="7" name="Schweres Abenteuer" />
+  <key id="8" name="Chaosraubzug" />
+  <key id="9" name="Kehrtraubzug" />
+  <key id="10" name="Spielhalle" />
+  <key id="11" name="World Invasion" />
+  <key id="12" name="Fortress Rumble" />
+  <key id="13" name="Pilzkönig Royale" />
+  <key id="14" name="Weltenraubzug" />
+  <key id="15" name="STRINGGAMERANKINGCATEGORY_15_NAME:[F]LapentaDungeon" feature="LapentaDungeon" />
+</ms2>

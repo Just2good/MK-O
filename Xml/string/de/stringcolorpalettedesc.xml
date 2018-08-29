@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="10000001" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000002" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000003" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000004" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000005" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000006" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000007" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000008" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000009" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000010" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000011" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000012" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000013" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000014" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000015" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000016" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000017" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000018" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000019" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000020" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10000021" name="Eine von 20 Farben, die von der Modevereinigung Tria benannt wurde.\nDie Farbpalette deckt alle populären Farben ab. Da wird das Kombinieren zum Kinderspiel." feature="NaColorSystem" />
+  <key id="10001000" name="Das Unterkleid eines $npcName:23000019$en besteht aus weichen dicken Federn in diesem Farbton.\nDie Federn werden häufig für Schmuck und Ornamente verwendet, was einen sehr eleganten Eindruck erzeugt." feature="NaColorSystem" />
+  <key id="10001001" name="Makler der Unterwelt pflegen Anzüge in diesem Farbton zu tragen, wenn sie besonders repräsentativ auftreten möchten." feature="NaColorSystem" />
+  <key id="10001002" name="Bei dieser Farbe kannst du beinahe das reiche Aroma von Erde und Wald riechen." feature="NaColorSystem" />
+  <key id="10001003" name="Wenn du auf der Flucht bist, tust du alles, um zu überleben. Du würdest sogar diese schlechteste Frucht der Welt essen." feature="NaColorSystem" />
+  <key id="10001004" name="Freunde leichter Kleider in wuchtigen Farben lieben das kräftige Blau, mit dem sie ihren Gegnern ihren Kampfeswillen zeigen." feature="NaColorSystem" />
+  <key id="10001005" name="Augen in diesem tiefen Blau enthalten tiefe Wahrheiten." feature="NaColorSystem" />
+  <key id="10001006" name="Dieses kräftige Violett findet man nur in dunklen Ecken der Welt." feature="NaColorSystem" />
+  <key id="10001007" name="Schwächere Varianten von $item:20000004$en sind in dieser Farbe erhältlich. \nDer perfekte Wachmacher!" feature="NaColorSystem" />
+  <key id="10001008" name="Die brennenden Stürme von $map:02000051$ gaben diesem erdigen Farbton seinen Namen." feature="NaColorSystem" />
+  <key id="10001009" name="Der auf Hochglanz polierte Boden des Palasts von $map:02000001$ hat diesen staatsmännischen Farbton." feature="NaColorSystem" />
+  <key id="10001010" name="Die Farbe eines dicken saftigen Pfirsichs – der auf den Boden gefallen ist." feature="NaColorSystem" />
+  <key id="10001011" name="Diese düstere Farbe hinterlässt ein Gefühl von Einsamkeit." feature="NaColorSystem" />
+  <key id="10001012" name="Die Uniformen der Magieakademie Ellinel ziert dieses Grün." feature="NaColorSystem" />
+  <key id="10001013" name="Nur jemand mit einem ausgeprägten Sinn für subtile Farben wird sich in diesem leichten Hellgrün wohlfühlen." feature="NaColorSystem" />
+  <key id="10001014" name="Kräftiges Grün und ein Hauch von Blau machen diese Farbe zum Favoriten der Kanoniere." feature="NaColorSystem" />
+  <key id="10001015" name="Die königlichen Ritter nutzen strahlende Farbtöne wie dieses Himmelblau, um ihre Moral zu stärken." feature="NaColorSystem" />
+  <key id="10001016" name="$npcName:11000255$s Outfits sind immer perfekt aufeinander abgestimmt. Für gewöhnlich nutzt sie diese Farbe für ihren Lidschatten." feature="NaColorSystem" />
+  <key id="10001017" name="Ein elegantes Pink für wahre Ästheten." feature="NaColorSystem" />
+  <key id="10001018" name="Diese prächtige Farbe ist für formelle Uniformen reserviert." feature="NaColorSystem" />
+  <key id="10001019" name="Farben wie diese inspirieren Abenteurer, neue Regionen der Maple-Welt zu entdecken!" feature="NaColorSystem" />
+  <key id="10001020" name="Der Stammesfürst von $map:02000051$ ist sanft und weise, aber auch kämpferisch, wenn es sein muss.\nDieser Farbton mischt sein gutes Herz mit einem Hauch seiner erschreckenden Macht." feature="NaColorSystem" />
+  <key id="10001021" name="Eine Mischung aus Orange und Blau lässt einen sofort an einen Sonnenuntergang am Meer denken." feature="NaColorSystem" />
+  <key id="10001022" name="So pink, dass es dir fast die Augäpfel verätzt!" feature="NaColorSystem" />
+  <key id="10001023" name="Diese Farbe ist Seegras nachempfunden und bei Schwimmern ein ganz großer Hit." feature="NaColorSystem" />
+  <key id="10001024" name="Im Licht des Vollmondes findest du Agenten der Schatten, die sich in Blau und Violett gehüllt haben." feature="NaColorSystem" />
+  <key id="10001025" name="Die verzauberten Hände von Papulatus glühen in diesem intensiven Blau." feature="NaColorSystem" />
+  <key id="10001026" name="Hexer lieben es, sich in leuchtende Farben wie dieses Purpurrot zu hüllen." feature="NaColorSystem" />
+  <key id="10001027" name="Die weit entfernten pinken Wolken am Himmel sind manchmal in diesen göttlichen Farbton getaucht." feature="NaColorSystem" />
+  <key id="10001028" name="Jemand war wohl mit normalem Braun unzufrieden und hat sich entschlossen, das Ganze etwas aufzuhellen!" feature="NaColorSystem" />
+  <key id="10001029" name="Dieser teuflische Farbton ist vom Herrn der Unterwelt höchstpersönlich inspiriert." feature="NaColorSystem" />
+  <key id="10001030" name="$npcName:11000068$ ist eine verwirrende Mischung aus Licht und Dunkelheit." feature="NaColorSystem" />
+  <key id="10001031" name="Dieses Mandarin wird dich zum Ausrasten bringen!" feature="NaColorSystem" />
+  <key id="10001032" name="Diese raffinierte Farbmischung ist so durchdringend hell, dass du sie fast schmecken kannst." feature="NaColorSystem" />
+  <key id="10001033" name="Jemand, der sich ganz tief in den Wald begibt, wird diesen Farbton dort wiederfinden." feature="NaColorSystem" />
+  <key id="10001034" name="In klaren Nächten leuchtet der unendliche Sternenhimmel genauso hell wie die Sonne am Tag." feature="NaColorSystem" />
+  <key id="10001035" name="Du magst es kalt? Du magst es heiß? Warum nicht beides gleichzeitig?" feature="NaColorSystem" />
+  <key id="10001036" name="Es gibt viele Arten von Pink auf der Welt, aber keine beleidigt die Augen so wie diese." feature="NaColorSystem" />
+  <key id="10001037" name="Die gesündesten Blüten blühen mit nie zuvor gesehenen Farbkompositionen der Natur." feature="NaColorSystem" />
+  <key id="10001038" name="Das passiert, wenn man sich nicht zwischen niedlich und ernsthaft entscheiden kann." feature="NaColorSystem" />
+  <key id="10001039" name="Wer hätte gedacht, dass eine Mischung aus Weiß und Violett zu einer solchen Pracht führen könnte?" feature="NaColorSystem" />
+  <key id="10001040" name="Dieses Pink ist einfach zum Reinbeißen!" feature="NaColorSystem" />
+  <key id="10001041" name="Die Anführerin $npcName:11000015$ ist immer ihren eigenen Weg gegangen. \nDa ist es nur fair, dass sie auch ihre eigene Farbe erhält." feature="NaColorSystem" />
+  <key id="10001042" name="Denke an deine Welt und die Wunder der Natur, wenn du diese Farbe siehst." feature="NaColorSystem" />
+  <key id="10001043" name="Die tiefsten Wälder von $map:02000023$ sind trunken von diesem satten Grün." feature="NaColorSystem" />
+  <key id="10001044" name="Diese edle Farbe zieht die Blicke des ganzen Raums auf sich." feature="NaColorSystem" />
+  <key id="10001045" name="Lass dich von diesem mutigen Blau zu neuen Abenteuern führen!" feature="NaColorSystem" />
+  <key id="10001046" name="$npcName:11000502$ hat aus einer unbekannten Mischung von Farbtönen sein Haar gefärbt.\nModedesigner waren begeistert und jetzt kann jeder seine wilde Seite zur Schau stellen." feature="NaColorSystem" />
+  <key id="10001047" name="Es ist die Farbe von $npcName:11003146$s Haar, aber mit einem Hauch von Melancholie." feature="NaColorSystem" />
+  <key id="10001048" name="Bitter und dunkel, abgerundet mit einem Hauch Gemeinheit." feature="NaColorSystem" />
+  <key id="10001049" name="Auch etwas Verbranntes kann die Quelle einer fulminanten Farbe sein." feature="NaColorSystem" />
+  <key id="10001050" name="Wenn Beharrlichkeit eine Farbe wäre, würde sie so aussehen." feature="NaColorSystem" />
+  <key id="10001051" name="Süß und würzig, wie die Fahrt in einem orientalischen Taxi." feature="NaColorSystem" />
+  <key id="10001052" name="Es ist so grün, dass es schon fast künstlich aussieht." feature="NaColorSystem" />
+  <key id="10001053" name="Beschützer der Natur kleiden sich in Farben, an denen man ihre Gesinnung erkennen kann." feature="NaColorSystem" />
+  <key id="10001054" name="Dieses sanfte Blau ist angeblich vom Leuchten der Lapenta inspiriert." feature="NaColorSystem" />
+  <key id="10001055" name="Wenn sich Sturmwolken zusammenbrauen, bekommt der Ozean dieses kraftvolle Blau." feature="NaColorSystem" />
+  <key id="10001056" name="Dieses klassische Violett hält die perfekte Balance zwischen hell und gedeckt." feature="NaColorSystem" />
+  <key id="10001057" name="Eine Farbe, die Freundschaft verspricht, sich nach Liebe sehnt und dabei Neid verbirgt." feature="NaColorSystem" />
+  <key id="10001058" name="$npcName:11000751$ bevorzugt diese Farbe bei all ihren offiziellen Auftritten." feature="NaColorSystem" />
+  <key id="10001059" name="Diese Farbe kommt von den tiefschwarzen Pilzen rund um $map:02000100$." feature="NaColorSystem" />
+  <key id="10001060" name="Feuer in diesem intensiven Orange brennen in der Heimat der bösen Devilyn." feature="NaColorSystem" />
+  <key id="10001061" name="Diejenigen, die Gold finden, sind die glücklichsten von uns allen!" feature="NaColorSystem" />
+  <key id="10001062" name="Die unvergessliche Farbe von einem Haufen Taler, der im Sonnenlicht glitzert." feature="NaColorSystem" />
+  <key id="10001063" name="Niemand weiß, woher $npcName:22000059$ stammt, aber die Moose, die er bei sich trägt, haben dieses unglaubliche Grün." feature="NaColorSystem" />
+  <key id="10001064" name="Es erfrischt einen schon, diese Farbe nur anzusehen! Ahhhh!" feature="NaColorSystem" />
+  <key id="10001065" name="Man kann die Farbpigmente vor Energie fast platzen hören." feature="NaColorSystem" />
+  <key id="10001066" name="Dieses Pink geht dir so durch Mark und Bein, dass du deine Füße bewegen musst." feature="NaColorSystem" />
+  <key id="10001067" name="Die natürliche Farbe des Oktopus ist dieses liebliche Pink.\nEs ist schon fast ein Jammer, dass sie ihre Farbe so oft ändern!" feature="NaColorSystem" />
+  <key id="10001068" name="Ungeachtet der Wärme und Schönheit dieser Farbe war sie inspiriert von $npcName:11000144$s langem, blutigem Weg \nzur $map:02000044$." feature="NaColorSystem" />
+  <key id="10001069" name="Die liebliche Farbe eines&#160;... HAIIIIIS!" feature="NaColorSystem" />
+  <key id="10001070" name="Dieses leuchtende Rot lodert mit großer Intensität. Erträgst du die Hitze?" feature="NaColorSystem" />
+  <key id="10001071" name="Der Lieblingsfisch der Kaiserin wird traditionell auf Papier in dieser Farbe serviert." feature="NaColorSystem" />
+  <key id="10001072" name="Man braucht ein wenig Glück (und sehr viel pflanzlichen Farbstoff), um dieses Gelb so gelb zu bekommen." feature="NaColorSystem" />
+  <key id="10001073" name="Wenn kleine Sprosse beginnen, aus der Erde zu sprießen, sind sie die grünsten Pflanzen der Natur." feature="NaColorSystem" />
+  <key id="10001074" name="Zu den wertvollsten Edelsteinen der Welt zählen jene, die dieses intensive Blau haben." feature="NaColorSystem" />
+  <key id="10001075" name="Du wirst tief graben müssen, um die Farbpigmente zu finden, aus denen sich diese feine Farbe zusammensetzt." feature="NaColorSystem" />
+  <key id="10001076" name="Dieses Violett wurde von $npcName:23000007$s dunkler Aura inspiriert." feature="NaColorSystem" />
+  <key id="10001077" name="Die perfekte Mischung aus Sahne und Beeren bringt diese weiche und einladende Farbe hervor." feature="NaColorSystem" />
+  <key id="10001078" name="Es hat die königlichen Stylisten eine Ewigkeit gekostet, eine Farbe von dieser Intensität zu erschaffen. Aber das Warten hat sich gelohnt." feature="NaColorSystem" />
+  <key id="10001079" name="Sei mit dieser Farbe vorsichtig. In einem Schneesturm könntest du glatt verschwinden." feature="NaColorSystem" />
+  <key id="10001080" name="Die verzauberte Maske von Parexus ist mit Runen in dieser Farbe verziert." feature="NaColorSystem" />
+  <key id="10001081" name="Von der unvergleichlichen Farbe frischen Kaffees inspiriert, ist dieser Farbton perfekt für edle Momente." feature="NaColorSystem" />
+  <key id="10001082" name="Bei diesem tiefen und mulmig machenden Grün kippst du glatt aus den Latschen." feature="NaColorSystem" />
+  <key id="10001083" name="Nichts treibt meinen Appetit wie der Gedanke an eine frisch geschorene Brokkokröte.\nLeider kann man diese Farbe nicht essen." feature="NaColorSystem" />
+  <key id="10001084" name="Diese Farbe steht wie kaum eine andere für Luxus und Eleganz. Wenn wundert es, dass\n$npcName:11003146$s Augen diese Farbe haben?" feature="NaColorSystem" />
+  <key id="10001085" name="Wenn du heute Abend in den wolkenlosen Himmel schaust, stell dir vor, dass\ndu dich in diese unendliche Farbe hüllen könntest. Dann hör auf zu träumen!" feature="NaColorSystem" />
+  <key id="10001086" name="Das mächtige Machodil hat eine Mähne in diesem intensiven Violett.\nDaher auch der Name." feature="NaColorSystem" />
+  <key id="10001087" name="Es kann gut sein, dass dieser rohe und ungefilterte Farbton, der an Trauben erinnert, zu viel für dich ist." feature="NaColorSystem" />
+  <key id="10001088" name="Am königlichen Hof war diese majestätische Farbe in der vorherigen Saison der letzte Schrei." feature="NaColorSystem" />
+  <key id="10001089" name="Schwärzer als die Nacht, dunkler als ein Abgrund. Dieser Farbe entkommt kein Lichtstrahl." feature="NaColorSystem" />
+  <key id="10001090" name="Dieser gedeckte grau-weiße Farbton sollte das unbeschriebene Blatt repräsentieren, mit dem wir ins neue Jahr starten." feature="NaColorSystem" />
+  <key id="10001091" name="Dieser cremige Farbton ist nicht von dieser Welt!" feature="NaColorSystem" />
+  <key id="10001092" name="Wenn die Flut kommt, kannst du diesen kühlen Farbton an der ganzen Küste bewundern." feature="NaColorSystem" />
+  <key id="10001093" name="Einer unbekannten Verehrerin zufolge ist das die Farbe der im Mondlicht glitzernden Schuppen des furchteinflößenden Kapitäns Moc." feature="NaColorSystem" />
+  <key id="10001094" name="Es heißt, dass dieser besondere Blauton einer der ersten war, den\ndie Modefans der Maple-Welt entdeckt haben." feature="NaColorSystem" />
+  <key id="10001095" name="Dieses Blau, das einen Einsamkeit spüren lässt, ist nach den Vayarwächtern benannt, die häufig jahrelang ihren Posten nicht verlassen dürfen." feature="NaColorSystem" />
+  <key id="10001096" name="Diese Farbe fängt auf perfekte Weise die Pracht der glänzenden Steine der Segnung ein." feature="NaColorSystem" />
+  <key id="10001097" name="Keine Farbe beschreibt $map:02000124$ so gut wie dieses Aschgrau." feature="NaColorSystem" />
+  <key id="10001098" name="Schmiede sind hart wie Stahl und rußbedeckt. Jetzt kannst du auch so aussehen!" feature="NaColorSystem" />
+  <key id="10001099" name="Eine moderne Person in einer modernen Welt sollte moderne Farben tragen." feature="NaColorSystem" />
+  <key id="10001100" name="Wölfe? Eine tödliche Gefahr? Den pinken Schafbock kümmert das nicht." feature="NaColorSystem" />
+  <key id="10001101" name="Die Farbe der Wolfsstatue auf dem Turm von $map:02000051$. Kannst du das Heulen hören&#160;…?" feature="NaColorSystem" />
+  <key id="10001102" name="Das ist das Grün des größten Kriegers in der Natur: der Schnecke." feature="NaColorSystem" />
+  <key id="10001103" name="Wenn du in der Klemme steckst, kannst du immer auf die Hilfe deiner Freunde aus dem Wald vertrauen." feature="NaColorSystem" />
+  <key id="10001104" name="Die Farbe des Himmels von $npcName:21000025$ und von $npcName:21000023$s Kindheit. Bis heute sind sie unzertrennlich." feature="NaColorSystem" />
+  <key id="10001105" name="Ein blinder Freund ist seiner Trauer überlassen." feature="NaColorSystem" />
+  <key id="10001106" name="Das glänzenden Lila der Flügel der Seepferdchen, wenn sie durch das Meer tauchen&#160;…" feature="NaColorSystem" />
+  <key id="10001107" name="Eine hübsche Farbe, die durch die Eifersucht zweier Schwestern befleckt wurde." feature="NaColorSystem" />
+  <key id="10001108" name="Die Farbe einer Liebe, die so groß ist, dass sie jede Leinwand, ob groß oder klein, transzendiert." feature="NaColorSystem" />
+  <key id="10001109" name="Nach Jahren der Plackerei hat das Fell der erfahrenen Bergleute eine goldene Färbung angenommen." feature="NaColorSystem" />
+  <key id="10001110" name="Du hast in Lava geangelt und wurdest mit einem vollen Kescher belohnt." feature="NaColorSystem" />
+  <key id="10001111" name="Diese Farbe pulsiert mit unsterblicher Kraft." feature="NaColorSystem" />
+  <key id="10001112" name="Wer versteht schon die Seele eines Künstlers?" feature="NaColorSystem" />
+  <key id="10001113" name="Der magische Brunnen der Gärten spielt wunderbare Musik. Mit dieser bezaubernden Farbe kannst du seine Melodien nun überallhin mitnehmen." feature="NaColorSystem" />
+  <key id="10001114" name="Nur das mutigste Schweinchen traut sich ans Fliegen." feature="NaColorSystem" />
+  <key id="10001115" name="Die Schuppen des Goldfisches glänzen stärker als die seltensten Edelmetalle." feature="NaColorSystem" />
+  <key id="10001116" name="Schildkröten kennen die interessantesten Geschichten, da sie in ihrem langen Leben so viele hören." feature="NaColorSystem" />
+  <key id="10001117" name="Das unvergleichliche Mauve eines Haiexperten." feature="NaColorSystem" />
+  <key id="10001118" name="Jede wertvolle Perle wird in einer Welt von Farben geboren." feature="NaColorSystem" />
+  <key id="10001119" name="Wenn ein Koi durch das Wasser tanzt, faszinieren einen die aufleuchtenden Farben seiner Schuppen." feature="NaColorSystem" />
+</ms2>

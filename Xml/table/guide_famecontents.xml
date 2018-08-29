@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<event id="80051" isForce="1" desc="필드 퀘스트 유도_월드맵에 임무지역 표시">
+		<open>
+			<condition type="fieldId" value="02000040" />
+			<condition type="questProgress" value="91000012" />
+			<condition type="guideClear" id="80050" />
+			<condition dialogName="WorldMapDialog" isOpen="1" type="dialog" />
+		</open>
+		<close>
+			<condition dialogName="WorldMapDialog" isOpen="0" type="dialog" />
+		</close>
+		<openAction>
+			<action type="uiSummary" textId="81042" />
+			<action type="uiTextTip" textId="81040" />
+		</openAction>
+	</event>
+</ms2>

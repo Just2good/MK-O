@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<arcadeGame id="1" feature="ArcadeSpringFarm" arcadeBanner="51000001.png" targetField="51000001" />
+	<arcadeGame id="2" feature="ArcadeCrazyMonkeyOcean" arcadeBanner="51000003.png" targetField="51000003" />
+	<arcadeGame id="3" feature="" arcadeBanner="003.png" targetField="0" />
+	<arcadeGame id="4" feature="" arcadeBanner="004.png" targetField="0" />
+	<arcadeGame id="5" feature="" arcadeBanner="005.png" targetField="0" />
+	<arcadeGame id="6" feature="" arcadeBanner="006.png" targetField="0" />
+	<arcadeGame id="7" feature="" arcadeBanner="007.png" targetField="0" />
+	<arcadeGame id="8" feature="" arcadeBanner="008.png" targetField="0" />
+	<arcadeGame id="9" feature="" arcadeBanner="009.png" targetField="0" />
+</ms2>

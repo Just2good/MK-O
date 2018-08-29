@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="1" name="Abenteuerliche Anfänge" feature="QuestChapter00" />
+  <key id="2" name="Henesys-Krise" feature="QuestChapter00" />
+  <key id="3" name="Entfesselte Dunkelheit" feature="QuestChapter00" />
+  <key id="4" name="Verlorener Wächter" feature="QuestChapter00" />
+  <key id="5" name="Licht und Schatten" feature="QuestChapter00" />
+  <key id="6" name="Wer suchet, der findet" feature="QuestChapter00" />
+  <key id="7" name="Mehr als Freundschaft" feature="QuestChapter00" />
+  <key id="8" name="Verblasster Spross" feature="QuestChapter00" />
+  <key id="9" name="STRINGCHAPTERBOOKNAME_9_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="10" name="STRINGCHAPTERBOOKNAME_10_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="11" name="Die Suche nach der Wahrheit" feature="QuestChapter00" />
+  <key id="12" name="STRINGCHAPTERBOOKNAME_12_NAME:[F]FameContents_EP1_01" feature="FameContents_EP1_01" />
+  <key id="13" name="STRINGCHAPTERBOOKNAME_13_NAME:[F]FameContents_EP1_02" feature="FameContents_EP1_02" />
+  <key id="14" name="STRINGCHAPTERBOOKNAME_14_NAME:[F]JobChange_01" feature="JobChange_01" />
+  <key id="15" name="STRINGCHAPTERBOOKNAME_15_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="16" name="STRINGCHAPTERBOOKNAME_16_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="17" name="STRINGCHAPTERBOOKNAME_17_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="18" name="STRINGCHAPTERBOOKNAME_18_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="19" name="STRINGCHAPTERBOOKNAME_19_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="20" name="STRINGCHAPTERBOOKNAME_20_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="21" name="STRINGCHAPTERBOOKNAME_21_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="22" name="STRINGCHAPTERBOOKNAME_22_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="23" name="STRINGCHAPTERBOOKNAME_23_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="24" name="STRINGCHAPTERBOOKNAME_24_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+  <key id="25" name="STRINGCHAPTERBOOKNAME_25_NAME:[F]LapentaFrontierQuest" feature="LapentaFrontierQuest" />
+</ms2>

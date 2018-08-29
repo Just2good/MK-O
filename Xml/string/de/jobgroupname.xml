@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="1" name="Neuling" />
+  <key id="10" name="Klasse: Ritter" />
+  <key id="20" name="Klasse: Berserker" />
+  <key id="30" name="Klasse: Magier" />
+  <key id="40" name="Klasse: Priester" />
+  <key id="50" name="Klasse: Bogenschütze" />
+  <key id="60" name="Klasse: Kanonier" />
+  <key id="70" name="Klasse: Bandit" />
+  <key id="80" name="Klasse: Assassine" />
+  <key id="90" name="JOBGROUPNAME_90_NAME:[F]RuneBlader" feature="RuneBlader" />
+  <key id="100" name="JOBGROUPNAME_100_NAME:[F]Striker" feature="Striker" />
+  <key id="110" name="JOBGROUPNAME_110_NAME:[F]SoulBinder" feature="SoulBinder" />
+  <key id="999" name="GM" />
+</ms2>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<DungeonRankReward rewardID="10001">
+		<v rank="1" itemID="20300932" systemMailID="53000001" />
+		<v rank="2" itemID="20300933" systemMailID="53000002" />
+		<v rank="3" itemID="20300934" systemMailID="53000003" />
+		<v rank="4" itemID="20300935" systemMailID="53000004" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10002">
+		<v rank="1" itemID="20300932" systemMailID="53000001" />
+		<v rank="2" itemID="20300933" systemMailID="53000002" />
+		<v rank="3" itemID="20300934" systemMailID="53000003" />
+		<v rank="4" itemID="20300935" systemMailID="53000004" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10003">
+		<v rank="1" itemID="20300932" systemMailID="53000001" />
+		<v rank="2" itemID="20301300" systemMailID="53000002" />
+		<v rank="3" itemID="20301301" systemMailID="53000003" />
+		<v rank="4" itemID="20301302" systemMailID="53000004" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10004">
+		<v rank="1" itemID="20300932" systemMailID="53000001" />
+		<v rank="2" itemID="20301300" systemMailID="53000002" />
+		<v rank="3" itemID="20301301" systemMailID="53000003" />
+		<v rank="4" itemID="20301302" systemMailID="53000004" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10005" locale="KR">
+		<v rank="1" itemID="20301368" systemMailID="53000006" />
+		<v rank="2" itemID="20301369" systemMailID="53000007" />
+		<v rank="3" itemID="20301370" systemMailID="53000008" />
+		<v rank="4" itemID="20301371" systemMailID="53000009" />
+		<v rank="5" itemID="20301372" systemMailID="53000010" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10005" locale="CN">
+		<v rank="1" itemID="20301316" systemMailID="53000006" />
+		<v rank="2" itemID="20301317" systemMailID="53000007" />
+		<v rank="3" itemID="20301318" systemMailID="53000008" />
+		<v rank="4" itemID="20301319" systemMailID="53000009" />
+		<v rank="5" itemID="20301320" systemMailID="53000010" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10006" locale="KR">
+		<v rank="1" itemID="20301321" systemMailID="53000011" />
+		<v rank="2" itemID="20301322" systemMailID="53000012" />
+		<v rank="3" itemID="20301323" systemMailID="53000013" />
+		<v rank="4" itemID="20301324" systemMailID="53000014" />
+		<v rank="5" itemID="20301325" systemMailID="53000015" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10006" locale="CN">
+		<v rank="1" itemID="20301321" systemMailID="53000011" />
+		<v rank="2" itemID="20301322" systemMailID="53000012" />
+		<v rank="3" itemID="20301323" systemMailID="53000013" />
+		<v rank="4" itemID="20301324" systemMailID="53000014" />
+		<v rank="5" itemID="20301325" systemMailID="53000015" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10007" locale="KR">
+		<v rank="1" itemID="20301340" systemMailID="53000016" />
+		<v rank="2" itemID="20301341" systemMailID="53000017" />
+		<v rank="3" itemID="20301342" systemMailID="53000018" />
+		<v rank="4" itemID="20301343" systemMailID="53000019" />
+		<v rank="5" itemID="20301344" systemMailID="53000020" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10007" locale="CN">
+		<v rank="1" itemID="20301340" systemMailID="53000016" />
+		<v rank="2" itemID="20301341" systemMailID="53000017" />
+		<v rank="3" itemID="20301342" systemMailID="53000018" />
+		<v rank="4" itemID="20301343" systemMailID="53000019" />
+		<v rank="5" itemID="20301344" systemMailID="53000020" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10008" locale="KR">
+		<v rank="1" itemID="20301345" systemMailID="53000021" />
+		<v rank="2" itemID="20301346" systemMailID="53000022" />
+		<v rank="3" itemID="20301347" systemMailID="53000023" />
+		<v rank="4" itemID="20301348" systemMailID="53000024" />
+		<v rank="5" itemID="20301349" systemMailID="53000025" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10008" locale="CN">
+		<v rank="1" itemID="20301345" systemMailID="53000021" />
+		<v rank="2" itemID="20301346" systemMailID="53000022" />
+		<v rank="3" itemID="20301347" systemMailID="53000023" />
+		<v rank="4" itemID="20301348" systemMailID="53000024" />
+		<v rank="5" itemID="20301349" systemMailID="53000025" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10009" locale="KR">
+		<v rank="1" itemID="20301350" systemMailID="53000026" />
+		<v rank="2" itemID="20301351" systemMailID="53000027" />
+		<v rank="3" itemID="20301352" systemMailID="53000028" />
+		<v rank="4" itemID="20301353" systemMailID="53000029" />
+		<v rank="5" itemID="20301354" systemMailID="53000030" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10009" locale="CN">
+		<v rank="1" itemID="20301350" systemMailID="53000026" />
+		<v rank="2" itemID="20301351" systemMailID="53000027" />
+		<v rank="3" itemID="20301352" systemMailID="53000028" />
+		<v rank="4" itemID="20301353" systemMailID="53000029" />
+		<v rank="5" itemID="20301354" systemMailID="53000030" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10010" locale="KR">
+		<v rank="1" itemID="20301355" systemMailID="53000031" />
+		<v rank="2" itemID="20301356" systemMailID="53000032" />
+		<v rank="3" itemID="20301357" systemMailID="53000033" />
+		<v rank="4" itemID="20301358" systemMailID="53000034" />
+		<v rank="5" itemID="20301359" systemMailID="53000035" />
+	</DungeonRankReward>
+	<DungeonRankReward rewardID="10010" locale="CN">
+		<v rank="1" itemID="20301355" systemMailID="53000031" />
+		<v rank="2" itemID="20301356" systemMailID="53000032" />
+		<v rank="3" itemID="20301357" systemMailID="53000033" />
+		<v rank="4" itemID="20301358" systemMailID="53000034" />
+		<v rank="5" itemID="20301359" systemMailID="53000035" />
+	</DungeonRankReward>
+</ms2>

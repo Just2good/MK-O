@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<symbol id="0" icon="disabled" conditionType="" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="11" icon="level" conditionType="level" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="1" icon="enchant" conditionType="enchant" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="2" icon="seller" conditionType="title" code="10000153" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="3" icon="guild" conditionType="title" code="10000152" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="4" icon="architect" conditionType="title" code="10000158" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="5" icon="trophy" conditionType="trophy_point" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="" />
+	<symbol id="6" icon="fisher" conditionType="title" code="10000196" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Fishing" locale="" />
+	<symbol id="7" icon="musician" conditionType="title" code="10000195" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="MusicInstrument" locale="" />
+	<symbol id="9" icon="pioneer" conditionType="title" code="10000242" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season3" locale="KR" />
+	<symbol id="10" icon="oneyear" conditionType="title" code="10000246" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season3" locale="CN" />
+	<symbol id="10" icon="oneyear" conditionType="title" code="10000246" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season3" locale="KR" />
+	<symbol id="13" icon="tencentvip" conditionType="tencentvip" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="CN" />
+	<symbol id="14" icon="maple" conditionType="title" code="10000322" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="CN" />
+	<symbol id="16" icon="secondyear" conditionType="title" code="10000341" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="Season1" locale="KR" />
+	<symbol id="17" icon="TGP" conditionType="TGP" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="CN" />
+	<symbol id="18" icon="GM" conditionType="gm" code="" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="" locale="CN" />
+	<symbol id="22" icon="HB" conditionType="title" code="10000190" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="" />
+	<symbol id="28" icon="PvpSurvival" conditionType="title" code="10000458" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="SurvivalContents01" locale="" />
+	<symbol id="29" icon="AdventureLevel" conditionType="adventure_level" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="AdventureLevel" locale="" />
+	<symbol id="31" icon="SummerBurning" conditionType="Burning" code="" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="" locale="KR" />
+	<symbol id="31" icon="SummerBurning" conditionType="Burning" code="" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="" locale="CN" />
+	<symbol id="32" icon="third_anniversary" conditionType="title" code="10000475" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="" locale="KR" />
+	<symbol id="33" icon="Founders" conditionType="title" code="10000503" hideSymbol="1" buffID="" buffLv="" pushSymbol="" feature="" locale="NA" />
+	<symbol id="34" icon="Champion" conditionType="survivallevel" code="" hideSymbol="" buffID="" buffLv="" pushSymbol="" feature="SurvivalContents03" locale="NA" />
+</ms2>

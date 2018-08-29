@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+
+  <emotion type="1" name="default">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Boss/02030011_M_Patos_Face_Idle.dds" control="" delay="1700" loop="true"/>
+      <texture file="Npc_Boss/02030011_M_Patos_Face_Dead.dds" control="" delay="200"/> <!-- 1420 -->	  
+	  <texture file="Npc_Boss/02030011_M_Patos_Face_Idle.dds" control="" delay="100"/> <!-- 1667 --> 
+    </textureani>
+  </emotion>
+  
+  <emotion type="1" name="idle">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Boss/02030011_M_Patos_Face_Idle.dds" control="" delay="1700" loop="true"/>
+      <texture file="Npc_Boss/02030011_M_Patos_Face_Dead.dds" control="" delay="200"/> <!-- 1420 -->	  
+	  <texture file="Npc_Boss/02030011_M_Patos_Face_Idle.dds" control="" delay="100"/> <!-- 1667 --> 
+    </textureani>
+  </emotion>  
+  
+   <emotion type="1" name="damg">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Common/02030011_M_Patos_Face_Idle.dds" control="" delay="200"/>
+      <texture file="Npc_Common/02030011_M_Patos_Face_Dead.dds" control="" delay="200"/> 
+	  </textureani>
+  </emotion>
+  
+  <emotion type="1" name="dead">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Common/02030011_M_Patos_Face_Dead.dds" control="" delay="200" loop="true"/>
+    </textureani>
+  </emotion>
+     
+  <emotion type="1" name="skill">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Common/02030011_M_Patos_Face_Skill.dds" control="" delay="200" loop="true"/>
+    </textureani>
+  </emotion>  
+
+  <emotion type="1" name="attack">
+    <textureani target="Editable Mesh">
+      <texture file="Npc_Common/02030011_M_Patos_Face_Attack.dds" control="" delay="200" loop="true"/>
+    </textureani>
+  </emotion>   
+
+</ms2>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+  <key id="15123101" name="Set von Lumen Cor" />
+  <key id="15123102" name="Set von Lumen Ravus" />
+  <key id="15123103" name="Set von Lumen Magia" />
+  <key id="15123104" name="Set von Lumen Deus" />
+  <key id="15123105" name="Set von Lumen Tero" />
+  <key id="15123106" name="Set von Lumen Libro" />
+  <key id="15123107" name="Set von Lumen Erebus" />
+  <key id="15123108" name="Set von Lumen Sica" />
+  <key id="15123109" name="Set von Lumen Polus" />
+  <key id="16022501" name="Dunkles Sternset" />
+  <key id="16042801" name="Süßes Entleinset" />
+  <key id="16042802" name="Schickes Entleinset" />
+  <key id="16042803" name="Peinliches Entleinset" />
+  <key id="16063001" name="Elegantes Gotikset" />
+  <key id="16063002" name="Elegantes Gotikset" />
+  <key id="16071401" name="Set der Geschicklichkeit" />
+  <key id="16072801" name="Feenset des Ifrit" />
+  <key id="16072802" name="Feenset des Ifrit" />
+  <key id="16081101" name="Fantastisches Ritualset" />
+  <key id="16081102" name="Set von Lumen Animus" />
+  <key id="16082501" name="Reines Hochzeitsset" />
+  <key id="16082502" name="Reines Hochzeitsset" />
+  <key id="16082503" name="Wildes Kampfset" />
+  <key id="16082504" name="Wildes Rasereiset" />
+  <key id="16082505" name="Wildes Magierset" />
+  <key id="16082506" name="Wildes heiliges Set" />
+  <key id="16082507" name="Wildes Fokusset" />
+  <key id="16082508" name="Wildes Bombardementset" />
+  <key id="16082509" name="Wildes Chaosset" />
+  <key id="16082510" name="Wildes tödliches Set" />
+  <key id="16082511" name="Wildes Zauberset" />
+  <key id="16082512" name="Wildes Nahkampfset" />
+  <key id="16082513" name="Wildes Ritualset" />
+  <key id="16082514" name="Narubashan-Kampfset" />
+  <key id="16082515" name="Narubashan-Rasereiset" />
+  <key id="16082516" name="Narubashan-Magierset" />
+  <key id="16082517" name="Heiliges Narubashan-Set" />
+  <key id="16082518" name="Narubashan-Konzentrationsset" />
+  <key id="16082519" name="Narubashan-Bombardementset" />
+  <key id="16082520" name="Narubashan-Chaosset" />
+  <key id="16082521" name="Tödliches Narubashan-Set" />
+  <key id="16082522" name="Narubashan-Zauberset" />
+  <key id="16082523" name="Narubashan-Nahkampfset" />
+  <key id="16082524" name="Narubashan-Ritualset" />
+  <key id="16092901" name="Weiterentwickeltes Diamantset" />
+  <key id="16092902" name="Weiterentwickeltes Onyxset" />
+  <key id="16092903" name="Ehrenset der Familie Shuabritze" />
+  <key id="16102701" name="Blutrünstiges Vampirset" />
+  <key id="16102702" name="Blutrünstiges Vampirset" />
+  <key id="16121501" name="Fröhliches Weihnachtsset" />
+  <key id="16121502" name="Fröhliches Weihnachtsset" />
+  <key id="17011201" name="Wogen-Kampfset" />
+  <key id="17011202" name="Wogen-Rasereiset" />
+  <key id="17011203" name="Wogen-Magieset" />
+  <key id="17011204" name="Heiliges Wogenset" />
+  <key id="17011205" name="Wogen-Fokusset" />
+  <key id="17011206" name="Explosives Wogenset" />
+  <key id="17011207" name="Wogen-Chaosset" />
+  <key id="17011208" name="Tödliches Wogenset" />
+  <key id="17011209" name="Wogen-Zauberset" />
+  <key id="17011210" name="Wogen-Nahkampfset" />
+  <key id="17011211" name="Wogen-Ritualset" />
+  <key id="17011212" name="Kampfset des vergangenen Königreichs" />
+  <key id="17011213" name="Rasereiset des vergangenen Königreichs" />
+  <key id="17011214" name="Magierset des vergangenen Königreichs" />
+  <key id="17011215" name="Heiliges Set des vergangenen Königreichs" />
+  <key id="17011216" name="Fokusset des vergangenen Königreichs" />
+  <key id="17011217" name="Explosives Set des vergangenen Königreichs" />
+  <key id="17011218" name="Chaosset des vergangenen Königreichs" />
+  <key id="17011219" name="Tödliches Set des vergangenen Königreichs" />
+  <key id="17011220" name="Zauberset des vergangenen Königreichs" />
+  <key id="17011221" name="Nahkampfset des vergangenen Königreichs" />
+  <key id="17011222" name="Ritualset des vergangenen Königreichs" />
+  <key id="17011223" name="Lumarian-Kampfset" />
+  <key id="17011224" name="Lumarian-Rasereiset" />
+  <key id="17011225" name="Lumarian-Magierset" />
+  <key id="17011226" name="Heiliges Lumarian-Set" />
+  <key id="17011227" name="Lumarian-Fokusset" />
+  <key id="17011228" name="Explosives Lumarian-Set" />
+  <key id="17011229" name="Lumarian-Chaosset" />
+  <key id="17011230" name="Tödliches Lumarian-Set" />
+  <key id="17011231" name="Lumarian-Zauberset" />
+  <key id="17011232" name="Lumarian-Nahkampfset" />
+  <key id="17011233" name="Lumarian-Ritualset" />
+  <key id="17020901" name="Set des sündigen Herzens" />
+  <key id="17020902" name="Set des sündigen Herzens" />
+  <key id="17020903" name="Set der Maple-Allianz" />
+  <key id="17020904" name="Set der Maple-Allianz" />
+  <key id="17020905" name="Set der Maple-Allianz" />
+  <key id="17020906" name="Set der Maple-Allianz" />
+  <key id="17020907" name="Set der Maple-Allianz" />
+  <key id="17020908" name="Set der Maple-Allianz" />
+  <key id="17020909" name="Set der Maple-Allianz" />
+  <key id="17020910" name="Set der Maple-Allianz" />
+  <key id="17020911" name="Set der Maple-Allianz" />
+  <key id="17020912" name="Set der Maple-Allianz" />
+  <key id="17020913" name="Set der Maple-Allianz" />
+  <key id="17020914" name="Madrakan-Monarchenset" />
+  <key id="17030701" name="Maple-Set" />
+  <key id="17030901" name="Set der Blumenfee" />
+  <key id="17030902" name="Set der Blumenfee" />
+  <key id="17040401" name="Majestätische Flügelset" />
+  <key id="17040402" name="Majestätische Flügelset" />
+  <key id="17040601" name="Glänzendes Sternenset" />
+  <key id="17040602" name="Glänzendes Sternenset" />
+  <key id="17053101" name="Verschwörerset" />
+  <key id="17062901" name="Umgedrehtes Ritterset (St. 50)" />
+  <key id="17062902" name="Umgedrehtes Berserkerset (St. 50)" />
+  <key id="17062903" name="Umgedrehtes Magierset (St. 50)" />
+  <key id="17062904" name="Umgedrehtes Priesterset (St. 50)" />
+  <key id="17062905" name="Umgedrehtes Bogenschützenset (St. 50)" />
+  <key id="17062906" name="Umgedrehtes Kanonierset (St. 50)" />
+  <key id="17062907" name="Umgedrehtes Banditenset (St. 50)" />
+  <key id="17062908" name="Umgedrehtes Assassinenset (St. 50)" />
+  <key id="17062909" name="Umgedrehtes Runenfechterset (St. 50)" />
+  <key id="17062910" name="Umgedrehtes Schlägerset (St. 50)" />
+  <key id="17062911" name="Umgedrehtes Seelenfesslerset (St. 50)" />
+  <key id="17062912" name="Umgedrehtes Ritterset (St. 56)" />
+  <key id="17062913" name="Umgedrehtes Berserkerset (St. 56)" />
+  <key id="17062914" name="Umgedrehtes Magierset (St. 56)" />
+  <key id="17062915" name="Umgedrehtes Priesterset (St. 56)" />
+  <key id="17062916" name="Umgedrehtes Bogenschützenset (St. 56)" />
+  <key id="17062917" name="Umgedrehtes Kanonierset (St. 56)" />
+  <key id="17062918" name="Umgedrehtes Banditenset (St. 56)" />
+  <key id="17062919" name="Umgedrehtes Assassinenset (St. 56)" />
+  <key id="17062920" name="Umgedrehtes Runenfechterset (St. 56)" />
+  <key id="17062921" name="Umgedrehtes Schlägerset (St. 56)" />
+  <key id="17062922" name="Umgedrehtes Seelenfesslerset (St. 56)" />
+  <key id="17081823" name="Mooncake Set" />
+  <key id="17083101" name="Pumpkin Witch Set" />
+  <key id="17083102" name="Pumpkin Witch Set" />
+  <key id="17090101" name="Aehem Hanbok Set" />
+  <key id="17090102" name="Fluffy Hanbok Set" />
+  <key id="17110801" name="Frantic Combat Set" />
+  <key id="17110802" name="Frantic Frenzy Set" />
+  <key id="17110803" name="Frantic Magic Set" />
+  <key id="17110804" name="Frantic Holy Set" />
+  <key id="17110805" name="Frantic Focus Set" />
+  <key id="17110806" name="Frantic Explosive Set" />
+  <key id="17110807" name="Frantic Chaos Set" />
+  <key id="17110808" name="Frantic Lethal Set" />
+  <key id="17110809" name="Frantic Sorcery Set" />
+  <key id="17110810" name="Frantic Melee Set" />
+  <key id="17110811" name="Frantic Ritual Set" />
+  <key id="17110812" name="Eternal Bloody Dusk Set" />
+  <key id="17110813" name="Eternal Skeleton Set" />
+  <key id="17110814" name="Eternal Ennes Set" />
+  <key id="17110815" name="Set: Unsterblicher Retter" />
+  <key id="17110816" name="Eternal Watchman Set" />
+  <key id="17110817" name="Eternal Pilot Set" />
+  <key id="17110818" name="Eternal Nimble Beat Set" />
+  <key id="17110819" name="Eternal Phantom Set" />
+  <key id="17110820" name="Eternal Void Set" />
+  <key id="17110821" name="Eternal Fighter Set" />
+  <key id="17110822" name="Eternal Soul Set" />
+  <key id="17110823" name="Reverse Knight (Lv. 50) Set" />
+  <key id="17110824" name="Reverse Berserker (Lv. 50) Set" />
+  <key id="17110825" name="Reverse Wizard (Lv. 50) Set" />
+  <key id="17110826" name="Reverse Priest (Lv. 50) Set" />
+  <key id="17110827" name="Reverse Archer (Lv. 50) Set" />
+  <key id="17110828" name="Reverse Heavy Gunner (Lv. 50) Set" />
+  <key id="17110829" name="Reverse Thief (Lv. 50) Set" />
+  <key id="17110830" name="Reverse Assassin (Lv. 50) Set" />
+  <key id="17110831" name="Reverse Runeblade (Lv. 50) Set" />
+  <key id="17110832" name="Reverse Striker (Lv. 50) Set" />
+  <key id="17110833" name="Reverse Soul Binder (Lv. 50) Set" />
+  <key id="17110834" name="Pluto Set" />
+  <key id="17110835" name="Mars Set" />
+  <key id="17110836" name="Pluto Set" />
+  <key id="17110837" name="Mars Set" />
+  <key id="17112901" name="Glowing Star Set" />
+  <key id="17112902" name="Glowing Star Set" />
+  <key id="17121101" name="Fierce Combat Set" />
+  <key id="17121102" name="Fierce Frenzy Set" />
+  <key id="17121103" name="Fierce Magic Set" />
+  <key id="17121104" name="Fierce Holy Set" />
+  <key id="17121105" name="Fierce Focus Set" />
+  <key id="17121106" name="Fierce Explosive Set" />
+  <key id="17121107" name="Fierce Chaos Set" />
+  <key id="17121108" name="Fierce Lethal Set" />
+  <key id="17121109" name="Fierce Sorcery Set" />
+  <key id="17121110" name="Fierce Melee Set" />
+  <key id="17121111" name="Fierce Ritual Set" />
+  <key id="18011801" name="Pluto Set" />
+  <key id="18011802" name="Mars Set" />
+  <key id="18011803" name="Pluto Set" />
+  <key id="18011804" name="Mars Set" />
+  <key id="18011501" name="Dreaming Butterfly Set" />
+  <key id="18011502" name="Dreaming Butterfly Set" />
+  <key id="18011805" name="Crimson Balrog's Combat Set" />
+  <key id="18011806" name="Crimson Balrog's Frenzy Set" />
+  <key id="18011807" name="Crimson Balrog's Magic Set" />
+  <key id="18011808" name="Crimson Balrog's Holy Set" />
+  <key id="18011809" name="Crimson Balrog's Focus Set" />
+  <key id="18011810" name="Crimson Balrog's Explosive Set" />
+  <key id="18011811" name="Crimson Balrog's Chaos Set" />
+  <key id="18011812" name="Crimson Balrog's Lethal Set" />
+  <key id="18011813" name="Crimson Balrog's Sorcery Set" />
+  <key id="18011814" name="Crimson Balrog's Melee Set" />
+  <key id="18011815" name="Crimson Balrog's Ritual Set" />
+  <key id="18011816" name="Crimson Balrog's Combat Set" />
+  <key id="18011817" name="Crimson Balrog's Frenzy Set" />
+  <key id="18011818" name="Crimson Balrog's Magic Set" />
+  <key id="18011819" name="Crimson Balrog's Holy Set" />
+  <key id="18011820" name="Crimson Balrog's Focus Set" />
+  <key id="18011821" name="Crimson Balrog's Explosive Set" />
+  <key id="18011822" name="Crimson Balrog's Chaos Set" />
+  <key id="18011823" name="Crimson Balrog's Lethal Set" />
+  <key id="18011824" name="Crimson Balrog's Sorcery Set" />
+  <key id="18011825" name="Crimson Balrog's Melee Set" />
+  <key id="18011826" name="Crimson Balrog's Ritual Set" />
+  <key id="18011827" name="Bright Star's Combat Set" />
+  <key id="18011828" name="Bright Star's Frenzy Set" />
+  <key id="18011829" name="Bright Star's Magic Set" />
+  <key id="18011830" name="Bright Star's Holy Set" />
+  <key id="18011831" name="Bright Star's Focus Set" />
+  <key id="18011832" name="Bright Star's Explosive Set" />
+  <key id="18011833" name="Bright Star's Chaos Set" />
+  <key id="18011834" name="Bright Star's Lethal Set" />
+  <key id="18011835" name="Bright Star's Sorcery Set" />
+  <key id="18011836" name="Bright Star's Melee Set" />
+  <key id="18011837" name="Bright Star's Ritual Set" />
+  <key id="18052834" name="SETITEMNAME_18052834_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052835" name="SETITEMNAME_18052835_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052836" name="SETITEMNAME_18052836_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052837" name="SETITEMNAME_18052837_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052838" name="SETITEMNAME_18052838_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052839" name="SETITEMNAME_18052839_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052840" name="SETITEMNAME_18052840_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052841" name="SETITEMNAME_18052841_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052842" name="SETITEMNAME_18052842_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052843" name="SETITEMNAME_18052843_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052844" name="SETITEMNAME_18052844_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052845" name="SETITEMNAME_18052845_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052846" name="SETITEMNAME_18052846_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052847" name="SETITEMNAME_18052847_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052848" name="SETITEMNAME_18052848_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052849" name="SETITEMNAME_18052849_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052850" name="SETITEMNAME_18052850_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052851" name="SETITEMNAME_18052851_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052852" name="SETITEMNAME_18052852_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052853" name="SETITEMNAME_18052853_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052854" name="SETITEMNAME_18052854_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052855" name="SETITEMNAME_18052855_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052856" name="SETITEMNAME_18052856_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052857" name="SETITEMNAME_18052857_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052858" name="SETITEMNAME_18052858_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052859" name="SETITEMNAME_18052859_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052860" name="SETITEMNAME_18052860_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052861" name="SETITEMNAME_18052861_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052862" name="SETITEMNAME_18052862_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052863" name="SETITEMNAME_18052863_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052864" name="SETITEMNAME_18052864_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052865" name="SETITEMNAME_18052865_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052866" name="SETITEMNAME_18052866_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052867" name="SETITEMNAME_18052867_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052868" name="SETITEMNAME_18052868_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052869" name="SETITEMNAME_18052869_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052870" name="SETITEMNAME_18052870_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052871" name="SETITEMNAME_18052871_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052872" name="SETITEMNAME_18052872_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052873" name="SETITEMNAME_18052873_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052874" name="SETITEMNAME_18052874_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052875" name="SETITEMNAME_18052875_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052876" name="SETITEMNAME_18052876_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052877" name="SETITEMNAME_18052877_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052878" name="SETITEMNAME_18052878_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052879" name="SETITEMNAME_18052879_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052880" name="SETITEMNAME_18052880_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052881" name="SETITEMNAME_18052881_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052882" name="SETITEMNAME_18052882_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052883" name="SETITEMNAME_18052883_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052884" name="SETITEMNAME_18052884_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052885" name="SETITEMNAME_18052885_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052886" name="SETITEMNAME_18052886_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052887" name="SETITEMNAME_18052887_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052888" name="SETITEMNAME_18052888_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052891" name="SETITEMNAME_18052891_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052892" name="SETITEMNAME_18052892_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052893" name="SETITEMNAME_18052893_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052894" name="SETITEMNAME_18052894_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052895" name="SETITEMNAME_18052895_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052896" name="SETITEMNAME_18052896_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18052897" name="SETITEMNAME_18052897_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061701" name="SETITEMNAME_18061701_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061702" name="SETITEMNAME_18061702_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061703" name="SETITEMNAME_18061703_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061704" name="SETITEMNAME_18061704_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061705" name="SETITEMNAME_18061705_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061706" name="SETITEMNAME_18061706_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061707" name="SETITEMNAME_18061707_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061708" name="SETITEMNAME_18061708_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061709" name="SETITEMNAME_18061709_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061710" name="SETITEMNAME_18061710_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061711" name="SETITEMNAME_18061711_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061712" name="SETITEMNAME_18061712_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061713" name="SETITEMNAME_18061713_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061714" name="SETITEMNAME_18061714_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061715" name="SETITEMNAME_18061715_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061716" name="SETITEMNAME_18061716_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061717" name="SETITEMNAME_18061717_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061718" name="SETITEMNAME_18061718_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061719" name="SETITEMNAME_18061719_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061720" name="SETITEMNAME_18061720_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061721" name="SETITEMNAME_18061721_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061722" name="SETITEMNAME_18061722_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061723" name="SETITEMNAME_18061723_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061724" name="SETITEMNAME_18061724_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061725" name="SETITEMNAME_18061725_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061726" name="SETITEMNAME_18061726_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061727" name="SETITEMNAME_18061727_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061728" name="SETITEMNAME_18061728_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061729" name="SETITEMNAME_18061729_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061730" name="SETITEMNAME_18061730_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061731" name="SETITEMNAME_18061731_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061732" name="SETITEMNAME_18061732_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061733" name="SETITEMNAME_18061733_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061734" name="SETITEMNAME_18061734_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061735" name="SETITEMNAME_18061735_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061736" name="SETITEMNAME_18061736_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061737" name="SETITEMNAME_18061737_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061738" name="SETITEMNAME_18061738_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061739" name="SETITEMNAME_18061739_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061740" name="SETITEMNAME_18061740_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061741" name="SETITEMNAME_18061741_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061742" name="SETITEMNAME_18061742_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061743" name="SETITEMNAME_18061743_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061744" name="SETITEMNAME_18061744_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061745" name="SETITEMNAME_18061745_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061746" name="SETITEMNAME_18061746_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061747" name="SETITEMNAME_18061747_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061748" name="SETITEMNAME_18061748_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061749" name="SETITEMNAME_18061749_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061750" name="SETITEMNAME_18061750_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061751" name="SETITEMNAME_18061751_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061752" name="SETITEMNAME_18061752_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061753" name="SETITEMNAME_18061753_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061754" name="SETITEMNAME_18061754_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061755" name="SETITEMNAME_18061755_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061756" name="SETITEMNAME_18061756_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061757" name="SETITEMNAME_18061757_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061758" name="SETITEMNAME_18061758_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061759" name="SETITEMNAME_18061759_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061760" name="SETITEMNAME_18061760_NAME:[F]Level60Item" feature="Level60Item" />
+  <key id="18061761" name="SETITEMNAME_18061761_NAME:[F]Level60Item" feature="Level60Item" />
+</ms2>
